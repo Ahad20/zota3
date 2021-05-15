@@ -1,0 +1,1685 @@
+# Copyright (C) 2021 mailchimp-for-wp
+# This file is distributed under the same license as the mailchimp-for-wp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: mailchimp-for-wp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-03 01:10+0000\n"
+"PO-Revision-Date: 2021-05-03 01:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: includes/class-dynamic-content-tags.php:27
+#, fuzzy
+msgid "Data from a cookie."
+msgstr "داده های یک کوکی."
+
+#: includes/class-dynamic-content-tags.php:33
+#, fuzzy
+msgid "The email address of the current visitor (if known)."
+msgstr "آدرس ایمیل بازدید کننده فعلی (در صورت مشخص بودن)."
+
+#: includes/class-dynamic-content-tags.php:38
+#, fuzzy
+msgid "The URL of the page."
+msgstr "URL صفحه."
+
+#: includes/class-dynamic-content-tags.php:43
+#, fuzzy
+msgid "The path of the page."
+msgstr "مسیر صفحه"
+
+#: includes/class-dynamic-content-tags.php:48
+#, fuzzy
+msgid "The current date. Example: %s."
+msgstr "تاریخ فعلی مثال ها."
+
+#: includes/class-dynamic-content-tags.php:53
+#, fuzzy
+msgid "The current time. Example: %s."
+msgstr "زمان فعلی مثال ها."
+
+#: includes/class-dynamic-content-tags.php:58
+#, fuzzy
+msgid "The site's language. Example: %s."
+msgstr "زبان سایت مثال ها."
+
+#: includes/class-dynamic-content-tags.php:63
+#, fuzzy
+msgid "The visitor's IP address. Example: %s."
+msgstr "آدرس IP بازدید کننده مثال ها."
+
+#: includes/class-dynamic-content-tags.php:68
+#, fuzzy
+msgid "The property of the currently logged-in user."
+msgstr "ویژگی کاربر در حال حاضر وارد شده"
+
+#: includes/class-dynamic-content-tags.php:74
+#, fuzzy
+msgid "Property of the current page or post."
+msgstr "ویژگی صفحه یا پست فعلی."
+
+#: includes/class-mailchimp.php:251, includes/forms/class-admin.php:82
+#, fuzzy
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: includes/admin/class-admin-texts.php:66,
+#: includes/forms/views/edit-form.php:6
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/admin/class-admin-texts.php:84
+#, fuzzy
+msgid "Documentation"
+msgstr "مستندات"
+
+#: includes/admin/class-admin.php:212
+#, fuzzy
+msgid ""
+"Success! The cached configuration for your Mailchimp lists has been renewed."
+msgstr ""
+"موفق باشید! پیکربندی ذخیره شده برای لیست های Mailchimp شما تمدید شده است."
+
+#: includes/admin/class-admin.php:301
+#, fuzzy
+msgid "The given value does not look like a valid Mailchimp API key."
+msgstr "مقدار داده شده مانند یک کلید معتبر Mailchimp API به نظر نمی رسد."
+
+#: includes/admin/class-admin.php:302
+#, fuzzy
+msgid ""
+"This is a premium feature. Please upgrade to Mailchimp for WordPress Premium "
+"to be able to use it."
+msgstr ""
+"این یک ویژگی برتر است. لطفاً برای WordPress Premium به Mailchimp ارتقا دهید "
+"تا بتوانید از آن استفاده کنید."
+
+#: includes/admin/class-admin.php:303,
+#: includes/views/parts/lists-overview.php:10,
+#: includes/forms/views/parts/add-fields-help.php:47
+#, fuzzy
+msgid "Renew Mailchimp lists"
+msgstr "لیست های Mailchimp را تمدید کنید"
+
+#: includes/admin/class-admin.php:304
+#, fuzzy
+msgid "Fetching Mailchimp lists"
+msgstr "واکشی لیست های Mailchimp"
+
+#: includes/admin/class-admin.php:305
+#, fuzzy
+msgid "Done! Mailchimp lists renewed."
+msgstr "انجام شده! لیست Mailchimp تمدید شد."
+
+#: includes/admin/class-admin.php:306
+#, fuzzy
+msgid "Failed to renew your lists. An error occured."
+msgstr "لیست های شما تمدید نشد. خطایی رخ داد"
+
+#: includes/admin/class-admin.php:334
+#, fuzzy
+msgid "Mailchimp API Settings"
+msgstr "تنظیمات API Mailchimp"
+
+#: includes/admin/class-admin.php:341, includes/views/other-settings.php:60,
+#: includes/views/other-settings.php:70
+#, fuzzy
+msgid "Other Settings"
+msgstr "تنظیمات دیگر"
+
+#: includes/admin/class-admin.php:342
+#, fuzzy
+msgid "Other"
+msgstr "دیگر"
+
+#: includes/admin/class-admin.php:420
+#, fuzzy
+msgid "Error connecting to Mailchimp:"
+msgstr "خطا در اتصال به Mailchimp:"
+
+#: includes/admin/class-admin.php:423
+#, fuzzy
+msgid ""
+"Looks like your server is blocked by Mailchimp's firewall. Please contact "
+"Mailchimp support and include the following reference number: %s"
+msgstr ""
+"به نظر می رسد سرور شما توسط فایروال Mailchimp مسدود شده است. لطفاً با "
+"پشتیبانی Mailchimp تماس بگیرید و شماره مرجع زیر را وارد کنید:٪ s"
+
+#: includes/admin/class-admin.php:426
+#, fuzzy
+msgid "Here's some info on solving common connectivity issues."
+msgstr "در اینجا اطلاعاتی در مورد حل مشکلات رایج اتصال وجود دارد."
+
+#: includes/admin/class-admin.php:431
+#, fuzzy
+msgid "Mailchimp returned the following error:"
+msgstr "Mailchimp خطای زیر را بازگرداند:"
+
+#: includes/admin/class-admin.php:470
+#, fuzzy
+msgid "Log successfully emptied."
+msgstr "ورود به سیستم با موفقیت خالی شد."
+
+#: includes/admin/class-admin.php:500
+#, fuzzy
+msgid ""
+"To get started with Mailchimp for WordPress, please <a href=\"%s\">enter "
+"your Mailchimp API key on the settings page of the plugin</a>."
+msgstr ""
+"برای شروع کار با Mailchimp برای وردپرس ، لطفاً <a href=\"%s\">کلید Mailchimp "
+"API خود را در صفحه تنظیمات افزونه وارد کنید</a> ."
+
+#: includes/admin/class-ads.php:37, includes/admin/class-ads.php:38
+#, fuzzy
+msgid "Add-ons"
+msgstr "افزودنیها"
+
+#: includes/admin/class-ads.php:54
+#, fuzzy
+msgid ""
+"Want to customize the style of your form? <a href=\"%s\">Try our Styles "
+"Builder</a> & edit the look of your forms with just a few clicks."
+msgstr ""
+"آیا می خواهید سبک فرم خود را سفارشی کنید؟ <a href=\"%s\">Styles Builder ما "
+"را امتحان کنید</a> و فقط با چند کلیک شکل فرم های خود را ویرایش کنید."
+
+#: includes/admin/class-ads.php:71
+#, fuzzy
+msgid ""
+"Increased conversions? <a href=\"%s\">Mailchimp for WordPress Premium</a> "
+"submits forms without reloading the entire page, resulting in a much better "
+"experience for your visitors."
+msgstr ""
+"افزایش تبدیل؟ <a href=\"%s\">Mailchimp برای وردپرس Premium</a> فرم ها را "
+"بدون بارگیری مجدد کل صفحه ارسال می کند ، در نتیجه تجربه بسیار بهتری برای "
+"بازدیدکنندگان شما به وجود می آورد."
+
+#: includes/admin/class-ads.php:69
+#, fuzzy
+msgid ""
+"Be notified whenever someone subscribes? <a href=\"%s\">Mailchimp for "
+"WordPress Premium</a> allows you to set up email notifications for your "
+"forms."
+msgstr ""
+"هر زمان کسی مشترک شد به شما اطلاع داده شود؟ <a href=\"%s\">Mailchimp for "
+"WordPress Premium</a> به شما امکان می دهد اطلاعیه های ایمیل را برای فرم های "
+"خود تنظیم کنید."
+
+#: includes/admin/class-ads.php:85
+#, fuzzy
+msgid "Upgrade to Premium"
+msgstr "ارتقا دادن به سطح حرفه ای"
+
+#: includes/admin/class-ads.php:97
+#, fuzzy
+msgid ""
+"Do you want translated forms for all of your languages? <a href=\"%s\">Try "
+"Mailchimp for WordPress Premium</a>, which does just that plus more."
+msgstr ""
+"آیا فرم های ترجمه شده برای همه زبان های خود می خواهید؟ <a href=\"%s\">"
+"Mailchimp را برای وردپرس Premium امتحان کنید</a> ، که فقط این کار را به "
+"علاوه کارهای دیگر انجام می دهد."
+
+#: includes/admin/class-ads.php:102
+#, fuzzy
+msgid ""
+"Do you want to create more than one form? Our Premium add-on does just that! "
+"<a href=\"%s\">Have a look at all Premium benefits</a>."
+msgstr ""
+"آیا می خواهید بیش از یک فرم ایجاد کنید؟ افزودنی Premium ما دقیقاً همین کار "
+"را می کند! <a href=\"%s\">نگاهی به تمام مزایای حق بیمه</a> ."
+
+#: includes/admin/class-ads.php:107
+#, fuzzy
+msgid ""
+"Are you enjoying this plugin? The Premium add-on unlocks several powerful "
+"features. <a href=\"%s\">Find out about all benefits now</a>."
+msgstr ""
+"آیا از این افزونه لذت می برید؟ افزونه Premium چندین ویژگی قدرتمند را باز می "
+"کند. <a href=\"%s\">اکنون از همه مزایا مطلع شوید</a> ."
+
+#: includes/admin/class-ads.php:125
+#, fuzzy
+msgid "More subscribers, better newsletters."
+msgstr "مشترکین بیشتر ، خبرنامه های بهتر."
+
+#: includes/admin/class-ads.php:126
+#, fuzzy
+msgid ""
+"Learn how to best grow your lists & write better emails by subscribing to "
+"our monthly tips."
+msgstr ""
+"بیاموزید چگونه با عضویت در نکات ماهانه ما لیست های خود را به بهترین شکل رشد "
+"دهید و ایمیل های بهتری بنویسید."
+
+#: includes/admin/class-ads.php:129
+#, fuzzy
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: includes/admin/class-ads.php:133
+#, fuzzy
+msgid "First Name"
+msgstr "نام کوچک"
+
+#: includes/admin/class-ads.php:140, includes/forms/class-admin.php:106
+#, fuzzy
+msgid "Subscribe"
+msgstr "اشتراک در"
+
+#: includes/admin/class-ads.php:163
+#, fuzzy
+msgid ""
+"Do you want to track all WooCommerce orders in Mailchimp so you can send "
+"emails based on the purchase activity of your subscribers?"
+msgstr ""
+"آیا می خواهید همه سفارشات WooCommerce را در Mailchimp ردیابی کنید تا بتوانید "
+"بر اساس فعالیت خرید مشترکان خود ایمیل ارسال کنید؟"
+
+#: includes/admin/class-ads.php:166
+#, fuzzy
+msgid ""
+"<a href=\"%1$s\">Upgrade to Mailchimp for WordPress Premium</a> or <a "
+"href=\"%2$s\">read more about Mailchimp's E-Commerce features</a>."
+msgstr ""
+"<a href=\"%1$s\">برای WordPress Premium به Mailchimp ارتقا دهید</a> یا <a "
+"href=\"%2$s\">درباره ویژگی های تجارت الکترونیکی Mailchimp بیشتر بخوانید</a> ."
+
+#: includes/admin/class-review-notice.php:69
+#, fuzzy
+msgid ""
+"You've been using Mailchimp for WordPress for some time now; we hope you "
+"love it!"
+msgstr ""
+"شما مدتی است که از Mailchimp برای وردپرس استفاده می کنید. ما امیدواریم که "
+"شما آن را دوست دارم!"
+
+#: includes/admin/class-review-notice.php:70
+#, fuzzy
+msgid ""
+"If you do, please <a href=\"%s\">leave us a 5★ rating on WordPress.org</a>. "
+"It would be of great help to us."
+msgstr ""
+"اگر چنین کردید ، لطفاً برای <a href=\"%s\">ما در WordPress.org امتیاز 5 a "
+"بگذارید</a> . کمک بزرگی به ما خواهد کرد."
+
+#: includes/admin/class-review-notice.php:72
+#, fuzzy
+msgid "Dismiss this notice."
+msgstr "این اخطار را رد کنید."
+
+#: includes/admin/class-usage-tracking.php:52
+#, fuzzy
+msgid "Once a month"
+msgstr "یکبار در ماه"
+
+#: includes/api/class-api.php:84
+#, fuzzy
+msgid "Read more about common connectivity issues."
+msgstr "در مورد مشکلات مشترک اتصال بیشتر بخوانید."
+
+#: includes/forms/class-admin.php:70
+#, fuzzy
+msgid "Add to form"
+msgstr "اضافه کردن به فرم"
+
+#: includes/forms/class-admin.php:71
+#, fuzzy
+msgid "I have read and agree to the terms & conditions"
+msgstr "من شرایط و ضوابط را خوانده و قبول دارم"
+
+#: includes/forms/class-admin.php:72
+#, fuzzy
+msgid "Agree to terms"
+msgstr "موافقت با شرایط"
+
+#: includes/forms/class-admin.php:73
+#, fuzzy
+msgid "Link to your terms & conditions page"
+msgstr "به صفحه شرایط و ضوابط خود پیوند دهید"
+
+#: includes/forms/class-admin.php:74
+#, fuzzy
+msgid "City"
+msgstr "شهر"
+
+#: includes/forms/class-admin.php:75
+#, fuzzy
+msgid "Checkboxes"
+msgstr "کادرهای تأیید"
+
+#: includes/forms/class-admin.php:76
+#, fuzzy
+msgid "Choices"
+msgstr "گزینه ها"
+
+#: includes/forms/class-admin.php:77
+#, fuzzy
+msgid "Choice type"
+msgstr "نوع انتخاب"
+
+#: includes/forms/class-admin.php:78
+#, fuzzy
+msgid "Choose a field to add to the form"
+msgstr "فیلدی را برای افزودن به فرم انتخاب کنید"
+
+#: includes/forms/class-admin.php:79
+#, fuzzy
+msgid "Close"
+msgstr "نزدیک"
+
+#: includes/forms/class-admin.php:80
+#, fuzzy
+msgid "Country"
+msgstr "کشور"
+
+#: includes/forms/class-admin.php:81
+#, fuzzy
+msgid "Dropdown"
+msgstr "کشویی"
+
+#: includes/forms/class-admin.php:83
+#, fuzzy
+msgid "Field type"
+msgstr "نوع فیلد"
+
+#: includes/forms/class-admin.php:84
+#, fuzzy
+msgid "Field label"
+msgstr "برچسب زمینه"
+
+#: includes/forms/class-admin.php:85
+#, fuzzy
+msgid "Form action"
+msgstr "اقدام فرم"
+
+#: includes/forms/class-admin.php:86
+#, fuzzy
+msgid ""
+"This field will allow your visitors to choose whether they would like to "
+"subscribe or unsubscribe"
+msgstr ""
+"این قسمت به بازدیدکنندگان شما این امکان را می دهد که آیا می خواهند مشترک "
+"شوند یا اشتراک خود را انتخاب کنند"
+
+#: includes/forms/class-admin.php:87
+#, fuzzy
+msgid "Form fields"
+msgstr "زمینه ها را تشکیل دهید"
+
+#: includes/forms/class-admin.php:88
+#, fuzzy
+msgid "This field is marked as required in Mailchimp."
+msgstr "این قسمت به عنوان مورد نیاز در Mailchimp علامت گذاری شده است."
+
+#: includes/forms/class-admin.php:89
+#, fuzzy
+msgid "Initial value"
+msgstr "مقدار اولیه"
+
+#: includes/forms/class-admin.php:90
+#, fuzzy
+msgid "Interest categories"
+msgstr "دسته های علاقه"
+
+#: includes/forms/class-admin.php:91
+#, fuzzy
+msgid "Is this field required?"
+msgstr "آیا این رشته مورد نیاز است؟"
+
+#: includes/forms/class-admin.php:92
+#, fuzzy
+msgid "List choice"
+msgstr "انتخاب لیست"
+
+#: includes/forms/class-admin.php:93
+#, fuzzy
+msgid "This field will allow your visitors to choose a list to subscribe to."
+msgstr ""
+"این قسمت به بازدیدکنندگان شما امکان می دهد لیستی را برای اشتراک در آن انتخاب "
+"کنند."
+
+#: includes/forms/class-admin.php:94
+#, fuzzy
+msgid "List fields"
+msgstr "فیلدها را لیست کنید"
+
+#: includes/forms/class-admin.php:95
+#, fuzzy
+msgid "Min"
+msgstr "حداقل"
+
+#: includes/forms/class-admin.php:96
+#, fuzzy
+msgid "Max"
+msgstr "حداکثر"
+
+#: includes/forms/class-admin.php:97
+#, fuzzy
+msgid ""
+"No available fields. Did you select a Mailchimp list in the form settings?"
+msgstr ""
+"هیچ فیلدی در دسترس نیست آیا لیست Mailchimp را در تنظیمات فرم انتخاب کرده اید؟"
+
+#: includes/forms/class-admin.php:98
+#, fuzzy
+msgid "Optional"
+msgstr "اختیاری"
+
+#: includes/forms/class-admin.php:99
+#, fuzzy
+msgid "Placeholder"
+msgstr "محل نگهدارنده"
+
+#: includes/forms/class-admin.php:100
+#, fuzzy
+msgid "Text to show when field has no value."
+msgstr "متن برای نشان دادن زمانی که فیلد هیچ ارزشی ندارد."
+
+#: includes/forms/class-admin.php:101
+#, fuzzy
+msgid "Preselect"
+msgstr "انتخاب مجدد"
+
+#: includes/forms/class-admin.php:102
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#: includes/forms/class-admin.php:103
+#, fuzzy
+msgid "Radio buttons"
+msgstr "دکمه های رادیو"
+
+#: includes/forms/class-admin.php:104
+#, fuzzy
+msgid "Street Address"
+msgstr "آدرس خیابان"
+
+#: includes/forms/class-admin.php:105
+#, fuzzy
+msgid "State"
+msgstr "دولت"
+
+#: includes/forms/class-admin.php:107
+#, fuzzy
+msgid "Submit button"
+msgstr "دکمه ارسال"
+
+#: includes/forms/class-admin.php:108
+#, fuzzy
+msgid "Wrap in paragraph tags?"
+msgstr "در برچسب های پاراگراف قرار می گیرد؟"
+
+#: includes/forms/class-admin.php:109
+#, fuzzy
+msgid "Value"
+msgstr "مقدار"
+
+#: includes/forms/class-admin.php:110
+#, fuzzy
+msgid "Text to prefill this field with."
+msgstr "متن را برای پر کردن این قسمت با."
+
+#: includes/forms/class-admin.php:111
+#, fuzzy
+msgid "ZIP"
+msgstr "ZIP"
+
+#: includes/forms/class-admin.php:123, includes/forms/views/edit-form.php:24
+#, fuzzy
+msgid "Forms"
+msgstr "تشکیل می دهد"
+
+#: includes/forms/class-admin.php:124, includes/forms/views/edit-form.php:26
+#, fuzzy
+msgid "Form"
+msgstr "فرم"
+
+#: includes/forms/class-admin.php:163, includes/forms/class-admin.php:284
+#, fuzzy
+msgid "Form saved."
+msgstr "فرم ذخیره شد"
+
+#: includes/forms/class-admin.php:393
+#, fuzzy
+msgid "Form not found."
+msgstr "فرم یافت نشد"
+
+#: includes/forms/class-admin.php:395
+#, fuzzy
+msgid "Go back"
+msgstr "برگرد"
+
+#: includes/forms/class-admin.php:458, includes/forms/class-widget.php:31
+#, fuzzy
+msgid "Mailchimp Sign-Up Form"
+msgstr "فرم ثبت نام Mailchimp"
+
+#: includes/forms/class-admin.php:462
+#, fuzzy
+msgid "Select the form to show"
+msgstr "فرم را برای نمایش انتخاب کنید"
+
+#: includes/forms/class-form-amp.php:33
+#, fuzzy
+msgid "Submitting..."
+msgstr "در حال ارسال ..."
+
+#: includes/forms/class-form-element.php:82
+#, fuzzy
+msgid "Leave this field empty if you're human:"
+msgstr "اگر انسان هستید این قسمت را خالی بگذارید:"
+
+#: includes/forms/class-form-manager.php:151
+#, fuzzy
+msgid "Resource does not exist."
+msgstr "منبع وجود ندارد"
+
+#: includes/forms/class-form-tags.php:34
+#, fuzzy
+msgid "Replaced with the form response (error or success messages)."
+msgstr "با پاسخ فرم (پیام های خطا یا موفقیت) جایگزین شده است."
+
+#: includes/forms/class-form-tags.php:39
+#, fuzzy
+msgid "Data from the URL or a submitted form."
+msgstr "داده ها از URL یا فرم ارسالی."
+
+#: includes/forms/class-form-tags.php:45,
+#: includes/integrations/class-integration-tags.php:30
+#, fuzzy
+msgid "Replaced with the number of subscribers on the selected list(s)"
+msgstr "با تعداد مشترکین در لیست (های) انتخاب شده جایگزین شده است"
+
+#: includes/forms/class-form.php:26
+#, fuzzy
+msgid "There is no form with ID %d, perhaps it was deleted?"
+msgstr "هیچ فرم با شناسه٪ d وجود ندارد ، ممکن است حذف شود؟"
+
+#: includes/forms/class-google-recaptcha.php:167
+#, fuzzy
+msgid "Enable Google reCaptcha"
+msgstr "reCaptcha Google را فعال کنید"
+
+#: includes/forms/class-google-recaptcha.php:169,
+#: includes/views/other-settings.php:21,
+#: includes/integrations/views/integration-settings.php:66,
+#: includes/integrations/views/integration-settings.php:90,
+#: includes/integrations/views/integration-settings.php:177,
+#: includes/integrations/views/integration-settings.php:201,
+#: includes/integrations/views/integration-settings.php:218,
+#: includes/integrations/views/integration-settings.php:241,
+#: includes/integrations/views/integration-settings.php:266,
+#: includes/forms/views/tabs/form-settings.php:51,
+#: includes/forms/views/tabs/form-settings.php:66,
+#: includes/forms/views/tabs/form-settings.php:87,
+#: includes/forms/views/tabs/form-settings.php:135
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#: includes/forms/class-google-recaptcha.php:171,
+#: includes/views/other-settings.php:25,
+#: includes/integrations/views/integration-settings.php:67,
+#: includes/integrations/views/integration-settings.php:91,
+#: includes/integrations/views/integration-settings.php:178,
+#: includes/integrations/views/integration-settings.php:202,
+#: includes/integrations/views/integration-settings.php:222,
+#: includes/integrations/views/integration-settings.php:245,
+#: includes/integrations/views/integration-settings.php:270,
+#: includes/forms/views/tabs/form-settings.php:55,
+#: includes/forms/views/tabs/form-settings.php:70,
+#: includes/forms/views/tabs/form-settings.php:91,
+#: includes/forms/views/tabs/form-settings.php:139
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#: includes/forms/class-google-recaptcha.php:173
+#, fuzzy
+msgid ""
+"Select \"yes\" to enable Google reCAPTCHA spam protection for this form."
+msgstr ""
+"برای فعال کردن محافظت در برابر هرزنامه Google reCAPTCHA ، \"بله\" را انتخاب "
+"کنید."
+
+#: includes/forms/class-google-recaptcha.php:184
+#, fuzzy
+msgid "Google reCAPTCHA Site Key"
+msgstr "Google reCAPTCHA کلید سایت"
+
+#: includes/forms/class-google-recaptcha.php:188
+#, fuzzy
+msgid ""
+"Enter your Google reCAPTCHA keys here. You can <a href=\"%1$s\">retrieve "
+"your keys in the Google reCAPTCHA admin console</a> or read our help article "
+"on <a href=\"%2$s\">how to configure Google reCAPTCHA</a>."
+msgstr ""
+"کلیدهای reCAPTCHA Google خود را اینجا وارد کنید. می توانید <a href=\"%1$s\">"
+"کلیدهای خود را در کنسول سرپرست Google reCAPTCHA بازیابی کنید</a> یا مقاله "
+"راهنمای ما را در مورد <a href=\"%2$s\">نحوه پیکربندی Google reCAPTCHA</a> "
+"بخوانید."
+
+#: includes/forms/class-google-recaptcha.php:199
+#, fuzzy
+msgid "Google reCAPTCHA Secret Key"
+msgstr "کلید مخفی Google reCAPTCHA"
+
+#: includes/forms/class-widget.php:27
+#, fuzzy
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#: includes/forms/class-widget.php:33
+#, fuzzy
+msgid "Displays your Mailchimp for WordPress sign-up form"
+msgstr "فرم ثبت نام Mailchimp خود را برای وردپرس نمایش می دهد"
+
+#: includes/forms/class-widget.php:79
+#, fuzzy
+msgid "Title:"
+msgstr "عنوان:"
+
+#: includes/forms/class-widget.php:96
+#, fuzzy
+msgid ""
+"You can edit your sign-up form in the <a href=\"%s\">Mailchimp for WordPress "
+"form settings</a>."
+msgstr ""
+"می توانید فرم ثبت نام خود را در <a href=\"%s\">تنظیمات فرم Mailchimp برای "
+"وردپرس</a> ویرایش کنید."
+
+#: includes/integrations/class-admin.php:73,
+#: includes/integrations/class-admin.php:74,
+#: includes/integrations/views/integration-settings.php:10,
+#: includes/integrations/views/integrations.php:101,
+#: includes/integrations/views/integrations.php:109,
+#: includes/integrations/views/integrations.php:123
+#, fuzzy
+msgid "Integrations"
+msgstr "ادغام ها"
+
+#: includes/integrations/class-integration.php:69
+#, fuzzy
+msgid "Sign me up for the newsletter!"
+msgstr "من را برای خبرنامه ثبت نام کن!"
+
+#: includes/views/general-settings.php:7, includes/views/other-settings.php:58,
+#: includes/forms/views/edit-form.php:22,
+#: includes/integrations/views/integration-settings.php:8,
+#: includes/integrations/views/integrations.php:99
+#, fuzzy
+msgid "You are here: "
+msgstr "تو اینجایی:"
+
+#: includes/views/general-settings.php:18
+#, fuzzy
+msgid "API Settings"
+msgstr "تنظیمات API"
+
+#: includes/views/general-settings.php:34,
+#: includes/integrations/views/integrations.php:62
+#, fuzzy
+msgid "Status"
+msgstr "وضعیت"
+
+#: includes/views/general-settings.php:44
+#, fuzzy
+msgid "NOT CONNECTED"
+msgstr "متصل نیست"
+
+#: includes/views/general-settings.php:40
+#, fuzzy
+msgid "CONNECTED"
+msgstr "متصل"
+
+#: includes/views/general-settings.php:53
+#, fuzzy
+msgid "API Key"
+msgstr "کلید ای پی ای"
+
+#: includes/views/general-settings.php:55
+#, fuzzy
+msgid "Your Mailchimp API key"
+msgstr "کلید API Mailchimp شما"
+
+#: includes/views/general-settings.php:57
+#, fuzzy
+msgid "The API key for connecting with your Mailchimp account."
+msgstr "کلید API برای اتصال با حساب Mailchimp شما."
+
+#: includes/views/general-settings.php:58
+#, fuzzy
+msgid "Get your API key here."
+msgstr "کلید API خود را از اینجا دریافت کنید."
+
+#: includes/views/general-settings.php:63
+#, fuzzy
+msgid ""
+"You defined your Mailchimp API key using the <code>MC4WP_API_KEY</code> "
+"constant."
+msgstr ""
+"شما کلید Mailchimp API خود را با استفاده از ثابت <code> MC4WP_API_KEY </code>"
+" تعریف کردید."
+
+#: includes/views/other-settings.php:14
+#, fuzzy
+msgid "Miscellaneous settings"
+msgstr "تنظیمات متفرقه"
+
+#: includes/views/other-settings.php:17
+#, fuzzy
+msgid "Usage Tracking"
+msgstr "ردیابی کاربرد"
+
+#: includes/views/other-settings.php:29
+#, fuzzy
+msgid ""
+"Allow us to anonymously track how this plugin is used to help us make it "
+"better fit your needs."
+msgstr ""
+"به ما اجازه دهید ناشناس نحوه استفاده از این افزونه را بیابیم تا به ما کمک "
+"کند متناسب با نیازهای شما باشد."
+
+#: includes/views/other-settings.php:31
+#, fuzzy
+msgid "This is what we track."
+msgstr "این همان چیزی است که ما ردیابی می کنیم."
+
+#: includes/views/other-settings.php:37
+#, fuzzy
+msgid "Logging"
+msgstr "ورود به سیستم"
+
+#: includes/views/other-settings.php:40
+#, fuzzy
+msgid "Errors & warnings only"
+msgstr "فقط خطاها و هشدارها"
+
+#: includes/views/other-settings.php:41
+#, fuzzy
+msgid "Everything"
+msgstr "همه چيز"
+
+#: includes/views/other-settings.php:44
+#, fuzzy
+msgid ""
+"Determines what events should be written to <a href=\"%s\">the debug log</a> "
+"(see below)."
+msgstr ""
+"مشخص می کند چه رویدادهایی باید <a href=\"%s\">در گزارش اشکال زدایی</a> نوشته "
+"شوند (به زیر مراجعه کنید)."
+
+#: includes/views/other-settings.php:99
+#, fuzzy
+msgid "Debug Log"
+msgstr "ورود به سیستم اشکال زدایی"
+
+#: includes/views/other-settings.php:99
+#, fuzzy
+msgid "Filter.."
+msgstr "فیلتر .."
+
+#: includes/views/other-settings.php:126
+#, fuzzy
+msgid "Nothing here. Which means there are no errors!"
+msgstr "هیچ چیز در اینجا. یعنی هیچ خطایی وجود ندارد!"
+
+#: includes/views/other-settings.php:135
+#, fuzzy
+msgid "Empty Log"
+msgstr "ورود به سیستم خالی"
+
+#: includes/views/other-settings.php:104
+#, fuzzy
+msgid "Log file is not writable."
+msgstr "پرونده ورود به سیستم قابل نوشتن نیست."
+
+#: includes/views/other-settings.php:105
+#, fuzzy
+msgid ""
+"Please ensure %1$s has the proper <a href=\"%2$s\">file permissions</a>."
+msgstr ""
+"لطفاً اطمینان حاصل کنید که٪ 1 $ s از <a href=\"%2$s\">مجوزهای پرونده</a> "
+"مناسب برخوردار است."
+
+#: includes/views/other-settings.php:143
+#, fuzzy
+msgid "Right now, the plugin is configured to only log errors and warnings."
+msgstr ""
+"در حال حاضر ، این افزونه فقط برای ورود به سیستم خطاها و هشدارها پیکربندی شده "
+"است."
+
+#: includes/admin/migrations/3.0.0-form-1-post-type.php:35
+#, fuzzy
+msgid "Default sign-up form"
+msgstr "فرم ثبت نام پیش فرض"
+
+#: includes/forms/views/add-form.php:10, includes/forms/views/add-form.php:70
+#, fuzzy
+msgid "Add new form"
+msgstr "فرم جدیدی اضافه کنید"
+
+#: includes/forms/views/add-form.php:27
+#, fuzzy
+msgid "What is the name of this form?"
+msgstr "نام این فرم چیست؟"
+
+#: includes/forms/views/add-form.php:30
+#, fuzzy
+msgid "Enter your form title.."
+msgstr "عنوان فرم خود را وارد کنید .."
+
+#: includes/forms/views/add-form.php:37
+#, fuzzy
+msgid "To which Mailchimp lists should this form subscribe?"
+msgstr "این فرم باید در کدام لیست های Mailchimp مشترک شود؟"
+
+#: includes/forms/views/add-form.php:62
+#, fuzzy
+msgid "No lists found. Did you <a href=\"%s\">connect with Mailchimp</a>?"
+msgstr ""
+"هیچ لیستی پیدا نشد آیا <a href=\"%s\">با Mailchimp ارتباط برقرار</a> کردید؟"
+
+#: includes/forms/views/edit-form.php:4
+#, fuzzy
+msgid "Fields"
+msgstr "زمینه های"
+
+#: includes/forms/views/edit-form.php:5
+#, fuzzy
+msgid "Messages"
+msgstr "پیام ها"
+
+#: includes/forms/views/edit-form.php:7
+#, fuzzy
+msgid "Appearance"
+msgstr "ظاهر"
+
+#: includes/forms/views/edit-form.php:36
+#, fuzzy
+msgid "Edit Form"
+msgstr "فرم را ویرایش کنید"
+
+#: includes/forms/views/edit-form.php:61
+#, fuzzy
+msgid "Enter form title here"
+msgstr "عنوان فرم را اینجا وارد کنید"
+
+#: includes/forms/views/edit-form.php:65
+#, fuzzy
+msgid "Enter the title of your sign-up form"
+msgstr "عنوان فرم ثبت نام خود را وارد کنید"
+
+#: includes/forms/views/edit-form.php:69,
+#: includes/forms/views/tabs/form-fields.php:40
+#, fuzzy
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text widget."
+msgstr ""
+"از کد کوتاه٪ s برای نمایش این فرم در داخل ابزارک پست ، صفحه یا متن استفاده "
+"کنید."
+
+#: includes/integrations/views/integration-settings.php:20
+#, fuzzy
+msgid "%s integration"
+msgstr "ادغام٪ s"
+
+#: includes/integrations/views/integration-settings.php:27
+#, fuzzy
+msgid ""
+"The selected Mailchimp lists require non-default fields, which may prevent "
+"this integration from working."
+msgstr ""
+"لیست های Mailchimp انتخاب شده به فیلدهای غیر پیش فرض نیاز دارند ، که ممکن "
+"است مانع کار این ادغام شود."
+
+#: includes/integrations/views/integration-settings.php:28
+#, fuzzy
+msgid ""
+"Please ensure you <a href=\"%1$s\">configure the plugin to send all required "
+"fields</a> or <a href=\"%2$s\">log into your Mailchimp account</a> and make "
+"sure only the email & name fields are marked as required fields for the "
+"selected list(s)."
+msgstr ""
+"لطفاً اطمینان حاصل کنید <a href=\"%1$s\">که پلاگین را برای ارسال همه قسمتهای "
+"مورد نیاز پیکربندی کرده</a> یا <a href=\"%2$s\">به حساب Mailchimp خود وارد "
+"شوید</a> و مطمئن شوید که فقط قسمتهای ایمیل و نام به عنوان فیلدهای مورد نیاز "
+"لیست (های) انتخاب شده علامت گذاری شده اند."
+
+#: includes/integrations/views/integration-settings.php:64
+#, fuzzy
+msgid "Enabled?"
+msgstr "فعال شد؟"
+
+#: includes/integrations/views/integration-settings.php:68
+#, fuzzy
+msgid ""
+"Enable the %s integration? This will add a sign-up checkbox to the form."
+msgstr "ادغام٪ s را فعال کنید؟ این یک کادر تأیید ثبت نام به فرم اضافه می کند."
+
+#: includes/integrations/views/integration-settings.php:88
+#, fuzzy
+msgid "Implicit?"
+msgstr "ضمنی؟"
+
+#: includes/integrations/views/integration-settings.php:91,
+#: includes/integrations/views/integration-settings.php:178
+#, fuzzy
+msgid "(recommended)"
+msgstr "(توصیه شده)"
+
+#: includes/integrations/views/integration-settings.php:95
+#, fuzzy
+msgid ""
+"Select \"yes\" if you want to subscribe people without asking them "
+"explicitly."
+msgstr ""
+"اگر می خواهید بدون اینکه صریحاً از آنها س askingال کنید ، \"بله\" را انتخاب "
+"کنید."
+
+#: includes/integrations/views/integration-settings.php:100,
+#: includes/integrations/views/integration-settings.php:183
+#, fuzzy
+msgid ""
+"<strong>Warning: </strong> enabling this may affect your <a href=\"%s\">GDPR "
+"compliance</a>."
+msgstr ""
+"<strong>هشدار:</strong> فعال کردن این امر ممکن است بر <a href=\"%s\">انطباق "
+"با GDPR</a> شما تأثیر بگذارد."
+
+#: includes/integrations/views/integration-settings.php:122
+#, fuzzy
+msgid "Mailchimp Lists"
+msgstr "لیست های Mailchimp"
+
+#: includes/integrations/views/integration-settings.php:140,
+#: includes/forms/views/tabs/form-settings.php:20
+#, fuzzy
+msgid "No lists found, <a href=\"%s\">are you connected to Mailchimp</a>?"
+msgstr "هیچ لیستی پیدا نشد ، <a href=\"%s\">آیا به Mailchimp متصل</a> هستید؟"
+
+#: includes/integrations/views/integration-settings.php:136
+#, fuzzy
+msgid ""
+"Select the list(s) to which people who check the checkbox should be "
+"subscribed."
+msgstr ""
+"لیستی (ها) را انتخاب کنید که افرادی که کادر تأیید را انتخاب می کنند باید در "
+"آن مشترک شوند."
+
+#: includes/integrations/views/integration-settings.php:156
+#, fuzzy
+msgid "Checkbox label text"
+msgstr "متن برچسب کادر تأیید"
+
+#: includes/integrations/views/integration-settings.php:159
+#, fuzzy
+msgid "HTML tags like %s are allowed in the label text."
+msgstr "برچسب های HTML مانند٪ s در متن برچسب مجاز هستند."
+
+#: includes/integrations/views/integration-settings.php:175
+#, fuzzy
+msgid "Pre-check the checkbox?"
+msgstr "کادر تأیید را از قبل علامت بزنید؟"
+
+#: includes/integrations/views/integration-settings.php:181
+#, fuzzy
+msgid "Select \"yes\" if the checkbox should be pre-checked."
+msgstr "اگر کادر تأیید باید از قبل انتخاب شود ، \"بله\" را انتخاب کنید."
+
+#: includes/integrations/views/integration-settings.php:199
+#, fuzzy
+msgid "Load some default CSS?"
+msgstr "چند CSS پیش فرض بارگیری می شود؟"
+
+#: includes/integrations/views/integration-settings.php:203
+#, fuzzy
+msgid "Select \"yes\" if the checkbox appears in a weird place."
+msgstr "اگر کادر تأیید در مکان عجیبی ظاهر شود ، \"بله\" را انتخاب کنید."
+
+#: includes/integrations/views/integration-settings.php:214
+#, fuzzy
+msgid "Double opt-in?"
+msgstr "دوبار شرکت کردن؟"
+
+#: includes/integrations/views/integration-settings.php:225
+#, fuzzy
+msgid ""
+"Select \"yes\" if you want people to confirm their email address before "
+"being subscribed (recommended)"
+msgstr ""
+"اگر می خواهید افراد آدرس ایمیل خود را قبل از مشترک شدن تأیید کنند ، \"بله\" "
+"را انتخاب کنید"
+
+#: includes/integrations/views/integration-settings.php:237,
+#: includes/forms/views/tabs/form-settings.php:62
+#, fuzzy
+msgid "Update existing subscribers?"
+msgstr "مشترکین موجود را به روز کنید؟"
+
+#: includes/integrations/views/integration-settings.php:247,
+#: includes/forms/views/tabs/form-settings.php:72
+#, fuzzy
+msgid ""
+"Select \"yes\" if you want to update existing subscribers with the data that "
+"is sent."
+msgstr ""
+"اگر می خواهید مشترکان موجود را با داده های ارسالی به روز کنید ، \"بله\" را "
+"انتخاب کنید."
+
+#: includes/integrations/views/integration-settings.php:262,
+#: includes/forms/views/tabs/form-settings.php:83
+#, fuzzy
+msgid "Replace interest groups?"
+msgstr "گروه های علاقه جایگزین شوند؟"
+
+#: includes/integrations/views/integration-settings.php:273,
+#: includes/forms/views/tabs/form-settings.php:94
+#, fuzzy
+msgid ""
+"Select \"no\" if you want to add the selected interests to any previously "
+"selected interests when updating a subscriber."
+msgstr ""
+"اگر می خواهید هنگام به روزرسانی مشترک ، علایق انتخاب شده را به علایق انتخاب "
+"شده قبلی اضافه کنید ، \"نه\" را انتخاب کنید."
+
+#: includes/integrations/views/integration-settings.php:274,
+#: includes/forms/views/tabs/form-settings.php:95
+#, fuzzy
+msgid "What does this do?"
+msgstr "این چه کاری انجام می دهد؟"
+
+#: includes/integrations/views/integrations.php:20
+#, fuzzy
+msgid "Configure this integration"
+msgstr "این یکپارچه سازی را پیکربندی کنید"
+
+#: includes/integrations/views/integrations.php:40
+#, fuzzy
+msgid "Not installed"
+msgstr "نصب نشده"
+
+#: includes/integrations/views/integrations.php:38
+#, fuzzy
+msgid "Inactive"
+msgstr "غیر فعال"
+
+#: includes/integrations/views/integrations.php:36
+#, fuzzy
+msgid "Active"
+msgstr "فعال"
+
+#: includes/integrations/views/integrations.php:60
+#, fuzzy
+msgid "Name"
+msgstr "نام"
+
+#: includes/integrations/views/integrations.php:61
+#, fuzzy
+msgid "Description"
+msgstr "شرح"
+
+#: includes/integrations/views/integrations.php:115
+#, fuzzy
+msgid "The table below shows all available integrations."
+msgstr "جدول زیر تمام ادغام های موجود را نشان می دهد."
+
+#: includes/integrations/views/integrations.php:116
+#, fuzzy
+msgid ""
+"Click on the name of an integration to edit all settings specific to that "
+"integration."
+msgstr ""
+"بر روی نام یکپارچه سازی کلیک کنید تا تمام تنظیمات خاص آن ادغام ویرایش شود."
+
+#: includes/integrations/views/integrations.php:126
+#, fuzzy
+msgid ""
+"Greyed out integrations will become available after installing & activating "
+"the corresponding plugin."
+msgstr ""
+"یکپارچه سازی های خاکستری پس از نصب و فعال سازی افزونه مربوطه در دسترس خواهد "
+"بود."
+
+#. translators: %s links to the WordPress.org translation project
+#: includes/views/parts/admin-footer.php:13
+#, fuzzy
+msgid ""
+"Mailchimp for WordPress is in need of translations. Is the plugin not "
+"translated in your language or do you spot errors with the current "
+"translations? Helping out is easy! Please <a href=\"%s\">help translate the "
+"plugin using your WordPress.org account</a>."
+msgstr ""
+"Mailchimp برای وردپرس نیاز به ترجمه دارد. آیا این افزونه به زبان شما ترجمه "
+"نشده است یا با ترجمه های فعلی خطایی مشاهده می کنید؟ کمک کردن آسان است! لطفاً "
+"<a href=\"%s\">با استفاده از حساب WordPress.org خود در ترجمه افزونه کمک "
+"کنید</a> ."
+
+#: includes/views/parts/admin-footer.php:31
+#, fuzzy
+msgid ""
+"This plugin is not developed by or affiliated with Mailchimp in any way."
+msgstr "این افزونه به هیچ وجه توسط Mailchimp ساخته یا وابسته نیست."
+
+#: includes/views/parts/admin-sidebar.php:11
+#, fuzzy
+msgid "Looking for help?"
+msgstr "به دنبال کمک هستید؟"
+
+#: includes/views/parts/admin-sidebar.php:12
+#, fuzzy
+msgid "We have some resources available to help you in the right direction."
+msgstr "ما برخی منابع در دسترس داریم تا در مسیر درست به شما کمک کنیم."
+
+#: includes/views/parts/admin-sidebar.php:14
+#, fuzzy
+msgid "Knowledge Base"
+msgstr "دانش محور"
+
+#: includes/views/parts/admin-sidebar.php:15
+#, fuzzy
+msgid "Frequently Asked Questions"
+msgstr "سوالات متداول"
+
+#: includes/views/parts/admin-sidebar.php:17
+#, fuzzy
+msgid ""
+"If your answer can not be found in the resources listed above, please use "
+"the <a href=\"%s\">support forums on WordPress.org</a>."
+msgstr ""
+"اگر پاسخ شما در منابع ذکر شده در بالا یافت نشد ، لطفاً از <a href=\"%s\">"
+"انجمن های پشتیبانی در WordPress.org استفاده کنید</a> ."
+
+#: includes/views/parts/admin-sidebar.php:18
+#, fuzzy
+msgid "Found a bug? Please <a href=\"%s\">open an issue on GitHub</a>."
+msgstr ""
+"اشکالی پیدا کردید؟ لطفاً <a href=\"%s\">یک موضوع را در GitHub باز کنید</a> ."
+
+#: includes/views/parts/admin-sidebar.php:28
+#, fuzzy
+msgid "Other plugins by ibericode"
+msgstr "سایر افزونه های ibericode"
+
+#: includes/views/parts/admin-sidebar.php:34
+#, fuzzy
+msgid ""
+"Privacy-friendly analytics plugin that does not use any external services."
+msgstr "افزونه تجزیه و تحلیل حریم خصوصی که از هیچ سرویس خارجی استفاده نمی کند."
+
+#: includes/views/parts/admin-sidebar.php:40
+#, fuzzy
+msgid ""
+"Pop-ups or boxes that slide-in with a newsletter sign-up form. A sure-fire "
+"way to grow your email lists."
+msgstr ""
+"پنجره های بازشو یا جعبه هایی که با فرم ثبت نام خبرنامه به صورت کشویی در می "
+"آیند. روشی مطمئن برای رشد لیست های ایمیل خود."
+
+#: includes/views/parts/admin-sidebar.php:46
+#, fuzzy
+msgid ""
+"Super flexible forms using native HTML. Just like Mailchimp for WordPress "
+"forms but for other purposes, like a contact form."
+msgstr ""
+"فرم های فوق العاده انعطاف پذیر با استفاده از HTML بومی. درست مانند Mailchimp "
+"برای فرم های وردپرس اما برای اهداف دیگر ، مانند فرم تماس."
+
+#: includes/views/parts/lists-overview.php:1
+#, fuzzy
+msgid "Your Mailchimp Account"
+msgstr "حساب Mailchimp شما"
+
+#: includes/views/parts/lists-overview.php:2
+#, fuzzy
+msgid ""
+"The table below shows your Mailchimp lists and their details. If you just "
+"applied changes to your Mailchimp lists, please use the following button to "
+"renew the cached lists configuration."
+msgstr ""
+"جدول زیر لیست های Mailchimp و جزئیات آنها را نشان می دهد. اگر فقط تغییراتی "
+"را در لیست های Mailchimp خود اعمال کرده اید ، لطفاً برای تمدید پیکربندی لیست "
+"های ذخیره شده از دکمه زیر استفاده کنید."
+
+#: includes/views/parts/lists-overview.php:22
+#, fuzzy
+msgid "A total of %d lists were found in your Mailchimp account."
+msgstr "در کل٪ d لیست در حساب Mailchimp شما پیدا شد."
+
+#: includes/views/parts/lists-overview.php:27
+#, fuzzy
+msgid "List Name"
+msgstr "نام لیست"
+
+#: includes/views/parts/lists-overview.php:28
+#, fuzzy
+msgid "ID"
+msgstr "شناسه"
+
+#: includes/views/parts/lists-overview.php:29
+#, fuzzy
+msgid "Subscribers"
+msgstr "مشترکین"
+
+#: includes/views/parts/lists-overview.php:49
+#, fuzzy
+msgid "Edit this list in Mailchimp"
+msgstr "این لیست را در Mailchimp ویرایش کنید"
+
+#: includes/views/parts/lists-overview.php:50
+#, fuzzy
+msgid "Loading... Please wait."
+msgstr "در حال بارگذاری لطفا صبر کنید."
+
+#: includes/views/parts/lists-overview.php:19
+#, fuzzy
+msgid "No lists were found in your Mailchimp account"
+msgstr "هیچ لیست در حساب Mailchimp شما یافت نشد"
+
+#: includes/forms/views/parts/add-fields-help.php:4,
+#: includes/forms/views/tabs/form-fields.php:10
+#, fuzzy
+msgid "Add more fields"
+msgstr "قسمتهای بیشتری اضافه کنید"
+
+#: includes/forms/views/parts/add-fields-help.php:9
+#, fuzzy
+msgid ""
+"To add more fields to your form, you will need to create those fields in "
+"Mailchimp first."
+msgstr ""
+"برای افزودن فیلدهای بیشتر به فرم خود ، ابتدا باید این زمینه ها را در "
+"Mailchimp ایجاد کنید."
+
+#: includes/forms/views/parts/add-fields-help.php:12
+#, fuzzy
+msgid "Here's how:"
+msgstr "نحوه کار:"
+
+#: includes/forms/views/parts/add-fields-help.php:17
+#, fuzzy
+msgid "Log in to your Mailchimp account."
+msgstr "وارد حساب Mailchimp خود شوید."
+
+#: includes/forms/views/parts/add-fields-help.php:22
+#, fuzzy
+msgid "Add list fields to any of your selected lists."
+msgstr "قسمت های لیست را به هر یک از لیست های انتخاب شده خود اضافه کنید."
+
+#: includes/forms/views/parts/add-fields-help.php:23
+#, fuzzy
+msgid "Clicking the following links will take you to the right screen."
+msgstr "با کلیک بر روی پیوندهای زیر ، به صفحه مناسبی منتقل می شوید."
+
+#: includes/forms/views/parts/add-fields-help.php:31
+#, fuzzy
+msgid "Edit list fields for"
+msgstr "قسمتهای لیست را برای ویرایش کنید"
+
+#: includes/forms/views/parts/add-fields-help.php:42
+#, fuzzy
+msgid ""
+"Click the following button to have Mailchimp for WordPress pick up on your "
+"changes."
+msgstr ""
+"روی دکمه زیر کلیک کنید تا Mailchimp برای وردپرس تغییرات شما را انتخاب کند."
+
+#: includes/forms/views/parts/dynamic-content-tags.php:6
+#, fuzzy
+msgid "Add dynamic form variable"
+msgstr "متغیر فرم پویا را اضافه کنید"
+
+#: includes/forms/views/parts/dynamic-content-tags.php:8
+#, fuzzy
+msgid ""
+"The following list of variables can be used to <a href=\"%s\">add some "
+"dynamic content to your form or success and error messages</a>."
+msgstr ""
+"از لیست متغیرهای زیر می توان برای <a href=\"%s\">افزودن محتوای پویا به فرم "
+"یا پیام های موفقیت و خطا استفاده کرد</a> ."
+
+#: includes/forms/views/parts/dynamic-content-tags.php:8
+#, fuzzy
+msgid "This allows you to personalise your form or response messages."
+msgstr "با این کار می توانید فرم یا پیام های پاسخ خود را شخصی سازی کنید."
+
+#: includes/forms/views/tabs/form-appearance.php:5
+#, fuzzy
+msgid "Inherit from %s theme"
+msgstr "از موضوع٪ s ارث ببرید"
+
+#: includes/forms/views/tabs/form-appearance.php:6
+#, fuzzy
+msgid "Basic"
+msgstr "پایه ای"
+
+#: includes/forms/views/tabs/form-appearance.php:8
+#, fuzzy
+msgid "Light Theme"
+msgstr "تم سبک"
+
+#: includes/forms/views/tabs/form-appearance.php:9
+#, fuzzy
+msgid "Dark Theme"
+msgstr "تم تاریک"
+
+#: includes/forms/views/tabs/form-appearance.php:10
+#, fuzzy
+msgid "Red Theme"
+msgstr "تم قرمز"
+
+#: includes/forms/views/tabs/form-appearance.php:11
+#, fuzzy
+msgid "Green Theme"
+msgstr "تم سبز"
+
+#: includes/forms/views/tabs/form-appearance.php:12
+#, fuzzy
+msgid "Blue Theme"
+msgstr "تم آبی"
+
+#: includes/forms/views/tabs/form-appearance.php:25
+#, fuzzy
+msgid "Form Appearance"
+msgstr "شکل ظاهری"
+
+#: includes/forms/views/tabs/form-appearance.php:29
+#, fuzzy
+msgid "Form Style"
+msgstr "سبک فرم"
+
+#: includes/forms/views/tabs/form-appearance.php:50
+#, fuzzy
+msgid ""
+"If you want to load some default CSS styles, select \"basic formatting "
+"styles\" or choose one of the color themes"
+msgstr ""
+"اگر می خواهید برخی از سبک های پیش فرض CSS را بارگیری کنید ، \"سبک های اصلی "
+"قالب بندی\" را انتخاب کنید یا یکی از تم های رنگی را انتخاب کنید"
+
+#: includes/forms/views/tabs/form-fields.php:6
+#, fuzzy
+msgid "Form variables"
+msgstr "متغیرهای فرم"
+
+#: includes/forms/views/tabs/form-fields.php:13
+#, fuzzy
+msgid "Form Fields"
+msgstr "قسمتهای فرم"
+
+#: includes/forms/views/tabs/form-fields.php:20
+#, fuzzy
+msgid "Form code"
+msgstr "کد فرم"
+
+#: includes/forms/views/tabs/form-fields.php:22
+#, fuzzy
+msgid "Enter the HTML code for your form fields.."
+msgstr "کد HTML را برای قسمتهای فرم خود وارد کنید .."
+
+#: includes/forms/views/tabs/form-fields.php:26
+#, fuzzy
+msgid "Form preview"
+msgstr "پیش نمایش فرم"
+
+#: includes/forms/views/tabs/form-fields.php:27
+#, fuzzy
+msgid ""
+"The form may look slightly different than this when shown in a post, page or "
+"widget area."
+msgstr ""
+"فرم ممکن است در صورت نمایش در یک پست ، صفحه یا یک ابزارک ، کمی متفاوت از این "
+"باشد."
+
+#: includes/forms/views/tabs/form-messages.php:6
+#, fuzzy
+msgid "Form Messages"
+msgstr "پیامها را فرم دهید"
+
+#: includes/forms/views/tabs/form-messages.php:16
+#, fuzzy
+msgid "Successfully subscribed"
+msgstr "با موفقیت مشترک شدید"
+
+#: includes/forms/views/tabs/form-messages.php:19
+#, fuzzy
+msgid ""
+"The text that shows when an email address is successfully subscribed to the "
+"selected list(s)."
+msgstr ""
+"متنی که نشان می دهد وقتی آدرس ایمیل با موفقیت در لیست (های) انتخاب شده مشترک "
+"می شود."
+
+#: includes/forms/views/tabs/form-messages.php:23
+#, fuzzy
+msgid "Invalid email address"
+msgstr "آدرس ایمیل نامعتبر است"
+
+#: includes/forms/views/tabs/form-messages.php:26
+#, fuzzy
+msgid "The text that shows when an invalid email address is given."
+msgstr "متنی که هنگام ارائه آدرس ایمیل نامعتبر نشان داده می شود."
+
+#: includes/forms/views/tabs/form-messages.php:30
+#, fuzzy
+msgid "Required field missing"
+msgstr "قسمت مورد نیاز موجود نیست"
+
+#: includes/forms/views/tabs/form-messages.php:33
+#, fuzzy
+msgid ""
+"The text that shows when a required field for the selected list(s) is "
+"missing."
+msgstr ""
+"متنی که نشان می دهد فیلد لازم برای لیست (های) انتخاب شده از بین رفته است."
+
+#: includes/forms/views/tabs/form-messages.php:37
+#, fuzzy
+msgid "Already subscribed"
+msgstr "قبلاً مشترک شده اید"
+
+#: includes/forms/views/tabs/form-messages.php:40
+#, fuzzy
+msgid ""
+"The text that shows when the given email is already subscribed to the "
+"selected list(s)."
+msgstr ""
+"متنی که نشان می دهد وقتی ایمیل داده شده قبلاً در لیست (های) انتخاب شده مشترک "
+"شده است."
+
+#: includes/forms/views/tabs/form-messages.php:44
+#, fuzzy
+msgid "General error"
+msgstr "خطای کلی"
+
+#: includes/forms/views/tabs/form-messages.php:47
+#, fuzzy
+msgid "The text that shows when a general error occured."
+msgstr "متنی که زمان وقوع یک خطای کلی را نشان می دهد."
+
+#: includes/forms/views/tabs/form-messages.php:51
+#, fuzzy
+msgid "Unsubscribed"
+msgstr "لغو اشتراک"
+
+#: includes/forms/views/tabs/form-messages.php:54
+#, fuzzy
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is successfully unsubscribed from the selected list(s)."
+msgstr ""
+"هنگام استفاده از روش لغو اشتراک ، این متنی است که نشان می دهد وقتی آدرس "
+"ایمیل داده شده با موفقیت از لیست (های) انتخاب شده لغو اشتراک می شود."
+
+#: includes/forms/views/tabs/form-messages.php:58
+#, fuzzy
+msgid "Not subscribed"
+msgstr "مشترک نشده است"
+
+#: includes/forms/views/tabs/form-messages.php:61
+#, fuzzy
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is not on the selected list(s)."
+msgstr ""
+"هنگام استفاده از روش لغو اشتراک ، این متنی است که آدرس ایمیل داده شده در "
+"لیست (های) انتخاب شده وجود ندارد."
+
+#: includes/forms/views/tabs/form-messages.php:65
+#, fuzzy
+msgid "No list selected"
+msgstr "هیچ لیستی انتخاب نشده است"
+
+#: includes/forms/views/tabs/form-messages.php:68
+#, fuzzy
+msgid ""
+"When offering a list choice, this is the text that shows when no lists were "
+"selected."
+msgstr ""
+"هنگام ارائه انتخاب لیست ، این متنی است که نشان می دهد چه زمانی لیستی انتخاب "
+"نشده است."
+
+#: includes/forms/views/tabs/form-messages.php:79
+#, fuzzy
+msgid "Updated"
+msgstr "به روز شده"
+
+#: includes/forms/views/tabs/form-messages.php:82
+#, fuzzy
+msgid "The text that shows when an existing subscriber is updated."
+msgstr "متنی که به روزرسانی مشترک موجود را نشان می دهد."
+
+#: includes/forms/views/tabs/form-messages.php:94
+#, fuzzy
+msgid "HTML tags like %s are allowed in the message fields."
+msgstr "برچسب های HTML مانند٪ s در قسمت های پیام مجاز هستند."
+
+#: includes/forms/views/tabs/form-settings.php:1
+#, fuzzy
+msgid "Form Settings"
+msgstr "تنظیمات فرم"
+
+#: includes/forms/views/tabs/form-settings.php:5
+#, fuzzy
+msgid "Mailchimp specific settings"
+msgstr "تنظیمات خاص Mailchimp"
+
+#: includes/forms/views/tabs/form-settings.php:15
+#, fuzzy
+msgid "Lists this form subscribes to"
+msgstr "این فرم را در لیست مشترکین قرار می دهد"
+
+#: includes/forms/views/tabs/form-settings.php:39
+#, fuzzy
+msgid ""
+"Select the list(s) to which people who submit this form should be subscribed."
+msgstr ""
+"لیستی (ها) را انتخاب کنید که افرادی که این فرم را ارسال می کنند باید در آن "
+"مشترک شوند."
+
+#: includes/forms/views/tabs/form-settings.php:47
+#, fuzzy
+msgid "Use double opt-in?"
+msgstr "از انتخاب مضاعف استفاده می شود؟"
+
+#: includes/forms/views/tabs/form-settings.php:54
+#, fuzzy
+msgid "Are you sure you want to disable double opt-in?"
+msgstr "آیا مطمئن هستید که می خواهید انتخاب مجدد دوگانه را غیرفعال کنید؟"
+
+#: includes/forms/views/tabs/form-settings.php:57
+#, fuzzy
+msgid ""
+"We strongly suggest keeping double opt-in enabled. Disabling double opt-in "
+"may affect your GDPR compliance."
+msgstr ""
+"ما اکیداً پیشنهاد می کنیم که امکان انتخاب دوگانه وجود داشته باشد. غیرفعال "
+"کردن انتخاب مضاعف ممکن است بر انطباق با GDPR شما تأثیر بگذارد."
+
+#: includes/forms/views/tabs/form-settings.php:101
+#, fuzzy
+msgid "Subscriber tags"
+msgstr "برچسب های مشترک"
+
+#: includes/forms/views/tabs/form-settings.php:103
+#, fuzzy
+msgid "Example: My tag, another tag"
+msgstr "مثال: برچسب من ، برچسب دیگری"
+
+#: includes/forms/views/tabs/form-settings.php:105
+#, fuzzy
+msgid ""
+"The listed tags will be applied to all subscribers added or updated by this "
+"form."
+msgstr ""
+"برچسب های ذکر شده برای همه مشترکانی که با این فرم اضافه یا به روز می شوند "
+"اعمال می شود."
+
+#: includes/forms/views/tabs/form-settings.php:106
+#, fuzzy
+msgid "Separate multiple values with a comma."
+msgstr "چند مقدار را با کاما جدا کنید."
+
+#: includes/forms/views/tabs/form-settings.php:121
+#, fuzzy
+msgid "Form behaviour"
+msgstr "رفتار فرم"
+
+#: includes/forms/views/tabs/form-settings.php:131
+#, fuzzy
+msgid "Hide form after a successful sign-up?"
+msgstr "فرم را پس از ثبت نام موفقیت آمیز مخفی کنید؟"
+
+#: includes/forms/views/tabs/form-settings.php:142
+#, fuzzy
+msgid "Select \"yes\" to hide the form fields after a successful sign-up."
+msgstr ""
+"\"بله\" را انتخاب کنید تا قسمتهای فرم پس از ثبت نام موفقیت آمیز پنهان شود."
+
+#: includes/forms/views/tabs/form-settings.php:147
+#, fuzzy
+msgid "Redirect to URL after successful sign-ups"
+msgstr "پس از ثبت نام موفقیت آمیز ، به URL هدایت شوید"
+
+#: includes/forms/views/tabs/form-settings.php:149
+#, fuzzy
+msgid "Example: %s"
+msgstr "مثال ها"
+
+#: includes/forms/views/tabs/form-settings.php:151
+#, fuzzy
+msgid ""
+"Leave empty or enter <code>0</code> for no redirect. Otherwise, use complete "
+"(absolute) URLs, including <code>http://</code>."
+msgstr ""
+"خالی بگذارید یا <code> 0 </code> را وارد کنید تا بدون هدایت مجدد انجام شود. "
+"در غیر این صورت ، از URL های کامل (مطلق) ، از جمله <code> http: // </code> "
+"استفاده کنید."
+
+#: includes/forms/views/tabs/form-settings.php:154
+#, fuzzy
+msgid ""
+"Your \"subscribed\" message will not show when redirecting to another page, "
+"so make sure to let your visitors know they were successfully subscribed."
+msgstr ""
+"پیام \"مشترک شده\" شما هنگام هدایت به صفحه دیگری نشان داده نمی شود ، "
+"بنابراین حتماً به بازدیدکنندگان خود اطلاع دهید که با موفقیت مشترک شدند."

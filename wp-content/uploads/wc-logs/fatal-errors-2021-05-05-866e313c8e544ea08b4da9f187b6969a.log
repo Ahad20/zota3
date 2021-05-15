@@ -1,0 +1,162 @@
+2021-05-05T06:51:57+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:02+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:07+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:11+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:12+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:17+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:17+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:23+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:52:28+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:53:26+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:53:38+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T06:59:05+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T07:04:43+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T07:28:16+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T07:30:51+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T07:37:53+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T07:37:55+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+
+2021-05-05T07:37:58+00:00 CRITICAL Uncaught Error: Call to a member function get_type() on bool in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php:87
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wvg_disable_for_specific_product_type(false)
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters(false, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\functions.php(138): apply_filters('disable_woo_var...', false)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(294): wvg_gallery_template_part_override('C:\\Users\\ahad21...', 'content')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(212): WP_Hook->apply_filters('C:\\Users\\ahad21...', Array)
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(281): apply_filters('wc_get_template...' در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\woo-variation-gallery\includes\hooks.php روی خط 87
+

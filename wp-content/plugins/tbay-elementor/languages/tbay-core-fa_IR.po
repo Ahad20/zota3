@@ -1,0 +1,1542 @@
+# Copyright (C) 2016 Thembay Elementor
+# This file is distributed under the same license as the Thembay Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Thembay Elementor\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tbay-elementor\n"
+"POT-Creation-Date: 2019-08-28 15:31+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: فارسی\n"
+"PO-Revision-Date: 2021-05-09 09:36+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_html_e;esc_html__\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: classes/class-tbay-megamenu.php:56
+#, fuzzy, php-format
+msgid "%s (Invalid)"
+msgstr "٪ s (نامعتبر)"
+
+#: classes/class-tbay-megamenu.php:60
+#, fuzzy, php-format
+msgid "%s (Pending)"
+msgstr "٪ s (در انتظار)"
+
+#: classes/class-tbay-megamenu.php:101
+#, fuzzy
+msgid "Edit Menu Item"
+msgstr "ویرایش مورد منو"
+
+#: classes/class-tbay-megamenu.php:110
+#, fuzzy
+msgid "URL"
+msgstr "آدرس اینترنتی"
+
+#: classes/class-tbay-megamenu.php:117
+#, fuzzy
+msgid "Navigation Label"
+msgstr "برچسب پیمایش"
+
+#: classes/class-tbay-megamenu.php:123
+#, fuzzy
+msgid "Title Attribute"
+msgstr "صفت عنوان"
+
+#: classes/class-tbay-megamenu.php:130
+#, fuzzy
+msgid "Open link in a new window/tab"
+msgstr "پیوند را در یک پنجره / برگه جدید باز کنید"
+
+#: classes/class-tbay-megamenu.php:135
+#, fuzzy
+msgid "CSS Classes (optional)"
+msgstr "کلاسهای CSS (اختیاری)"
+
+#: classes/class-tbay-megamenu.php:141
+#, fuzzy
+msgid "Link Relationship (XFN)"
+msgstr "رابطه پیوند (XFN)"
+
+#: classes/class-tbay-megamenu.php:147
+#, fuzzy
+msgid "Description"
+msgstr "شرح"
+
+#: classes/class-tbay-megamenu.php:149
+#, fuzzy
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "اگر موضوع فعلی آن را پشتیبانی کند ، توضیحات در منو نمایش داده می شود."
+
+#: classes/class-tbay-megamenu.php:171
+#, fuzzy, php-format
+msgid "Original: %s"
+msgstr "اصلی:٪ s"
+
+#: classes/class-tbay-megamenu.php:184
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#: classes/class-tbay-megamenu.php:185
+#, fuzzy
+msgid "Cancel"
+msgstr "لغو"
+
+#: classes/post-types/brand.php:25
+#, fuzzy
+msgid "Tbay Brand"
+msgstr "مارک Tbay"
+
+#: classes/post-types/brand.php:26
+#, fuzzy
+msgid "Brand"
+msgstr "نام تجاری"
+
+#: classes/post-types/brand.php:27 classes/post-types/brand.php:28
+#, fuzzy
+msgid "Add New Brand"
+msgstr "مارک جدید اضافه کنید"
+
+#: classes/post-types/brand.php:29
+#, fuzzy
+msgid "Edit Brand"
+msgstr "مارک را ویرایش کنید"
+
+#: classes/post-types/brand.php:30
+#, fuzzy
+msgid "New Brand"
+msgstr "مارک جدید"
+
+#: classes/post-types/brand.php:31
+#, fuzzy
+msgid "All Brands"
+msgstr "همه مارک ها"
+
+#: classes/post-types/brand.php:32
+#, fuzzy
+msgid "View Brand"
+msgstr "مشاهده مارک"
+
+#: classes/post-types/brand.php:33
+#, fuzzy
+msgid "Search Brand"
+msgstr "مارک جستجو"
+
+#: classes/post-types/brand.php:34
+#, fuzzy
+msgid "No Brands found"
+msgstr "مارکی یافت نشد"
+
+#: classes/post-types/brand.php:35
+#, fuzzy
+msgid "No Brands found in Trash"
+msgstr "هیچ مارکی در سطل زباله یافت نشد"
+
+#: classes/post-types/brand.php:37
+#, fuzzy
+msgid "Tbay Brands"
+msgstr "مارک های Tbay"
+
+#: classes/post-types/brand.php:89
+#, fuzzy
+msgid "Brand Information"
+msgstr "اطلاعات برند"
+
+#: classes/post-types/brand.php:105
+#, fuzzy
+msgid "Brand Link"
+msgstr "لینک مارک"
+
+#: classes/post-types/customtab.php:30 classes/post-types/customtab.php:42
+#, fuzzy
+msgid "Tbay Custom Tabs"
+msgstr "زبانه های سفارشی Tbay"
+
+#: classes/post-types/customtab.php:31
+#, fuzzy
+msgid "Custom Tab"
+msgstr "برگه سفارشی"
+
+#: classes/post-types/customtab.php:32 classes/post-types/customtab.php:33
+#, fuzzy
+msgid "Add New Custom Tab"
+msgstr "افزودن برگه سفارشی جدید"
+
+#: classes/post-types/customtab.php:34
+#, fuzzy
+msgid "Edit Custom Tab"
+msgstr "برگه سفارشی را ویرایش کنید"
+
+#: classes/post-types/customtab.php:35
+#, fuzzy
+msgid "New Custom Tab"
+msgstr "برگه سفارشی جدید"
+
+#: classes/post-types/customtab.php:36
+#, fuzzy
+msgid "All Custom Tabs"
+msgstr "همه برگه های سفارشی"
+
+#: classes/post-types/customtab.php:37
+#, fuzzy
+msgid "View Custom Tab"
+msgstr "مشاهده تب سفارشی"
+
+#: classes/post-types/customtab.php:38
+#, fuzzy
+msgid "Search Custom Tab"
+msgstr "برگه سفارشی را جستجو کنید"
+
+#: classes/post-types/customtab.php:39
+#, fuzzy
+msgid "No Custom Tabs found"
+msgstr "هیچ برگه سفارشی پیدا نشد"
+
+#: classes/post-types/customtab.php:40
+#, fuzzy
+msgid "No Custom Tabs found in Trash"
+msgstr "هیچ زبانه سفارشی در حذف شده ها یافت نشد"
+
+#: classes/post-types/customtab.php:93 classes/post-types/customtab.php:103
+#, fuzzy
+msgid "Custom Tab Categories"
+msgstr "دسته های تب سفارشی"
+
+#: classes/post-types/customtab.php:94
+#, fuzzy
+msgid "Custom Tab Category"
+msgstr "دسته برگه های سفارشی"
+
+#: classes/post-types/customtab.php:95
+#, fuzzy
+msgid "Search Custom Tab Categories"
+msgstr "جستجوی دسته های تب سفارشی"
+
+#: classes/post-types/customtab.php:96
+#, fuzzy
+msgid "All Custom Tab Categories"
+msgstr "همه دسته های تب سفارشی"
+
+#: classes/post-types/customtab.php:97
+#, fuzzy
+msgid "Parent Custom Tab Category"
+msgstr "دسته برگه های سفارشی والدین"
+
+#: classes/post-types/customtab.php:98
+#, fuzzy
+msgid "Parent Custom Tab Category:"
+msgstr "دسته برگه های سفارشی والدین:"
+
+#: classes/post-types/customtab.php:99
+#, fuzzy
+msgid "Edit Custom Tab Category"
+msgstr "دسته برگه سفارشی را ویرایش کنید"
+
+#: classes/post-types/customtab.php:100
+#, fuzzy
+msgid "Update Custom Tab Category"
+msgstr "دسته برگه سفارشی را به روز کنید"
+
+#: classes/post-types/customtab.php:101
+#, fuzzy
+msgid "Add New Custom Tab Category"
+msgstr "دسته جدید برگه سفارشی را اضافه کنید"
+
+#: classes/post-types/customtab.php:102
+#, fuzzy
+msgid "New Custom Tab Category"
+msgstr "دسته برگه سفارشی جدید"
+
+#: classes/post-types/customtab.php:110
+#, fuzzy
+msgid "Custom Tab-category"
+msgstr "دسته بندی سفارشی"
+
+#: classes/post-types/footer.php:25
+#, fuzzy
+msgid "Tbay Footer"
+msgstr "پاورقی Tbay"
+
+#: classes/post-types/footer.php:26
+#, fuzzy
+msgid "Footer"
+msgstr "پاورقی"
+
+#: classes/post-types/footer.php:27 classes/post-types/footer.php:28
+#, fuzzy
+msgid "Add New Footer"
+msgstr "افزودن پاورقی جدید"
+
+#: classes/post-types/footer.php:29
+#, fuzzy
+msgid "Edit Footer"
+msgstr "ویرایش پاورقی"
+
+#: classes/post-types/footer.php:30
+#, fuzzy
+msgid "New Footer"
+msgstr "پاورقی جدید"
+
+#: classes/post-types/footer.php:31
+#, fuzzy
+msgid "All Footers"
+msgstr "همه پاورقی ها"
+
+#: classes/post-types/footer.php:32
+#, fuzzy
+msgid "View Footer"
+msgstr "مشاهده پاورقی"
+
+#: classes/post-types/footer.php:33
+#, fuzzy
+msgid "Search Footer"
+msgstr "جستجوی پاورقی"
+
+#: classes/post-types/footer.php:34
+#, fuzzy
+msgid "No Footers found"
+msgstr "هیچ پاورقی پیدا نشد"
+
+#: classes/post-types/footer.php:35
+#, fuzzy
+msgid "No Footers found in Trash"
+msgstr "هیچ پاورقی در سطل زباله یافت نشد"
+
+#: classes/post-types/footer.php:37
+#, fuzzy
+msgid "Tbay Footers"
+msgstr "پاورقی های Tbay"
+
+#: classes/post-types/megamenu.php:34 classes/post-types/megamenu.php:46
+#, fuzzy
+msgid "Tbay Megamenu"
+msgstr "تبا مگامنو"
+
+#: classes/post-types/megamenu.php:35
+#, fuzzy
+msgid "Megamenu"
+msgstr "مگامنو"
+
+#: classes/post-types/megamenu.php:36 classes/post-types/megamenu.php:37
+#, fuzzy
+msgid "Add New Megamenu"
+msgstr "Megamenu جدید اضافه کنید"
+
+#: classes/post-types/megamenu.php:38
+#, fuzzy
+msgid "Edit Megamenu"
+msgstr "Megamenu را ویرایش کنید"
+
+#: classes/post-types/megamenu.php:39
+#, fuzzy
+msgid "New Megamenu"
+msgstr "مگامنو جدید"
+
+#: classes/post-types/megamenu.php:40
+#, fuzzy
+msgid "All Megamenus"
+msgstr "همه مگامنوس"
+
+#: classes/post-types/megamenu.php:41
+#, fuzzy
+msgid "View Megamenu"
+msgstr "Megamenu را مشاهده کنید"
+
+#: classes/post-types/megamenu.php:42
+#, fuzzy
+msgid "Search Megamenu"
+msgstr "Megamenu را جستجو کنید"
+
+#: classes/post-types/megamenu.php:43
+#, fuzzy
+msgid "No Megamenus found"
+msgstr "هیچ Megamenus پیدا نشد"
+
+#: classes/post-types/megamenu.php:44
+#, fuzzy
+msgid "No Megamenus found in Trash"
+msgstr "هیچ Megamenus در سطل زباله یافت نشد"
+
+#: classes/post-types/megamenu.php:111
+#, fuzzy
+msgid "Icon Font (Awesome):"
+msgstr "قلم نماد (عالی):"
+
+#: classes/post-types/megamenu.php:115
+#, fuzzy, php-format
+msgid ""
+"This support display icon from <a href=\"%s\" target=\"_blank\">"
+"FontAwsome</a> and <a href=\"%s\" target=\"_blank\">Material Design "
+"Iconic</a> and <a href=\"%s\" target=\"_blank\">Linearicons</a> and <a "
+"href=\"%s\" target=\"_blank\">simple line icons</a> .    <a href=\"%s\" "
+"target=\"_blank\">How to use?</a>"
+msgstr ""
+"این نماد نمایش پشتیبانی از <a href=\"%s\" target=\"_blank\">FontAwsome</a> و "
+"<a href=\"%s\" target=\"_blank\">Material Design Iconic</a> و <a href=\"%s\" "
+"target=\"_blank\">Linearicons</a> و <a href=\"%s\" target=\"_blank\">نمادهای "
+"ساده خط</a> . <a href=\"%s\" target=\"_blank\">چگونه استفاده کنیم؟</a>"
+
+#: classes/post-types/megamenu.php:118
+#, fuzzy
+msgid "Icon Image:"
+msgstr "تصویر نماد:"
+
+#: classes/post-types/megamenu.php:129
+#, fuzzy
+msgid "You can use Icon Font or Icon Image"
+msgstr "می توانید از Icon Font یا Icon Image استفاده کنید"
+
+#: classes/post-types/megamenu.php:134
+#, fuzzy
+msgid "Megamenu Profile"
+msgstr "مشخصات Megamenu"
+
+#: classes/post-types/megamenu.php:136
+#, fuzzy
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: classes/post-types/megamenu.php:143
+#, fuzzy
+msgid "Sub Megamenu Management"
+msgstr "مدیریت زیر Megamenu"
+
+#: classes/post-types/megamenu.php:144
+#, fuzzy
+msgid "If enabled megamenu, its submenu will be disabled"
+msgstr "اگر megamenu فعال باشد ، زیر منوی آن غیرفعال می شود"
+
+#: classes/post-types/megamenu.php:148
+#, fuzzy
+msgid "Width:"
+msgstr "عرض:"
+
+#: classes/post-types/megamenu.php:155
+#, fuzzy
+msgid "Left"
+msgstr "ترک کرد"
+
+#: classes/post-types/megamenu.php:156
+#, fuzzy
+msgid "Right"
+msgstr "درست"
+
+#: classes/post-types/megamenu.php:157
+#, fuzzy
+msgid "Fullwidth"
+msgstr "تمام عرض"
+
+#: classes/post-types/megamenu.php:161
+#, fuzzy
+msgid "Alignment:"
+msgstr "هم ترازی:"
+
+#: classes/post-types/megamenu.php:182
+#, fuzzy
+msgid "Label"
+msgstr "برچسب"
+
+#: classes/post-types/megamenu.php:184
+#, fuzzy
+msgid "None"
+msgstr "هیچ یک"
+
+#: classes/post-types/megamenu.php:185
+#, fuzzy
+msgid "New"
+msgstr "جدید"
+
+#: classes/post-types/megamenu.php:186
+#, fuzzy
+msgid "Hot"
+msgstr "داغ"
+
+#: classes/post-types/megamenu.php:187
+#, fuzzy
+msgid "Featured"
+msgstr "ویژه"
+
+#: classes/post-types/testimonial.php:25
+#, fuzzy
+msgid "Tbay Testimonial"
+msgstr "Tbay Testimonial"
+
+#: classes/post-types/testimonial.php:26
+#, fuzzy
+msgid "Testimonial"
+msgstr "گواهی نامه"
+
+#: classes/post-types/testimonial.php:27 classes/post-types/testimonial.php:28
+#, fuzzy
+msgid "Add New Testimonial"
+msgstr "افزودن گواهی جدید"
+
+#: classes/post-types/testimonial.php:29
+#, fuzzy
+msgid "Edit Testimonial"
+msgstr "ویرایش توصیف نامه"
+
+#: classes/post-types/testimonial.php:30
+#, fuzzy
+msgid "New Testimonial"
+msgstr "شهادت نامه جدید"
+
+#: classes/post-types/testimonial.php:31
+#, fuzzy
+msgid "All Testimonials"
+msgstr "همه توصیفات"
+
+#: classes/post-types/testimonial.php:32
+#, fuzzy
+msgid "View Testimonial"
+msgstr "مشاهده توصیفات"
+
+#: classes/post-types/testimonial.php:33
+#, fuzzy
+msgid "Search Testimonial"
+msgstr "جستجوی گواهی"
+
+#: classes/post-types/testimonial.php:34
+#, fuzzy
+msgid "No Testimonials found"
+msgstr "هیچ توصیفی یافت نشد"
+
+#: classes/post-types/testimonial.php:35
+#, fuzzy
+msgid "No Testimonials found in Trash"
+msgstr "هیچ توصیفی در سطل زباله یافت نشد"
+
+#: classes/post-types/testimonial.php:37
+#, fuzzy
+msgid "Tbay Testimonials"
+msgstr "توصیفات Tbay"
+
+#: classes/post-types/testimonial.php:89
+#, fuzzy
+msgid "Testimonial Information"
+msgstr "اطلاعات شهادتین"
+
+#: classes/post-types/testimonial.php:105
+#, fuzzy
+msgid "Job"
+msgstr "کار"
+
+#: classes/post-types/testimonial.php:108
+#, fuzzy
+msgid "Enter Job example CEO, CTO"
+msgstr "به عنوان مثال مدیر عامل ، CTO را وارد کنید"
+
+#: classes/post-types/testimonial.php:111
+#, fuzzy
+msgid "Testimonial Link"
+msgstr "پیوند شهادتین"
+
+#: classes/widgets/facebook_like.php:7
+#, fuzzy
+msgid "Tbay Facebook Like Box"
+msgstr "Tbay Facebook Like Box"
+
+#: classes/widgets/facebook_like.php:8
+#, fuzzy
+msgid "Adds support for Facebook Like Box. "
+msgstr "پشتیبانی از Facebook Like Box را اضافه می کند."
+
+#: classes/widgets/instagram.php:7
+#, fuzzy
+msgid "Tbay Instagram"
+msgstr "اینستاگرام Tbay"
+
+#: classes/widgets/instagram.php:8
+#, fuzzy
+msgid "Show instagram"
+msgstr "نمایش اینستاگرام"
+
+#: classes/widgets/instagram.php:32
+#, fuzzy
+msgid "Style 1"
+msgstr "سبک 1"
+
+#: classes/widgets/instagram.php:36 classes/widgets/twitter.php:57
+#, fuzzy
+msgid "Title:"
+msgstr "عنوان:"
+
+#: classes/widgets/instagram.php:40
+#, fuzzy
+msgid "Username:"
+msgstr "نام کاربری:"
+
+#: classes/widgets/instagram.php:44
+#, fuzzy
+msgid "Number:"
+msgstr "عدد:"
+
+#: classes/widgets/instagram.php:47
+#, fuzzy
+msgid "Photo size"
+msgstr "اندازه عکس"
+
+#: classes/widgets/instagram.php:49
+#, fuzzy
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+#: classes/widgets/instagram.php:50
+#, fuzzy
+msgid "Small"
+msgstr "کم اهمیت"
+
+#: classes/widgets/instagram.php:51
+#, fuzzy
+msgid "Large"
+msgstr "بزرگ"
+
+#: classes/widgets/instagram.php:52
+#, fuzzy
+msgid "Original"
+msgstr "اصلی"
+
+#: classes/widgets/instagram.php:55
+#, fuzzy
+msgid "Open links in"
+msgstr "باز کردن پیوندها در"
+
+#: classes/widgets/instagram.php:57
+#, fuzzy
+msgid "Current window (_self)"
+msgstr "پنجره فعلی (_ خود)"
+
+#: classes/widgets/instagram.php:58
+#, fuzzy
+msgid "New window (_blank)"
+msgstr "پنجره جدید (_ خالی)"
+
+#: classes/widgets/instagram.php:61
+#, fuzzy
+msgid "Style"
+msgstr "سبک"
+
+#: classes/widgets/instagram.php:69
+#, fuzzy
+msgid "Columns:"
+msgstr "ستون ها:"
+
+#: classes/widgets/twitter.php:8
+#, fuzzy
+msgid "Tbay Latest Twitter"
+msgstr "Tbay آخرین توییتر"
+
+#: classes/widgets/twitter.php:9
+#, fuzzy
+msgid "Latest Twitter widget."
+msgstr "آخرین ویجت توییتر."
+
+#: classes/widgets/twitter.php:34
+#, fuzzy
+msgid "Latest tweets."
+msgstr "آخرین توییت ها."
+
+#: classes/widgets/twitter.php:52
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#: classes/widgets/twitter.php:53
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#: classes/widgets/twitter.php:61
+#, fuzzy
+msgid "Twitter Username:"
+msgstr "نام کاربری توییتر:"
+
+#: classes/widgets/twitter.php:65
+#, fuzzy
+msgid "Limit:"
+msgstr "حد:"
+
+#: classes/widgets/twitter.php:69
+#, fuzzy
+msgid "Twitter Id:"
+msgstr "شناسه توییتر:"
+
+#: classes/widgets/twitter.php:73
+#, fuzzy
+msgid "Border Color:"
+msgstr "رنگ لبه:"
+
+#: classes/widgets/twitter.php:78
+#, fuzzy
+msgid "Link Color:"
+msgstr "رنگ پیوند:"
+
+#: classes/widgets/twitter.php:83
+#, fuzzy
+msgid "Text Color:"
+msgstr "رنگ متن:"
+
+#: classes/widgets/twitter.php:88
+#, fuzzy
+msgid "Name Color:"
+msgstr "نام رنگ:"
+
+#: classes/widgets/twitter.php:93
+#, fuzzy
+msgid "Show background"
+msgstr "نمایش پس زمینه"
+
+#: classes/widgets/twitter.php:102
+#, fuzzy
+msgid "Show Replies"
+msgstr "نمایش پاسخ ها"
+
+#: classes/widgets/twitter.php:111
+#, fuzzy
+msgid "Show Header"
+msgstr "نمایش سربرگ"
+
+#: classes/widgets/twitter.php:120
+#, fuzzy
+msgid "Show Footer"
+msgstr "نمایش پاورقی"
+
+#: classes/widgets/twitter.php:129
+#, fuzzy
+msgid "Show Border"
+msgstr "نمایش حاشیه"
+
+#: classes/widgets/twitter.php:138
+#, fuzzy
+msgid "Show Scrollbar"
+msgstr "نمایش نوار پیمایش"
+
+#: functions-preset.php:112
+#, fuzzy
+msgid "Preset Manager"
+msgstr "مدیر از پیش تعیین شده"
+
+#: functions-preset.php:115
+#, fuzzy
+msgid "Current preset default: "
+msgstr "پیش فرض از پیش تعیین شده فعلی:"
+
+#: functions-preset.php:117
+#, fuzzy
+msgid "Create a new preset"
+msgstr "از پیش تعیین شده جدیدی ایجاد کنید"
+
+#: functions-preset.php:118
+#, fuzzy
+msgid "Add new"
+msgstr "جدید اضافه کن"
+
+#: functions-preset.php:122
+#, fuzzy
+msgid "Set default preset"
+msgstr "از پیش تعیین شده پیش فرض را تنظیم کنید"
+
+#: functions-preset.php:125
+#, fuzzy
+msgid "Default"
+msgstr "پیش فرض"
+
+#: functions-preset.php:130
+#, fuzzy
+msgid "Set Default"
+msgstr "مجموعه پیش فرض"
+
+#: functions-preset.php:131
+#, fuzzy
+msgid "Duplicate"
+msgstr "کپی کنید"
+
+#: functions-preset.php:132
+#, fuzzy
+msgid "Delete Preset"
+msgstr "از پیش تعیین شده را حذف کنید"
+
+#: functions-preset.php:133
+#, fuzzy
+msgid "Key:"
+msgstr "کلید:"
+
+#: functions.php:183
+#, fuzzy
+msgid "Unable to communicate with Instagram."
+msgstr "ارتباط با اینستاگرام امکان پذیر نیست."
+
+#: functions.php:186
+#, fuzzy
+msgid "Instagram did not return a 200."
+msgstr "اینستاگرام 200 را بر نمی گرداند."
+
+#: functions.php:192 functions.php:199 functions.php:202
+#, fuzzy
+msgid "Instagram has returned invalid data."
+msgstr "اینستاگرام داده های نامعتبر را برگردانده است."
+
+#: functions.php:211
+#, fuzzy
+msgid "Instagram Image"
+msgstr "تصویر اینستاگرام"
+
+#: functions.php:237
+#, fuzzy
+msgid "Instagram did not return any images."
+msgstr "اینستاگرام هیچ تصویری پس نداد."
+
+#: functions.php:257
+#, fuzzy
+msgid "year"
+msgstr "سال"
+
+#: functions.php:258
+#, fuzzy
+msgid "month"
+msgstr "ماه"
+
+#: functions.php:259
+#, fuzzy
+msgid "week"
+msgstr "هفته"
+
+#: functions.php:260
+#, fuzzy
+msgid "day"
+msgstr "روز"
+
+#: functions.php:261
+#, fuzzy
+msgid "hour"
+msgstr "ساعت"
+
+#: functions.php:262
+#, fuzzy
+msgid "minute"
+msgstr "دقیقه"
+
+#: functions.php:263
+#, fuzzy
+msgid "second"
+msgstr "دومین"
+
+#: functions.php:275
+#, fuzzy
+msgid "s"
+msgstr "s"
+
+#: functions.php:282
+#, fuzzy
+msgid " ago"
+msgstr " پیش"
+
+#: functions.php:285
+#, fuzzy
+msgid "Just now"
+msgstr "همین الان"
+
+#: functions.php:311
+#, fuzzy
+msgid "Product Size Guide (Only Variable product)"
+msgstr "راهنمای اندازه محصول (فقط محصول متغیر)"
+
+#: functions.php:315
+#, fuzzy
+msgid "Swatch attribute to display"
+msgstr "ویژگی Swatch برای نمایش"
+
+#: functions.php:319
+#, fuzzy
+msgid "Select Single Product Layout"
+msgstr "طرح بندی تک محصول را انتخاب کنید"
+
+#: importer/import.php:65 importer/import.php:66
+#, fuzzy
+msgid "Tbay Import"
+msgstr "واردات Tbay"
+
+#: importer/import.php:205 importer/import.php:229
+#, fuzzy
+msgid "Import Redux Options Successful"
+msgstr "وارد کردن گزینه های Redux موفقیت آمیز است"
+
+#: importer/import.php:208 importer/import.php:232
+#, fuzzy
+msgid "Import Redux Options Error"
+msgstr "وارد کردن خطای گزینه های Redux"
+
+#: importer/import.php:245 importer/import.php:267 importer/import.php:452
+#: importer/import.php:478
+#, fuzzy
+msgid "Data is error! file: "
+msgstr "داده خطاست! فایل:"
+
+#: importer/import.php:254 importer/import.php:276
+#, fuzzy
+msgid "Import First Settings Successful"
+msgstr "وارد کردن اولین تنظیمات با موفقیت انجام شد"
+
+#: importer/import.php:328
+#, fuzzy
+msgid "Error loading data.xml file"
+msgstr "خطا در بارگیری پرونده data.xml"
+
+#: importer/import.php:347 importer/import.php:365
+#, fuzzy
+msgid "Error loading widgets.json file"
+msgstr "خطا در بارگیری پرونده widget.json"
+
+#: importer/import.php:349 importer/import.php:367
+#, fuzzy
+msgid "Widgets imported successfully"
+msgstr "ابزارک ها با موفقیت وارد شدند"
+
+#: importer/import.php:384 importer/import.php:404
+#, fuzzy
+msgid "Missing widgets data"
+msgstr "داده های ابزارک موجود نیست"
+
+#: importer/import.php:387 importer/import.php:407
+#, fuzzy
+msgid "Import Sidebars Widgets Successful"
+msgstr "وارد کردن ابزارک های نوار کناری با موفقیت انجام شد"
+
+#: importer/import.php:439
+#, fuzzy
+msgid "revslider folder is not exists! folder: "
+msgstr "پوشه revslider وجود ندارد! پوشه:"
+
+#: importer/import.php:441
+#, fuzzy
+msgid "Import Slider"
+msgstr "وارد کردن اسلایدر"
+
+#: importer/import.php:465 importer/import.php:491
+#, fuzzy
+msgid "File is not exists! file:"
+msgstr "پرونده موجود نیست! فایل:"
+
+#: importer/import.php:467 importer/import.php:493
+#, fuzzy
+msgid "Import Settings Successful"
+msgstr "تنظیمات واردات موفقیت آمیز است"
+
+#: importer/import.php:624
+#, fuzzy
+msgid "TbayTheme Demo Importer"
+msgstr "وارد کننده نسخه ی نمایشی TbayTheme"
+
+#: importer/import.php:627
+#, fuzzy
+msgid ""
+"<strong>Warning:</strong> If you have already used this feature before and "
+"you want to try it again, your content may be duplicated. Please consider "
+"resetting your database back to defaults with <a href=\"//wordpress."
+"org/plugins/wordpress-reset/\">this plugin</a>."
+msgstr ""
+"<strong>هشدار:</strong> اگر قبلاً از این ویژگی استفاده کرده اید و می خواهید "
+"دوباره آن را امتحان کنید ، ممکن است محتوای شما کپی شود. لطفاً مجدداً پایگاه "
+"داده خود را به حالت پیش فرض با <a href=\"//wordpress.org/plugins/wordpress-"
+"reset/\">این افزونه</a> بازنشانی کنید."
+
+#: importer/import.php:695
+#, fuzzy
+msgid "System Requirements"
+msgstr "سیستم مورد نیاز"
+
+#: importer/import.php:696
+#, fuzzy
+msgid "Problem Found"
+msgstr "مشکل پیدا شد"
+
+#: importer/import.php:697
+#, fuzzy
+msgid "No Problems"
+msgstr "مشکلی نیست"
+
+#: importer/import.php:701
+#, fuzzy
+msgid "Active parent theme"
+msgstr "طرح زمینه فعال والدین"
+
+#: importer/import.php:708
+#, fuzzy
+msgid "You activated child theme, so you can not import the demo"
+msgstr ""
+"شما طرح زمینه کودک را فعال کردید ، بنابراین نمی توانید نسخه نمایشی را وارد "
+"کنید"
+
+#: importer/import.php:716
+#, fuzzy
+msgid "Uploads folder writable"
+msgstr "پوشه بارگذاری شده قابل نوشتن است"
+
+#: importer/import.php:723
+#, fuzzy
+msgid "Error with File Permissions"
+msgstr "خطا در مجوزهای پرونده"
+
+#: importer/import.php:723
+#, fuzzy
+msgid ""
+"Please set write permission (755) to your wp-content/uploads folders to make "
+"sure the Slider can save all updates and imports in the future."
+msgstr ""
+"لطفاً پوشه های wp-content / uploads خود را برای نوشتن اجازه نوشتن (755) "
+"تنظیم کنید تا مطمئن شوید Slider می تواند تمام به روزرسانی ها و واردات را در "
+"آینده ذخیره کند."
+
+#: importer/import.php:748
+#, fuzzy
+msgid "PHP version"
+msgstr "نسخه PHP"
+
+#: importer/import.php:756 importer/import.php:761 importer/import.php:766
+#: importer/import.php:779 importer/import.php:786 importer/import.php:799
+#: importer/import.php:806 importer/import.php:817 importer/import.php:825
+#: importer/import.php:836 importer/import.php:844
+#, fuzzy, php-format
+msgid "Currently: %1$s"
+msgstr "در حال حاضر:٪ 1 $ s"
+
+#: importer/import.php:762
+#, fuzzy, php-format
+msgid "<strong>(Recommend PHP %1$s)</strong>"
+msgstr "<strong> (توصیه PHP٪ 1 $ s) </ strong>"
+
+#: importer/import.php:767 importer/import.php:837
+#, fuzzy, php-format
+msgid "<strong>(min: %1$s)</strong>"
+msgstr "<strong> (دقیقه:٪ 1 $ s) </strong>"
+
+#: importer/import.php:775
+#, fuzzy
+msgid "Memory Limit"
+msgstr "محدودیت حافظه"
+
+#: importer/import.php:780
+#, fuzzy
+msgid "<strong>(min:256M)</strong>"
+msgstr "<strong> (دقیقه: 256M) </strong>"
+
+#: importer/import.php:795
+#, fuzzy
+msgid "Upload Max. Filesize"
+msgstr "حداکثر را بارگذاری کنید حجم فایل"
+
+#: importer/import.php:800 importer/import.php:818
+#, fuzzy
+msgid "<strong>(min:32M)</strong>"
+msgstr "<strong> (دقیقه: 32 میلیون نفر) </ strong>"
+
+#: importer/import.php:813
+#, fuzzy
+msgid "Max. Post Size"
+msgstr "حداکثر اندازه پست"
+
+#: importer/import.php:832
+#, fuzzy
+msgid "Max execution time"
+msgstr "حداکثر زمان اعدام"
+
+#: importer/import.php:857
+#, fuzzy
+msgid "Thembay Support"
+msgstr "پشتیبانی Thembay"
+
+#: importer/import.php:863
+#, fuzzy
+msgid "Ticket support"
+msgstr "پشتیبانی بلیط"
+
+#: importer/import.php:864
+#, fuzzy, php-format
+msgid "Please send the ticker <a href=\"%1$s\" target=\"_blank\">here</a>"
+msgstr "لطفا تیکر را به <a href=\"%1$s\" target=\"_blank\">اینجا بفرستید</a>"
+
+#: importer/import.php:869
+#, fuzzy
+msgid "Email Support"
+msgstr "پشتیبانی ایمیل"
+
+#: importer/import.php:870
+#, fuzzy, php-format
+msgid "Please send the email: <a href=\"%1$s\" target=\"_blank\">here</a>"
+msgstr "لطفا ایمیل را <a href=\"%1$s\" target=\"_blank\">اینجا بفرستید</a>"
+
+#: importer/import.php:876
+#, fuzzy
+msgid "Youtube channel"
+msgstr "کانال یوتیوب"
+
+#: importer/import.php:877
+#, fuzzy, php-format
+msgid "Watch video tutorial <a href=\"%1$s\" target=\"_blank\">here</a>"
+msgstr "آموزش فیلم را <a href=\"%1$s\" target=\"_blank\">اینجا ببینید</a>"
+
+#: importer/import.php:883
+#, fuzzy
+msgid "Forum Support"
+msgstr "پشتیبانی انجمن"
+
+#: importer/import.php:884
+#, fuzzy, php-format
+msgid "Please post the forum in <a href=\"%1$s\" target=\"_blank\">here</a>"
+msgstr "لطفاً انجمن را <a href=\"%1$s\" target=\"_blank\">اینجا بفرستید</a>"
+
+#: importer/import.php:899
+#, fuzzy
+msgid "Refresh All Data (Add the new Demos)"
+msgstr "تازه سازی همه داده ها (افزودن نسخه های نمایشی جدید)"
+
+#: importer/import.php:928
+#, fuzzy
+msgid "Import All"
+msgstr "وارد کردن همه"
+
+#: importer/import.php:931
+#, fuzzy
+msgid "Only Active"
+msgstr "فقط فعال"
+
+#: importer/import.php:939
+#, fuzzy
+msgid "Download Demos"
+msgstr "بارگیری نسخه های نمایشی"
+
+#: importer/import.php:961
+#, fuzzy, php-format
+msgid ""
+"Click to the follow buttons to get sample demo from our live sites, the "
+"package will put into ROOT/wp-content/uploads. <br> Please make sure this "
+"folder has writeable permision. <br> If \"Download Demos\" don&rsquo;t work, "
+"you should upload the sample data manually <a href=\"%s\" target=\"_blank\">"
+"View video</a>."
+msgstr ""
+"برای دریافت نمونه آزمایشی از سایت های زنده ما ، روی دکمه های دنباله کلیک "
+"کنید ، بسته در ROOT / wp-content / آپلودها قرار می گیرد.<br> لطفاً اطمینان "
+"حاصل کنید که این پوشه دارای قابلیت نوشتن است.<br> اگر &quot;دانلود دموی&quot;"
+" کار نمی کنند، شما باید اطلاعات نمونه به صورت دستی آپلود <a href=\"%s\" "
+"target=\"_blank\">نمایش ویدئو</a> ."
+
+#: importer/import.php:968
+#, fuzzy
+msgid "Download Demos All"
+msgstr "بارگیری نسخه نمایشی همه"
+
+#: importer/import.php:991
+#, fuzzy
+msgid "Dismiss this notice."
+msgstr "این اخطار را رد کنید."
+
+#: importer/import.php:993
+#, fuzzy
+msgid "Importing"
+msgstr "وارد کردن"
+
+#: importer/import.php:997 importer/import.php:1023
+#, fuzzy
+msgid ""
+"The import process can take about 10 minutes. Please don't refresh the page."
+msgstr "روند واردات می تواند حدود 10 دقیقه طول بکشد. لطفا صفحه را تازه نکنید"
+
+#: importer/import.php:1001 importer/import.php:1027
+#, fuzzy
+msgid "Install First Settings"
+msgstr "اولین تنظیمات را نصب کنید"
+
+#: importer/import.php:1001 importer/import.php:1027
+#, fuzzy
+msgid "Installing First Settings ..."
+msgstr "درحال نصب اولین تنظیمات ..."
+
+#: importer/import.php:1001 importer/import.php:1027
+#, fuzzy
+msgid "Installed First Settings"
+msgstr "اولین تنظیمات نصب شد"
+
+#: importer/import.php:1002 importer/import.php:1028
+#, fuzzy
+msgid "Install Redux Option"
+msgstr "گزینه Redux را نصب کنید"
+
+#: importer/import.php:1002 importer/import.php:1028
+#, fuzzy
+msgid "Installing Redux Option ..."
+msgstr "در حال نصب گزینه Redux ..."
+
+#: importer/import.php:1002 importer/import.php:1028
+#, fuzzy
+msgid "Installed Redux Option"
+msgstr "گزینه Redux نصب شده است"
+
+#: importer/import.php:1003
+#, fuzzy
+msgid "Install Demo Content"
+msgstr "محتوای نسخه ی نمایشی را نصب کنید"
+
+#: importer/import.php:1003
+#, fuzzy
+msgid "Installing Demo Content ..."
+msgstr "در حال نصب محتوای نسخه ی نمایشی ..."
+
+#: importer/import.php:1003
+#, fuzzy
+msgid "Installed Demo Content"
+msgstr "محتوای آزمایشی نصب شده"
+
+#: importer/import.php:1004 importer/import.php:1029
+#, fuzzy
+msgid "Install Widgets"
+msgstr "ابزارک ها را نصب کنید"
+
+#: importer/import.php:1004 importer/import.php:1029
+#, fuzzy
+msgid "Installing Widgets ..."
+msgstr "در حال نصب ابزارک ها ..."
+
+#: importer/import.php:1004 importer/import.php:1029
+#, fuzzy
+msgid "Installed Widgets"
+msgstr "ابزارک های نصب شده"
+
+#: importer/import.php:1005 importer/import.php:1030
+#, fuzzy
+msgid "Install Settings"
+msgstr "تنظیمات را نصب کنید"
+
+#: importer/import.php:1005 importer/import.php:1030
+#, fuzzy
+msgid "Installing Settings ..."
+msgstr "درحال نصب تنظیمات ..."
+
+#: importer/import.php:1005 importer/import.php:1030
+#, fuzzy
+msgid "Installed Settings"
+msgstr "تنظیمات نصب شده"
+
+#: importer/import.php:1006
+#, fuzzy
+msgid "Install Revolution Slider"
+msgstr "Revolution Slider را نصب کنید"
+
+#: importer/import.php:1006
+#, fuzzy
+msgid "Installing Revolution Slider ..."
+msgstr "در حال نصب Revolution Slider ..."
+
+#: importer/import.php:1006
+#, fuzzy
+msgid "Installed Revolution Slider"
+msgstr "لغزنده انقلاب نصب شده است"
+
+#: importer/import.php:1048
+#, fuzzy
+msgid "Failed to import!"
+msgstr "وارد نشد"
+
+#: importer/import.php:1052
+#, fuzzy
+msgid "Log"
+msgstr "ورود به سیستم"
+
+#: importer/import.php:1055
+#, fuzzy
+msgid "Get support"
+msgstr "دریافت پشتیبانی"
+
+#: importer/import.php:1056
+#, fuzzy
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: importer/import.php:1060
+#, fuzzy
+msgid "Importing is successful!"
+msgstr "وارد کردن موفقیت آمیز است!"
+
+#: importer/import.php:1065
+#, fuzzy
+msgid "Switch homepage successfully!"
+msgstr "تغییر صفحه اصلی با موفقیت!"
+
+#: importer/parsers.php:42 importer/parsers.php:72 importer/parsers.php:80
+#, fuzzy
+msgid "There was an error when reading this WXR file"
+msgstr "هنگام خواندن این پرونده WXR خطایی روی داد"
+
+#: importer/parsers.php:43
+#, fuzzy
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"جزئیات در بالا نشان داده شده است. وارد کننده اکنون با تجزیه کننده دیگری "
+"دوباره امتحان می کند ..."
+
+#: importer/parsers.php:84 importer/parsers.php:89 importer/parsers.php:279
+#: importer/parsers.php:468
+#, fuzzy
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"به نظر نمی رسد این یک پرونده WXR باشد ، شماره نسخه WXR از دست رفته / نامعتبر "
+"باشد"
+
+#: importer/wordpress-importer.php:196 importer/wordpress-importer.php:205
+#: importer/wordpress-importer.php:256 importer/wordpress-importer.php:260
+#: importer/wordpress-importer.php:269
+#, fuzzy
+msgid "Sorry, there has been an error."
+msgstr "متأسفیم ، خطایی رخ داده است"
+
+#: importer/wordpress-importer.php:197
+#, fuzzy
+msgid "The file does not exist, please try again."
+msgstr "پرونده وجود ندارد ، لطفاً دوباره امتحان کنید."
+
+#: importer/wordpress-importer.php:240
+#, fuzzy
+msgid "All done."
+msgstr "تمام شد"
+
+#: importer/wordpress-importer.php:240
+#, fuzzy
+msgid "Have fun!"
+msgstr "خوش بگذره!"
+
+#: importer/wordpress-importer.php:241
+#, fuzzy
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "فراموش نکنید که گذرواژه ها و نقش های کاربران وارد شده را به روز کنید."
+
+#: importer/wordpress-importer.php:261
+#, fuzzy, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"پرونده صادرات در <code>٪ s </code> یافت نشد. احتمالاً این مسئله به دلیل مشکل "
+"مجوزها ایجاد شده است."
+
+#: importer/wordpress-importer.php:277
+#, fuzzy, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"این پرونده WXR (نسخه٪ s) ممکن است توسط این نسخه از وارد کننده پشتیبانی نشود. "
+"لطفاً به روزرسانی کنید."
+
+#: importer/wordpress-importer.php:302
+#, fuzzy, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"وارد کردن نویسنده٪ s انجام نشد. پست های آنها به کاربر فعلی نسبت داده می شود."
+
+#: importer/wordpress-importer.php:328
+#, fuzzy
+msgid "Assign Authors"
+msgstr "اختصاص دادن نویسندگان"
+
+#: importer/wordpress-importer.php:329
+#, fuzzy
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+"برای ویرایش و ذخیره محتوای وارد شده برای شما آسان تر ، ممکن است بخواهید "
+"نویسنده مورد وارد شده را دوباره به یک کاربر موجود در این سایت اختصاص دهید. "
+"به عنوان مثال ، ممکن است بخواهید همه ورودی ها را به عنوان ورودی های <code> "
+"مدیر </ code> وارد کنید."
+
+#: importer/wordpress-importer.php:331
+#, fuzzy, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"اگر یک کاربر جدید توسط وردپرس ایجاد شود ، یک رمز عبور جدید به طور تصادفی "
+"ایجاد می شود و نقش کاربر جدید به عنوان٪ s تنظیم می شود. تغییر دستی اطلاعات "
+"کاربر جدید ضروری است."
+
+#: importer/wordpress-importer.php:341
+#, fuzzy
+msgid "Import Attachments"
+msgstr "پیوستهای واردات"
+
+#: importer/wordpress-importer.php:344
+#, fuzzy
+msgid "Download and import file attachments"
+msgstr "فایل های پیوست را دانلود کرده و وارد برنامه کنید"
+
+#: importer/wordpress-importer.php:361
+#, fuzzy
+msgid "Import author:"
+msgstr "وارد کردن نویسنده:"
+
+#: importer/wordpress-importer.php:372
+#, fuzzy
+msgid "or create new user with login name:"
+msgstr "یا ایجاد یک کاربر جدید با نام ورود به سیستم:"
+
+#: importer/wordpress-importer.php:375
+#, fuzzy
+msgid "as a new user:"
+msgstr "به عنوان کاربر جدید:"
+
+#: importer/wordpress-importer.php:383
+#, fuzzy
+msgid "assign posts to an existing user:"
+msgstr "ارسال پست به یک کاربر موجود:"
+
+#: importer/wordpress-importer.php:385
+#, fuzzy
+msgid "or assign posts to an existing user:"
+msgstr "یا ارسال پست به یک کاربر موجود:"
+
+#: importer/wordpress-importer.php:386
+#, fuzzy
+msgid "- Select -"
+msgstr "- انتخاب کنید -"
+
+#: importer/wordpress-importer.php:436
+#, fuzzy, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"کاربر جدید برای٪ s ایجاد نشد. پست های آنها به کاربر فعلی نسبت داده می شود."
+
+#: importer/wordpress-importer.php:487
+#, fuzzy, php-format
+msgid "Failed to import category %s"
+msgstr "رده٪ s وارد نشد"
+
+#: importer/wordpress-importer.php:527
+#, fuzzy, php-format
+msgid "Failed to import post tag %s"
+msgstr "وارد کردن برچسب پست٪ s انجام نشد"
+
+#: importer/wordpress-importer.php:573 importer/wordpress-importer.php:728
+#, fuzzy, php-format
+msgid "Failed to import %s %s"
+msgstr "٪ s٪ s وارد نشد"
+
+#: importer/wordpress-importer.php:613
+#, fuzzy, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "وارد کردن &quot;٪ s&quot; انجام نشد: نوع پست نامعتبر٪ s است"
+
+#: importer/wordpress-importer.php:635
+#, fuzzy, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "٪ s &quot;٪ s&quot; از قبل وجود دارد."
+
+#: importer/wordpress-importer.php:694
+#, fuzzy, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "٪ s &quot;٪ s&quot; وارد نشد"
+
+#: importer/wordpress-importer.php:863
+#, fuzzy
+msgid "Menu item skipped due to missing menu slug"
+msgstr "به دلیل از بین رفتن حلقه فهرست ، مورد منو حذف شد"
+
+#: importer/wordpress-importer.php:870
+#, fuzzy, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "مورد منو به دلیل حلزونی کردن فهرست نامعتبر حذف شد:٪ s"
+
+#: importer/wordpress-importer.php:972
+#, fuzzy
+msgid "Fetching attachments is not enabled"
+msgstr "واکشی پیوست ها فعال نیست"
+
+#: importer/wordpress-importer.php:986
+#, fuzzy
+msgid "Invalid file type"
+msgstr "نوع پرونده نامعتبر است"
+
+#: importer/wordpress-importer.php:1031
+#, fuzzy
+msgid "Remote server did not respond"
+msgstr "سرور از راه دور پاسخ نداد"
+
+#: importer/wordpress-importer.php:1037
+#, fuzzy, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "سرور از راه دور پاسخ خطا٪ 1 $ d٪ 2 $ s را بازگرداند"
+
+#: importer/wordpress-importer.php:1044
+#, fuzzy
+msgid "Remote file is incorrect size"
+msgstr "اندازه فایل از راه دور نادرست است"
+
+#: importer/wordpress-importer.php:1049
+#, fuzzy
+msgid "Zero size file downloaded"
+msgstr "پرونده با اندازه صفر بارگیری شد"
+
+#: importer/wordpress-importer.php:1055
+#, fuzzy, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "پرونده از راه دور خیلی بزرگ است ، حد٪ s است"
+
+#: importer/wordpress-importer.php:1154
+#, fuzzy
+msgid "Import WordPress"
+msgstr "وارد کردن وردپرس"
+
+#: importer/wordpress-importer.php:1161
+#, fuzzy, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"نسخه جدید این وارد کننده در دسترس است. لطفاً برای اطمینان از سازگاری با "
+"فایلهای جدیدتر صادرات ، آن را به نسخه٪ s به روز کنید."
+
+#: importer/wordpress-importer.php:1176
+#, fuzzy
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"! فایل RSS وردپرس eXtended (WXR) خود را بارگذاری کنید و ما پست ها ، صفحات ، "
+"نظرات ، زمینه های سفارشی ، دسته ها و برچسب ها را به این سایت وارد خواهیم کرد."
+
+#: importer/wordpress-importer.php:1177
+#, fuzzy
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"برای بارگذاری پرونده WXR (.xml) را انتخاب کنید ، سپس روی بارگذاری پرونده "
+"کلیک کرده و وارد کنید."
+
+#: libs/extensions/repeater/repeater/field_repeater.php:180
+#: libs/extensions/repeater/repeater/field_repeater.php:223
+#, fuzzy
+msgid "Delete"
+msgstr "حذف"
+
+#: libs/extensions/repeater/repeater/field_repeater.php:245
+#, fuzzy
+msgid "Add"
+msgstr "اضافه کردن"

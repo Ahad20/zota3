@@ -1,0 +1,664 @@
+# Copyright (C) 2021 Additional Variation Images Gallery for WooCommerce
+# This file is distributed under the same license as the Additional Variation Images Gallery for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Additional Variation Images Gallery for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: فارسی\n"
+"Last-Translator: \n"
+"Report-Msgid-Bugs-To: https://github.com/EmranAhmed/woo-variation-"
+"gallery/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"POT-Creation-Date: 2021-05-03 01:08+0000\n"
+"PO-Revision-Date: 2021-05-03 01:08+0000\n"
+"Language: fa_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: ../includes/class-woo-variation-gallery-export-import.php:32,
+#: ../includes/class-woo-variation-gallery-export-import.php:61
+#, fuzzy
+msgid "Woo Variation Gallery Images"
+msgstr "تصاویر گالری وو واریاسیون"
+
+#: ../includes/class-woo-variation-gallery-migrate-request.php:92
+#, fuzzy
+msgid "Migration for variation product ID: %s. From: %s"
+msgstr "انتقال برای شناسه محصول متنوع:٪ s. از:٪ s"
+
+#: ../includes/class-woo-variation-gallery-migrate-request.php:109
+#, fuzzy
+msgid "Migration completed of all variation product image"
+msgstr "انتقال تصویر همه محصولات متنوع به پایان رسید"
+
+#: ../includes/class-woo-variation-gallery-migrate.php:47
+#, fuzzy
+msgid "Cancelled migration job."
+msgstr "کار مهاجرت لغو شد."
+
+#: ../includes/class-woo-variation-gallery-migrate.php:56
+#, fuzzy
+msgid "Cancel migration"
+msgstr "مهاجرت را لغو کنید"
+
+#: ../includes/class-woo-variation-gallery-migrate.php:58,
+#: ../includes/class-woo-variation-gallery-migrate.php:68
+#, fuzzy
+msgid ""
+"Variation Gallery Migration is running in the background. Depending on the "
+"amount of variation product in your store this may take a while."
+msgstr ""
+"Variation Gallery انتقال در پس زمینه در حال اجرا است. بسته به مقدار محصول "
+"متنوع فروشگاه شما ، ممکن است مدتی طول بکشد."
+
+#: ../includes/class-woo-variation-gallery-settings.php:16
+#, fuzzy
+msgid "Additional Variation Images Gallery"
+msgstr "گالری تصاویر متنوع اضافی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:23
+#, fuzzy
+msgid "General"
+msgstr "عمومی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:24
+#, fuzzy
+msgid "Configuration"
+msgstr "پیکربندی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:25
+#, fuzzy
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: ../includes/class-woo-variation-gallery-settings.php:26
+#, fuzzy
+msgid "Migration"
+msgstr "مهاجرت"
+
+#: ../includes/class-woo-variation-gallery-settings.php:27
+#, fuzzy
+msgid "Tutorials"
+msgstr "آموزشها"
+
+#: ../includes/class-woo-variation-gallery-settings.php:214
+#, fuzzy
+msgid "Advanced Options"
+msgstr "گزینه های پیشرفته"
+
+#: ../includes/class-woo-variation-gallery-settings.php:223
+#, fuzzy
+msgid "Reset Variation Gallery"
+msgstr "تنظیم مجدد گالری تغییرات"
+
+#: ../includes/class-woo-variation-gallery-settings.php:226
+#, fuzzy
+msgid "Always Reset Gallery After Variation Select"
+msgstr "همیشه گالری را پس از تغییر تنظیمات مجدداً تنظیم کنید"
+
+#: ../includes/class-woo-variation-gallery-settings.php:232
+#, fuzzy
+msgid "Gallery Image Preload"
+msgstr "پیش بارگذاری تصویر گالری"
+
+#: ../includes/class-woo-variation-gallery-settings.php:235
+#, fuzzy
+msgid "Variation Gallery Image Preload"
+msgstr "پیش بارگذاری تصویر گالری واریاسیون"
+
+#: ../includes/class-woo-variation-gallery-settings.php:240
+#, fuzzy
+msgid "Load Defer Gallery JS"
+msgstr "Defer Gallery JS را بارگیری کنید"
+
+#: ../includes/class-woo-variation-gallery-settings.php:243
+#, fuzzy
+msgid "Variation Gallery JS Loading"
+msgstr "گالری واریاسیون JS در حال بارگیری است"
+
+#: ../includes/class-woo-variation-gallery-settings.php:259
+#, fuzzy
+msgid "Gallery Migration"
+msgstr "مهاجرت گالری"
+
+#: ../includes/class-woo-variation-gallery-settings.php:261
+#, fuzzy
+msgid ""
+"Migrate gallery from other plugins. Migration process will run on background."
+msgstr "انتقال گالری از سایر افزونه ها. روند مهاجرت در پس زمینه اجرا می شود."
+
+#: ../includes/class-woo-variation-gallery-settings.php:273
+#, fuzzy
+msgid "Thumbnail Options"
+msgstr "گزینه های تصویر بند انگشتی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:281
+#, fuzzy
+msgid "Thumbnails Item"
+msgstr "مورد کوچک"
+
+#: ../includes/class-woo-variation-gallery-settings.php:285
+#, fuzzy
+msgid "Product Thumbnails Item Image"
+msgstr "تصویر کوچک محصول تصویر مورد"
+
+#: ../includes/class-woo-variation-gallery-settings.php:286
+#, fuzzy
+msgid "Product Thumbnails Item Image. Default value is: %d. Limit: 2-8."
+msgstr "تصویر کوچک محصول تصویر مورد. مقدار پیش فرض:٪ d. حد: 2-8."
+
+#: ../includes/class-woo-variation-gallery-settings.php:297
+#, fuzzy
+msgid "Thumbnails Gap"
+msgstr "شکاف عکسها"
+
+#: ../includes/class-woo-variation-gallery-settings.php:302
+#, fuzzy
+msgid "Product Thumbnails Gap In Pixel"
+msgstr "تصاویر کوچک محصول در Pixel شکاف دارد"
+
+#: ../includes/class-woo-variation-gallery-settings.php:303
+#, fuzzy
+msgid "Product Thumbnails Gap In Pixel. Default value is: %d. Limit: 0-20."
+msgstr "تصاویر کوچک محصول در Pixel شکاف دارد. مقدار پیش فرض:٪ d. حد: 0-20."
+
+#: ../includes/class-woo-variation-gallery-settings.php:320
+#, fuzzy
+msgid "Gallery Options"
+msgstr "گزینه های گالری"
+
+#: ../includes/class-woo-variation-gallery-settings.php:328,
+#: ../includes/class-woo-variation-gallery-settings.php:345,
+#: ../includes/class-woo-variation-gallery-settings.php:362,
+#: ../includes/class-woo-variation-gallery-settings.php:388
+#, fuzzy
+msgid "Gallery Width"
+msgstr "عرض گالری"
+
+#: ../includes/class-woo-variation-gallery-settings.php:332
+#, fuzzy
+msgid "For large devices."
+msgstr "برای دستگاه های بزرگ"
+
+#: ../includes/class-woo-variation-gallery-settings.php:333
+#, fuzzy
+msgid "Slider gallery width in % for large devices."
+msgstr "عرض گالری لغزنده برای دستگاه های بزرگ به٪."
+
+#: ../includes/class-woo-variation-gallery-settings.php:334
+#, fuzzy
+msgid ""
+"Slider Gallery Width in %%. Default value is: %d. Limit: 10-100. Please "
+"check this <a target=\"_blank\" href=\"%s\">how to video to configure it.</a>"
+msgstr ""
+"عرض گالری لغزنده در ٪٪. مقدار پیش فرض:٪ d. حد: 10-100. لطفاً <a "
+"target=\"_blank\" href=\"%s\">برای پیکربندی این روش فیلم برداری را بررسی "
+"کنید.</a>"
+
+#: ../includes/class-woo-variation-gallery-settings.php:349
+#, fuzzy
+msgid "For medium devices."
+msgstr "برای دستگاه های متوسط."
+
+#: ../includes/class-woo-variation-gallery-settings.php:350
+#, fuzzy
+msgid "Slider gallery width in px for medium devices, small desktop"
+msgstr "عرض گالری کشویی در px برای دستگاه های متوسط ، دسک تاپ کوچک"
+
+#: ../includes/class-woo-variation-gallery-settings.php:351
+#, fuzzy
+msgid ""
+"Slider gallery width in pixel for medium devices, small desktop. Default "
+"value is: 0. Limit: 0-1000. Media query (max-width : 992px)"
+msgstr ""
+"عرض گالری لغزنده در پیکسل برای دستگاه های متوسط ، دسک تاپ کوچک. مقدار پیش "
+"فرض: 0. حد: 0-1000. پرس و جو رسانه (حداکثر عرض: 992px)"
+
+#: ../includes/class-woo-variation-gallery-settings.php:366
+#, fuzzy
+msgid "For small devices, tablets."
+msgstr "برای دستگاه های کوچک ، قرص ها."
+
+#: ../includes/class-woo-variation-gallery-settings.php:367
+#, fuzzy
+msgid "Slider gallery width in px for small devices, tablets"
+msgstr "عرض گالری لغزنده در px برای دستگاه های کوچک ، رایانه های لوحی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:368
+#, fuzzy
+msgid ""
+"Slider gallery width in pixel for medium devices, small desktop. Default "
+"value is: 720. Limit: 0-1000. Media query (max-width : 768px)"
+msgstr ""
+"عرض گالری لغزنده در پیکسل برای دستگاه های متوسط ، دسک تاپ کوچک. مقدار پیش "
+"فرض: 720. حد: 0-1000. پرس و جو رسانه (حداکثر عرض: 768 پیکسل)"
+
+#: ../includes/class-woo-variation-gallery-settings.php:379,
+#: ../includes/class-woo-variation-gallery-settings.php:405
+#, fuzzy
+msgid "Clear float"
+msgstr "شناور پاک کنید"
+
+#: ../includes/class-woo-variation-gallery-settings.php:382
+#, fuzzy
+msgid "Clear float for small devices, tablets."
+msgstr "شناور را برای دستگاه های کوچک ، رایانه های لوحی پاک کنید."
+
+#: ../includes/class-woo-variation-gallery-settings.php:392
+#, fuzzy
+msgid "For extra small devices, mobile."
+msgstr "برای دستگاههای کوچک اضافی ، تلفن همراه."
+
+#: ../includes/class-woo-variation-gallery-settings.php:393
+#, fuzzy
+msgid "Slider gallery width in px for extra small devices, phones"
+msgstr "عرض گالری لغزنده در px برای دستگاههای کوچک ، تلفنهای اضافی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:394
+#, fuzzy
+msgid ""
+"Slider gallery width in pixel for extra small devices, phones. Default value "
+"is: 320. Limit: 0-1000. Media query (max-width : 480px)"
+msgstr ""
+"عرض گالری لغزنده در پیکسل برای دستگاههای کوچک ، تلفنهای اضافی. مقدار پیش فرض:"
+" 320. حد: 0-1000. جستجوی رسانه (حداکثر عرض: 480px)"
+
+#: ../includes/class-woo-variation-gallery-settings.php:408
+#, fuzzy
+msgid "Clear float for extra small devices, mobile."
+msgstr "شناور برای دستگاههای کوچک اضافی ، موبایل را پاک کنید."
+
+#: ../includes/class-woo-variation-gallery-settings.php:416
+#, fuzzy
+msgid "Gallery Bottom Gap"
+msgstr "شکاف پایین گالری"
+
+#: ../includes/class-woo-variation-gallery-settings.php:420
+#, fuzzy
+msgid "Slider gallery gottom margin in pixel"
+msgstr "گالری لغزنده حاشیه gottom را در پیکسل ارائه می دهد"
+
+#: ../includes/class-woo-variation-gallery-settings.php:422
+#, fuzzy
+msgid ""
+"Slider gallery bottom margin in pixel. Default value is: %d. Limit: 10-100."
+msgstr "حاشیه پایین گالری لغزان به پیکسل. مقدار پیش فرض:٪ d. حد: 10-100."
+
+#: ../includes/class-woo-variation-gallery-settings.php:433
+#, fuzzy
+msgid "Disable Preloader"
+msgstr "Preloader را غیرفعال کنید"
+
+#: ../includes/class-woo-variation-gallery-settings.php:436
+#, fuzzy
+msgid "Disable preloader on change variation"
+msgstr "پیش بارگذار را در تغییر تغییر دهید"
+
+#: ../includes/class-woo-variation-gallery-settings.php:442
+#, fuzzy
+msgid "Preload Style"
+msgstr "سبک پیش بارگیری"
+
+#: ../includes/class-woo-variation-gallery-settings.php:448
+#, fuzzy
+msgid "Fade"
+msgstr "محو شدن"
+
+#: ../includes/class-woo-variation-gallery-settings.php:449
+#, fuzzy
+msgid "Blur"
+msgstr "تیرگی"
+
+#: ../includes/class-woo-variation-gallery-settings.php:450
+#, fuzzy
+msgid "Gray"
+msgstr "خاکستری"
+
+#: ../includes/deactive-feedback-dialog.php:15
+#, fuzzy
+msgid "QUICK FEEDBACK"
+msgstr "بازخورد سریع"
+
+#: ../includes/deactive-feedback-dialog.php:17
+#, fuzzy
+msgid "Close modal panel"
+msgstr "صفحه پانل را ببندید"
+
+#: ../includes/deactive-feedback-dialog.php:23
+#, fuzzy
+msgid "May we have a little info about why you are deactivating?"
+msgstr "ممکن است اطلاعات کمی در مورد دلیل غیرفعال کردن شما داشته باشیم؟"
+
+#: ../includes/deactive-feedback-dialog.php:49,
+#: ../includes/deactive-feedback-dialog.php:49
+#, fuzzy
+msgid "Send feedback &amp; Deactivate"
+msgstr "ارسال بازخورد و غیرفعال کردن"
+
+#: ../includes/deactive-feedback-dialog.php:49
+#, fuzzy
+msgid "Deactivating..."
+msgstr "غیرفعال کردن ..."
+
+#: ../includes/deactive-feedback-dialog.php:53
+#, fuzzy
+msgid "Skip &amp; Deactivate"
+msgstr "رد کردن و غیرفعال کردن"
+
+#: ../includes/functions.php:375
+#, fuzzy
+msgid "Variation Image Gallery"
+msgstr "گالری تصاویر تنوع"
+
+#: ../includes/functions.php:386
+#, fuzzy
+msgid "Add Gallery Images"
+msgstr "تصاویر گالری را اضافه کنید"
+
+#: ../includes/functions.php:388
+#, fuzzy
+msgid "Upgrade to pro to add more images and videos"
+msgstr "برای افزودن تصاویر و فیلم های بیشتر ، به حرفه ارتقا دهید"
+
+#: ../includes/html-migrations.php:35
+#, fuzzy
+msgid ""
+"Are you sure you want to \n"
+"%s?"
+msgstr ""
+"آیا مطمئنی که می خواهی\n"
+"٪ s؟"
+
+#: ../includes/html-tutorials.php:6
+#, fuzzy
+msgid "How to tutorials"
+msgstr "نحوه آموزش"
+
+#: ../includes/html-tutorials.php:43
+#, fuzzy
+msgid "PRO"
+msgstr "حرفه ای"
+
+#: ../includes/migrator.php:8
+#, fuzzy
+msgid "Migrate from \"WooCommerce Additional Variation Images\" plugin"
+msgstr "از افزونه \"WooCommerce Additional Variation Images\" مهاجرت کنید"
+
+#: ../includes/migrator.php:9, ../includes/migrator.php:16,
+#: ../includes/migrator.php:23, ../includes/migrator.php:30
+#, fuzzy
+msgid "Start migration"
+msgstr "مهاجرت را شروع کنید"
+
+#: ../includes/migrator.php:10
+#, fuzzy
+msgid ""
+"This will migrate from \"WooCommerce Additional Variation Images\" to "
+"\"Additional Variation Images Gallery for WooCommerce\"."
+msgstr ""
+"این کار از \"تصاویر اضافی تغییر شکل WooCommerce\" به \"گالری تصاویر "
+"واریاسیون اضافی برای WooCommerce\" منتقل می شود."
+
+#: ../includes/migrator.php:15
+#, fuzzy
+msgid "Migrate from \"WooThumbs for WooCommerce by Iconic\" plugin"
+msgstr "از پلاگین \"WooThumbs for WooCommerce by Iconic\" مهاجرت کنید"
+
+#: ../includes/migrator.php:17
+#, fuzzy
+msgid ""
+"This will migrate from \"WooThumbs for WooCommerce by Iconic\" to "
+"\"Additional Variation Images Gallery for WooCommerce\"."
+msgstr ""
+"این کار از \"WooThumbs for WooCommerce by Iconic\" به \"گالری تصاویر "
+"واریاسیون اضافی برای WooCommerce\" منتقل می شود."
+
+#: ../includes/migrator.php:22
+#, fuzzy
+msgid "Migrate from \"Smart Variations Images for WooCommerce\" plugin"
+msgstr "از پلاگین \"تصاویر متنوع هوشمند برای ووکامرس\" مهاجرت کنید"
+
+#: ../includes/migrator.php:24
+#, fuzzy
+msgid ""
+"This will migrate from \"Smart Variations Images for WooCommerce\" to "
+"\"Additional Variation Images Gallery for WooCommerce\"."
+msgstr ""
+"این کار از \"تصاویر متنوع برای WooCommerce\" به \"گالری تصاویر واریاسیون "
+"اضافی برای WooCommerce\" منتقل می شود."
+
+#: ../includes/migrator.php:29
+#, fuzzy
+msgid "Migrate from \"Ajaxy Woocommerce Multiple Variation Image\" plugin"
+msgstr "از پلاگین \"Ajaxy Woocommerce Multiple Variation Image\" مهاجرت کنید"
+
+#: ../includes/migrator.php:31
+#, fuzzy
+msgid ""
+"This will migrate from \"Ajaxy Woocommerce Multiple Variation Image\" to "
+"\"Additional Variation Images Gallery for WooCommerce\"."
+msgstr ""
+"این کار از \"Ajaxy Woocommerce Multiple Variation Image\" به \"گالری تصاویر "
+"واریاسیون اضافی برای WooCommerce\" منتقل می شود."
+
+#: ../includes/migrator.php:41, ../includes/migrator.php:47,
+#: ../includes/migrator.php:53, ../includes/migrator.php:59
+#, fuzzy
+msgid ""
+"Variation product migration has been scheduled to run in the background."
+msgstr "برنامه ریزی شده است که انتقال محصول متنوع در پس زمینه اجرا شود."
+
+#: ../includes/settings.php:13
+#, fuzzy
+msgid "Additional Variation Images Gallery for WooCommerce Settings"
+msgstr "گالری تصاویر متنوع اضافی برای تنظیمات WooCommerce"
+
+#: ../includes/settings.php:14
+#, fuzzy
+msgid "Gallery Settings"
+msgstr "تنظیمات گالری"
+
+#: ../woo-variation-gallery.php:91
+#, fuzzy
+msgid "It's a temporary deactivation."
+msgstr "این یک غیرفعال سازی موقت است."
+
+#: ../woo-variation-gallery.php:96
+#, fuzzy
+msgid "I couldn't understand how to make it work."
+msgstr "من نمی توانستم درک کنم که چگونه این کار را انجام دهم."
+
+#: ../woo-variation-gallery.php:98
+#, fuzzy
+msgid ""
+"It converts single variation image to multiple variation image gallery. <br>"
+"<a target=\"_blank\" href=\"http://bit.ly/demo-dea-dilogue\">Please check "
+"live demo</a>."
+msgstr ""
+"این تصویر تک تنوعی را به گالری تصاویر متنوع تبدیل می کند.<br> <a "
+"target=\"_blank\" href=\"http://bit.ly/demo-dea-dilogue\">لطفا نسخه ی نمایشی "
+"زنده را بررسی کنید</a> ."
+
+#: ../woo-variation-gallery.php:102
+#, fuzzy
+msgid "My Gallery looks <strong>too small</strong>."
+msgstr "گالری من <strong> خیلی کوچک </ strong> به نظر می رسد."
+
+#: ../woo-variation-gallery.php:104
+#, fuzzy
+msgid ""
+"<a target=\"_blank\" href=\"http://bit.ly/video-tuts-for-deactivate-"
+"dialogue\">Please check this video to configure it.</a>."
+msgstr ""
+"<a target=\"_blank\" href=\"http://bit.ly/video-tuts-for-deactivate-"
+"dialogue\">لطفاً برای پیکربندی این فیلم آن را بررسی کنید.</a> ."
+
+#: ../woo-variation-gallery.php:108
+#, fuzzy
+msgid "I no longer need the plugin"
+msgstr "دیگر نیازی به افزونه ندارم"
+
+#: ../woo-variation-gallery.php:113
+#, fuzzy
+msgid "I found a better plugin"
+msgstr "پلاگین بهتری پیدا کردم"
+
+#: ../woo-variation-gallery.php:114
+#, fuzzy
+msgid "Please share which plugin"
+msgstr "لطفاً کدام افزونه را به اشتراک بگذارید"
+
+#: ../woo-variation-gallery.php:118
+#, fuzzy
+msgid "The plugin <strong>broke my layout</strong> or some functionality."
+msgstr "این افزونه <strong> طرح من را شکست </ strong> یا برخی از قابلیت ها."
+
+#: ../woo-variation-gallery.php:120
+#, fuzzy
+msgid ""
+"<a target=\"_blank\" href=\"https://getwooplugins.com/tickets/\">Please open "
+"a support ticket</a>, we will fix it immediately."
+msgstr ""
+"<a target=\"_blank\" href=\"https://getwooplugins.com/tickets/\">لطفاً بلیط "
+"پشتیبانی را باز کنید</a> ، ما بلافاصله آن را برطرف خواهیم کرد."
+
+#: ../woo-variation-gallery.php:124
+#, fuzzy
+msgid "I need someone to <strong>setup this plugin.</strong>"
+msgstr "من به کسی نیاز دارم که <strong> این افزونه را تنظیم کند </ strong>"
+
+#: ../woo-variation-gallery.php:125
+#, fuzzy
+msgid "Your email address."
+msgstr "آدرس ایمیل شما"
+
+#: ../woo-variation-gallery.php:127
+#, fuzzy
+msgid ""
+"Please provide your email address to contact with you <br>and help you to "
+"setup and configure this plugin."
+msgstr ""
+"لطفاً آدرس ایمیل خود را برای تماس با شما در اختیار شما قرار دهید و به شما در "
+"تنظیم و پیکربندی این افزونه کمک کنید."
+
+#: ../woo-variation-gallery.php:131
+#, fuzzy
+msgid "The plugin is <strong>too complicated to configure.</strong>"
+msgstr "افزونه <strong> برای پیکربندی بسیار پیچیده است </ strong>"
+
+#: ../woo-variation-gallery.php:133
+#, fuzzy
+msgid ""
+"<a target=\"_blank\" href=\"https://getwooplugins."
+"com/documentation/woocommerce-variation-gallery/\">Have you checked our "
+"documentation?</a>."
+msgstr ""
+"<a target=\"_blank\" href=\"https://getwooplugins."
+"com/documentation/woocommerce-variation-gallery/\">آیا مدارک ما را بررسی "
+"کرده اید؟</a> ."
+
+#: ../woo-variation-gallery.php:137
+#, fuzzy
+msgid "I need specific feature that you don't support."
+msgstr "من به ویژگی خاصی نیاز دارم که از آن پشتیبانی نمی کنید."
+
+#: ../woo-variation-gallery.php:138
+#, fuzzy
+msgid "Please share with us."
+msgstr "لطفا با ما به اشتراک بگذارید"
+
+#: ../woo-variation-gallery.php:143
+#, fuzzy
+msgid "Other"
+msgstr "دیگر"
+
+#: ../woo-variation-gallery.php:144
+#, fuzzy
+msgid "Please share the reason"
+msgstr "لطفاً دلیل آن را به اشتراک بگذارید"
+
+#: ../woo-variation-gallery.php:351, ../woo-variation-gallery.php:427
+#, fuzzy
+msgid "Choose Image"
+msgstr "تصویر را انتخاب کنید"
+
+#: ../woo-variation-gallery.php:352, ../woo-variation-gallery.php:428
+#, fuzzy
+msgid "Add Images"
+msgstr "تصاویر را اضافه کنید"
+
+#: ../woo-variation-gallery.php:513
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../woo-variation-gallery.php:520
+#, fuzzy
+msgid "Go Pro"
+msgstr "برو طرفدار"
+
+#: ../woo-variation-gallery.php:538
+#, fuzzy
+msgid ""
+"Currently, you are using older version of WooCommerce. It's recommended to "
+"use latest version of WooCommerce to work with %s."
+msgstr ""
+"در حال حاضر ، شما از نسخه قدیمی WooCommerce استفاده می کنید. توصیه می شود "
+"برای کار با٪ s از آخرین نسخه WooCommerce استفاده کنید."
+
+#: ../woo-variation-gallery.php:538
+#, fuzzy
+msgid "WooCommerce Variation Gallery"
+msgstr "گالری تغییرات ووکامرس"
+
+#: ../woo-variation-gallery.php:546
+#, fuzzy
+msgid "Please check PHP version requirement."
+msgstr "لطفاً نسخه مورد نیاز PHP را بررسی کنید."
+
+#: ../woo-variation-gallery.php:548
+#, fuzzy
+msgid ""
+"It's required to use latest version of PHP to use <strong>Additional "
+"Variation Images Gallery for WooCommerce</strong>."
+msgstr ""
+"برای استفاده از <strong> گالری تصاویر متنوع اضافی برای WooCommerce </strong> "
+"لازم است از آخرین نسخه PHP استفاده کنید."
+
+#: ../woo-variation-gallery.php:560
+#, fuzzy
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: ../woo-variation-gallery.php:568
+#, fuzzy
+msgid ""
+"<strong>Additional Variation Images Gallery for WooCommerce</strong> is an "
+"add-on of "
+msgstr ""
+"<strong> گالری تصاویر واریاسیون اضافی برای WooCommerce </strong> یک افزودنی "
+"است"
+
+#: ../woo-variation-gallery.php:629
+#, fuzzy
+msgid "Read Documentation"
+msgstr "مستندات را بخوانید"
+
+#: ../woo-variation-gallery.php:630
+#, fuzzy
+msgid "Facing issue?"
+msgstr "با مشکل روبرو هستید؟"
+
+#: ../woo-variation-gallery.php:630
+#, fuzzy
+msgid "Please open a support ticket."
+msgstr "لطفاً بلیط پشتیبانی را باز کنید."

@@ -1,0 +1,2059 @@
+# Copyright (C) 2019 YITH WooCommerce Wishlist
+# This file is distributed under the same license as the YITH WooCommerce Wishlist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Wishlist\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"wishlist\n"
+"POT-Creation-Date: 2021-04-21 10:12:47+00:00\n"
+"PO-Revision-Date: 2021-05-08 05:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: includes/class.yith-wcwl-admin.php:126
+#, fuzzy
+msgid "Wishlist Page"
+msgstr "صفحه لیست علاقه مندی ها"
+
+#: includes/class.yith-wcwl-admin.php:148
+#, fuzzy
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: includes/class.yith-wcwl-admin.php:149
+#, fuzzy
+msgid "Add to wishlist options"
+msgstr "به گزینه های لیست علاقه مندی ها اضافه کنید"
+
+#: includes/class.yith-wcwl-admin.php:150
+#, fuzzy
+msgid "Wishlist page options"
+msgstr "گزینه های صفحه لیست علاقه مندی ها"
+
+#: includes/class.yith-wcwl-admin.php:151
+#, fuzzy
+msgid "Premium Version"
+msgstr "نسخه برتر"
+
+#: includes/class.yith-wcwl-admin.php:238
+#: includes/class.yith-wcwl-install.php:350
+#, fuzzy
+msgid "Wishlist"
+msgstr "لیست علاقه مندیها"
+
+#: includes/class.yith-wcwl-admin.php:240
+#, fuzzy
+msgid ""
+"Allows your customers to create and share lists of products that they want "
+"to purchase on your e-commerce."
+msgstr ""
+"به مشتریان شما اجازه می دهد لیستی از محصولاتی را که می خواهند در تجارت "
+"الکترونیکی شما خریداری کنند ایجاد و به اشتراک بگذارند."
+
+#: includes/class.yith-wcwl-ajax-handler.php:71
+#: templates/add-to-wishlist-remove.php:51
+#, fuzzy
+msgid "View &rsaquo;"
+msgstr "چشم انداز &gt;"
+
+#: includes/class.yith-wcwl-ajax-handler.php:72
+#: templates/add-to-wishlist-remove.php:50
+#, fuzzy
+msgid "or"
+msgstr "یا"
+
+#: includes/class.yith-wcwl-ajax-handler.php:73
+#, fuzzy
+msgid "Close"
+msgstr "نزدیک"
+
+#: includes/class.yith-wcwl-ajax-handler.php:143
+#: includes/class.yith-wcwl-ajax-handler.php:179
+#, fuzzy
+msgid "Product successfully removed."
+msgstr "محصول با موفقیت حذف شد"
+
+#: includes/class.yith-wcwl-form-handler.php:154
+#, fuzzy
+msgid "Please, make sure to enter a valid title"
+msgstr "لطفاً حتماً عنوان معتبری وارد کنید"
+
+#: includes/class.yith-wcwl-frontend.php:470
+#, fuzzy
+msgid ""
+"We are sorry, but this feature is available only if cookies on your browser "
+"are enabled."
+msgstr ""
+"متأسفیم ، اما این ویژگی فقط در صورت فعال بودن کوکی ها در مرورگر شما در دسترس "
+"است."
+
+#: includes/class.yith-wcwl-frontend.php:471
+#, fuzzy
+msgid "Product added to cart successfully"
+msgstr "محصول با موفقیت به سبد خرید اضافه شد"
+
+#: includes/class.yith-wcwl-frontend.php:724
+#: includes/class.yith-wcwl-shortcode.php:239
+#: plugin-options/wishlist_page-options.php:239
+#: templates/wishlist-view-footer-mobile.php:44
+#: templates/wishlist-view-footer.php:44
+#, fuzzy
+msgid "Add to cart"
+msgstr "افزودن به سبد خرید"
+
+#: includes/class.yith-wcwl-privacy.php:50
+#, fuzzy
+msgid "While you visit our site, we’ll track:"
+msgstr "در حالی که از سایت ما بازدید می کنید ، موارد زیر را ردیابی خواهیم کرد:"
+
+#: includes/class.yith-wcwl-privacy.php:52
+#, fuzzy
+msgid ""
+"Products you’ve added to the wishlist: we’ll use this to show you and other "
+"users your favourite products, and to create targeted email campaigns."
+msgstr ""
+"محصولاتی که به لیست خواسته ها اضافه کرده اید: ما از این موارد برای نمایش "
+"محصولات موردعلاقه شما و سایر کاربران و ایجاد کمپین های ایمیل هدفمند استفاده "
+"خواهیم کرد."
+
+#: includes/class.yith-wcwl-privacy.php:53
+#, fuzzy
+msgid ""
+"Wishlists you’ve created: we’ll keep track of the wishlists you create, and "
+"make them visible to the store staff"
+msgstr ""
+"لیست های دلخواه شما ایجاد کرده اید: ما لیست های خواسته های شما را پیگیری می "
+"کنیم و آنها را برای کارمندان فروشگاه قابل مشاهده می کنیم"
+
+#: includes/class.yith-wcwl-privacy.php:55
+#, fuzzy
+msgid ""
+"We’ll also use cookies to keep track of wishlist contents while you’re "
+"browsing our site."
+msgstr ""
+"هنگام مرور سایت ما ، از کوکی ها برای پیگیری مطالب لیست خواسته ها نیز استفاده "
+"خواهیم کرد."
+
+#: includes/class.yith-wcwl-privacy.php:58
+#, fuzzy
+msgid ""
+"Members of our team have access to the information you provide us with. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+"اعضای تیم ما به اطلاعاتی که شما به ما ارائه می دهید دسترسی دارند. به عنوان "
+"مثال ، هر دو سرپرست و مدیران فروشگاه می توانند به موارد زیر دسترسی داشته "
+"باشند:"
+
+#: includes/class.yith-wcwl-privacy.php:60
+#, fuzzy
+msgid ""
+"Wishlist details, such as products added, date of addition, name and privacy "
+"settings of your wishlists"
+msgstr ""
+"جزئیات لیست آرزوها ، مانند محصولات اضافه شده ، تاریخ افزودن ، نام و تنظیمات "
+"حریم خصوصی لیست های خواسته شما"
+
+#: includes/class.yith-wcwl-privacy.php:62
+#, fuzzy
+msgid ""
+"Our team members have access to this information to offer you better deals "
+"for the products you love."
+msgstr ""
+"اعضای تیم ما برای ارائه معاملات بهتر محصولات مورد علاقه شما ، به این اطلاعات "
+"دسترسی دارند."
+
+#: includes/class.yith-wcwl-privacy.php:82
+#: includes/class.yith-wcwl-privacy.php:98
+#, fuzzy
+msgid "Customer wishlists"
+msgstr "لیست های خواسته مشتری"
+
+#: includes/class.yith-wcwl-privacy.php:135 plugin-options/lists-options.php:25
+#: plugin-options/lists-options.php:32
+#, fuzzy
+msgid "Wishlists"
+msgstr "لیست آرزوها"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcwl-privacy.php:197
+msgid "Removed wishlist %s."
+msgstr "لیست خواسته ها %s حذف شد."
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcwl-privacy.php:201
+msgid "Wishlist %s has been retained."
+msgstr "لیست دلخواه %s حفظ شده است."
+
+#: includes/class.yith-wcwl-privacy.php:225
+#, fuzzy
+msgid "Token"
+msgstr "نشانه"
+
+#: includes/class.yith-wcwl-privacy.php:226
+#, fuzzy
+msgid "Wishlist URL"
+msgstr "URL لیست دلخواه"
+
+#: includes/class.yith-wcwl-privacy.php:227
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/class.yith-wcwl-privacy.php:229
+#, fuzzy
+msgid "Visibility"
+msgstr "دید"
+
+#: includes/class.yith-wcwl-privacy.php:230
+#, fuzzy
+msgid "Items added"
+msgstr "موارد اضافه شده"
+
+#: includes/class.yith-wcwl-shortcode.php:58
+#, fuzzy
+msgid ""
+"ID of the product to add to the wishlist (leave empty to use the global "
+"product)"
+msgstr ""
+"شناسه محصول برای افزودن به لیست خواسته ها (برای استفاده از محصول جهانی خالی "
+"بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:63
+#, fuzzy
+msgid "URL of the wishlist page (leave empty to use the default settings)"
+msgstr "URL صفحه لیست خواسته ها (برای استفاده از تنظیمات پیش فرض خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:68
+#, fuzzy
+msgid "Button label (leave empty to use the default settings)"
+msgstr "برچسب دکمه (برای استفاده از تنظیمات پیش فرض خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:73
+#, fuzzy
+msgid "\"Browse wishlist\" label (leave empty to use the default settings)"
+msgstr ""
+"برچسب \"فهرست خواسته ها\" (برای استفاده از تنظیمات پیش فرض خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:78
+#, fuzzy
+msgid ""
+"\"Product already in wishlist\" label (leave empty to use the default "
+"settings)"
+msgstr ""
+"برچسب \"محصول از قبل در لیست خواسته ها\" است (برای استفاده از تنظیمات پیش "
+"فرض خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:83
+#, fuzzy
+msgid ""
+"\"Product added to wishlist\" label (leave empty to use the default settings)"
+msgstr ""
+"برچسب \"محصول به لیست خواسته ها اضافه شد\" (برای استفاده از تنظیمات پیش فرض "
+"خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:88
+#, fuzzy
+msgid ""
+"Icon for the button (use any FontAwesome valid class, or leave empty to use "
+"the default settings)"
+msgstr ""
+"نماد دکمه (از هر کلاس معتبر FontAwesome استفاده کنید یا برای استفاده از "
+"تنظیمات پیش فرض خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:93
+#, fuzzy
+msgid ""
+"Additional CSS classes for the button (leave empty to use the default "
+"settings)"
+msgstr ""
+"کلاسهای CSS اضافی برای دکمه (برای استفاده از تنظیمات پیش فرض خالی بگذارید)"
+
+#: includes/class.yith-wcwl-shortcode.php:107
+#, fuzzy
+msgid "Choose whether to paginate items in the wishlist or show them all"
+msgstr ""
+"انتخاب کنید آیا موارد را در لیست خواسته ها صفحه بندی کنید یا همه آنها را "
+"نشان دهید"
+
+#: includes/class.yith-wcwl-shortcode.php:110
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:113
+#, fuzzy
+msgid "Paginate"
+msgstr "پیج زدن"
+
+#: includes/class.yith-wcwl-shortcode.php:111
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:114
+#, fuzzy
+msgid "Do not paginate"
+msgstr "صفحه بندی نکنید"
+
+#: includes/class.yith-wcwl-shortcode.php:116
+#, fuzzy
+msgid "Number of items to show per page"
+msgstr "تعداد موارد برای نمایش در هر صفحه"
+
+#: includes/class.yith-wcwl-shortcode.php:121
+#, fuzzy
+msgid "ID of the wishlist to show (e.g. K6EOWXB888ZD)"
+msgstr "شناسه لیست خواسته ها برای نشان دادن (به عنوان مثال K6EOWXB888ZD)"
+
+#: includes/class.yith-wcwl-shortcode.php:412
+#, fuzzy
+msgid "Share on:"
+msgstr "اشتراک در:"
+
+#: includes/class.yith-wcwl-shortcode.php:436
+#: plugin-options/wishlist_page-options.php:138
+#, fuzzy
+msgid "Share on Facebook"
+msgstr "در فیسبوک به اشتراک بگذارید"
+
+#: includes/class.yith-wcwl-shortcode.php:453
+#: plugin-options/wishlist_page-options.php:147
+#, fuzzy
+msgid "Tweet on Twitter"
+msgstr "توییتر در توییتر"
+
+#: includes/class.yith-wcwl-shortcode.php:471
+#: plugin-options/wishlist_page-options.php:156
+#, fuzzy
+msgid "Pin on Pinterest"
+msgstr "روی Pinterest پین بزنید"
+
+#: includes/class.yith-wcwl-shortcode.php:485
+#, fuzzy
+msgid "Share via email"
+msgstr "اشتراک از طریق ایمیل"
+
+#: includes/class.yith-wcwl-shortcode.php:498
+#: includes/class.yith-wcwl-shortcode.php:500
+#, fuzzy
+msgid "My wishlist on "
+msgstr "لیست خواسته های من در"
+
+#: includes/class.yith-wcwl-shortcode.php:508
+#: plugin-options/wishlist_page-options.php:174
+#, fuzzy
+msgid "Share on WhatsApp"
+msgstr "در WhatsApp به اشتراک بگذارید"
+
+#: includes/class.yith-wcwl-shortcode.php:615
+#, fuzzy
+msgid "Remove from list"
+msgstr "از لیست حذف کن"
+
+#: includes/class.yith-wcwl-wishlist-item.php:189
+msgid "Free!"
+msgstr "رایگان!"
+
+#: includes/class.yith-wcwl.php:164
+#, fuzzy
+msgid "The item cannot be added to this wishlist"
+msgstr "مورد نمی تواند به این لیست خواسته ها اضافه شود"
+
+#: includes/class.yith-wcwl.php:168 includes/class.yith-wcwl.php:174
+#, fuzzy
+msgid "An error occurred while adding the products to the wishlist."
+msgstr "هنگام افزودن محصولات به لیست خواسته ها خطایی روی داد."
+
+#: includes/class.yith-wcwl.php:235 includes/class.yith-wcwl.php:241
+#, fuzzy
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "خطا نمی توان محصول را از لیست خواسته ها حذف کرد."
+
+#: includes/data-stores/class.yith-wcwl-wishlist-data-store.php:150
+#: includes/data-stores/class.yith-wcwl-wishlist-data-store.php:172
+#, fuzzy
+msgid "Invalid wishlist."
+msgstr "لیست خواسته ها نامعتبر است."
+
+#: includes/data-stores/class.yith-wcwl-wishlist-item-data-store.php:117
+#, fuzzy
+msgid "Invalid wishlist item."
+msgstr "مورد لیست نامعتبر"
+
+#. translators: 1. Number of users.
+#: includes/functions.yith-wcwl.php:249
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d کاربر"
+msgstr[1] "%d کاربر"
+
+#: includes/functions.yith-wcwl.php:250
+#, fuzzy
+msgid "has this item in wishlist"
+msgid_plural "have this item in wishlist"
+msgstr[0] "این مورد را در لیست خواسته ها دارد"
+msgstr[1] "این مورد را در لیست خواسته ها قرار دهید"
+
+#: includes/functions.yith-wcwl.php:252
+#, fuzzy
+msgid "You're the first"
+msgstr "شما اولین هستید"
+
+#: includes/functions.yith-wcwl.php:253
+#, fuzzy
+msgid "to add this item in wishlist"
+msgstr "برای افزودن این مورد در لیست خواسته ها"
+
+#. translators: 1. Count of users when many, or "another" when only one.
+#: includes/functions.yith-wcwl.php:257
+msgid "You and %s user"
+msgid_plural "You and %d users"
+msgstr[0] "شما و %s کاربر"
+msgstr[1] "شما و %d کاربر"
+
+#: includes/functions.yith-wcwl.php:257
+#, fuzzy
+msgid "another"
+msgstr "یکی دیگر"
+
+#: includes/functions.yith-wcwl.php:258
+#, fuzzy
+msgid "have this item in wishlist"
+msgstr "این مورد را در لیست خواسته ها قرار دهید"
+
+#: includes/functions.yith-wcwl.php:423
+#, fuzzy
+msgid "None"
+msgstr "هیچ یک"
+
+#: includes/functions.yith-wcwl.php:424
+#, fuzzy
+msgid "Custom"
+msgstr "سفارشی"
+
+#: includes/functions.yith-wcwl.php:445
+#, fuzzy
+msgid "Shared"
+msgstr "مشترک"
+
+#: includes/functions.yith-wcwl.php:449
+#, fuzzy
+msgid "Only people with a link to this list can see it"
+msgstr "فقط افرادی که به این لیست پیوند دارند می توانند آن را مشاهده کنند"
+
+#: includes/functions.yith-wcwl.php:455
+#, fuzzy
+msgid "Private"
+msgstr "خصوصی"
+
+#: includes/functions.yith-wcwl.php:459
+#, fuzzy
+msgid "Only you can see this list"
+msgstr "فقط شما می توانید این لیست را مشاهده کنید"
+
+#: includes/functions.yith-wcwl.php:465
+#, fuzzy
+msgid "Public"
+msgstr "عمومی"
+
+#: includes/functions.yith-wcwl.php:469
+#, fuzzy
+msgid "Anyone can search for and see this list"
+msgstr "هرکسی می تواند این لیست را جستجو کرده و مشاهده کند"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:113
+#: plugin-options/add_to_wishlist-options.php:127
+#, fuzzy
+msgid "Add to wishlist"
+msgstr "افزودن به لیست خواسته ها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:123
+#: plugin-options/add_to_wishlist-options.php:143
+#, fuzzy
+msgid "Browse wishlist"
+msgstr "فهرست آرزوها را مرور کنید"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:133
+#, fuzzy
+msgid "Product already in wishlist"
+msgstr "محصول از قبل در لیست خواسته ها قرار دارد"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:143
+#, fuzzy
+msgid "Product added to wishlist"
+msgstr "محصول به لیست خواسته ها اضافه شد"
+
+#: init.php:160
+#, fuzzy
+msgid "is enabled but not effective. It requires WooCommerce to work."
+msgstr "فعال است اما موثر نیست. این به کار WooCommerce نیاز دارد."
+
+#: init.php:176
+#, fuzzy
+msgid "You can't activate the free version of"
+msgstr "نمی توانید نسخه رایگان را فعال کنید"
+
+#: init.php:176
+#, fuzzy
+msgid "while you are using the premium one."
+msgstr "در حالی که از حق بیمه استفاده می کنید."
+
+#: plugin-options/add_to_wishlist-options.php:20
+#: plugin-options/settings-options.php:25
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: plugin-options/add_to_wishlist-options.php:27
+#, fuzzy
+msgid "After product is added to wishlist"
+msgstr "پس از افزودن محصول به لیست خواسته ها"
+
+#: plugin-options/add_to_wishlist-options.php:28
+#, fuzzy
+msgid ""
+"Choose the look of the Wishlist button when the product has already been "
+"added to a wishlist"
+msgstr ""
+"وقتی محصول قبلاً به لیست خواسته ها اضافه شده است ، دکمه لیست خواسته ها را "
+"انتخاب کنید"
+
+#: plugin-options/add_to_wishlist-options.php:32
+#, fuzzy
+msgid "Show \"Add to wishlist\" button"
+msgstr "دکمه \"افزودن به لیست خواسته ها\" را نشان دهید"
+
+#: plugin-options/add_to_wishlist-options.php:33
+#, fuzzy
+msgid "Show \"View wishlist\" link"
+msgstr "پیوند \"مشاهده لیست خواسته ها\" را نشان دهید"
+
+#: plugin-options/add_to_wishlist-options.php:34
+#, fuzzy
+msgid "Show \"Remove from list\" link"
+msgstr "پیوند \"حذف از لیست\" را نشان دهید"
+
+#: plugin-options/add_to_wishlist-options.php:48
+#, fuzzy
+msgid "Loop settings"
+msgstr "تنظیمات حلقه"
+
+#: plugin-options/add_to_wishlist-options.php:50
+#, fuzzy
+msgid ""
+"Loop options will be visible on Shop page, category pages, product "
+"shortcodes, products sliders, and all the other places where the WooCommerce "
+"products' loop is used"
+msgstr ""
+"گزینه های حلقه در صفحه فروشگاه ، صفحات دسته بندی ، کد کوتاه محصول ، اسلایدر "
+"محصولات و سایر مکان های استفاده شده از حلقه محصولات WooCommerce قابل مشاهده "
+"است."
+
+#: plugin-options/add_to_wishlist-options.php:55
+#, fuzzy
+msgid "Show \"Add to wishlist\" in loop"
+msgstr "\"افزودن به لیست خواسته ها\" را در حلقه نشان دهید"
+
+#: plugin-options/add_to_wishlist-options.php:56
+#, fuzzy
+msgid "Enable the \"Add to wishlist\" feature in WooCommerce products' loop"
+msgstr ""
+"ویژگی \"افزودن به لیست خواسته ها\" را در حلقه محصولات WooCommerce فعال کنید"
+
+#: plugin-options/add_to_wishlist-options.php:64
+#, fuzzy
+msgid "Position of \"Add to wishlist\" in loop"
+msgstr "موقعیت \"افزودن به لیست خواسته ها\" در حلقه"
+
+#: plugin-options/add_to_wishlist-options.php:65
+#, fuzzy
+msgid ""
+"Choose where to show \"Add to wishlist\" button or link in WooCommerce "
+"products' loop. <span class=\"addon\">Copy this shortcode <span "
+"class=\"code\"><code>[yith_wcwl_add_to_wishlist]</code></span> and paste it "
+"where you want to show the \"Add to wishlist\" link or button</span>"
+msgstr ""
+"انتخاب کنید که کجا دکمه &quot;افزودن به لیست خواسته ها&quot; یا پیوند را در "
+"حلقه محصولات WooCommerce نشان دهید. <span class=\"addon\">این کد کوتاه <span "
+"class=\"code\"><code>[yith_wcwl_add_to_wishlist]</code></span> کپی کرده و در "
+"جایی که می خواهید پیوند یا دکمه &quot;افزودن به لیست علاقه مندی ها&quot; "
+"نشان داده شود ، جای گذاری کنید</span>"
+
+#: plugin-options/add_to_wishlist-options.php:72
+#, fuzzy
+msgid "On top of the image"
+msgstr "بالای تصویر"
+
+#: plugin-options/add_to_wishlist-options.php:73
+#, fuzzy
+msgid "Before \"Add to cart\" button"
+msgstr "قبل از دکمه \"افزودن به سبد خرید\""
+
+#: plugin-options/add_to_wishlist-options.php:74
+#, fuzzy
+msgid "After \"Add to cart\" button"
+msgstr "بعد از دکمه \"افزودن به سبد خرید\""
+
+#: plugin-options/add_to_wishlist-options.php:75
+#: plugin-options/add_to_wishlist-options.php:107
+#, fuzzy
+msgid "Use shortcode"
+msgstr "از کد کوتاه استفاده کنید"
+
+#: plugin-options/add_to_wishlist-options.php:89
+#, fuzzy
+msgid "Product page settings"
+msgstr "تنظیمات صفحه محصول"
+
+#: plugin-options/add_to_wishlist-options.php:96
+#, fuzzy
+msgid "Position of \"Add to wishlist\" on product page"
+msgstr "موقعیت \"افزودن به لیست خواسته ها\" در صفحه محصول"
+
+#: plugin-options/add_to_wishlist-options.php:97
+#, fuzzy
+msgid ""
+"Choose where to show \"Add to wishlist\" button or link on the product page. "
+"<span class=\"addon\">Copy this shortcode <span class=\"code\"><code>"
+"[yith_wcwl_add_to_wishlist]</code></span> and paste it where you want to "
+"show the \"Add to wishlist\" link or button</span>"
+msgstr ""
+"انتخاب کنید که کجا دکمه &quot;افزودن به لیست خواسته ها&quot; یا پیوند را در "
+"صفحه محصول نشان دهید. <span class=\"addon\">این کد کوتاه <span "
+"class=\"code\"><code>[yith_wcwl_add_to_wishlist]</code></span> کپی کرده و در "
+"جایی که می خواهید پیوند یا دکمه &quot;افزودن به لیست علاقه مندی ها&quot; "
+"نشان داده شود ، جای گذاری کنید</span>"
+
+#: plugin-options/add_to_wishlist-options.php:104
+#, fuzzy
+msgid "After \"Add to cart\""
+msgstr "پس از \"افزودن به سبد خرید\""
+
+#: plugin-options/add_to_wishlist-options.php:105
+#, fuzzy
+msgid "After thumbnails"
+msgstr "بعد از عکسهای کوچک"
+
+#: plugin-options/add_to_wishlist-options.php:106
+#, fuzzy
+msgid "After summary"
+msgstr "بعد از جمع بندی"
+
+#: plugin-options/add_to_wishlist-options.php:117
+#: plugin-options/wishlist_page-options.php:221
+#, fuzzy
+msgid "Text customization"
+msgstr "سفارشی سازی متن"
+
+#: plugin-options/add_to_wishlist-options.php:124
+#, fuzzy
+msgid "\"Add to wishlist\" text"
+msgstr "متن \"افزودن به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:125
+#, fuzzy
+msgid "Enter a text for \"Add to wishlist\" button"
+msgstr "برای دکمه \"افزودن به لیست خواسته ها\" متنی را وارد کنید"
+
+#: plugin-options/add_to_wishlist-options.php:132
+#, fuzzy
+msgid "\"Product added\" text"
+msgstr "متن \"محصول اضافه شده\""
+
+#: plugin-options/add_to_wishlist-options.php:133
+#, fuzzy
+msgid ""
+"Enter the text of the message displayed when the user adds a product to the "
+"wishlist"
+msgstr ""
+"وقتی کاربر محصولی را به لیست علاقه مندی ها اضافه می کند متن پیام نمایش داده "
+"شده را وارد کنید"
+
+#: plugin-options/add_to_wishlist-options.php:135
+#, fuzzy
+msgid "Product added!"
+msgstr "محصول اضافه شد!"
+
+#: plugin-options/add_to_wishlist-options.php:140
+#, fuzzy
+msgid "\"Browse wishlist\" text"
+msgstr "متن \"مرور لیست آرزوها\""
+
+#: plugin-options/add_to_wishlist-options.php:141
+#, fuzzy
+msgid "Enter a text for the \"Browse wishlist\" link on the product page"
+msgstr "متنی را برای پیوند \"مرور لیست آرزوها\" در صفحه محصول وارد کنید"
+
+#: plugin-options/add_to_wishlist-options.php:148
+#, fuzzy
+msgid "\"Product already in wishlist\" text"
+msgstr "متن \"محصول از قبل در لیست خواسته ها\" است"
+
+#: plugin-options/add_to_wishlist-options.php:149
+#, fuzzy
+msgid ""
+"Enter the text for the message displayed when the user views a product that "
+"is already in the wishlist"
+msgstr ""
+"وقتی کاربر محصولی را مشاهده می کنید که از قبل در لیست خواسته ها قرار دارد ، "
+"متن پیام را وارد کنید"
+
+#: plugin-options/add_to_wishlist-options.php:151
+#, fuzzy
+msgid "The product is already in your wishlist!"
+msgstr "این محصول در حال حاضر در لیست خواسته های شما است!"
+
+#: plugin-options/add_to_wishlist-options.php:161
+#, fuzzy
+msgid "Style & Color customization"
+msgstr "سبک و سفارشی سازی رنگ"
+
+#: plugin-options/add_to_wishlist-options.php:168
+#, fuzzy
+msgid "Style of \"Add to wishlist\""
+msgstr "سبک \"افزودن به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:169
+#, fuzzy
+msgid ""
+"Choose if you want to show a textual \"Add to wishlist\" link or a button"
+msgstr ""
+"اگر می خواهید پیوند متنی \"افزودن به لیست خواسته ها\" یا یک دکمه را نشان "
+"دهید ، انتخاب کنید"
+
+#: plugin-options/add_to_wishlist-options.php:172
+#: plugin-options/wishlist_page-options.php:260
+#, fuzzy
+msgid "Textual (anchor)"
+msgstr "متنی (لنگر)"
+
+#: plugin-options/add_to_wishlist-options.php:173
+#: plugin-options/wishlist_page-options.php:261
+#, fuzzy
+msgid "Button with theme style"
+msgstr "دکمه با سبک تم"
+
+#: plugin-options/add_to_wishlist-options.php:174
+#: plugin-options/wishlist_page-options.php:262
+#, fuzzy
+msgid "Button with custom style"
+msgstr "دکمه با سبک سفارشی"
+
+#: plugin-options/add_to_wishlist-options.php:182
+#, fuzzy
+msgid "\"Add to wishlist\" button style"
+msgstr "سبک دکمه \"افزودن به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:188
+#, fuzzy
+msgid "Choose colors for the \"Add to wishlist\" button"
+msgstr "رنگها را برای دکمه \"افزودن به لیست خواسته ها\" انتخاب کنید"
+
+#: plugin-options/add_to_wishlist-options.php:190
+#: plugin-options/wishlist_page-options.php:278
+#: plugin-options/wishlist_page-options.php:367
+#: plugin-options/wishlist_page-options.php:416
+#: plugin-options/wishlist_page-options.php:464
+#: plugin-options/wishlist_page-options.php:551
+#: plugin-options/wishlist_page-options.php:591
+#: plugin-options/wishlist_page-options.php:631
+#: plugin-options/wishlist_page-options.php:671
+#: plugin-options/wishlist_page-options.php:711
+#, fuzzy
+msgid "Background"
+msgstr "زمینه"
+
+#: plugin-options/add_to_wishlist-options.php:195
+#: plugin-options/wishlist_page-options.php:283
+#: plugin-options/wishlist_page-options.php:372
+#: plugin-options/wishlist_page-options.php:421
+#: plugin-options/wishlist_page-options.php:469
+#: plugin-options/wishlist_page-options.php:506
+#, fuzzy
+msgid "Text"
+msgstr "پیامک"
+
+#: plugin-options/add_to_wishlist-options.php:200
+#: plugin-options/wishlist_page-options.php:288
+#: plugin-options/wishlist_page-options.php:377
+#: plugin-options/wishlist_page-options.php:426
+#: plugin-options/wishlist_page-options.php:474
+#, fuzzy
+msgid "Border"
+msgstr "مرز"
+
+#: plugin-options/add_to_wishlist-options.php:206
+#, fuzzy
+msgid "Choose colors for the \"Add to wishlist\" button on hover state"
+msgstr ""
+"رنگها را برای دکمه \"افزودن به لیست خواسته ها\" در حالت شناور انتخاب کنید"
+
+#: plugin-options/add_to_wishlist-options.php:208
+#: plugin-options/wishlist_page-options.php:296
+#: plugin-options/wishlist_page-options.php:385
+#: plugin-options/wishlist_page-options.php:434
+#, fuzzy
+msgid "Background Hover"
+msgstr "پس زمینه شناور"
+
+#: plugin-options/add_to_wishlist-options.php:213
+#: plugin-options/wishlist_page-options.php:301
+#: plugin-options/wishlist_page-options.php:390
+#: plugin-options/wishlist_page-options.php:439
+#, fuzzy
+msgid "Text Hover"
+msgstr "متن شناور"
+
+#: plugin-options/add_to_wishlist-options.php:218
+#: plugin-options/wishlist_page-options.php:306
+#: plugin-options/wishlist_page-options.php:395
+#: plugin-options/wishlist_page-options.php:444
+#, fuzzy
+msgid "Border Hover"
+msgstr "حاشیه شناور"
+
+#: plugin-options/add_to_wishlist-options.php:231
+#: plugin-options/wishlist_page-options.php:319
+#, fuzzy
+msgid "Border radius"
+msgstr "شعاع مرز"
+
+#: plugin-options/add_to_wishlist-options.php:232
+#, fuzzy
+msgid "Choose radius for the \"Add to wishlist\" button"
+msgstr "شعاع را برای دکمه \"افزودن به لیست خواسته ها\" انتخاب کنید"
+
+#: plugin-options/add_to_wishlist-options.php:246
+#, fuzzy
+msgid "\"Add to wishlist\" icon"
+msgstr "نماد \"افزودن به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:247
+#, fuzzy
+msgid "Select an icon for the \"Add to wishlist\" button (optional)"
+msgstr "نمادی را برای دکمه \"افزودن به لیست خواسته ها\" انتخاب کنید (اختیاری)"
+
+#: plugin-options/add_to_wishlist-options.php:257
+#, fuzzy
+msgid "\"Add to wishlist\" custom icon"
+msgstr "نماد سفارشی \"افزودن به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:258
+#: plugin-options/add_to_wishlist-options.php:282
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for \"Add to wishlist\" button (suggested "
+"32px x 32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه \"افزودن به لیست علاقه مندی ها\" استفاده "
+"کنید بارگذاری کنید (پیشنهاد 32 پیکسل x 32 پیکسل)"
+
+#: plugin-options/add_to_wishlist-options.php:270
+#, fuzzy
+msgid "\"Added to wishlist\" icon"
+msgstr "نماد \"اضافه شده به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:271
+#, fuzzy
+msgid "Select an icon for the \"Added to wishlist\" button (optional)"
+msgstr ""
+"نمادی را برای دکمه \"اضافه شده به لیست خواسته ها\" انتخاب کنید (اختیاری)"
+
+#: plugin-options/add_to_wishlist-options.php:277
+#, fuzzy
+msgid "Same used for Add to wishlist"
+msgstr "همان مورد برای افزودن به لیست خواسته ها"
+
+#: plugin-options/add_to_wishlist-options.php:281
+#, fuzzy
+msgid "\"Added to wishlist\" custom icon"
+msgstr "نماد سفارشی \"اضافه شده به لیست خواسته ها\""
+
+#: plugin-options/add_to_wishlist-options.php:294
+#, fuzzy
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: plugin-options/add_to_wishlist-options.php:295
+#, fuzzy
+msgid "Enter custom CSS to be applied to Wishlist elements (optional)"
+msgstr "CSS سفارشی را وارد کنید تا بر روی عناصر Wishlist اعمال شود (اختیاری)"
+
+#: plugin-options/lists-options.php:34
+#, fuzzy
+msgid "Search list"
+msgstr "لیست جستجو"
+
+#: plugin-options/settings-options.php:17
+msgid ""
+"If you want to take advantage of this feature, you could consider purchasing "
+"the %s."
+msgstr ""
+"اگر می خواهید از این ویژگی استفاده کنید ، می توانید خرید %s را در نظر بگیرید."
+
+#: plugin-options/settings-options.php:32
+#, fuzzy
+msgid "Enable AJAX loading"
+msgstr "بارگذاری AJAX را فعال کنید"
+
+#: plugin-options/settings-options.php:33
+#, fuzzy
+msgid "Load any cacheable wishlist item via AJAX"
+msgstr "هر مورد از لیست خواسته های قابل ذخیره را از طریق AJAX بارگیری کنید"
+
+#: plugin-options/settings-options.php:46
+#, fuzzy
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce اغلب با هم ادغام می شود"
+
+#: plugin-options/settings-options.php:48
+#, fuzzy
+msgid ""
+"In order to use this integration you have to install and activate YITH "
+"WooCommerce Frequently Bought Together. <a href=\"%s\">Learn more</a>"
+msgstr ""
+"برای استفاده از این ادغام ، شما باید YITH WooCommerce که اغلب با هم خریداری "
+"می شود را نصب و فعال کنید. <a href=\"%s\">بیشتر بدانید</a>"
+
+#: plugin-options/settings-options.php:53
+#, fuzzy
+msgid "Enable slider in wishlist"
+msgstr "لغزنده را در لیست خواسته ها فعال کنید"
+
+#: plugin-options/settings-options.php:54
+msgid ""
+"Enable the slider with linked products on the Wishlist page (<a "
+"href=\"%1$s\" class=\"thickbox\">Example</a>). %2$s"
+msgstr ""
+"اسلایدر را با محصولات پیوند داده شده در صفحه لیست خواسته ها فعال کنید ( <a "
+"href=\"%1$s\" class=\"thickbox\">مثال</a> ). %2$s"
+
+#: plugin-options/wishlist_page-options.php:19
+#, fuzzy
+msgid "All your wishlists"
+msgstr "همه لیست های خواسته شما"
+
+#: plugin-options/wishlist_page-options.php:26
+#, fuzzy
+msgid "Wishlist page"
+msgstr "صفحه لیست علاقه مندی ها"
+
+#: plugin-options/wishlist_page-options.php:27
+#, fuzzy
+msgid ""
+"Pick a page as the main Wishlist page; make sure you add the <span "
+"class=\"code\"><code>[yith_wcwl_wishlist]</code></span> shortcode into the "
+"page content"
+msgstr ""
+"یک صفحه را به عنوان صفحه اصلی لیست خواسته ها انتخاب کنید. مطمئن شوید که "
+"<span class=\"code\"><code>[yith_wcwl_wishlist]</code></span> به محتوای صفحه "
+"اضافه کرده اید"
+
+#: plugin-options/wishlist_page-options.php:40
+#, fuzzy
+msgid "Wishlist Detail Page"
+msgstr "صفحه جزئیات لیست علاقه مندی ها"
+
+#: plugin-options/wishlist_page-options.php:47
+#: plugin-options/wishlist_page-options.php:56
+#: plugin-options/wishlist_page-options.php:65
+#: plugin-options/wishlist_page-options.php:74
+#: plugin-options/wishlist_page-options.php:83
+#: plugin-options/wishlist_page-options.php:92
+#: plugin-options/wishlist_page-options.php:101
+#, fuzzy
+msgid "In wishlist table show"
+msgstr "در جدول جدول آرزوها"
+
+#: plugin-options/wishlist_page-options.php:48
+#, fuzzy
+msgid "Product variations selected by the user (example: size or color)"
+msgstr "تغییرات محصول انتخاب شده توسط کاربر (به عنوان مثال: اندازه یا رنگ)"
+
+#: plugin-options/wishlist_page-options.php:57
+#, fuzzy
+msgid "Product price"
+msgstr "قیمت کالا"
+
+#: plugin-options/wishlist_page-options.php:66
+#, fuzzy
+msgid "Product stock (show if the product is available or not)"
+msgstr "سهام محصول (نشان می دهد محصول موجود است یا نه)"
+
+#: plugin-options/wishlist_page-options.php:75
+#, fuzzy
+msgid "Date on which the product was added to the wishlist"
+msgstr "تاریخ اضافه شدن محصول به لیست خواسته ها"
+
+#: plugin-options/wishlist_page-options.php:84
+#, fuzzy
+msgid "Add to cart option for each product"
+msgstr "گزینه افزودن به سبد خرید برای هر محصول"
+
+#: plugin-options/wishlist_page-options.php:93
+#, fuzzy
+msgid ""
+"Icon to remove the product from the wishlist - to the left of the product"
+msgstr "نمادی برای حذف محصول از لیست خواسته ها - در سمت چپ محصول"
+
+#: plugin-options/wishlist_page-options.php:102
+#, fuzzy
+msgid ""
+"Button to remove the product from the wishlist - to the right of the product"
+msgstr "دکمه حذف محصول از لیست خواسته ها - در سمت راست محصول"
+
+#: plugin-options/wishlist_page-options.php:110
+#, fuzzy
+msgid "Redirect to cart"
+msgstr "تغییر مسیر به سبد خرید"
+
+#: plugin-options/wishlist_page-options.php:111
+#, fuzzy
+msgid ""
+"Redirect users to the cart page when they add a product to the cart from the "
+"wishlist page"
+msgstr ""
+"وقتی کالایی را از صفحه لیست علاقه مندی ها به سبد خرید اضافه می کنند ، به "
+"صفحه سبد خرید هدایت شوید"
+
+#: plugin-options/wishlist_page-options.php:119
+#, fuzzy
+msgid "Remove if added to the cart"
+msgstr "اگر به سبد خرید اضافه شد ، آن را بردارید"
+
+#: plugin-options/wishlist_page-options.php:120
+#, fuzzy
+msgid ""
+"Remove the product from the wishlist after it has been added to the cart"
+msgstr "پس از افزودن محصول به سبد خرید ، آن را از لیست خواسته ها حذف کنید"
+
+#: plugin-options/wishlist_page-options.php:128
+#, fuzzy
+msgid "Share wishlist"
+msgstr "لیست خواسته ها را به اشتراک بگذارید"
+
+#: plugin-options/wishlist_page-options.php:129
+#, fuzzy
+msgid "Enable this option to let users share their wishlist on social media"
+msgstr ""
+"این گزینه را فعال کنید تا به کاربران اجازه دهید لیست خواسته های خود را در "
+"شبکه های اجتماعی به اشتراک بگذارند"
+
+#: plugin-options/wishlist_page-options.php:137
+#: plugin-options/wishlist_page-options.php:146
+#: plugin-options/wishlist_page-options.php:155
+#: plugin-options/wishlist_page-options.php:164
+#: plugin-options/wishlist_page-options.php:173
+#, fuzzy
+msgid "Share on social media"
+msgstr "در شبکه های اجتماعی به اشتراک بگذارید"
+
+#: plugin-options/wishlist_page-options.php:165
+#, fuzzy
+msgid "Share by email"
+msgstr "اشتراک از طریق ایمیل"
+
+#: plugin-options/wishlist_page-options.php:182
+#, fuzzy
+msgid "Share by URL"
+msgstr "اشتراک توسط URL"
+
+#: plugin-options/wishlist_page-options.php:183
+#, fuzzy
+msgid "Show \"Share URL\" field on wishlist page"
+msgstr "قسمت \"اشتراک URL\" را در صفحه لیست خواسته ها نشان دهید"
+
+#: plugin-options/wishlist_page-options.php:191
+#, fuzzy
+msgid "Sharing title"
+msgstr "اشتراک گذاری عنوان"
+
+#: plugin-options/wishlist_page-options.php:192
+#, fuzzy
+msgid "Wishlist title used for sharing (only used on Twitter and Pinterest)"
+msgstr ""
+"عنوان لیست خواسته ها برای به اشتراک گذاری استفاده می شود (فقط در Twitter و "
+"Pinterest استفاده می شود)"
+
+#: plugin-options/wishlist_page-options.php:194
+msgid "My wishlist on %s"
+msgstr "لیست خواسته های من در %s"
+
+#: plugin-options/wishlist_page-options.php:199
+msgid "Social text"
+msgstr "متن اجتماعی"
+
+#: plugin-options/wishlist_page-options.php:200
+#, fuzzy
+msgid ""
+"Type the message you want to publish when you share your wishlist on Twitter "
+"and Pinterest"
+msgstr ""
+"هنگامی که لیست خواسته های خود را در Twitter و Pinterest به اشتراک می گذارید "
+"، پیامی را که می خواهید منتشر کنید تایپ کنید"
+
+#: plugin-options/wishlist_page-options.php:208
+#, fuzzy
+msgid "Social image URL"
+msgstr "URL تصویر اجتماعی"
+
+#: plugin-options/wishlist_page-options.php:209
+#, fuzzy
+msgid "It will be used to pin the wishlist on Pinterest."
+msgstr "برای پین کردن لیست خواسته ها در Pinterest استفاده خواهد شد."
+
+#: plugin-options/wishlist_page-options.php:228
+#, fuzzy
+msgid "Default wishlist name"
+msgstr "نام لیست خواسته های پیش فرض"
+
+#: plugin-options/wishlist_page-options.php:229
+#, fuzzy
+msgid ""
+"Enter a name for the default wishlist. This is the wishlist that will be "
+"automatically generated for all users if they do not create any custom one"
+msgstr ""
+"نامی را برای لیست خواسته های پیش فرض وارد کنید. این لیست آرزوهایی است که در "
+"صورت عدم ایجاد لیست سفارشی برای همه کاربران به طور خودکار تولید می شود"
+
+#: plugin-options/wishlist_page-options.php:231
+#, fuzzy
+msgid "My wishlist"
+msgstr "لیست علاقه مندی های من"
+
+#: plugin-options/wishlist_page-options.php:236
+#, fuzzy
+msgid "\"Add to cart\" text"
+msgstr "متن \"افزودن به سبد خرید\""
+
+#: plugin-options/wishlist_page-options.php:237
+#, fuzzy
+msgid "Enter a text for the \"Add to cart\" button"
+msgstr "برای دکمه \"افزودن به سبد خرید\" متنی وارد کنید"
+
+#: plugin-options/wishlist_page-options.php:249
+#, fuzzy
+msgid "Style & color customization"
+msgstr "سبک و سفارشی سازی رنگ"
+
+#: plugin-options/wishlist_page-options.php:256
+#, fuzzy
+msgid "Style of \"Add to cart\""
+msgstr "سبک \"افزودن به سبد خرید\""
+
+#: plugin-options/wishlist_page-options.php:257
+#, fuzzy
+msgid "Choose whether to show a textual \"Add to cart\" link or a button"
+msgstr ""
+"انتخاب کنید آیا پیوند متنی \"افزودن به سبد خرید\" یا دکمه ای نشان داده شود"
+
+#: plugin-options/wishlist_page-options.php:270
+#, fuzzy
+msgid "\"Add to cart\" button style"
+msgstr "سبک دکمه \"افزودن به سبد خرید\""
+
+#: plugin-options/wishlist_page-options.php:276
+#, fuzzy
+msgid "Choose the colors for the \"Add to cart\" button"
+msgstr "رنگها را برای دکمه \"افزودن به سبد خرید\" انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:294
+#, fuzzy
+msgid "Choose colors for the \"Add to cart\" button on hover state"
+msgstr "رنگ را برای دکمه \"افزودن به سبد خرید\" در حالت شناور انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:320
+#, fuzzy
+msgid "Set the radius for the \"Add to cart\" button"
+msgstr "شعاع دکمه \"افزودن به سبد خرید\" را تنظیم کنید"
+
+#: plugin-options/wishlist_page-options.php:334
+#, fuzzy
+msgid "\"Add to cart\" icon"
+msgstr "نماد \"افزودن به سبد خرید\""
+
+#: plugin-options/wishlist_page-options.php:335
+#, fuzzy
+msgid "Select an icon for the \"Add to cart\" button (optional)"
+msgstr "نمادی را برای دکمه \"افزودن به سبد خرید\" انتخاب کنید (اختیاری)"
+
+#: plugin-options/wishlist_page-options.php:350
+#, fuzzy
+msgid "\"Add to cart\" custom icon"
+msgstr "نماد سفارشی \"افزودن به سبد خرید\""
+
+#: plugin-options/wishlist_page-options.php:351
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for the \"Add to cart\" button (suggested "
+"32px x 32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه \"افزودن به سبد خرید\" استفاده کنید بارگذاری "
+"کنید (پیشنهاد 32 پیکسل x 32 پیکسل)"
+
+#: plugin-options/wishlist_page-options.php:359
+#, fuzzy
+msgid "Primary button style"
+msgstr "سبک دکمه اصلی"
+
+#: plugin-options/wishlist_page-options.php:365
+#, fuzzy
+msgid ""
+"Choose colors for the primary button<br/><small>This style will be applied "
+"to \"Edit title\" button on Wishlist view, \"Submit Changes\" button on "
+"Manage view and \"Search wishlist\" button on Search view</small>"
+msgstr ""
+"رنگها را برای دکمه اصلی انتخاب کنید <br/> <small> این سبک در دکمه \"ویرایش "
+"عنوان\" در نمای لیست خواسته ها ، دکمه \"ارسال تغییرات\" در نمای مشاهده و "
+"دکمه \"جستجو در لیست خواسته ها\" در نمای جستجو اعمال می شود </ small>"
+
+#: plugin-options/wishlist_page-options.php:383
+#, fuzzy
+msgid ""
+"Choose colors for the primary button on hover state<br/><small>This style "
+"will be applied to \"Edit title\" button on Wishlist view, \"Submit "
+"Changes\" button on Manage view and \"Search wishlist\" button on Search "
+"view</small>"
+msgstr ""
+"رنگها را برای دکمه اصلی حالت شناور انتخاب کنید <br/> <small> این دکمه در "
+"دکمه \"ویرایش عنوان\" در نمای لیست خواسته ها ، دکمه \"ارسال تغییرات\" در "
+"نمای مشاهده و دکمه \"جستجوی لیست خواسته ها\" در نمای جستجو </ کوچک>"
+
+#: plugin-options/wishlist_page-options.php:408
+#, fuzzy
+msgid "Secondary button style"
+msgstr "سبک دکمه ثانویه"
+
+#: plugin-options/wishlist_page-options.php:414
+#: plugin-options/wishlist_page-options.php:432
+#, fuzzy
+msgid ""
+"Choose colors of the secondary button<br/><small>This style will be applied "
+"to the buttons that allow showing and hiding the Edit title form on Wishlist "
+"view and \"Create new Wishlist\" button on Manage view</small>"
+msgstr ""
+"رنگهای دکمه ثانویه را انتخاب کنید <br/> <small> این سبک برای دکمه هایی اعمال "
+"می شود که اجازه نمایش و پنهان کردن فرم ویرایش عنوان را در نمای لیست خواسته "
+"ها و دکمه \"ایجاد لیست جدید آرزوها\" را در مدیریت مشاهده </ small> اعمال می "
+"کند"
+
+#: plugin-options/wishlist_page-options.php:457
+#, fuzzy
+msgid "Wishlist table style"
+msgstr "سبک جدول لیست علاقه مندی ها"
+
+#: plugin-options/wishlist_page-options.php:458
+#, fuzzy
+msgid ""
+"Choose the colors for the wishlist table (when set to \"Traditional\" layout)"
+msgstr ""
+"رنگ ها را برای جدول لیست علاقه مندی ها انتخاب کنید (وقتی روی طرح \"سنتی\" "
+"تنظیم شده است)"
+
+#: plugin-options/wishlist_page-options.php:486
+#, fuzzy
+msgid "Highlight color"
+msgstr "رنگ برجسته"
+
+#: plugin-options/wishlist_page-options.php:487
+#, fuzzy
+msgid ""
+"Choose the color for all sections with background<br/><small>This color will "
+"be used as background for the wishlist table heading and footer (when set to "
+"\"Traditional\" layout), and for various form across wishlist views</small>"
+msgstr ""
+"رنگ را برای همه بخشهای دارای پس زمینه انتخاب کنید <br/> <small> این رنگ به "
+"عنوان پس زمینه برای عنوان و پاورقی جدول لیست آرزوها (وقتی روی طرح \"سنتی\" "
+"تنظیم می شود) و برای فرم های مختلف در نماهای لیست علاقه مندی ها استفاده می "
+"شود </ small>"
+
+#: plugin-options/wishlist_page-options.php:499
+#, fuzzy
+msgid "Share button text color"
+msgstr "اشتراک رنگ متن دکمه"
+
+#: plugin-options/wishlist_page-options.php:500
+#, fuzzy
+msgid "Choose colors for share buttons text"
+msgstr "برای متن دکمه های اشتراک گذاری رنگ ها را انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:511
+#, fuzzy
+msgid "Text hover"
+msgstr "شناور متن"
+
+#: plugin-options/wishlist_page-options.php:524
+#, fuzzy
+msgid "Facebook share button icon"
+msgstr "نماد دکمه اشتراک فیس بوک"
+
+#: plugin-options/wishlist_page-options.php:525
+#, fuzzy
+msgid "Select an icon for the Facebook share button"
+msgstr "نمادی را برای دکمه اشتراک گذاری Facebook انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:535
+#, fuzzy
+msgid "Facebook share button custom icon"
+msgstr "نماد سفارشی دکمه اشتراک فیس بوک"
+
+#: plugin-options/wishlist_page-options.php:536
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for Facebook share button (suggested 32px x "
+"32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه اشتراک Facebook استفاده کنید بارگذاری کنید "
+"(پیشنهاد 32px x 32px)"
+
+#: plugin-options/wishlist_page-options.php:544
+#, fuzzy
+msgid "Facebook share button style"
+msgstr "سبک دکمه اشتراک فیس بوک"
+
+#: plugin-options/wishlist_page-options.php:545
+#, fuzzy
+msgid "Choose colors for Facebook share button"
+msgstr "رنگ را برای دکمه اشتراک فیس بوک انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:556
+#: plugin-options/wishlist_page-options.php:596
+#: plugin-options/wishlist_page-options.php:636
+#: plugin-options/wishlist_page-options.php:676
+#: plugin-options/wishlist_page-options.php:716
+#, fuzzy
+msgid "Background hover"
+msgstr "پس زمینه شناور"
+
+#: plugin-options/wishlist_page-options.php:564
+#, fuzzy
+msgid "Twitter share button icon"
+msgstr "نماد دکمه اشتراک گذاری توییتر"
+
+#: plugin-options/wishlist_page-options.php:565
+#, fuzzy
+msgid "Select an icon for the Twitter share button"
+msgstr "نمادی را برای دکمه اشتراک گذاری توییتر انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:575
+#, fuzzy
+msgid "Twitter share button custom icon"
+msgstr "نماد سفارشی دکمه اشتراک Twitter"
+
+#: plugin-options/wishlist_page-options.php:576
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for Twitter share button (suggested 32px x "
+"32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه اشتراک Twitter استفاده کنید بارگذاری کنید "
+"(پیشنهاد 32px x 32px)"
+
+#: plugin-options/wishlist_page-options.php:584
+#, fuzzy
+msgid "Twitter share button style"
+msgstr "سبک دکمه اشتراک گذاری توییتر"
+
+#: plugin-options/wishlist_page-options.php:585
+#, fuzzy
+msgid "Choose colors for Twitter share button"
+msgstr "دکمه اشتراک گذاری توییتر را انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:604
+#, fuzzy
+msgid "Pinterest share button icon"
+msgstr "نماد دکمه اشتراک گذاری Pinterest"
+
+#: plugin-options/wishlist_page-options.php:605
+#, fuzzy
+msgid "Select an icon for the Pinterest share button"
+msgstr "نمادی را برای دکمه اشتراک گذاری Pinterest انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:615
+#, fuzzy
+msgid "Pinterest share button custom icon"
+msgstr "نماد سفارشی دکمه اشتراک گذاری Pinterest"
+
+#: plugin-options/wishlist_page-options.php:616
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for Pinterest share button (suggested 32px "
+"x 32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه اشتراک گذاری Pinterest استفاده کنید بارگذاری "
+"کنید (پیشنهاد 32px x 32px)"
+
+#: plugin-options/wishlist_page-options.php:624
+#, fuzzy
+msgid "Pinterest share button style"
+msgstr "سبک دکمه اشتراک گذاری Pinterest"
+
+#: plugin-options/wishlist_page-options.php:625
+#, fuzzy
+msgid "Choose colors for Pinterest share button"
+msgstr "رنگها را برای دکمه اشتراک گذاری Pinterest انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:644
+#, fuzzy
+msgid "Email share button icon"
+msgstr "نماد دکمه اشتراک ایمیل"
+
+#: plugin-options/wishlist_page-options.php:645
+#, fuzzy
+msgid "Select an icon for the Email share button"
+msgstr "نمادی را برای دکمه اشتراک ایمیل انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:655
+#, fuzzy
+msgid "Email share button custom icon"
+msgstr "نماد سفارشی دکمه اشتراک ایمیل"
+
+#: plugin-options/wishlist_page-options.php:656
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for the Email share button (suggested 32px "
+"x 32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه اشتراک ایمیل استفاده کنید بارگذاری کنید "
+"(پیشنهاد 32px x 32px)"
+
+#: plugin-options/wishlist_page-options.php:664
+#, fuzzy
+msgid "Email share button style"
+msgstr "سبک دکمه اشتراک ایمیل"
+
+#: plugin-options/wishlist_page-options.php:665
+#, fuzzy
+msgid "Choose colors for the Email share button"
+msgstr "رنگ ها را برای دکمه اشتراک ایمیل انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:684
+#, fuzzy
+msgid "WhatsApp share button icon"
+msgstr "نماد دکمه اشتراک گذاری WhatsApp"
+
+#: plugin-options/wishlist_page-options.php:685
+#, fuzzy
+msgid "Select an icon for the WhatsApp share button"
+msgstr "نمادی را برای دکمه اشتراک WhatsApp انتخاب کنید"
+
+#: plugin-options/wishlist_page-options.php:695
+#, fuzzy
+msgid "WhatsApp share button custom icon"
+msgstr "نماد سفارشی دکمه اشتراک WhatsApp"
+
+#: plugin-options/wishlist_page-options.php:696
+#, fuzzy
+msgid ""
+"Upload an icon you'd like to use for WhatsApp share button (suggested 32px x "
+"32px)"
+msgstr ""
+"نمادی را که می خواهید برای دکمه اشتراک WhatsApp استفاده کنید بارگذاری کنید "
+"(پیشنهاد 32px x 32px)"
+
+#: plugin-options/wishlist_page-options.php:704
+#, fuzzy
+msgid "WhatsApp share button style"
+msgstr "سبک دکمه اشتراک WhatsApp"
+
+#: plugin-options/wishlist_page-options.php:705
+#, fuzzy
+msgid "Choose colors for WhatsApp share button"
+msgstr "رنگها را برای دکمه اشتراک WhatsApp انتخاب کنید"
+
+#: templates/admin/wishlist-panel-premium.php:168
+#: templates/admin/wishlist-panel-premium.php:309
+msgid ""
+"Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce "
+"Wishlist%2$s to benefit from all features!"
+msgstr ""
+"به نسخه اسپرمیم%1$ %2$s%3$s از %1$sYITH لیست علاقه مندی های WooCommerce%2$s "
+"ارتقا دهید تا از همه ویژگی ها بهره مند شوید!"
+
+#: templates/admin/wishlist-panel-premium.php:170
+#: templates/admin/wishlist-panel-premium.php:311
+#, fuzzy
+msgid "Upgrade"
+msgstr "ارتقا دهید"
+
+#: templates/admin/wishlist-panel-premium.php:176
+#, fuzzy
+msgid "Premium Features"
+msgstr "ویژگی های برتر"
+
+#: templates/admin/wishlist-panel-premium.php:180
+#, fuzzy
+msgid "Allow your customers to create multiple wishlists"
+msgstr "به مشتریان خود اجازه دهید چندین لیست خواسته ایجاد کنند"
+
+#: templates/admin/wishlist-panel-premium.php:182
+#, fuzzy
+msgid ""
+"Christmas, Birthday... users will be able to create and manage multiple "
+"wishlists, in case they prefer to keep the products sorted by category or "
+"other parameters."
+msgstr ""
+"کریسمس ، تولد ... در صورتی که ترجیح دهند محصولات را بر اساس دسته بندی یا "
+"پارامترهای دیگر مرتب نگه دارند ، کاربران می توانند چندین لیست خواسته ایجاد و "
+"مدیریت کنند."
+
+#: templates/admin/wishlist-panel-premium.php:185
+#, fuzzy
+msgid "Multiple Wishlist"
+msgstr "لیست خواسته های چندگانه"
+
+#: templates/admin/wishlist-panel-premium.php:192
+#, fuzzy
+msgid "Wishlist Private"
+msgstr "لیست دلخواه خصوصی"
+
+#: templates/admin/wishlist-panel-premium.php:196
+#, fuzzy
+msgid "A transparent privacy management"
+msgstr "یک مدیریت حریم خصوصی شفاف"
+
+#: templates/admin/wishlist-panel-premium.php:198
+#, fuzzy
+msgid ""
+"Your customers can set a privacy option for each wishlist and choose whether "
+"sharing the wishlist or making it private."
+msgstr ""
+"مشتریان شما می توانند برای هر لیست خواسته ها یک گزینه حفظ حریم خصوصی تنظیم "
+"کنند و انتخاب کنند که آیا لیست خواسته ها را به اشتراک بگذارید یا خصوصی آن را "
+"انتخاب کنید."
+
+#: templates/admin/wishlist-panel-premium.php:206
+#, fuzzy
+msgid ""
+"Allow your customers to ask for an estimate, directly from their wishlist "
+"page"
+msgstr ""
+"به مشتریان خود اجازه دهید مستقیماً از صفحه لیست خواسته هایشان تقاضای تخمین "
+"کنند"
+
+#: templates/admin/wishlist-panel-premium.php:208
+#, fuzzy
+msgid ""
+"And give only registered users the privilege to use the wishlist "
+"functionalities."
+msgstr ""
+"و فقط به کاربران ثبت نام شده این امتیاز را بدهید که از ویژگی های لیست خواسته "
+"ها استفاده کنند."
+
+#: templates/admin/wishlist-panel-premium.php:211
+#, fuzzy
+msgid "Estimate Cost"
+msgstr "برآورد هزینه"
+
+#: templates/admin/wishlist-panel-premium.php:218
+#, fuzzy
+msgid "Admin Panel"
+msgstr "پنل مدیریت"
+
+#: templates/admin/wishlist-panel-premium.php:222
+#, fuzzy
+msgid "An advanced and more versatile management of the wishlist"
+msgstr "مدیریت پیشرفته و همه کاره لیست خواسته ها"
+
+#: templates/admin/wishlist-panel-premium.php:224
+#, fuzzy
+msgid ""
+"Your customers can sort the products in the wishlist thanks to the drag&drop "
+"option, move products from one wishlist to another, manage product quantity, "
+"download the wishlist content to a .pdf file, share the wishlist on their "
+"social networks, and much more!"
+msgstr ""
+"مشتریان شما می توانند به لطف گزینه کشیدن و رها کردن ، محصولات را در لیست "
+"خواسته ها مرتب کنند ، محصولات را از یک لیست خواسته ها به لیست دیگر منتقل "
+"کنند ، مقدار محصول را مدیریت کنند ، محتوای لیست خواسته ها را به یک فایل .pdf "
+"بارگیری کنند ، لیست خواسته ها را در شبکه های اجتماعی خود به اشتراک بگذارند و "
+"موارد دیگر!"
+
+#: templates/admin/wishlist-panel-premium.php:232
+#, fuzzy
+msgid "Monitor your customers’ wishlists and the popular products"
+msgstr "لیست خواسته های مشتریان و محصولات محبوب را کنترل کنید"
+
+#: templates/admin/wishlist-panel-premium.php:234
+#, fuzzy
+msgid ""
+"You can see your customers’ wishlists, gain insight into the products they "
+"are more interested in and plan targeted marketing strategies."
+msgstr ""
+"شما می توانید لیست های خواسته مشتریان خود را مشاهده کنید ، از محصولات مورد "
+"علاقه آنها اطلاعات بیشتری کسب کنید و استراتژی های بازاریابی هدفمند را برنامه "
+"ریزی کنید."
+
+#: templates/admin/wishlist-panel-premium.php:237
+#, fuzzy
+msgid "Search Wishlists"
+msgstr "لیست های علاقه مندی را جستجو کنید"
+
+#: templates/admin/wishlist-panel-premium.php:244
+#, fuzzy
+msgid "'ADD TO CART'"
+msgstr "\"افزودن به کارت\""
+
+#: templates/admin/wishlist-panel-premium.php:248
+#, fuzzy
+msgid ""
+"Send promotional emails for products in wishlists to push customers to buy"
+msgstr ""
+"برای محصولات در لیست خواسته ها ایمیل تبلیغاتی ارسال کنید تا مشتریان را به "
+"خرید سوق دهد"
+
+#: templates/admin/wishlist-panel-premium.php:250
+#, fuzzy
+msgid ""
+"Just three clicks to send promotional emails with discount coupons to "
+"customers who have added specific products to their wishlist and push them "
+"to buy."
+msgstr ""
+"فقط سه کلیک برای ارسال ایمیل تبلیغاتی همراه با کوپن تخفیف برای مشتریانی که "
+"محصولات خاصی را به لیست خواسته های خود اضافه کرده اند و آنها را به سمت خرید "
+"سوق می دهد."
+
+#: templates/admin/wishlist-panel-premium.php:258
+#, fuzzy
+msgid "Let users buy the product right from the wishlist page"
+msgstr ""
+"به کاربران اجازه دهید این محصول را مستقیماً از صفحه لیست خواسته ها خریداری "
+"کنند"
+
+#: templates/admin/wishlist-panel-premium.php:260
+#, fuzzy
+msgid ""
+"Let them move products from one wishlist to the cart in one click, keeping "
+"also the information about the size, colour or quantity selected when added "
+"to the wishlist."
+msgstr ""
+"به آنها اجازه دهید با یک کلیک محصولات را از یک لیست خواسته ها به سبد خرید "
+"منتقل کنند ، همچنین اطلاعات مربوط به اندازه ، رنگ یا مقدار انتخاب شده هنگام "
+"اضافه شدن به لیست خواسته ها را حفظ کنند."
+
+#: templates/admin/wishlist-panel-premium.php:263
+#, fuzzy
+msgid "DISABLE WISHLIST"
+msgstr "لیست خواسته های غیر فعال"
+
+#: templates/admin/wishlist-panel-premium.php:271
+#, fuzzy
+msgid "Choose a charming layout for your wishlist page"
+msgstr "یک طرح جذاب برای صفحه لیست خواسته های خود انتخاب کنید"
+
+#: templates/admin/wishlist-panel-premium.php:273
+#, fuzzy
+msgid ""
+"The wishlist is one of the most used functionalities in an ecommerce store "
+"but often the page layout is not enhanced enough and looks unattractive to "
+"the user. With our plugin, you can choose among some alternative layouts and "
+"offer an even more interesting experience to users who creates a wishlist on "
+"your website."
+msgstr ""
+"لیست خواسته ها یکی از کاربردهای پرکاربرد در فروشگاه تجارت الکترونیکی است اما "
+"اغلب صفحه آرایی به اندازه کافی بهبود نیافته و از نظر کاربر جذاب نیست. با "
+"استفاده از افزونه ما می توانید از بین برخی طرح های جایگزین یکی را انتخاب "
+"کرده و تجربه جالب تری را نیز به کاربرانی که در وب سایت شما لیست دلخواه ایجاد "
+"می کنند ارائه دهید."
+
+#: templates/admin/wishlist-panel-premium.php:276
+#, fuzzy
+msgid "UNLOGGED USERS"
+msgstr "کاربران ثبت نام نشده"
+
+#: templates/admin/wishlist-panel-premium.php:284
+#, fuzzy
+msgid "Wishlist widgets for the header and sidebars"
+msgstr "ابزارک های لیست دلخواه برای هدر و ستون های کناری"
+
+#: templates/admin/wishlist-panel-premium.php:286
+#, fuzzy
+msgid ""
+"Increase the wishlist visibility through our modern widgets that you can use "
+"in the header, in the sidebars, wherever you want."
+msgstr ""
+"از طریق ابزارک های مدرن ما که می توانید در هدر ، در ستون های کناری ، هر کجا "
+"که می خواهید استفاده کنید ، لیست لیست خواسته ها را افزایش دهید."
+
+#: templates/admin/wishlist-panel-premium.php:289
+#, fuzzy
+msgid "POPULAR TABLE"
+msgstr "جدول محبوب"
+
+#: templates/admin/wishlist-panel-premium.php:296
+#, fuzzy
+msgid "FUNCTIONALITIES"
+msgstr "عملکردها"
+
+#: templates/admin/wishlist-panel-premium.php:300
+#, fuzzy
+msgid "Allow users to monitor the price of the products in their wishlist"
+msgstr ""
+"به کاربران اجازه دهید قیمت محصولات را در لیست خواسته های خود کنترل کنند"
+
+#: templates/admin/wishlist-panel-premium.php:302
+#, fuzzy
+msgid ""
+"We took inspiration from one of the most interesting features of Amazon "
+"product pages: from now on, users can realise what’s the best time to buy a "
+"product and how much they can save when there’s a promotion running or a "
+"discount on the product they’ve added to the wishlist."
+msgstr ""
+"ما از یکی از جالبترین ویژگیهای صفحات محصولات آمازون الهام گرفتیم: از این به "
+"بعد ، کاربران می توانند درک کنند که بهترین زمان برای خرید یک محصول چیست و در "
+"صورت اجرای تبلیغ یا تخفیف کالایی که دارند ، چه مقدار پس انداز می کنند به "
+"لیست خواسته ها اضافه شد."
+
+#: templates/share.php:45 templates/share.php:46
+#, fuzzy
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: templates/share.php:53 templates/share.php:54
+msgid "Twitter"
+msgstr "توییتر"
+
+#: templates/share.php:61 templates/share.php:62
+#, fuzzy
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: templates/share.php:69 templates/share.php:70
+#, fuzzy
+msgid "Email"
+msgstr "پست الکترونیک"
+
+#: templates/share.php:77
+#, fuzzy
+msgid "WhatsApp"
+msgstr "واتس اپ"
+
+#: templates/share.php:78
+#, fuzzy
+msgid "Whatsapp"
+msgstr "واتساپ"
+
+#: templates/share.php:87
+#, fuzzy
+msgid "(Now"
+msgstr "(اکنون"
+
+#: templates/share.php:87
+#, fuzzy
+msgid "copy"
+msgstr "کپی 🀄"
+
+#: templates/share.php:87
+#, fuzzy
+msgid "this wishlist link and share it anywhere)"
+msgstr ""
+"این پیوند لیست آرزوها را به اشتراک بگذارید و آن را در هر کجا به اشتراک "
+"بگذارید)"
+
+#: templates/wishlist-view-footer-mobile.php:42
+#: templates/wishlist-view-footer.php:42
+#, fuzzy
+msgid "Apply this action to all the selected items:"
+msgstr "این عمل را روی همه موارد انتخاب شده اعمال کنید:"
+
+#: templates/wishlist-view-footer-mobile.php:47
+#: templates/wishlist-view-footer.php:47
+#, fuzzy
+msgid "Remove from wishlist"
+msgstr "حذف از لیست خواسته ها"
+
+#. translators: 1. Wishlist formatted name.
+#: templates/wishlist-view-footer-mobile.php:60
+#: templates/wishlist-view-footer.php:63
+msgid "Move to %s"
+msgstr "انتقال به %s"
+
+#: templates/wishlist-view-footer-mobile.php:64
+#: templates/wishlist-view-footer.php:69
+#, fuzzy
+msgid "Apply"
+msgstr "درخواست دادن"
+
+#: templates/wishlist-view-footer-mobile.php:72
+#: templates/wishlist-view-footer.php:77
+#, fuzzy
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: templates/wishlist-view-footer-mobile.php:78
+#: templates/wishlist-view-footer.php:99
+#, fuzzy
+msgid "Add all to cart"
+msgstr "افزودن همه به سبد خرید"
+
+#: templates/wishlist-view-header.php:42
+#, fuzzy
+msgid "Edit title"
+msgstr "عنوان را ویرایش کنید"
+
+#: templates/wishlist-view-mobile.php:136
+#, fuzzy
+msgid "Added on:"
+msgstr "اضافه شده در:"
+
+#: templates/wishlist-view-mobile.php:147
+#, fuzzy
+msgid "Price:"
+msgstr "قیمت:"
+
+#: templates/wishlist-view-mobile.php:174
+#, fuzzy
+msgid "Quantity:"
+msgstr "تعداد:"
+
+#: templates/wishlist-view-mobile.php:189
+#, fuzzy
+msgid "Stock:"
+msgstr "موجودی:"
+
+#: templates/wishlist-view-mobile.php:192 templates/wishlist-view.php:227
+#, fuzzy
+msgid "Out of stock"
+msgstr "تمام شده"
+
+#: templates/wishlist-view-mobile.php:192 templates/wishlist-view.php:227
+#, fuzzy
+msgid "In Stock"
+msgstr "در انبار"
+
+#: templates/wishlist-view-mobile.php:211 templates/wishlist-view.php:260
+#, fuzzy
+msgid "Move"
+msgstr "حرکت"
+
+#: templates/wishlist-view-mobile.php:232 templates/wishlist-view.php:280
+#, fuzzy
+msgid "Move to another list &rsaquo;"
+msgstr "انتقال به لیست دیگری ›"
+
+#: templates/wishlist-view-mobile.php:240 templates/wishlist-view.php:156
+#: templates/wishlist-view.php:290
+#, fuzzy
+msgid "Remove this product"
+msgstr "این محصول را حذف کنید"
+
+#: templates/wishlist-view-mobile.php:251 templates/wishlist-view.php:310
+#, fuzzy
+msgid "No products added to the wishlist"
+msgstr "هیچ محصولی به لیست خواسته ها اضافه نشده است"
+
+#: templates/wishlist-view.php:79
+#, fuzzy
+msgid "Product name"
+msgstr "نام محصول"
+
+#: templates/wishlist-view.php:87
+#, fuzzy
+msgid "Unit price"
+msgstr "قیمت واحد"
+
+#: templates/wishlist-view.php:96
+#, fuzzy
+msgid "Quantity"
+msgstr "تعداد"
+
+#: templates/wishlist-view.php:105
+#, fuzzy
+msgid "Stock status"
+msgstr "وضعیت سهام"
+
+#: templates/wishlist-view.php:123
+#, fuzzy
+msgid "Arrange"
+msgstr "ترتیب دادن"
+
+#. translators: date added label: 1 date added.
+#: templates/wishlist-view.php:241
+msgid "Added on: %s"
+msgstr "اضافه شده در: %s"
+
+#: templates/wishlist-view.php:290
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"<code><strong>YITH WooCommerce Wishlist</strong></code> gives your users the "
+"possibility to create, fill, manage and share their wishlists allowing you "
+"to analyze their interests and needs to improve your marketing strategies. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for "
+"your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+"<code><strong>YITH WooCommerce Wishlist</strong></code> به کاربران شما امکان "
+"ایجاد ، پر کردن ، مدیریت و به اشتراک گذاری لیست های خواسته های خود را می دهد "
+"که به شما امکان می دهد علایق و نیازهای آنها را برای بهبود استراتژی های "
+"بازاریابی خود تجزیه و تحلیل کنید. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\"><strong>در YITH</strong> افزونه های بیشتری برای تجارت "
+"الکترونیکی خود دریافت کنید</a>"
+
+#: includes/class.yith-wcwl-install.php:348
+#, fuzzy
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "لیست علاقه مندیها"
+
+#: includes/class.yith-wcwl-privacy.php:228
+#, fuzzy
+msgctxt "date when wishlist was created"
+msgid "Created on"
+msgstr "ایجاد شده در"
+
+#: includes/class.yith-wcwl-shortcode.php:52
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "YITH Add to wishlist"
+msgstr "با اضافه کردن به لیست علاقه مندی ها"
+
+#: includes/class.yith-wcwl-shortcode.php:101
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "YITH Wishlist"
+msgstr "لیست علاقه مندی ها"
+
+#: includes/class.yith-wcwl-shortcode.php:53
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Shows Add to wishlist button"
+msgstr "دکمه افزودن به لیست علاقه مندی ها را نشان می دهد"
+
+#: includes/class.yith-wcwl-shortcode.php:102
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Shows a list of products in wishlist"
+msgstr "لیستی از محصولات را در لیست خواسته ها نشان می دهد"
+
+#. translators: 1. % of reduction/increase in price.
+#: includes/class.yith-wcwl-wishlist-item.php:428
+msgctxt ""
+"Part of the template that shows price variation since addition to list; "
+"placeholder will be replaced with a percentage"
+msgid "Price is %1$s%%"
+msgstr "قیمت %1$s%% است"
+
+#. translators: 2: original product price.
+#: includes/class.yith-wcwl-wishlist-item.php:430
+msgctxt ""
+"Part of the template that shows price variation since addition to list; "
+"placeholder will be replaced with a price"
+msgid "(Was %2$s when added  in list)"
+msgstr "(با اضافه شدن در لیست %2$s بود)"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:40
+#, fuzzy
+msgctxt "Elementor widget name"
+msgid "YITH Wishlist Add button"
+msgstr "دکمه YITH لیست علاقه مندی ها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:40
+#, fuzzy
+msgctxt "Elementor widget name"
+msgid "YITH Wishlist"
+msgstr "لیست علاقه مندی ها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:82
+#, fuzzy
+msgctxt "Elementor section title"
+msgid "Product"
+msgstr "تولید - محصول"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:102
+#, fuzzy
+msgctxt "Elementor section title"
+msgid "Labels"
+msgstr "برچسب ها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:152
+#, fuzzy
+msgctxt "Elementor section title"
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:82
+#, fuzzy
+msgctxt "Elementor section title"
+msgid "Wishlist"
+msgstr "لیست علاقه مندیها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:102
+#, fuzzy
+msgctxt "Elementor section title"
+msgid "Pagination"
+msgstr "صفحه بندی"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:90
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "Product ID"
+msgstr "شناسه محصول"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:110
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "Button label"
+msgstr "برچسب دکمه"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:120
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "\"Browse wishlist\" label"
+msgstr "برچسب \"مرور لیست آرزوها\""
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:130
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "\"Product already in wishlist\" label"
+msgstr "برچسب \"محصول از قبل در لیست خواسته ها\" است"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:140
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "\"Product added to wishlist\" label"
+msgstr "برچسب \"محصول به لیست خواسته ها اضافه شد\""
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:160
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "URL of the wishlist page"
+msgstr "URL صفحه لیست آرزوها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:170
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "Icon for the button"
+msgstr "نماد دکمه"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-add-to-wishlist.php:180
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "Additional CSS classes for the button"
+msgstr "کلاسهای CSS اضافی برای دکمه"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:90
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "Wishlist ID"
+msgstr "شناسه لیست علاقه مندی ها"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:110
+#, fuzzy
+msgctxt "Elementor control label"
+msgid "Paginate items"
+msgstr "اجناس را با صفحه بندی کنید"
+
+#: includes/widgets/elementor/class.yith-wcwl-elementor-wishlist.php:123
+#, fuzzy
+msgctxt "yith-woocommerce-wishlist"
+msgid "Items per page"
+msgstr "موارد در هر صفحه"

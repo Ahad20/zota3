@@ -1,0 +1,405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WOOCS - WooCommerce Currency Switcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-08 05:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: woocommerce-currency-switcher"
+
+#: views/shortcodes/woocs_rates.php:45
+#, php-format
+msgid "1 %s is"
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:53
+#: views/fixed/product_coupon_restriction_data.php:58
+#: views/fixed/product_price_data.php:127
+msgid "Add"
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:54
+#: views/fixed/product_coupon_restriction_data.php:59
+#: views/fixed/product_price_data.php:128
+msgid "Add all"
+msgstr ""
+
+#: views/fixed/product_price_data.php:154
+#: views/fixed/product_user_role_data.php:60
+msgid "Add group"
+msgstr ""
+
+#: classes/fixed/fixed_shipping.php:30 classes/fixed/fixed_shipping_free.php:30
+#: views/fixed/product_coupon_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:16
+#: views/fixed/product_price_data.php:13 views/fixed/product_price_data.php:19
+#: views/fixed/product_price_data.php:43 views/fixed/product_price_data.php:49
+#: views/fixed/product_user_role_data.php:22
+#: views/fixed/product_user_role_data.php:28
+msgid "auto"
+msgstr ""
+
+#: views/woocs_order_metabox.php:25
+msgid "Base currency"
+msgstr ""
+
+#: views/woocs_order_metabox.php:40
+msgid "cancel"
+msgstr ""
+
+#: views/woocs_order_metabox.php:35
+msgid "Change order currency"
+msgstr ""
+
+#: views/woocs_order_metabox.php:35
+msgid "Change the order currency to any other"
+msgstr ""
+
+#: views/widgets/selector_form.php:53
+msgid "code"
+msgstr ""
+
+#: views/shortcodes/woocs_converter.php:66
+msgid "Convert"
+msgstr ""
+
+#: views/widgets/converter_form.php:20 views/widgets/rates_form.php:20
+msgid "Count of digits after point"
+msgstr ""
+
+#: classes/statistic.php:279
+msgid "Countries popularity"
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:11
+msgid "Coupon amount"
+msgstr ""
+
+#: views/widgets/converter_form.php:11 views/widgets/rates_form.php:11
+msgid "Currencies excluding from view"
+msgstr ""
+
+#: classes/statistic.php:276
+msgid "Currencies popularity"
+msgstr ""
+
+#: views/shortcodes/woocs_rates.php:60 views/shortcodes/woocs_rates.php:68
+msgid "Currency"
+msgstr ""
+
+#: views/woocs_order_metabox.php:24
+msgid "Currency in which the customer paid."
+msgstr ""
+
+#: views/woocs_order_metabox.php:26
+msgid "Currency rate when the customer paid "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Currency Switcher for WooCommerce that allows to the visitors and customers "
+"on your woocommerce store site switch currencies and optionally apply "
+"selected currency on checkout"
+msgstr ""
+
+#: views/widgets/selector_form.php:54
+msgid "description"
+msgstr ""
+
+#: views/widgets/selector_form.php:50
+msgid "Drop-down options text type"
+msgstr ""
+
+#: views/shortcodes/woocs_converter.php:25
+msgid "enter amount"
+msgstr ""
+
+#: views/widgets/selector_form.php:13
+msgid "Examples: 300px,100%,auto"
+msgstr ""
+
+#: views/widgets/converter_form.php:13 views/widgets/rates_form.php:13
+msgid "Examples: EUR,GBP,UAH"
+msgstr ""
+
+#: classes/fixed/fixed_shipping.php:28
+#, php-format
+msgid "Fixed cost %s"
+msgstr ""
+
+#: views/shortcodes/woocs_rates.php:59 views/shortcodes/woocs_rates.php:67
+msgid "Flag"
+msgstr ""
+
+#: views/widgets/selector_form.php:32
+msgid "Flag position"
+msgstr ""
+
+#: views/widgets/selector_form.php:44
+msgid "For ddslick script only!"
+msgstr ""
+
+#: views/fixed/product_price_data.php:69
+msgid "GeoIP profiles"
+msgstr ""
+
+#: views/fixed/product_user_role_data.php:58
+msgid ""
+"Gives ability to set different prices for each user role. Native WooCommerce "
+"price filter is blind for this data!"
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:42
+#: views/fixed/product_coupon_restriction_data.php:47
+msgid ""
+"Here you can set FIXED amount for the coupon for any currency you want. In "
+"the case of empty amount field recounting by rate will work!"
+msgstr ""
+
+#: views/fixed/product_price_data.php:116
+msgid ""
+"Here you can set FIXED price for the product for any currency you want. In "
+"the case of empty price field recounting by rate will work!"
+msgstr ""
+
+#: views/fixed/product_price_data.php:152
+msgid ""
+"Here you can set prices in the basic currency for different countries, and "
+"recount will be done relatively of this values. ATTENTION: fixed price for "
+"currencies has higher priority!"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://currency-switcher.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluginus.net/"
+msgstr ""
+
+#: views/widgets/selector_form.php:36
+msgid "left"
+msgstr ""
+
+#: views/fixed/product_price_data.php:84
+msgid "Load countries from profile"
+msgstr ""
+
+#: views/fixed/product_coupon_restriction_data.php:15
+msgid "Maximum spend"
+msgstr ""
+
+#: classes/fixed/fixed_shipping_free.php:28
+#, php-format
+msgid "Minimum order amount in %s"
+msgstr ""
+
+#: views/fixed/product_coupon_restriction_data.php:11
+msgid "Minimum spend"
+msgstr ""
+
+#: classes/rate_alert.php:62
+msgid "Nope, maybe later!"
+msgstr ""
+
+#: views/woocs_order_metabox.php:37
+#, php-format
+msgid ""
+"Not possible to recalculate the order - because current base currency is %s, "
+"and order base currency is %s!"
+msgstr ""
+
+#: classes/rate_alert.php:66
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: views/woocs_order_metabox.php:16
+msgid "Order currency"
+msgstr ""
+
+#: views/woocs_order_metabox.php:26
+msgid "Order currency rate"
+msgstr ""
+
+#: views/widgets/converter_form.php:18 views/widgets/rates_form.php:18
+msgid "Precision"
+msgstr ""
+
+#: views/shortcodes/woocs_rates.php:61 views/shortcodes/woocs_rates.php:69
+msgid "Rate"
+msgstr ""
+
+#. Author of the plugin
+msgid "realmag777"
+msgstr ""
+
+#: views/woocs_order_metabox.php:41
+msgid "Recalculate current order with the selected currency."
+msgstr ""
+
+#: views/woocs_order_metabox.php:41
+msgid "Recalculate order"
+msgstr ""
+
+#: views/fixed/product_price_data.php:12 views/fixed/product_price_data.php:42
+#: views/fixed/product_user_role_data.php:21
+msgid "Regular price"
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:17
+#: views/fixed/product_coupon_restriction_data.php:21
+#: views/fixed/product_price_data.php:24 views/fixed/product_price_data.php:54
+#: views/fixed/product_user_role_data.php:33
+msgid "Remove"
+msgstr ""
+
+#: views/shortcodes/woocs_converter.php:64
+msgid "results"
+msgstr ""
+
+#: views/widgets/selector_form.php:35
+msgid "right"
+msgstr ""
+
+#: views/fixed/product_price_data.php:18 views/fixed/product_price_data.php:48
+#: views/fixed/product_user_role_data.php:27
+msgid "Sale price"
+msgstr ""
+
+#: views/shortcodes/styles/style-3/index.php:83
+msgid "Select Currency"
+msgstr ""
+
+#: views/fixed/product_price_data.php:61
+msgid "select some countries"
+msgstr ""
+
+#: views/fixed/product_user_role_data.php:42
+msgid "select user role"
+msgstr ""
+
+#: views/widgets/selector_form.php:26
+msgid "Show flags"
+msgstr ""
+
+#: classes/rate_alert.php:46
+msgid "support"
+msgstr ""
+
+#: classes/rate_alert.php:70
+msgid "Thank you, I did it!"
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:31
+msgid "The coupon fixed amount rules"
+msgstr ""
+
+#: views/fixed/product_coupon_restriction_data.php:35
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr ""
+
+#: views/fixed/product_user_role_data.php:5
+msgid "The price based on user role"
+msgstr ""
+
+#: views/fixed/product_price_data.php:102
+msgid "The product custom GeoIP rules"
+msgstr ""
+
+#: views/fixed/product_price_data.php:98
+msgid "The product fixed prices rules"
+msgstr ""
+
+#: views/woocs_order_metabox.php:24
+#, php-format
+msgid "THIS order currency is changed manually %s!"
+msgstr ""
+
+#: views/widgets/converter_form.php:5 views/widgets/rates_form.php:5
+#: views/widgets/selector_form.php:5
+msgid "Title"
+msgstr ""
+
+#: views/shortcodes/woocs_converter.php:45
+msgid "to"
+msgstr ""
+
+#: views/woocs_order_metabox.php:27
+msgid "Total amount"
+msgstr ""
+
+#: views/shortcodes/woocs.php:6 views/shortcodes/woocs_converter.php:6
+#: views/shortcodes/woocs_rates.php:4
+msgid "Warning: Woocommerce is not activated"
+msgstr ""
+
+#: views/widgets/selector_form.php:62
+msgid ""
+"Which text display in the drop-down options - currency code OR description "
+"text. Looks good for all dropdowns except ddslick."
+msgstr ""
+
+#: views/widgets/selector_form.php:11
+msgid "Width"
+msgstr ""
+
+#: classes/widgets/widget-currency-converter.php:9
+#: classes/widgets/widget-currency-converter.php:38
+msgid "WooCommerce Currency Converter"
+msgstr ""
+
+#: classes/widgets/widget-currency-converter.php:11
+msgid "WooCommerce Currency Converter by realmag777"
+msgstr ""
+
+#: classes/widgets/widget-currency-rates.php:9
+#: classes/widgets/widget-currency-rates.php:38
+msgid "WooCommerce Currency Rates"
+msgstr ""
+
+#: classes/widgets/widget-currency-rates.php:11
+msgid "WooCommerce Currency Rates by realmag777"
+msgstr ""
+
+#: classes/widgets/widget-woocs-selector.php:7
+#: classes/widgets/widget-woocs-selector.php:36
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#: classes/widgets/widget-woocs-selector.php:9
+msgid "WooCommerce Currency Switcher by realmag777"
+msgstr ""
+
+#: views/fixed/product_coupon_restriction_data.php:47
+msgid "WOOCS - the <b>fixed</b> Minimum and Maximum spend "
+msgstr ""
+
+#: views/fixed/product_coupon_data.php:42
+msgid "WOOCS - the coupon fixed amount"
+msgstr ""
+
+#: views/fixed/product_user_role_data.php:58
+msgid "WOOCS - the price based on user role"
+msgstr ""
+
+#: views/fixed/product_price_data.php:152
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr ""
+
+#: views/fixed/product_price_data.php:116
+msgid "WOOCS - the product fixed prices"
+msgstr ""
+
+#. Name of the plugin
+msgid "WOOCS - WooCommerce Currency Switcher"
+msgstr ""

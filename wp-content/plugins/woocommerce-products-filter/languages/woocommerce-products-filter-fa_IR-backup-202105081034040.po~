@@ -1,0 +1,5388 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-08 10:26+0000\n"
+"PO-Revision-Date: 2021-05-08 10:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"MIME-Version: 1.0\n"
+"Language: fa_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:47
+msgid "(Statistic collected from: %s %d)"
+msgstr "(آمار جمع آوری شده از: %s %d)"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1668
+#, fuzzy
+msgid "(zip)"
+msgstr "(زیپ)"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:274
+#, fuzzy
+msgid "+SKU "
+msgstr "+ SKU"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:561
+#, fuzzy
+msgid "12 hours recommended"
+msgstr "12 ساعت توصیه می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1690
+#, fuzzy
+msgid ""
+"<b>Note for admin</b>: Create folder for custom extensions in wp-content "
+"folder: tab Advanced -> Options -> Custom extensions folder"
+msgstr ""
+"<b> یادداشت برای سرپرست </ b>: ایجاد پوشه برای برنامه های افزودنی سفارشی در "
+"پوشه wp-content: برگه پیشرفته -> گزینه ها -> پوشه افزونه های سفارشی"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1801
+msgid "<i>ver.:</i> %s"
+msgstr "<i> نسخه: </ i>%s"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:85
+#: woocommerce-products-filter/views/plugin_options.php:2373
+#, fuzzy
+msgid "AND"
+msgstr "و"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2365
+#, fuzzy
+msgid ""
+"AND or OR: if to select AND and on the site front select 2 terms - will be "
+"found products which contains both terms on the same time."
+msgstr ""
+"AND یا OR: در صورت انتخاب AND و در جلو سایت 2 اصطلاح را انتخاب کنید - محصولی "
+"پیدا می شود که به طور همزمان حاوی هر دو اصطلاح است."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2348
+#, fuzzy
+msgid "ASC"
+msgstr "ASC"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:45
+#, fuzzy
+msgid ""
+"ATTENTION! Your version of the woocommerce plugin is too obsolete. There is "
+"no warranty for working with WOOF!!"
+msgstr ""
+"توجه! نسخه شما از افزونه woocommerce بیش از حد منسوخ شده است. کار با WOOF "
+"هیچ ضمانتی ندارد !!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:301
+#, fuzzy
+msgid ""
+"Ability to search by the description of the any variation in the variable "
+"product"
+msgstr "امکان جستجو با توصیف هرگونه تغییر در محصول متغیر"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:17
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:17
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:20
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:19
+#, fuzzy
+msgid "About extension"
+msgstr "درباره پسوند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:199
+#, fuzzy
+msgid "Action"
+msgstr "عمل"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:1
+#, fuzzy
+msgid "Action failed. Please refresh the page and retry."
+msgstr "اقدام ناموفق بود لطفا صفحه را تازه کنید و دوباره امتحان کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:275
+#, fuzzy
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr "قابلیت جستجو توسط SKU را از همان ورودی متن فعال می کند"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:37
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "واقعی برای WooCommerce v.%s.x"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:28
+#, fuzzy
+msgid "Add"
+msgstr "اضافه کردن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:26
+#, fuzzy
+msgid "Add Custom key by hands"
+msgstr "کلید سفارشی را با دست اضافه کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:93
+#, fuzzy
+msgid "Add section"
+msgstr "افزودن بخش"
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/views/options.php:33
+#, fuzzy
+msgid "Add this query"
+msgstr "این پرس و جو را اضافه کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:137
+#, fuzzy
+msgid "Additional Quick-search Filter options"
+msgstr "گزینه های فیلتر جستجوی سریع اضافی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:170
+#, fuzzy
+msgid "Additional search data for text search"
+msgstr "داده های جستجوی اضافی برای جستجوی متن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:182
+#, fuzzy
+msgid ""
+"Additional search data: which taxonomies terms titles should be included "
+"into TEXT search data file. So, your customers will be able to find with "
+"TEXT search input also products using your taxonomies terms titles! After "
+"selecting new taxonomies here do not forget press Save and then Reassemble "
+"data file!"
+msgstr ""
+"داده جستجوی اضافی: عناوین اصطلاحات طبقه بندی باید در پرونده داده جستجوی TEXT "
+"گنجانده شود. بنابراین ، مشتریان شما می توانند با استفاده از ورودی جستجوی "
+"TEXT ، محصولی را با استفاده از عناوین اصطلاحات طبقه بندی شما پیدا کنند! پس "
+"از انتخاب طبقه بندی های جدید ، فراموش نکنید که ذخیره را فشار دهید و سپس "
+"پرونده داده را دوباره جمع آوری کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:134
+#, fuzzy
+msgid "Additional text before"
+msgstr "متن اضافی قبل"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2136
+#, fuzzy
+msgid "Adv"
+msgstr "پیشرفته"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:83
+#, fuzzy
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:2240
+#, fuzzy
+msgid "Advanced info is <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "اطلاعات پیشرفته <a href=\"%s\" target=\"_blank\">اینجا است</a>"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:52
+#, fuzzy
+msgid ""
+"After activation of Turbo Mode firstly what should be done is generating of "
+"the data file, see button below. And also do not forget to set cron mode."
+msgstr ""
+"پس از فعال شدن حالت Turbo Mode ابتدا کاری که باید انجام شود تولید فایل داده "
+"است ، دکمه زیر را ببینید. و همچنین تنظیم حالت cron را فراموش نکنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:236
+#, fuzzy
+msgid ""
+"After installing all settings for statistics assembling - enable it here"
+msgstr "پس از نصب همه تنظیمات برای جمع آوری آمار - آن را در اینجا فعال کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1622
+#, fuzzy
+msgid "All"
+msgstr "همه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:23
+#, fuzzy
+msgid ""
+"Allows to wrap filter-elements into [close/open]-sections and make filter "
+"form more compact."
+msgstr ""
+"اجازه می دهد تا عناصر فیلتر را به بخشهای [بستن / باز کردن] بریزید و فرم "
+"فیلتر را جمع و جورتر کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/shortcodes/woof_quick_search.php:165
+#, fuzzy
+msgid "Any"
+msgstr "هر"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:781
+#, fuzzy
+msgid "Any image for closed html-items block 20x20"
+msgstr "هر تصویری برای موارد html بسته 20x20 را مسدود می کند"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:763
+#, fuzzy
+msgid "Any image for opened html-items block 20x20"
+msgstr "هر تصویری برای موارد html باز شده بلوک 20x20 را نشان می دهد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:327
+#, fuzzy
+msgid "Any notes for customer."
+msgstr "هرگونه یادداشت برای مشتری."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:237
+#, fuzzy
+msgid ""
+"Any notes for customer.<br /><b>Example</b>: use comma for searching by more "
+"than 1 SKU!"
+msgstr ""
+"هرگونه یادداشت برای مشتری.<br /> <b>مثال</b> : برای جستجو با بیش از 1 SKU از "
+"ویرگول استفاده کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:297
+#: woocommerce-products-filter/ext/query_save/views/options.php:132
+#, fuzzy
+msgid "Any text notes for customer under subscription form."
+msgstr "هرگونه یادداشت متنی برای مشتری تحت فرم اشتراک."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:203
+msgid ""
+"Any text notes for customer. Example: Sorry! This product is not suitable "
+"for your search %title%."
+msgstr ""
+"هر متن یادداشت برای مشتری. مثال: ببخشید این محصول برای جستجوی شما %title% "
+"مناسب نیست."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:191
+msgid ""
+"Any text notes for customer. Example: This product matches your search: "
+"%title%."
+msgstr ""
+"هر متن یادداشت برای مشتری. مثال: این محصول با جستجوی شما مطابقت دارد: "
+"%title%."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/index.php:457
+#: woocommerce-products-filter/ext/query_save/index.php:243
+#, fuzzy
+msgid "Are you sure?"
+msgstr "مطمئنی؟"
+
+#. Text in function
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:72
+#, fuzzy
+msgid "As checkbox"
+msgstr "به عنوان چک باکس"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2935
+#, fuzzy
+msgid "As drop-down"
+msgstr "به عنوان کشویی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2938
+#, fuzzy
+msgid "As ion range-slider"
+msgstr "به عنوان کشویی محدوده یونی"
+
+#. Text in function
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:72
+#, fuzzy
+msgid "As radio"
+msgstr "به عنوان رادیو"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2936
+#, fuzzy
+msgid "As radio button"
+msgstr "به عنوان دکمه رادیو"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2937
+#, fuzzy
+msgid "As textinputs"
+msgstr "به عنوان ورودی متن"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2934
+#, fuzzy
+msgid "As woo range-slider"
+msgstr "به عنوان کشویی محدوده وو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:58
+#, fuzzy
+msgid ""
+"Attention! This is the last email. If you want to continue get such emails ->"
+" Go by next link and subscribe again"
+msgstr ""
+"توجه! این آخرین ایمیل است. اگر می خواهید چنین ایمیل هایی را دریافت کنید -> "
+"با پیوند بعدی بروید و دوباره مشترک شوید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_author/views/shortcodes/woof_author_filter.php:107
+#, fuzzy
+msgid "Author:"
+msgstr "نویسنده:"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:616
+#, fuzzy
+msgid "Auto filter close/open image"
+msgstr "فیلتر خودکار بستن / باز کردن تصویر"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:633
+#, fuzzy
+msgid "Auto filter close/open text"
+msgstr "فیلتر کردن / بستن متن به صورت خودکار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:140
+#: woocommerce-products-filter/ext/by_text/views/options.php:192
+#, fuzzy
+msgid "Autocomplete"
+msgstr "تکمیل خودکار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:194
+#, fuzzy
+msgid "Autocomplete products count"
+msgstr "تعداد محصولات تکمیل خودکار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:141
+#, fuzzy
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr "تکمیل خودکار انواع مربوط به متن متن SKU"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:193
+#, fuzzy
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr "تکمیل خودکار انواع مربوطه در by_text متن ورودی"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:174
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Autosubmit"
+msgstr "ارسال خودکار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:132
+#, fuzzy
+msgid "Behavior"
+msgstr "رفتار - اخلاق"
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:1
+#, fuzzy
+msgid "Behavior as radio button"
+msgstr "رفتار به عنوان دکمه رادیویی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:87
+#, fuzzy
+msgid "Behavior of how the filter sections will open."
+msgstr "رفتار نحوه باز شدن بخشهای فیلتر."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:166
+#, fuzzy
+msgid "Behavior of reset button"
+msgstr "دکمه رفتار تنظیم مجدد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:17
+#, fuzzy
+msgid ""
+"Boost speed of products filtering. This mode allows to avoid generating big "
+"MySQL queries while products filtering on the site front what makes less "
+"loading to the server and getting filtering results more quick"
+msgstr ""
+"افزایش سرعت فیلتر کردن محصولات. این حالت اجازه می دهد تا از ایجاد نمایش داده "
+"های بزرگ MySQL جلوگیری شود ، در حالی که محصولات در قسمت جلو سایت فیلتر می "
+"شوند و باعث بارگذاری کمتر سرور می شوند و نتایج فیلتر شدن سریع تر می شوند."
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "Both"
+msgstr "هر دو"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:207
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Bottom"
+msgstr "پایین"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:59
+#, fuzzy
+msgid "Button as"
+msgstr "دکمه به عنوان"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:129
+#, fuzzy
+msgid "Button image size"
+msgstr "اندازه تصویر دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:106
+#, fuzzy
+msgid "Button label"
+msgstr "برچسب دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:255
+#, fuzzy
+msgid "Button offset (px) from top or left from the window edge"
+msgstr "جابجایی دکمه (px) از بالا یا چپ از لبه پنجره"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/index.php:67
+#, fuzzy
+msgid "By author"
+msgstr "توسط نویسنده"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "By date"
+msgstr "بر اساس تاریخ"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "By emails count"
+msgstr "با تعداد ایمیل ها"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_rating/index.php:57
+#, fuzzy
+msgid "By rating"
+msgstr "با رتبه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_rating/views/options.php:18
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "By rating drop-down"
+msgstr "با کشویی رتبه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/index.php:87
+#, fuzzy
+msgid "By text"
+msgstr "توسط متن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:374
+#, fuzzy
+msgid ""
+"By this button you can set settings and generate shortcode for your needs "
+"for on single pages. After using, if you do not want the settings became "
+"globals, refresh the page to avoid settings saving!"
+msgstr ""
+"با استفاده از این دکمه می توانید تنظیمات خود را تنظیم کرده و برای نیازهای "
+"خود کد کوتاه را در صفحات واحد ایجاد کنید. پس از استفاده ، اگر نمی خواهید "
+"تنظیمات جهانی شود ، برای جلوگیری از صرفه جویی در تنظیمات ، صفحه را تازه کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1244
+#, fuzzy
+msgid "Cache dynamic recount number for each item in filter"
+msgstr "تعداد بازشماری پویای حافظه پنهان برای هر مورد در فیلتر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:427
+#, fuzzy
+msgid "Cache folder"
+msgstr "پوشه حافظه پنهان"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2116
+#, fuzzy
+msgid ""
+"Cache pages, allow to make a lot of search queries on your site without high "
+"load on your server!"
+msgstr ""
+"صفحات پنهان ، اجازه می دهد تا تعداد زیادی جستجو در سایت خود بدون بار زیاد بر "
+"روی سرور خود ایجاد کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1343
+#, fuzzy
+msgid "Cache terms"
+msgstr "اصطلاحات کش"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:154
+#, fuzzy
+msgid "Calculate Statistics"
+msgstr "محاسبه آمار"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:1
+#, fuzzy
+msgid "Cheatin&#8217; huh?"
+msgstr "تقلب؟"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:276
+#, fuzzy
+msgid "Check DB connection"
+msgstr "اتصال DB را بررسی کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:81
+#, fuzzy
+msgid "Check search logic AND/OR"
+msgstr "منطق جستجو را بررسی کنید و / یا"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_author/views/options.php:101
+#: woocommerce-products-filter/ext/meta_filter/index.php:1
+#, fuzzy
+msgid "Checkbox"
+msgstr "کادر انتخاب"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1667
+#, fuzzy
+msgid "Choose an extension zip"
+msgstr "یک zip فشرده انتخاب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/woof.php:127
+#, fuzzy
+msgid "Clear"
+msgstr "پاک کردن"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:910
+#, fuzzy
+msgid "Clear All"
+msgstr "همه را پاک کن"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#, fuzzy
+msgid "Clear text input"
+msgstr "ورودی متن را پاک کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Click"
+msgstr "کلیک"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:822
+#, fuzzy
+msgid "Code"
+msgstr "کد"
+
+#. Text in function
+#: woocommerce-products-filter/ext/color/index.php:1
+#, fuzzy
+msgid "Color"
+msgstr "رنگ"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:112
+#, fuzzy
+msgid "Conditions logic"
+msgstr "منطق شرایط"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2274
+#, fuzzy
+msgid "Container max-height (px). 0 means no max-height."
+msgstr "حداکثر ارتفاع ظرف (px). 0 به معنی حداکثر قد نیست."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:118
+#, fuzzy
+msgid "Create new section. Don`t forget to click on the save button."
+msgstr "بخش جدیدی ایجاد کنید فراموش نکنید که روی دکمه ذخیره کلیک کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:115
+#, fuzzy
+msgid "Create section"
+msgstr "بخش ایجاد کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/turbo_mode/index.php:85
+#, fuzzy
+msgid "Creating"
+msgstr "پدید آوردن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:58
+#, fuzzy
+msgid "Cron type"
+msgstr "نوع کرون"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1542
+#, fuzzy
+msgid ""
+"Css class of ordering dropdown container. Is needed for ajax compatibility "
+"with wp themes. If you do not understand, leave it blank."
+msgstr ""
+"کلاس CSS سفارش ظرف کشویی. برای سازگاری ajax با موضوعات wp مورد نیاز است. اگر "
+"نمی فهمید ، آن را خالی بگذارید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1562
+#, fuzzy
+msgid ""
+"Css class of per page dropdown container. Is needed for ajax compatibility "
+"with wp themes. If you do not understand, leave it blank."
+msgstr ""
+"کلاس CSS ظرف کشویی صفحه. برای سازگاری ajax با موضوعات wp مورد نیاز است. اگر "
+"نمی فهمید ، آن را خالی بگذارید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1521
+#, fuzzy
+msgid ""
+"Css class of result-count container. Is needed for ajax compatibility with "
+"wp themes. If you do not understand, leave it blank."
+msgstr ""
+"کلاس CSS ظرف شمارش نتیجه. برای سازگاری ajax با موضوعات wp مورد نیاز است. اگر "
+"نمی فهمید ، آن را خالی بگذارید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:841
+#, fuzzy
+msgid "Custom CSS code"
+msgstr "کد CSS سفارشی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1487
+#, fuzzy
+msgid "Custom extensions folder"
+msgstr "پوشه برنامه های افزودنی سفارشی"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1500
+msgid "Custom extensions folder path relative to: %s"
+msgstr "مسیر پوشه برنامه های افزودنی سفارشی نسبت به: %s"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1639
+#, fuzzy
+msgid "Custom extensions installation"
+msgstr "نصب برنامه های افزودنی سفارشی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:797
+#, fuzzy
+msgid "Custom front css styles file link"
+msgstr "پیوند سفارشی جلوی سبک های css"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:122
+#, fuzzy
+msgid "Custom text of the button"
+msgstr "متن دلخواه دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:271
+#, fuzzy
+msgid "DB Name"
+msgstr "نام DB"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2349
+#, fuzzy
+msgid "DESC"
+msgstr "DESC"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/conditionals/views/tabs_content.php:24
+#, fuzzy
+msgid "Data for default filter"
+msgstr "داده برای فیلتر پیش فرض"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/index.php:1
+#, fuzzy
+msgid "Database not connected!    ERROR! "
+msgstr "بانک اطلاعاتی متصل نیست! خطا"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/index.php:1
+#, fuzzy
+msgid "Database not connected!    ERROR:  "
+msgstr "بانک اطلاعاتی متصل نیست! خطا:"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/index.php:1
+#, fuzzy
+msgid "Database successfully connected!!!"
+msgstr "بانک اطلاعاتی با موفقیت متصل شد !!!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/index.php:1
+#, fuzzy
+msgid "Database successfully updated!!!"
+msgstr "بانک اطلاعات با موفقیت به روز شد !!!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/index.php:1
+#, fuzzy
+msgid "Datepicker"
+msgstr "چوب خرما"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid ""
+"Dear [DISPLAY_NAME], we increased the range of our products. Number of new "
+"products: [PRODUCT_COUNT]"
+msgstr ""
+"[DISPLAY_NAME] عزیز ، ما دامنه محصولات خود را افزایش دادیم. تعداد محصولات "
+"جدید: [PRODUCT_COUNT]"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:220
+#: woocommerce-products-filter/classes/widgets.php:207
+#: woocommerce-products-filter/views/plugin_options.php:789
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#: woocommerce-products-filter/views/plugin_options.php:2322
+#, fuzzy
+msgid "Default"
+msgstr "پیش فرض"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#, fuzzy
+msgid "Default - mm/dd/yy"
+msgstr "پیش فرض - mm / dd / yy"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1779
+#, fuzzy
+msgid "Default extensions"
+msgstr "برنامه های افزودنی پیش فرض"
+
+#. Text in echo
+#: woocommerce-products-filter/views/html_types/radio.php:112
+#: woocommerce-products-filter/views/html_types/radio.php:226
+#: woocommerce-products-filter/views/shortcodes/woof_price_filter_radio.php:57
+#, fuzzy
+msgid "Delete"
+msgstr "حذف"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1974
+#, fuzzy
+msgid "Demo sites"
+msgstr "سایت های آزمایشی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:76
+#, fuzzy
+msgid "Design"
+msgstr "طرح"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:221
+#, fuzzy
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr "پیوندهای مستقیم به پیام ها در پیشنهاد تکمیل خودکار"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2341
+#, fuzzy
+msgid "Direction of terms sorted inside of filter block"
+msgstr "جهت اصطلاحات مرتب شده در داخل بلوک فیلتر"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1208
+#, fuzzy
+msgid "Disable swoof influence"
+msgstr "تأثیر swoof را غیرفعال کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/views/plugin_options.php:1624
+#, fuzzy
+msgid "Disabled"
+msgstr "معلول"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2290
+#, fuzzy
+msgid "Display items in a row"
+msgstr "موارد را پشت سر هم نمایش دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:171
+#, fuzzy
+msgid "Display message if current product is suitable for saved search"
+msgstr "اگر محصول فعلی برای جستجوی ذخیره شده مناسب است ، پیام را نمایش دهید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:1
+#, fuzzy
+msgid "Documentation"
+msgstr "مستندات"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_author/views/options.php:101
+#: woocommerce-products-filter/ext/meta_filter/index.php:1
+#, fuzzy
+msgid "Drop-down"
+msgstr "کشویی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2580
+#, fuzzy
+msgid "Drop-down OR radio"
+msgstr "کشویی یا رادیویی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2581
+#, fuzzy
+msgid "Drop-down OR radio price filter ranges"
+msgstr "دامنه فیلترهای کشویی یا رادیویی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2597
+#, fuzzy
+msgid "Drop-down price filter first option text"
+msgstr "فیلتر گزینه کشویی متن گزینه اول"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2596
+#, fuzzy
+msgid "Drop-down price filter text"
+msgstr "متن فیلتر قیمت کشویی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_rating/views/options.php:19
+#, fuzzy
+msgid "Drop-down to filter ptoducts by rating"
+msgstr "کشویی برای فیلتر کردن ptoducts بر اساس رتبه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2127
+#, fuzzy
+msgid ""
+"Duplicate, clone, backup, move and transfer an entire site from one location "
+"to another."
+msgstr ""
+"کپی ، شبیه سازی ، پشتیبان گیری ، انتقال و انتقال یک سایت کامل از یک مکان به "
+"مکان دیگر."
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:158
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Dynamic recount"
+msgstr "بازشماری پویا"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:171
+#, fuzzy
+msgid "Dynamic recount for current search form"
+msgstr "بازشماری پویا برای فرم جستجوی فعلی"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:45
+#, fuzzy
+msgid "EXACT"
+msgstr "دقیق"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:256
+#, fuzzy
+msgid "Emails count"
+msgstr "ایمیل ها حساب می شوند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:25
+#, fuzzy
+msgid "Enable turbo mode"
+msgstr "حالت توربو را فعال کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/views/plugin_options.php:1623
+#, fuzzy
+msgid "Enabled"
+msgstr "فعال شد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:73
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:517
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:109
+#, fuzzy
+msgid ""
+"Enter any random text in the field and use it in the external cron with link "
+"like: http://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+msgstr ""
+"هر متن تصادفی را در فیلد وارد کنید و از آن در cron خارجی با پیوند مانند: "
+"http://mysite.com/؟woof_stat_collection=__YOUR_SECRET_KEY_HERE__ استفاده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2239
+#, fuzzy
+msgid ""
+"Enter count of terms which should be visible to make all other collapsible. "
+"\"Show more\" button will be appeared. This feature is works with: radio, "
+"checkboxes, labels, colors."
+msgstr ""
+"تعداد اصطلاحاتی را وارد کنید که برای قابل جمع شدن سایر موارد باید قابل "
+"مشاهده باشد. دکمه \"نمایش بیشتر\" ظاهر می شود. این ویژگی با این موارد کار می "
+"کند: رادیو ، کادرهای تأیید ، برچسب ها ، رنگ ها."
+
+#. Text in function
+#: woocommerce-products-filter/ext/color/index.php:1
+#, fuzzy
+msgid "Enter tooltip text if necessary"
+msgstr "در صورت لزوم متن راهنمای ابزار را وارد کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/shortcodes/woof_quick_search.php:318
+#: woocommerce-products-filter/ext/quick_search/views/shortcodes/woof_quick_search.php:322
+#, fuzzy
+msgid "Error! Please read documents"
+msgstr "خطا لطفا اسناد را بخوانید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#, fuzzy
+msgid "Europe - dd-mm-yy"
+msgstr "اروپا - dd-mm-yy"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#, fuzzy
+msgid "Exact match"
+msgstr "مطابقت کامل"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/views/additional_options.php:16
+#, fuzzy
+msgid "Exact value"
+msgstr "ارزش دقیق"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:251
+#: woocommerce-products-filter/ext/by_text/views/options.php:340
+#: woocommerce-products-filter/ext/image/index.php:146
+#: woocommerce-products-filter/views/plugin_options.php:314
+#, fuzzy
+msgid "Example"
+msgstr "مثال"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:2584
+#, fuzzy
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity."
+msgstr "مثال: 0-50،51-100،101-i. جایی که \"من\" بی نهایت است."
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:2583
+msgid "Example: 0-50,51-100,101-i. Where \"i\" is infinity. Max price is %s."
+msgstr ""
+"مثال: 0-50،51-100،101-i. جایی که \"من\" بی نهایت است. حداکثر قیمت %s است."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:95
+#, fuzzy
+msgid "Example: 1^100"
+msgstr "مثال: 1 ^ 100"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_backorder/index.php:57
+#, fuzzy
+msgid "Exclude On backorder"
+msgstr "Excorder در backorder"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:30
+#, fuzzy
+msgid "Exclude on backorder"
+msgstr "در backorder استثنا"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:18
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Exclude products on backorder"
+msgstr "محصولی را در پس خرید سفارش حذف کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_backorder/views/woof.php:1
+#, fuzzy
+msgid "Exclude: On backorder"
+msgstr "استثنا کردن: در backorder"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/views/tabs_content.php:25
+#, fuzzy
+msgid "Export data"
+msgstr "صادرات داده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/index.php:39
+#, fuzzy
+msgid "Export/Import"
+msgstr "صادرات و واردات"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2122
+#, fuzzy
+msgid ""
+"Exports your database, does a find and replace on URLs and file paths, then "
+"allows you to save it to your computer."
+msgstr ""
+"پایگاه داده خود را صادر می کند ، URL ها و مسیرهای پرونده را پیدا و جایگزین "
+"می کند ، سپس به شما امکان می دهد آن را در رایانه خود ذخیره کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1609
+#, fuzzy
+msgid "Ext-Applications options"
+msgstr "گزینه های برنامه های خارج از برنامه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:106
+#: woocommerce-products-filter/views/plugin_options.php:1604
+#, fuzzy
+msgid "Extensions"
+msgstr "برنامه های افزودنی"
+
+#. Text in function
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "External Cron"
+msgstr "کرون خارجی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:52
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:88
+#, fuzzy
+msgid ""
+"External cron is more predictable with time of execution, but additional "
+"knowledge how to set it correctly is required (<i style=\"color: orange;\">"
+"External cron will be ready in the next version of the extension</i>)"
+msgstr ""
+"cron خارجی با زمان اجرا قابل پیش بینی تر است ، اما دانش بیشتری در مورد تنظیم "
+"صحیح آن لازم است ( <i style=\"color: orange;\">cron خارجی در نسخه بعدی "
+"برنامه افزودنی آماده خواهد شد</i> )"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:165
+#, fuzzy
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr "کلید cron خارجی (به عنوان قابل انعطاف برای جدول زمانی توصیه می شود)"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1963
+#, fuzzy
+msgid "FAQ"
+msgstr "سالات متداول"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_featured/views/options.php:18
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Featured checkbox"
+msgstr "کادر انتخاب ویژه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_featured/index.php:61
+#: woocommerce-products-filter/ext/by_featured/views/woof.php:1
+#, fuzzy
+msgid "Featured product"
+msgstr "محصول ویژه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:167
+#, fuzzy
+msgid "File updated!!!"
+msgstr "پرونده به روز شد !!!"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:1
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:108
+#: woocommerce-products-filter/views/woof.php:491
+#, fuzzy
+msgid "Filter"
+msgstr "فیلتر"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Filter button text"
+msgstr "فیلتر متن دکمه"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Filter button text in the search form"
+msgstr "متن دکمه را در فرم جستجو فیلتر کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "Filter by rating"
+msgstr "فیلتر بر اساس رتبه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:62
+#, fuzzy
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr "گزینه کشویی متن یا مکان نگهدارنده گزینه یا عنوان برای کادرهای تأیید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat dark (1column)"
+msgstr "تیره تخت (1 ستون)"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat dark (2columns)"
+msgstr "تیره تخت (2 ستون)"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat dark (3columns)"
+msgstr "تیره تخت (3 ستون)"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat dark (4columns) without sidebar*"
+msgstr "تیره تخت (4 ستون) بدون نوار کناری *"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat grey (1column)"
+msgstr "خاکستری تخت (1 ستون)"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat grey (2columns)"
+msgstr "خاکستری تخت (2 ستون)"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat grey (3columns)"
+msgstr "خاکستری تخت (3 ستون)"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#, fuzzy
+msgid "Flat grey (4columns) without sidebar*"
+msgstr "خاکستری تخت (4 ستون) بدون نوار کناری *"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:804
+#, fuzzy
+msgid ""
+"For developers who want to rewrite front css of the plugin front side. You "
+"are need to know CSS for this!"
+msgstr ""
+"برای توسعه دهندگانی که می خواهند جلوی جلوی افزونه css را دوباره بنویسند. "
+"برای این کار باید CSS را بدانید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2257
+#, fuzzy
+msgid ""
+"For example you want to show title of Product Categories as \"My Products\". "
+"Just for your convenience."
+msgstr ""
+"به عنوان مثال شما می خواهید عنوان دسته بندی محصولات را به عنوان \"محصولات "
+"من\" نشان دهید. فقط برای راحتی شما."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:166
+#, fuzzy
+msgid "For external cron use the next link"
+msgstr "برای cron خارجی از پیوند بعدی استفاده کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#, fuzzy
+msgid "For simple and for variables products"
+msgstr "برای محصولات ساده و متغیرها"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#, fuzzy
+msgid "For simple products only"
+msgstr "فقط برای محصولات ساده"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1125
+#, fuzzy
+msgid ""
+"For variable products you can show an image depending on the current filter "
+"selection. For example you have variation with red color, and that varation "
+"has its own preview image - if on the site front user will select red color "
+"this imag will be shown. You can select attributes by which images will be "
+"selected"
+msgstr ""
+"برای محصولات متغیر بسته به انتخاب فیلتر فعلی می توانید یک تصویر نشان دهید. "
+"به عنوان مثال شما با رنگ قرمز تنوع دارید و این تفاوت تصویر پیش نمایش خاص خود "
+"را دارد - اگر در سایت کاربر کاربر رنگ قرمز را انتخاب کند ، این تصویر نشان "
+"داده می شود. می توانید ویژگی هایی را انتخاب کنید که به وسیله آنها تصاویر "
+"انتخاب می شوند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:209
+#, fuzzy
+msgid ""
+"For which type of products will be realized searching by SKU. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+"برای کدام نوع از محصولات جستجو می شود توسط SKU. درخواست برای محصولات متغیرها "
+"عبارات mysql بیشتری را در پایگاه داده ایجاد می کند ..."
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:206
+#, fuzzy
+msgid "Form AJAX redrawing"
+msgstr "رسم مجدد AJAX را تشکیل دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:56
+#, fuzzy
+msgid "From"
+msgstr "از جانب"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#, fuzzy
+msgid "Full - DD, d MM, yy"
+msgstr "کامل - DD ، d MM ، سال"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2028
+#, fuzzy
+msgid "GDPR"
+msgstr "GDPR"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2034
+#, fuzzy
+msgid "GDPR info"
+msgstr "اطلاعات GDPR"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:128
+#, fuzzy
+msgid "Generate attributes for shortcode [woof]"
+msgstr "ایجاد ویژگی برای کد کوتاه [woof]"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/views/tabs_content.php:30
+#, fuzzy
+msgid "Generate data for export"
+msgstr "تولید داده برای صادرات"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:370
+#, fuzzy
+msgid "Generate shortcode"
+msgstr "ایجاد کد کوتاه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:37
+#, fuzzy
+msgid "Get"
+msgstr "گرفتن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:35
+#, fuzzy
+msgid "Get keys from any product by its ID"
+msgstr "با شناسه آن از هر کالایی کلید بگیرید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:25
+#, fuzzy
+msgid "Global visibility"
+msgstr "دید جهانی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:744
+#, fuzzy
+msgid ""
+"Google charts library not loaded! If site is on localhost just disable "
+"statistic extension in tab Extensions!"
+msgstr ""
+"کتابخانه نمودارهای Google بارگیری نشد! اگر سایت در localhost است فقط پسوند "
+"آماری را در برگه Extensions غیرفعال کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:169
+#, fuzzy
+msgid "Graphics"
+msgstr "گرافیک"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1443
+#, fuzzy
+msgid ""
+"Helps to more quickly find the minimum and maximum values for the filter by "
+"price on the site front and minimize server loading."
+msgstr ""
+"کمک می کند تا با سرعت بیشتری حداقل و حداکثر مقادیر فیلتر را از نظر قیمت در "
+"جلو سایت پیدا کرده و بارگذاری سرور را به حداقل برسانیم."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/views/tabs_content.php:33
+#, fuzzy
+msgid ""
+"Here is generated WOOF settings data for export. You can only export WOOF "
+"settings and not taxonomies or other site data. For taxonomies, products and "
+"other  use special third-party plugins."
+msgstr ""
+"در اینجا داده های تنظیمات WOOF برای صادرات تولید می شود. فقط می توانید "
+"تنظیمات WOOF را صادر کنید و نه طبقه بندی یا سایر داده های سایت. برای طبقه "
+"بندی ها ، محصولات و سایر موارد از افزونه های شخص ثالث ویژه استفاده می کنند."
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Hide"
+msgstr "پنهان شدن"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:513
+#, fuzzy
+msgid "Hide auto filter by default"
+msgstr "فیلتر خودکار را به طور پیش فرض پنهان کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Hide childs in checkboxes and radio"
+msgstr "کودکان را در کادرهای انتخاب و رادیو مخفی کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid ""
+"Hide childs in checkboxes and radio. Near checkbox/radio which has childs "
+"will be plus icon to show childs."
+msgstr ""
+"کودکان را در کادرهای انتخاب و رادیو مخفی کنید. نزدیک کادر تأیید / رادیویی که "
+"دارای کودکان است ، نماد بعلاوه برای نشان دادن کودکان است."
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Hide empty terms"
+msgstr "عبارات خالی را مخفی کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr "پنهان کردن اصطلاحات خالی در حالت \"بازشماری پویا\""
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:143
+#, fuzzy
+msgid "Hide search form by default and show one button instead"
+msgstr "فرم جستجو را به طور پیش فرض مخفی کنید و به جای آن یک دکمه نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1134
+#, fuzzy
+msgid "Hide terms count text"
+msgstr "متن شمارش اصطلاحات را مخفی کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Hide woof top panel buttons"
+msgstr "دکمه های پنل بالای وو را مخفی کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:265
+#, fuzzy
+msgid "Host"
+msgstr "میزبان"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Hover"
+msgstr "شناور"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:228
+#, fuzzy
+msgid "How long user will get emails after subscription"
+msgstr "چه مدت کاربر پس از اشتراک ایمیل دریافت می کند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:386
+#, fuzzy
+msgid ""
+"How many search requests will be catched and written down into the "
+"statistical mySQL table per 1 unique user before cron will assemble the data"
+msgstr ""
+"قبل از اینکه cron داده ها را جمع کند ، چند درخواست جستجو برای هر کاربر منحصر "
+"به فرد در جدول mySQL آماری گرفته و نوشته می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:195
+#, fuzzy
+msgid "How many show products in the autocomplete list"
+msgstr "چه تعداد محصول را در لیست تکمیل خودکار نشان می دهد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:588
+#, fuzzy
+msgid ""
+"How many taxonomies and terms to show on the graphs. Use no more than 10 to "
+"understand situation with statistical data"
+msgstr ""
+"چند طبقه بندی و اصطلاح برای نشان دادن در نمودارها. برای درک وضعیت داده های "
+"آماری بیش از 10 استفاده نکنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:413
+#, fuzzy
+msgid ""
+"How many taxonomies per one search request will be written down into the "
+"statistical mySQL table for 1 unique user. The excess data will be truncated!"
+" Number 5 is recommended. More depth - more space in the DataBase will be "
+"occupied by the data"
+msgstr ""
+"چند طبقه بندی برای هر درخواست جستجو در جدول آماری mySQL برای 1 کاربر منحصر "
+"به فرد نوشته می شود. داده های اضافی کوتاه می شوند! شماره 5 توصیه می شود. عمق "
+"بیشتر - فضای بیشتری در DataBase توسط داده ها اشغال خواهد شد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:22
+#, fuzzy
+msgid "How often assemble data file"
+msgstr "چند بار فایل داده را جمع می کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:151
+#, fuzzy
+msgid "How often update products data file"
+msgstr "چند بار پرونده داده محصولات را به روز کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:464
+#, fuzzy
+msgid "How to assemble statistic"
+msgstr "نحوه جمع آوری آمار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:247
+#, fuzzy
+msgid "How to open links with posts in suggestion"
+msgstr "چگونه می توان پیوندها را با پیشنهادات باز کرد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2315
+#, fuzzy
+msgid "How to sort terms inside of filter block"
+msgstr "چگونه می توان اصطلاحات را در داخل بلوک فیلتر مرتب کرد"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#, fuzzy
+msgid "ISO 8601 - yy-mm-dd"
+msgstr "ISO 8601 - yy-mm-dd"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2323
+#, fuzzy
+msgid "Id"
+msgstr "شناسه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:537
+#, fuzzy
+msgid ""
+"If in options tab option \"Set filter automatically\" is \"Yes\" you can "
+"hide filter and show hide/show button instead of it."
+msgstr ""
+"اگر در برگه گزینه ها گزینه \"تنظیم فیلتر به طور خودکار\" \"بله\" است ، می "
+"توانید فیلتر را پنهان کرده و به جای آن دکمه پنهان / نمایش را نشان دهید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2366
+#, fuzzy
+msgid ""
+"If to select NOT IN will be found items which not has selected terms!! Means "
+"vice versa to the the concept of including: excluding"
+msgstr ""
+"اگر برای انتخاب NOT IN مواردی پیدا می شود که اصطلاحاتی را انتخاب نکرده باشد !"
+"! برعکس به مفهوم شامل: مستثنی کردن"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:845
+#, fuzzy
+msgid ""
+"If you are need to customize something and you don't want to lose your "
+"changes after update"
+msgstr ""
+"اگر لازم است چیزی را سفارشی کنید و نمی خواهید پس از به روزرسانی تغییرات خود "
+"را از دست بدهید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:961
+#, fuzzy
+msgid ""
+"If you do not like search key \"swoof\" in the search link you can replace "
+"it by your own word. But be care to avoid conflicts with any themes and "
+"plugins, + never define it as symbol \"s\".<br /> Not understood? Simply do "
+"not touch it!"
+msgstr ""
+"اگر کلید جستجوی &quot;swoof&quot; را در پیوند جستجو دوست ندارید ، می توانید "
+"کلمه خود را جایگزین آن کنید. اما مراقب باشید تا از درگیری با هرگونه مضمون و "
+"افزونه جلوگیری کنید ، + هرگز آن را به عنوان نماد &quot;&quot; تعریف نکنید."
+"<br /> درک نشده است؟ به سادگی آن را لمس نکنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1076
+#, fuzzy
+msgid ""
+"If you have troubles with relevant terms recount on categories pages with "
+"dynamic recount for not logged in users - select transient."
+msgstr ""
+"اگر در شرایط مربوط به بازشماری اصطلاحات مربوطه در صفحات دسته بندی با "
+"بازشماری پویا برای کاربران وارد نشده - گذرا را انتخاب کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1161
+#, fuzzy
+msgid ""
+"If you want show relevant tags on the categories pages you should activate "
+"show count, dynamic recount and <b>hide empty terms</b> in the tab Options. "
+"But if you do not want show count (number) text near each term - set Yes "
+"here."
+msgstr ""
+"اگر می خواهید برچسب های مربوطه را در صفحات دسته ها نشان دهید ، باید شمارش "
+"نمایش ، بازشماری پویا و <b> پنهان کردن اصطلاحات خالی </ b> را در برگه گزینه "
+"ها فعال کنید. اما اگر نمی خواهید متن تعداد (تعداد) نمایش را در نزدیکی هر "
+"اصطلاح نشان دهید - Yes را اینجا تنظیم کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:87
+#, fuzzy
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr "اگر می خواهید اشتراک خود را در این خبرنامه لغو کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2769
+#, fuzzy
+msgid ""
+"If you want to exclude some current taxonomies terms from the search form! "
+"Use Reverse if you want include only instead of exclude! Example: 11,23,77"
+msgstr ""
+"اگر می خواهید برخی از اصطلاحات طبقه بندی فعلی را از فرم جستجو حذف کنید! اگر "
+"می خواهید فقط به جای حذف ، از Reverse استفاده کنید! مثال: 11،23،77"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:249
+#: woocommerce-products-filter/ext/by_text/views/options.php:338
+#: woocommerce-products-filter/ext/conditionals/index.php:1
+#: woocommerce-products-filter/ext/image/index.php:1
+#: woocommerce-products-filter/ext/slideout/index.php:1
+#, fuzzy
+msgid "Image"
+msgstr "تصویر"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:768
+#, fuzzy
+msgid "Image for block toggle [<i>closed</i>]"
+msgstr "تصویر برای ضامن بلوک [<i> بسته شد </ i>]"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:750
+#, fuzzy
+msgid "Image for block toggle [<i>opened</i>]"
+msgstr "تصویر برای ضامن بلوک [<i> باز شد </ i>]"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/color/index.php:169
+#, fuzzy
+msgid "Image for checked color type checkbox"
+msgstr "تصویر برای کادر انتخاب نوع رنگ علامت زده شده است"
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:1
+#: woocommerce-products-filter/ext/image/index.php:199
+#, fuzzy
+msgid "Image for checked image type checkbox"
+msgstr "تصویر برای کادر انتخاب نوع تصویر علامت زده شده است"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/color/index.php:177
+#, fuzzy
+msgid ""
+"Image for color checkboxes when its checked. Better use png. Size is: 25x25 "
+"px."
+msgstr ""
+"تصویر برای کادرهای رنگی وقتی علامت زده شده است. بهتر است از png استفاده کنید."
+" اندازه: 25x25 px است."
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:1
+#: woocommerce-products-filter/ext/image/index.php:207
+#, fuzzy
+msgid ""
+"Image for image checkboxes when its checked. Better use png. Size is: 25x25 "
+"px."
+msgstr ""
+"تصویر برای کادرهای تأیید تصویر وقتی علامت زده شده است. بهتر است از png "
+"استفاده کنید. اندازه: 25x25 px است."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:250
+#, fuzzy
+msgid ""
+"Image for sku search button which appears near input when users typing there "
+"any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+"تصویری برای دکمه جستجوی sku که هنگام تایپ کاربران در آنجا هرگونه علامت در "
+"نزدیکی ورودی ظاهر می شود. بهتر است از png استفاده کنید. اندازه: 20x20 پیکسل "
+"است."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:660
+#, fuzzy
+msgid "Image for subcategories [<i>close</i>]"
+msgstr "تصویر زیرمجموعه ها [<i> بستن </ i>]"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:648
+#, fuzzy
+msgid "Image for subcategories [<i>open</i>]"
+msgstr "تصویر زیرمجموعه ها [<i> باز </ i>]"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:339
+#, fuzzy
+msgid ""
+"Image for text search button which appears near input when users typing "
+"there any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+"تصویر برای دکمه جستجوی متن که هنگام وارد کردن کاربران در هنگام علامت ، در "
+"نزدیکی ورودی ظاهر می شود. بهتر است از png استفاده کنید. اندازه: 20x20 پیکسل "
+"است."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:86
+#, fuzzy
+msgid ""
+"Image or text, button-image can be selected below of the option, instead of "
+"default one in Slideout image field. If text - you can below of the option "
+"insert Slideout text"
+msgstr ""
+"تصویر یا متن ، دکمه-تصویر را می توان در زیر گزینه انتخاب کرد ، به جای یک "
+"مورد پیش فرض در قسمت تصویر Slideout. اگر متن است - در زیر گزینه می توانید "
+"متن Slideout را وارد کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:135
+msgid "Image settings for term %s"
+msgstr "تنظیمات تصویر برای اصطلاح %s"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/image/index.php:143
+#, fuzzy
+msgid "Image styles"
+msgstr "سبک های تصویر"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:656
+#, fuzzy
+msgid ""
+"Image when you select in tab Options \"Hide childs in checkboxes and radio\"."
+" By default it is green cross."
+msgstr ""
+"هنگام انتخاب در زبانه ، گزینه ها \"پنهان کردن کودکان در کادرهای تأیید و "
+"رادیو\" را انتخاب کنید. به طور پیش فرض صلیب سبز است."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:668
+#, fuzzy
+msgid ""
+"Image when you select in tab Options \"Hide childs in checkboxes and radio\"."
+" By default it is green minus."
+msgstr ""
+"هنگام انتخاب در زبانه ، گزینه ها \"پنهان کردن کودکان در کادرهای تأیید و "
+"رادیو\" را انتخاب کنید. به طور پیش فرض منهای سبز است."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:598
+#, fuzzy
+msgid "Image which displayed for tooltip"
+msgstr "تصویری که برای راهنمای ابزار نمایش داده می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:624
+#, fuzzy
+msgid ""
+"Image which displayed instead filter while it is closed if selected. Write "
+"\"none\" here if you want to use text only!"
+msgstr ""
+"تصویری که در صورت بسته بودن در صورت انتخاب ، فیلتر می شود. اگر می خواهید فقط "
+"از متن استفاده کنید ، \"هیچ\" را اینجا بنویسید!"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:2460
+#, fuzzy
+msgid "Images"
+msgstr "تصاویر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/views/tabs_content.php:10
+#, fuzzy
+msgid "Import data"
+msgstr "وارد کردن داده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/views/tabs_content.php:15
+#, fuzzy
+msgid "Import placed data"
+msgstr "داده های قرار داده شده را وارد کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_instock/index.php:57
+#: woocommerce-products-filter/ext/by_instock/views/woof.php:1
+#, fuzzy
+msgid "In stock"
+msgstr "در انبار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_instock/views/options.php:18
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "In stock checkbox"
+msgstr "کادر موجود در انبار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:248
+#, fuzzy
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr "در همان پنجره (_ خود) یا در پنجره جدید (_blank)"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:112
+#, fuzzy
+msgid "Info"
+msgstr "اطلاعات"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:857
+#, fuzzy
+msgid "Init plugin on the next site pages only "
+msgstr "پلاگین اولیه فقط در صفحات بعدی سایت است"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:28
+#, fuzzy
+msgid "Init sections"
+msgstr "بخشهای اولیه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:54
+#, fuzzy
+msgid "Init sections by default"
+msgstr "بخشها را به طور پیش فرض شروع کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2089
+#, fuzzy
+msgid ""
+"Insert Gallery in post, page and custom post types just in two clicks. You "
+"can create great galleries for your products."
+msgstr ""
+"گالری را فقط در دو کلیک در انواع پست ، صفحه و پست سفارشی قرار دهید. شما می "
+"توانید گالری های خوبی برای محصولات خود ایجاد کنید."
+
+#. Text in function
+#: woocommerce-products-filter/classes/alert.php:189
+#, fuzzy
+msgid "Install"
+msgstr "نصب"
+
+#. Text in function
+#: woocommerce-products-filter/classes/alert.php:190
+#, fuzzy
+msgid "Install Now"
+msgstr "الآن نصب کن"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2609
+#, fuzzy
+msgid "Ion Range slider"
+msgstr "کشویی محدوده یونی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:466
+#, fuzzy
+msgid "Ion-Range slider js lib skin for range-sliders of the plugin"
+msgstr "کشویی Ion-Range js lib skin برای دامنه های کشویی افزونه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2095
+#, fuzzy
+msgid ""
+"It concatenates all scripts and styles, minifies and compresses them, adds "
+"expires headers, caches them, and moves styles to the page head, and scripts "
+"to the footer"
+msgstr ""
+"همه اسکریپت ها و سبک ها را بهم پیوند می دهد ، آنها را کوچک و فشرده می کند ، "
+"هدرهای منقضی شده را اضافه می کند ، آنها را مخفی می کند ، و سبک ها را به صفحه "
+"صفحه و اسکریپت ها را به پاورقی منتقل می کند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:209
+#, fuzzy
+msgid ""
+"It is better to keep products data file in wp-uploads folder to avoid data "
+"removing after the plugin update, but not all hosting providers allows to "
+"get json data from this folder, so if you select keep data in the plugin "
+"folder remember about it and reassemble products data using button above "
+"after the plugin update."
+msgstr ""
+"بهتر است پرونده داده محصولات را در پوشه wp-uploads نگهداری کنید تا از حذف "
+"داده ها پس از به روزرسانی پلاگین جلوگیری شود ، اما همه ارائه دهندگان میزبان "
+"اجازه نمی دهند داده های json را از این پوشه دریافت کنند ، بنابراین اگر گزینه "
+"ذخیره اطلاعات در پوشه پلاگین را انتخاب کردید ، از آن بخاطر داشته باشید و پس "
+"از به روزرسانی پلاگین ، با استفاده از دکمه بالا داده های محصولات را دوباره "
+"جمع کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2642
+#, fuzzy
+msgid "It will be counted in the filter( Only for ion-slider )"
+msgstr "در فیلتر شمارش می شود (فقط برای کشویی یونی)"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:849
+#, fuzzy
+msgid "JavaScript code after AJAX is done"
+msgstr "کد جاوا اسکریپت پس از انجام AJAX"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:45
+#, fuzzy
+msgid "LIKE"
+msgstr "پسندیدن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:113
+#, fuzzy
+msgid "LIKE or Equally"
+msgstr "مانند یا به همان اندازه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:95
+#: woocommerce-products-filter/ext/query_save/views/options.php:82
+#, fuzzy
+msgid "Label"
+msgstr "برچسب"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:85
+#: woocommerce-products-filter/ext/by_sku/views/options.php:99
+#: woocommerce-products-filter/ext/by_text/views/options.php:104
+#: woocommerce-products-filter/ext/by_text/views/options.php:118
+#, fuzzy
+msgid "Leave it empty if you not need this"
+msgstr "اگر نیازی به این کار ندارید آن را خالی بگذارید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Left"
+msgstr "ترک کرد"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Lets checked terms will be on the top"
+msgstr "بیایید شرایط علامت گذاری شده در بالا باشد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1956
+#, fuzzy
+msgid "Links"
+msgstr "پیوندها"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:220
+#, fuzzy
+msgid "Links to posts in suggestion"
+msgstr "پیوند به پست های پیشنهادی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1169
+#, fuzzy
+msgid "Listen catalog visibility"
+msgstr "قابلیت مشاهده کاتالوگ را گوش دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1197
+#, fuzzy
+msgid ""
+"Listen catalog visibility - options in each product backend page in "
+"'Publish' sidebar widget."
+msgstr ""
+"قابلیت مشاهده کاتالوگ را بشنوید - گزینه های موجود در هر صفحه صفحه محصول در "
+"ابزارک نوار کناری \"انتشار\"."
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:971
+#, fuzzy
+msgid "Loading ..."
+msgstr "بارگذاری ..."
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading balls - SVG"
+msgstr "در حال بارگذاری توپ - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading bars - SVG"
+msgstr "میله های بارگیری - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading bubbles - SVG"
+msgstr "در حال بارگیری حباب ها - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading cubes - SVG"
+msgstr "مکعب در حال بارگذاری - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading cyclone - SVG"
+msgstr "در حال بارگیری سیکلون - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading spin - SVG"
+msgstr "چرخش در حال بارگذاری - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading spinning bubbles - SVG"
+msgstr "بارگیری حباب های چرخشی - SVG"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Loading spokes - SVG"
+msgstr "بلندگوهای در حال بارگذاری - SVG"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:324
+#, fuzzy
+msgid "Loading word"
+msgstr "در حال بارگیری کلمه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2364
+#, fuzzy
+msgid "Logic of filtering"
+msgstr "منطق فیلتر کردن"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1826
+msgid "Looks like its not the WOOF extension here %s!"
+msgstr "به نظر می رسد که پسوند WOOF در اینجا %s نیست!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:867
+#, fuzzy
+msgid "Looks like troubles with JavaScript!"
+msgstr "به نظر می رسد مشکلات JavaScript است!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#, fuzzy
+msgid "Make filtering"
+msgstr "فیلتر کردن را انجام دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:167
+#, fuzzy
+msgid ""
+"Make filtering after clearing the SKU field or just clear the text input."
+msgstr ""
+"پس از پاک کردن قسمت SKU ، فیلتر را انجام دهید یا فقط متن ورودی را پاک کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:396
+#, fuzzy
+msgid "Max deep of the search request"
+msgstr "حداکثر عمق درخواست جستجو"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2278
+#, fuzzy
+msgid "Max height of  the block"
+msgstr "حداکثر ارتفاع بلوک"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2273
+#, fuzzy
+msgid "Max height of the block"
+msgstr "حداکثر ارتفاع بلوک"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:1
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#, fuzzy
+msgid "Max price"
+msgstr "حداکثر قیمت"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:369
+#, fuzzy
+msgid "Max requests per unique user"
+msgstr "حداکثر درخواست برای هر کاربر منحصر به فرد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:119
+#, fuzzy
+msgid "Max saved queries per user"
+msgstr "حداکثر نمایش داده شده برای هر کاربر ذخیره شده است"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:179
+#, fuzzy
+msgid "Max subscriptions per user"
+msgstr "حداکثر اشتراک برای هر کاربر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:571
+#, fuzzy
+msgid "Max terms or taxonomies per graph"
+msgstr "حداکثر اصطلاحات یا طبقه بندی ها در هر نمودار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:257
+#, fuzzy
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr "حداکثر تعداد ایمیل در هر کاربر مشترک -1 یعنی هیچ محدودیتی."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:180
+#: woocommerce-products-filter/ext/query_save/views/options.php:120
+#, fuzzy
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr "حداکثر تعداد اشتراک برای یک کاربر ثبت شده منفرد."
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#, fuzzy
+msgid "Medium - d MM, y"
+msgstr "متوسط - د MM ، سال"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/index.php:130
+#, fuzzy
+msgid "Meta Data"
+msgstr "متا داده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:20
+#, fuzzy
+msgid "Meta Fields"
+msgstr "زمینه های متا"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/classes/woof_type_meta_filter.php:45
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/index.php:88
+#: woocommerce-products-filter/ext/meta_filter/index.php:198
+#, fuzzy
+msgid "Meta filter"
+msgstr "فیلتر متا"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:1
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#, fuzzy
+msgid "Min price"
+msgstr "حداقل قیمت"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:43
+#, fuzzy
+msgid "Min rating: "
+msgstr "حداقل امتیاز:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:334
+#, fuzzy
+msgid "Mobile behavior"
+msgstr "رفتار موبایل"
+
+#. Text in function
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:19
+#, fuzzy
+msgid "More about extension"
+msgstr "اطلاعات بیشتر در مورد برنامه افزودنی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2011
+#, fuzzy
+msgid "More video"
+msgstr "فیلم بیشتر"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/index.php:1
+#, fuzzy
+msgid "Multi Drop-down"
+msgstr "چند کشویی"
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/index.php:1
+#, fuzzy
+msgid "My query"
+msgstr "س Myال من"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2374
+#, fuzzy
+msgid "NOT IN"
+msgstr "داخل نیست"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "New Products by your request"
+msgstr "محصولات جدید به درخواست شما"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "New products"
+msgstr "محصولات جدید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/sections/index.php:145
+#, fuzzy
+msgid "New section"
+msgstr "بخش جدید"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:220
+#: woocommerce-products-filter/classes/widgets.php:207
+#: woocommerce-products-filter/ext/by_author/views/options.php:27
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:24
+#: woocommerce-products-filter/ext/by_featured/views/options.php:24
+#: woocommerce-products-filter/ext/by_instock/views/options.php:24
+#: woocommerce-products-filter/ext/by_onsales/views/options.php:23
+#: woocommerce-products-filter/ext/by_rating/views/options.php:23
+#: woocommerce-products-filter/ext/by_rating/views/options.php:50
+#: woocommerce-products-filter/ext/by_sku/views/options.php:23
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#: woocommerce-products-filter/ext/by_text/views/options.php:24
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#: woocommerce-products-filter/ext/color/index.php:1
+#: woocommerce-products-filter/ext/image/index.php:1
+#: woocommerce-products-filter/ext/meta_filter/classes/woof_type_meta_filter.php:49
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/index.php:92
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:43
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:46
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:45
+#: woocommerce-products-filter/ext/meta_filter/index.php:202
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:23
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/query_save/views/options.php:23
+#: woocommerce-products-filter/ext/query_save/views/options.php:148
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:72
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#: woocommerce-products-filter/index.php:3532
+#: woocommerce-products-filter/views/plugin_options.php:2460
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#: woocommerce-products-filter/views/plugin_options.php:1900
+#: woocommerce-products-filter/views/plugin_options.php:1860
+#: woocommerce-products-filter/views/plugin_options.php:1783
+#: woocommerce-products-filter/views/plugin_options.php:2298
+#: woocommerce-products-filter/views/plugin_options.php:2945
+#: woocommerce-products-filter/views/plugin_options.php:2629
+#: woocommerce-products-filter/views/plugin_options.php:2933
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "No limit"
+msgstr "بدون محدودیت"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:79
+#, fuzzy
+msgid "No products found"
+msgstr "محصولی یافت نشد"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#: woocommerce-products-filter/ext/query_save/index.php:1
+#, fuzzy
+msgid "None"
+msgstr "هیچ یک"
+
+#. Text in function
+#: woocommerce-products-filter/classes/rate_alert.php:63
+#, fuzzy
+msgid "Nope, maybe later!"
+msgstr "نه ، شاید بعدا!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:655
+msgid ""
+"Not possible to create folder %s automatically, create it please manually!"
+msgstr ""
+"ایجاد پوشه %s به صورت خودکار امکان پذیر نیست ، لطفاً آن را دستی ایجاد کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/shortcodes/woof_price_filter_radio.php:28
+#: woocommerce-products-filter/views/shortcodes/woof_price_filter_select.php:60
+#, fuzzy
+msgid ""
+"Not possible. Enter options ranges in the plugin settings -> tab Structure ->"
+" Search by price -> additional options"
+msgstr ""
+"ممکن نیست. دامنه گزینه ها را در تنظیمات افزونه وارد کنید -> تب ساختار -> "
+"جستجو براساس قیمت -> گزینه های اضافی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2238
+#, fuzzy
+msgid "Not toggled terms count"
+msgstr "تعداد ضامنها تغییر نمی کند"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1686
+msgid ""
+"Note for admin: Folder %s for extensions is not writable OR doesn exists! "
+"Ignore this message if you not planning using WOOF custom extensions!"
+msgstr ""
+"توجه داشته باشید برای مدیر: پوشه %s برای پسوند قابل نوشتن نیست یا وجود ندارد!"
+" اگر قصد استفاده از برنامه های افزودنی سفارشی WOOF را ندارید ، این پیام را "
+"نادیده بگیرید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:236
+#: woocommerce-products-filter/ext/by_text/views/options.php:326
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:296
+#: woocommerce-products-filter/ext/query_save/views/options.php:131
+#, fuzzy
+msgid "Notes for customer"
+msgstr "یادداشت برای مشتری"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/woof.php:73
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/woof.php:74
+#, fuzzy
+msgid "Notice! Add options in the plugin settings->Meta filter"
+msgstr "اطلاع! گزینه ها را در تنظیمات افزونه-> فیلتر متا اضافه کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:31
+#, fuzzy
+msgid "Notice:"
+msgstr "اطلاع:"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2325
+#, fuzzy
+msgid "Numeric."
+msgstr "عددی"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:85
+#: woocommerce-products-filter/views/plugin_options.php:2372
+#, fuzzy
+msgid "OR"
+msgstr "یا"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:241
+#, fuzzy
+msgid "Offset"
+msgstr "انحراف"
+
+#. Text in function
+#: woocommerce-products-filter/classes/rate_alert.php:67
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "خوب ، شما شایسته آن هستید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_onsales/index.php:59
+#: woocommerce-products-filter/ext/by_onsales/views/woof.php:1
+#, fuzzy
+msgid "On sale"
+msgstr "حراج"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_onsales/views/options.php:18
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "On sale checkbox"
+msgstr "جعبه انتخاب در فروش"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "One month"
+msgstr "یک ماه"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "One week"
+msgstr "یک هفته"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:990
+#, fuzzy
+msgid "Optimize loading of WOOF JavaScript files"
+msgstr "بارگیری پرونده های WOOF JavaScript را بهینه کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1410
+#, fuzzy
+msgid "Optimize price filter"
+msgstr "فیلتر قیمت را بهینه کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:18
+#: woocommerce-products-filter/views/plugin_options.php:69
+#: woocommerce-products-filter/views/plugin_options.php:827
+#, fuzzy
+msgid "Options"
+msgstr "گزینه ها"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1529
+#, fuzzy
+msgid "Order dropdown css selector"
+msgstr "سفارش انتخابگر کشویی css"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:288
+#, fuzzy
+msgid "Overlay image background"
+msgstr "پس زمینه تصویر را همپوشانی کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:259
+#, fuzzy
+msgid "Overlay skins"
+msgstr "پوسته ها را همپوشانی کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1025
+#, fuzzy
+msgid "Override no products found content"
+msgstr "هیچ محصولی را که پیدا شده است لغو کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:274
+#, fuzzy
+msgid "Password"
+msgstr "کلمه عبور"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1549
+#, fuzzy
+msgid "Per page css selector"
+msgstr "در هر صفحه انتخابگر css"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:135
+#, fuzzy
+msgid ""
+"Period of emailing to subscribed users. Set it to \"No\" if you going to use "
+"external cron."
+msgstr ""
+"دوره ارسال ایمیل به کاربران مشترک. اگر می خواهید از کرون خارجی استفاده کنید "
+"، آن را روی \"نه\" تنظیم کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1040
+#, fuzzy
+msgid ""
+"Place in which you can paste text or/and any shortcodes which will be "
+"displayed when customer will not find any products by his search criterias. "
+"Example:"
+msgstr ""
+"مکانی که می توانید متن یا / و هر کد کوتاهی را که در آن مشتری نمایش داده نمی "
+"شود با توجه به معیارهای جستجو خود ، در آن جای گذاری کنید. مثال:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:94
+#, fuzzy
+msgid "Placeholder"
+msgstr "محل نگهدارنده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:61
+#: woocommerce-products-filter/ext/by_sku/views/options.php:98
+#: woocommerce-products-filter/ext/by_text/views/options.php:117
+#, fuzzy
+msgid "Placeholder text"
+msgstr "متن محل نگهدارنده"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:789
+#, fuzzy
+msgid "Plainoverlay - CSS"
+msgstr "Plainoverlay - CSS"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:306
+#, fuzzy
+msgid "Plainoverlay color"
+msgstr "رنگ جلد سفید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/shortcodes/woof_save_query.php:100
+#, fuzzy
+msgid "Please fill the title field."
+msgstr "لطفا قسمت عنوان را پر کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/shortcodes/woof_quick_search.php:216
+#, fuzzy
+msgid "Please read documents"
+msgstr "لطفا اسناد را بخوانید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:36
+#, fuzzy
+msgid "Please update database: "
+msgstr "لطفا پایگاه داده را به روز کنید:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:149
+#, fuzzy
+msgid "Position"
+msgstr "موقعیت"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:117
+#, fuzzy
+msgid "Postfix"
+msgstr "پسوند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:105
+#, fuzzy
+msgid "Prefix"
+msgstr "پیشوند"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#: woocommerce-products-filter/ext/query_save/index.php:1
+msgid "Price - from %s to %s"
+msgstr "قیمت - از %s تا %s"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:1
+#, fuzzy
+msgid "Price:"
+msgstr "قیمت:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:178
+#, fuzzy
+msgid "Print Graphs"
+msgstr "نمودارها را چاپ کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:268
+#, fuzzy
+msgid "Priority of limitations"
+msgstr "اولویت محدودیت ها"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/templates/grid_1/output.php:38
+#: woocommerce-products-filter/ext/quick_search/views/templates/grid_2/output.php:37
+#: woocommerce-products-filter/ext/quick_search/views/templates/list_1/output.php:53
+#: woocommerce-products-filter/ext/quick_search/views/templates/list_2/output.php:55
+#: woocommerce-products-filter/ext/quick_search/views/templates/list_3/output.php:38
+#, fuzzy
+msgid "Product not found"
+msgstr "محصول یافت نشد"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:1
+#, fuzzy
+msgid "Products Filter"
+msgstr "فیلتر محصولات"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:17
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:29
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:33
+#: woocommerce-products-filter/ext/query_save/views/options.php:29
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Products Messenger"
+msgstr "محصولات مسنجر"
+
+#. Text in function
+#: woocommerce-products-filter/ext/turbo_mode/index.php:86
+#, fuzzy
+msgid "Products and Variants"
+msgstr "محصولات و انواع"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:53
+#, fuzzy
+msgid "Products assembling period in data file for quick search."
+msgstr "دوره جمع آوری محصولات در پرونده داده ها برای جستجوی سریع."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:969
+#, fuzzy
+msgid "Products per page"
+msgstr "محصولات در هر صفحه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:982
+#, fuzzy
+msgid ""
+"Products per page when searching is going only. Set here -1 to prevent "
+"pagination managing from here!"
+msgstr ""
+"محصولات در هر صفحه فقط هنگام جستجو انجام می شود. برای جلوگیری از مدیریت صفحه "
+"بندی از اینجا ، اینجا را تنظیم کنید -1!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/index.php:195
+#, fuzzy
+msgid "Quick search"
+msgstr "جستجوی سریع"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1995
+#, fuzzy
+msgid "Quick video tutorial"
+msgstr "آموزش سریع فیلم"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:216
+#, fuzzy
+msgid "Radio and checkboxes skin"
+msgstr "رادیو و جعبه های انتخاب پوست"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:94
+#, fuzzy
+msgid "Range"
+msgstr "دامنه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:433
+#, fuzzy
+msgid "Range-slider skin"
+msgstr "پوست کشویی مرتب"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2582
+#, fuzzy
+msgid "Ranges for price filter."
+msgstr "محدوده فیلتر قیمت."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:283
+#, fuzzy
+msgid "Read about the Statistic extension here"
+msgstr "در مورد پسوند آمار اینجا بخوانید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:122
+#, fuzzy
+msgid "Reassemble data file"
+msgstr "پرونده داده را دوباره جمع کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:129
+#, fuzzy
+msgid "Reassemble data file for quick search manually now"
+msgstr "اکنون برای جستجوی دستی ، پرونده داده را دوباره جمع کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:159
+#, fuzzy
+msgid "Reassemble products data now!"
+msgstr "اکنون داده های محصولات را دوباره جمع آوری کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2066
+#, fuzzy
+msgid "Recommended plugins for your site flexibility and features"
+msgstr "پلاگین های پیشنهادی برای انعطاف پذیری و ویژگی های سایت شما"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr "دکمه های قرمز در بالای صفحه فروشگاه هنگام جستجو انجام می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:138
+#, fuzzy
+msgid "Redirect to"
+msgstr "تغییر مسیر به"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:140
+#, fuzzy
+msgid ""
+"Redirect to any page - use it by your own logic. Leave it empty for default "
+"behavior."
+msgstr ""
+"تغییر مسیر به هر صفحه - با استفاده از منطق خود از آن استفاده کنید. برای "
+"رفتار پیش فرض آن را خالی بگذارید."
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:218
+#, fuzzy
+msgid ""
+"Redraws search form by AJAX, and to start filtering \"Filter\" button should "
+"be pressed. Useful when uses hierarchical drop-down for example"
+msgstr ""
+"فرم جستجو را توسط AJAX ترسیم می کند و برای شروع فیلتر کردن دکمه \"فیلتر\" "
+"باید فشار داده شود. به عنوان مثال هنگام استفاده از کشویی سلسله مراتبی مفید "
+"است"
+
+#. Text in function
+#: woocommerce-products-filter/ext/quick_search/index.php:1
+#: woocommerce-products-filter/ext/step_filer/views/shortcode/step_filter.php:1
+#: woocommerce-products-filter/views/woof.php:491
+#, fuzzy
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Reset button text"
+msgstr "بازنشانی متن دکمه"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid ""
+"Reset button text in the search form. Write \"none\" to hide this button on "
+"front."
+msgstr ""
+"بازنشانی متن دکمه در فرم جستجو. برای پنهان کردن این دکمه در جلو ، \"هیچ\" "
+"بنویسید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:154
+#, fuzzy
+msgid "Reset items order"
+msgstr "تنظیم مجدد سفارش موارد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1508
+#, fuzzy
+msgid "Result count css selector"
+msgstr "تعداد شمارش نتایج css"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2766
+#, fuzzy
+msgid "Reverse"
+msgstr "معکوس"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:885
+#, fuzzy
+msgid "Reverse: deactivate plugin on the next site pages only"
+msgstr "معکوس: پلاگین را فقط در صفحات بعدی سایت غیرفعال کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Right"
+msgstr "درست"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:75
+#, fuzzy
+msgid "Role"
+msgstr "نقش"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:100
+#, fuzzy
+msgid ""
+"SKU textinput placeholder. Set \"none\" if you want leave it empty on the "
+"front."
+msgstr ""
+"SKU متغیر ذخیره کننده متن اگر می خواهید \"هیچ\" تنظیم کنید ، قسمت جلوی آن را "
+"خالی بگذارید."
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "SS"
+msgstr "اس اس"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "SSS"
+msgstr "SSS"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "SSSS"
+msgstr "SSSS"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "SSSSS"
+msgstr "SSSSS"
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/views/options.php:33
+#, fuzzy
+msgid "Save current search query"
+msgstr "جستجوی جستجوی فعلی را ذخیره کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:71
+#, fuzzy
+msgid "Save meta fields"
+msgstr "فیلدهای متا را ذخیره کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:17
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Save search query"
+msgstr "ذخیره درخواست جستجو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:21
+#: woocommerce-products-filter/ext/by_author/views/options.php:32
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Search by Author"
+msgstr "جستجو توسط نویسنده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_instock/views/options.php:30
+#, fuzzy
+msgid "Search by InStock"
+msgstr "جستجو توسط InStock"
+
+#. Text in function
+#: woocommerce-products-filter/ext/sections/index.php:160
+#: woocommerce-products-filter/views/plugin_options.php:2927
+#: woocommerce-products-filter/views/plugin_options.php:2943
+#, fuzzy
+msgid "Search by Price"
+msgstr "جستجو براساس قیمت"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:17
+#: woocommerce-products-filter/ext/by_sku/views/options.php:28
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Search by SKU"
+msgstr "جستجو توسط SKU"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:18
+#: woocommerce-products-filter/ext/sections/index.php:160
+#, fuzzy
+msgid "Search by Text"
+msgstr "جستجو براساس متن"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by content"
+msgstr "جستجو براساس محتوا"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by content OR excerpt"
+msgstr "جستجو براساس محتوا یا گزیده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:300
+#, fuzzy
+msgid "Search by description in variations"
+msgstr "جستجو براساس توضیحات در تغییرات"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/views/additional_options.php:12
+#, fuzzy
+msgid "Search by exact value OR if meta key exists"
+msgstr "اگر متا کلید وجود دارد با مقدار دقیق جستجو کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by excerpt"
+msgstr "جستجو بر اساس گزیده"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_featured/views/options.php:30
+#, fuzzy
+msgid "Search by featured"
+msgstr "جستجو توسط برجسته"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:164
+#, fuzzy
+msgid "Search by full word only"
+msgstr "جستجو فقط با کلمه کامل"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_rating/views/options.php:28
+#, fuzzy
+msgid "Search by rating"
+msgstr "جستجو براساس رتبه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:29
+#: woocommerce-products-filter/ext/meta_filter/index.php:1
+#, fuzzy
+msgid "Search by text"
+msgstr "جستجو بر اساس متن"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by title"
+msgstr "جستجو بر اساس عنوان"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by title AND content"
+msgstr "جستجو براساس عنوان و محتوا"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by title OR content"
+msgstr "جستجو براساس عنوان یا مطالب"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "Search by title OR content OR excerpt"
+msgstr "جستجو براساس عنوان یا محتوای یا گزیده ای"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:52
+#: woocommerce-products-filter/ext/by_instock/views/options.php:54
+#, fuzzy
+msgid "Search in products and their variations"
+msgstr "محصولات و تغییرات آنها را جستجو کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:47
+#: woocommerce-products-filter/ext/by_instock/views/options.php:49
+#, fuzzy
+msgid "Search in variable produts"
+msgstr "جستجو در محصولات متغیر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:80
+#, fuzzy
+msgid "Search logic"
+msgstr "منطق جستجو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/views/additional_options.php:11
+#, fuzzy
+msgid "Search option"
+msgstr "گزینه جستجو"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:946
+#, fuzzy
+msgid "Search slug"
+msgstr "حلزون جستجو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/views/additional_options.php:38
+#, fuzzy
+msgid "Search value"
+msgstr "مقدار جستجو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:61
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:504
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:97
+#, fuzzy
+msgid "Secret key for external cron"
+msgstr "کلید مخفی برای cron خارجی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/index.php:58
+#, fuzzy
+msgid "Sections"
+msgstr "بخشها"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:61
+#, fuzzy
+msgid "Sections behavior"
+msgstr "رفتار بخشها"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:77
+#, fuzzy
+msgid "See more new products..."
+msgstr "مشاهده محصولات جدید بیشتر ..."
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid ""
+"Select \"Yes\" if you want to TRY make filtering in your shop by AJAX. Not "
+"compatible for 100% of all wp themes, so test it well if you are going to "
+"buy premium version of the plugin because incompatibility is not fixable!"
+msgstr ""
+"اگر می خواهید فیلتر خود را در فروشگاه خود توسط AJAX انجام دهید ، \"بله\" را "
+"انتخاب کنید. برای 100٪ از تمام تم های wp سازگار نیست ، بنابراین اگر می "
+"خواهید نسخه ممتاز پلاگین را بخرید آن را خوب آزمایش کنید زیرا ناسازگاری قابل "
+"رفع نیست!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:256
+#: woocommerce-products-filter/ext/by_text/views/options.php:345
+#: woocommerce-products-filter/ext/color/index.php:142
+#: woocommerce-products-filter/ext/color/index.php:174
+#: woocommerce-products-filter/ext/image/index.php:132
+#: woocommerce-products-filter/ext/image/index.php:204
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:101
+#: woocommerce-products-filter/views/plugin_options.php:295
+#: woocommerce-products-filter/views/plugin_options.php:665
+#: woocommerce-products-filter/views/plugin_options.php:778
+#, fuzzy
+msgid "Select Image"
+msgstr "تصویر را انتخاب کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_author/views/shortcodes/woof_author_filter.php:7
+#, fuzzy
+msgid "Select a product author"
+msgstr "نویسنده محصول را انتخاب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:89
+#, fuzzy
+msgid "Select acceptable for your hosting type of cron"
+msgstr "برای نوع میزبان cron قابل قبول را انتخاب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:455
+#, fuzzy
+msgid ""
+"Select cron which you want to use for the statistic assembling. Better use "
+"WordPress cron, but on the server create external cron and set there period "
+"of site visiting."
+msgstr ""
+"cron را که می خواهید برای جمع آوری آمار استفاده کنید ، انتخاب کنید. بهتر است "
+"از cron وردپرس استفاده کنید ، اما در سرور cron خارجی ایجاد کنید و دوره "
+"بازدید از سایت را در آنجا تنظیم کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:45
+#, fuzzy
+msgid "Select period:"
+msgstr "انتخاب دوره:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:356
+#, fuzzy
+msgid "Select taxonomies and meta keys which you want to track"
+msgstr "طبقه بندی ها و کلیدهای متا را که می خواهید ردیابی کنید ، انتخاب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:148
+#, fuzzy
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr ""
+"طبقه بندی ها را در گزینه Options انتخاب کنید و \"ذخیره تغییرات\" را فشار دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:160
+#: woocommerce-products-filter/ext/step_filer/views/tabs_content.php:40
+#, fuzzy
+msgid ""
+"Select taxonomy, taxonomies combinations OR leave this field empty to see "
+"general data for all the most requested taxonomies"
+msgstr ""
+"طبقه بندی ، ترکیب طبقه بندی ها را انتخاب کنید یا این قسمت را خالی بگذارید تا "
+"داده های کلی برای همه طبقه بندی های درخواستی را مشاهده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:66
+#, fuzzy
+msgid "Select the time period for which you want to see statistical data"
+msgstr ""
+"دوره زمانی را که می خواهید داده های آماری را برای آن ببینید ، انتخاب کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid ""
+"Selected terms will always be displayed on the top (for parent-terms only, "
+"child will be on the top but under parent-term as it was)"
+msgstr ""
+"اصطلاحات انتخاب شده همیشه در بالا نمایش داده می شوند (فقط برای اصطلاحات "
+"والدین ، کودک در بالاترین قسمت قرار می گیرد اما مانند والدین است)"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:244
+#, fuzzy
+msgid "Server options for statistic stock"
+msgstr "گزینه های سرور برای سهام آماری"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:119
+#, fuzzy
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr "\"none\" را تنظیم کنید تا حافظه مکان برای این ورودی متن غیرفعال شود"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Set filter automatically"
+msgstr "فیلتر را به صورت خودکار تنظیم کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Set filter automatically on the shop page"
+msgstr "فیلتر را به طور خودکار در صفحه فروشگاه تنظیم کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:1
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#, fuzzy
+msgid "Short - d M, y"
+msgstr "کوتاه - d M ، y"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:362
+#, fuzzy
+msgid "Should the slideout button be visible on mobile devices"
+msgstr "آیا دکمه نمایش اسلاید در دستگاه های تلفن همراه قابل مشاهده است؟"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Show"
+msgstr "نشان دادن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_rating/views/options.php:46
+#, fuzzy
+msgid "Show  stars in drop-down"
+msgstr "نمایش ستاره ها در کشویی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_featured/views/options.php:20
+#, fuzzy
+msgid "Show Featured products checkbox inside WOOF search form"
+msgstr "کادر انتخاب محصولات ویژه را در فرم جستجوی WOOF نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_instock/views/options.php:20
+#, fuzzy
+msgid "Show In stock only checkbox inside woof search form"
+msgstr "کادر تأیید فقط موجود در داخل فرم جستجوی woof نمایش داده شود"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:20
+#, fuzzy
+msgid "Show On backorder checkbox inside woof search form"
+msgstr "در فرم جستجوی woof کادر تأیید در backorder را نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_onsales/views/options.php:19
+#, fuzzy
+msgid "Show On sale only checkbox inside woof search form"
+msgstr "کادر تأیید Show On sale فقط در فرم جستجوی woof وجود دارد"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:23
+#, fuzzy
+msgid "Show Search by author drop-down inside woof search form"
+msgstr "نمایش جستجو توسط نویسنده در فرم جستجوی woof"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1452
+#, fuzzy
+msgid "Show blocks helper button"
+msgstr "نمایش دکمه کمکی بلوک ها"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2504
+#, fuzzy
+msgid "Show button"
+msgstr "دکمه نمایش"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2505
+#, fuzzy
+msgid ""
+"Show button for woocommerce filter by price inside woof search form when it "
+"is dispayed as woo range-slider"
+msgstr ""
+"نمایش دکمه فیلتر woocommerce با توجه به قیمت داخل فرم جستجوی woof هنگامی که "
+"به عنوان کشویی محدوده woo از بین می رود ، نشان دهید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Show count"
+msgstr "نمایش تعداد"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Show count of items near taxonomies terms on the front"
+msgstr "تعداد موارد نزدیک به شرایط طبقه بندی را در جلو نشان دهید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid ""
+"Show count of items near taxonomies terms on the front dynamically. Must be "
+"switched on \"Show count\". In turbo mode if filter is very big better "
+"select \"Yes, only for PC\""
+msgstr ""
+"تعداد موارد نزدیک به اصطلاحات طبقه بندی را در جلو به صورت پویا نشان دهید. "
+"باید \"نمایش تعداد\" را روشن کنید. در حالت توربو اگر فیلتر خیلی بزرگ است "
+"بهتر است \"بله ، فقط برای کامپیوتر\" را انتخاب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1479
+#, fuzzy
+msgid ""
+"Show helper button for shortcode [woof] on the front when 'Set filter "
+"automatically' is Yes"
+msgstr ""
+"دکمه کمکی را برای کد کوتاه [woof] در قسمت جلوی نمایش دهید ، درصورتی که "
+"\"تنظیم فیلتر به طور خودکار\" مثبت است"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1092
+#, fuzzy
+msgid "Show image of variation"
+msgstr "نمایش تصویر تنوع"
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:1
+#, fuzzy
+msgid "Show image title"
+msgstr "نمایش عنوان تصویر"
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:1
+#, fuzzy
+msgid "Show image title below picture"
+msgstr "عنوان تصویر را در زیر تصویر نشان دهید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/color/index.php:1
+#, fuzzy
+msgid "Show in one column"
+msgstr "نمایش در یک ستون"
+
+#. Text in function
+#: woocommerce-products-filter/ext/color/index.php:1
+#, fuzzy
+msgid "Show in one column with title"
+msgstr "نمایش در یک ستون با عنوان"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:830
+#, fuzzy
+msgid "Show less"
+msgstr "کمتر نشان دهید"
+
+#. Text in function
+#: woocommerce-products-filter/classes/helper.php:830
+#, fuzzy
+msgid "Show more"
+msgstr "بیشتر نشان بده، اطلاعات بیشتر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:143
+#, fuzzy
+msgid "Show notice"
+msgstr "نمایش اخطار"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:170
+#, fuzzy
+msgid "Show notice on product page"
+msgstr "اعلامیه را در صفحه محصول نشان دهید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Show on all devices"
+msgstr "نمایش در همه دستگاه ها"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Show only on desktop"
+msgstr "فقط در دسک تاپ نمایش داده شود"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Show only on mobile"
+msgstr "فقط در تلفن همراه نمایش داده شود"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2622
+#, fuzzy
+msgid "Show price text inputs"
+msgstr "ورودی متن قیمت را نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:19
+#, fuzzy
+msgid "Show product mesenger box inside woof search form"
+msgstr "جعبه پیام رسان محصول را در فرم جستجوی woof نشان دهید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Show products filter form"
+msgstr "فرم فیلتر محصولات را نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:40
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:108
+#, fuzzy
+msgid "Show subscription button"
+msgstr "نمایش دکمه اشتراک"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:41
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:109
+#, fuzzy
+msgid ""
+"Show subscription button without search query. For example, user will be "
+"able to subscribe for new products in any products category."
+msgstr ""
+"نمایش دکمه اشتراک بدون پرس و جو جستجو. به عنوان مثال ، کاربر می تواند در هر "
+"گروه از محصولات ، مشترک محصولات جدید شود."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:19
+#, fuzzy
+msgid "Show textinput for searching by products sku"
+msgstr "نمایش متن برای جستجو توسط محصولات sku"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:20
+#, fuzzy
+msgid "Show textinput for searching by products title"
+msgstr "نمایش متن برای جستجو براساس عنوان محصولات"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:13
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:13
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:12
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:16
+#: woocommerce-products-filter/views/plugin_options.php:2176
+#, fuzzy
+msgid "Show title label"
+msgstr "نمایش برچسب عنوان"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:38
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:38
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:38
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:41
+#: woocommerce-products-filter/views/plugin_options.php:2196
+#: woocommerce-products-filter/views/plugin_options.php:2544
+#, fuzzy
+msgid "Show toggle button"
+msgstr "نمایش دکمه ضامن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:39
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:39
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:39
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:42
+#: woocommerce-products-filter/views/plugin_options.php:2197
+#: woocommerce-products-filter/views/plugin_options.php:2545
+#, fuzzy
+msgid ""
+"Show toggle button near the title on the front above the block of html-items"
+msgstr "دکمه ضامن را در نزدیکی عنوان در قسمت بالای مجموعه موارد HTML نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:66
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:66
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:66
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:69
+#: woocommerce-products-filter/views/plugin_options.php:2217
+#: woocommerce-products-filter/views/plugin_options.php:2564
+#, fuzzy
+msgid "Show tooltip"
+msgstr "نمایش راهنمای ابزار"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2929
+#, fuzzy
+msgid "Show woocommerce filter by price inside woof search form"
+msgstr "فیلتر woocommerce را براساس قیمت داخل فرم جستجوی woof نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:14
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:14
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:13
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:17
+#, fuzzy
+msgid "Show/Hide meta block title on the front"
+msgstr "نمایش / پنهان کردن عنوان بلوک متا در جلو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:52
+#, fuzzy
+msgid "Show/Hide slideout on shop pages"
+msgstr "نمایش / پنهان کردن اسلایدها در صفحات فروشگاه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2177
+#, fuzzy
+msgid "Show/Hide taxonomy block title on the front"
+msgstr "نشان دادن / پنهان کردن عنوان بلوک طبقه بندی در جلو"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2101
+#, fuzzy
+msgid ""
+"Shrink, beautify, track, manage and share any URL on or off of your "
+"WordPress website. Create links that look how you want using your own domain "
+"name!"
+msgstr ""
+"هر URL موجود در وب سایت وردپرس خود را کوچک ، زیبا ، ردیابی ، مدیریت و به "
+"اشتراک بگذارید. پیوندهایی ایجاد کنید که با استفاده از نام دامنه خود به "
+"خواسته شما بپردازند!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:52
+#: woocommerce-products-filter/ext/by_instock/views/options.php:54
+#, fuzzy
+msgid "Simple products only"
+msgstr "فقط محصولات ساده"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:545
+#, fuzzy
+msgid "Skins for the auto filter"
+msgstr "پوسته برای فیلتر خودکار"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:576
+#, fuzzy
+msgid ""
+"Skins for the auto-filter which appears on the shop page if in tab Options "
+"enabled Set filter automatically"
+msgstr ""
+"پوسته هایی برای فیلتر خودکار که در صفحه فروشگاه ظاهر می شود اگر در برگه باشد "
+"گزینه ها فعال هستند فیلتر را به طور خودکار تنظیم کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/index.php:80
+#, fuzzy
+msgid "Slideout"
+msgstr "نمایش اسلاید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:96
+#, fuzzy
+msgid "Slideout image"
+msgstr "تصویر اسلاید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:114
+#, fuzzy
+msgid "Slideout text"
+msgstr "متن اسلاید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/index.php:1
+#, fuzzy
+msgid "Slider"
+msgstr "لغزنده"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1235
+#, fuzzy
+msgid ""
+"Sometimes code '<code>wp_query->is_post_type_archive = true</code>' does not "
+"necessary. Try to disable this and try woof-search on your site. If all is "
+"ok - leave its disabled. Disabled code by this option you can find in index."
+"php by mark disable_swoof_influence."
+msgstr ""
+"گاهی اوقات کد \"<code> wp_query-> is_post_type_archive = true </code>\" لازم "
+"نیست. سعی کنید این را غیرفعال کنید و جستجوی woof را در سایت خود امتحان کنید. "
+"اگر همه چیز خوب است - آن را غیرفعال کنید. کد غیرفعال شده توسط این گزینه را "
+"می توانید در index.php by mark disable_swoof_influence پیدا کنید."
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/index.php:1
+#, fuzzy
+msgid "Somthing wrong!"
+msgstr "چیزی اشتباه است!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/views/options.php:33
+msgid "Sorry! This product is not suitable for your search %title%."
+msgstr "متاسف! این محصول برای جستجوی شما %title% مناسب نیست."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2340
+#, fuzzy
+msgid "Sort terms"
+msgstr "شرایط را مرتب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:185
+#, fuzzy
+msgid "Speed"
+msgstr "سرعت"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid ""
+"Start searching just after changing any of the elements on the search form"
+msgstr "جستجو را فقط پس از تغییر هر یک از عناصر موجود در فرم جستجو شروع کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:301
+#, fuzzy
+msgid "State after init"
+msgstr "بعد از init بیان کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/index.php:198
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:13
+#, fuzzy
+msgid "Statistic"
+msgstr "آمار"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:655
+#, fuzzy
+msgid ""
+"Statistic -> tab Options -> \"Stat server options\" inputs should be filled "
+"in by right data, another way not possible to collect statistical data!"
+msgstr ""
+"آمار -> برگه گزینه ها -> ورودی های \"گزینه های سرور Stat\" باید با داده های "
+"صحیح پر شوند ، روش دیگری برای جمع آوری داده های آماری امکان پذیر نیست!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#, fuzzy
+msgid ""
+"Statistic extension is activated but statistics collection is not enabled. "
+"Enable it on: tab Statistic -> tab Options -> \"Statistics collection "
+"enabled\""
+msgstr ""
+"پسوند آمار فعال است اما جمع آوری آمار فعال نیست. فعال کردن آن در: زبانه آمار "
+"-> زبانه گزینه ها -> \"مجموعه آمار فعال است\""
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:296
+#, fuzzy
+msgid "Statistic for:"
+msgstr "آمار برای:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:77
+#: woocommerce-products-filter/ext/step_filer/views/tabs_content.php:32
+#, fuzzy
+msgid "Statistical parameters:"
+msgstr "پارامترهای آماری:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:201
+#, fuzzy
+msgid "Statistics collection:"
+msgstr "مجموعه آمار:"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:84
+#: woocommerce-products-filter/views/plugin_options.php:2610
+#, fuzzy
+msgid "Step"
+msgstr "گام"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/step_filer/index.php:42
+#: woocommerce-products-filter/ext/step_filer/views/tabs_content.php:13
+#, fuzzy
+msgid "Step by step filter"
+msgstr "فیلتر مرحله به مرحله"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1049
+#, fuzzy
+msgid "Storage type"
+msgstr "نوع ذخیره سازی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:62
+#, fuzzy
+msgid "Structure"
+msgstr "ساختار"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1985
+#, fuzzy
+msgid "Styles and codes which are applied on the demo site"
+msgstr "سبک ها و کدهایی که در سایت نمایش استفاده می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:203
+#, fuzzy
+msgid "Subject of the email"
+msgstr "موضوع ایمیل"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:204
+#, fuzzy
+msgid "Subject of the email."
+msgstr "موضوع ایمیل."
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:190
+#, fuzzy
+msgid "Submit button position"
+msgstr "ارسال موقعیت دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:59
+#, fuzzy
+msgid "Subscribe "
+msgstr "اشتراک در"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/shortcodes/woof_products_messenger.php:62
+#, fuzzy
+msgid "Subscribe on the current search request"
+msgstr "در درخواست جستجوی فعلی مشترک شوید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "Subscription"
+msgstr "اشتراک، ابونمان"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:227
+#, fuzzy
+msgid "Subscription time"
+msgstr "زمان اشتراک"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1965
+#, fuzzy
+msgid "Support"
+msgstr "حمایت کردن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/conditionals/views/tabs_content.php:34
+#, fuzzy
+msgid ""
+"Syntax example: product_cat>pa_size,by_instock>pa_color. In the example "
+"described: if a user will select a [product category] then filter by "
+"[pa_size] or [by_instock] will be appeared [pa_color]. For shortcode [woof] "
+"use an attribute: [conditionals]. Use line break in the textarea to define "
+"some rules (press Enter keyboard). In [woof] shortcode to define some rules "
+"use sign: [+]."
+msgstr ""
+"مثال نحو: product_cat> pa_size، by_instock> pa_color. در مثالی که شرح داده "
+"شده است: اگر کاربری [رده محصول] را انتخاب کند ، فیلتر با [pa_size] یا "
+"[by_instock] فیلتر [pa_color] ظاهر می شود. برای کد کوتاه [woof] از یک ویژگی "
+"استفاده کنید: [شرطی]. برای تعریف برخی از قوانین از خط شکسته در متن استفاده "
+"کنید (Enter keyboard را فشار دهید). در کد کوتاه [woof] برای تعریف برخی از "
+"قوانین از علامت استفاده کنید: [+]."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:15
+#, fuzzy
+msgid "TEXT"
+msgstr "متن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/views/additional_options.php:39
+#, fuzzy
+msgid ""
+"TRUE value, all another are FALSE. Example: yes or true or 1. By default if "
+"this textinput empty 1 is true and 0 is false"
+msgstr ""
+"مقدار واقعی ، همه موارد دیگر نادرست هستند. مثال: بله یا درست یا 1. به طور "
+"پیش فرض اگر این متن ورودی خالی 1 درست و 0 نادرست باشد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2641
+#, fuzzy
+msgid "Tax"
+msgstr "مالیات"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2640
+#, fuzzy
+msgid "Taxes"
+msgstr "مالیات"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:147
+#, fuzzy
+msgid "Taxonomy conditionals"
+msgstr "شرط بندی طبقه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2256
+#, fuzzy
+msgid "Taxonomy custom label"
+msgstr "برچسب سفارشی تاکسونومی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:54
+#, fuzzy
+msgid "Terms: "
+msgstr "مقررات:"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:2460
+#, fuzzy
+msgid "Text"
+msgstr "پیامک"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2533
+#, fuzzy
+msgid ""
+"Text before the price filter range slider. Leave it empty if you not need it!"
+msgstr ""
+"پیامک را قبل از لغزنده محدوده فیلتر قیمت ارسال کنید. اگر نیازی به آن ندارید "
+"، آن را خالی بگذارید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:730
+#, fuzzy
+msgid "Text for block toggle [<i>closed</i>]"
+msgstr "متن برای ضامن بلوک [<i> بسته شد </ i>]"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:714
+#, fuzzy
+msgid "Text for block toggle [<i>opened</i>]"
+msgstr "متن برای ضامن بلوک [<i> باز شد </ i>]"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:202
+#, fuzzy
+msgid "Text if current product is not suitable for saved searches"
+msgstr "اگر محصول فعلی برای جستجوهای ذخیره شده مناسب نیست ، پیامک کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:190
+#, fuzzy
+msgid "Text if current product is suitable for saved searches"
+msgstr "اگر محصول فعلی برای جستجوهای ذخیره شده مناسب است ، پیامک کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:192
+#, fuzzy
+msgid "Text in header of the email."
+msgstr "متن را در عنوان ایمیل ارسال کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:216
+#, fuzzy
+msgid ""
+"Text in the body of the email. You can use next variables: [DISPLAY_NAME], "
+"[USER_NICENAME], [PRODUCT_COUNT]."
+msgstr ""
+"متن را در متن ایمیل وارد کنید. می توانید از متغیرهای بعدی استفاده کنید: "
+"[DISPLAY_NAME] ، [USER_NICENAME] ، [PRODUCT_COUNT]."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:215
+#, fuzzy
+msgid "Text of the email"
+msgstr "متن ایمیل"
+
+#. Text in function
+#: woocommerce-products-filter/ext/quick_search/index.php:1
+#, fuzzy
+msgid "Text search"
+msgstr "جستجوی متن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:14
+#, fuzzy
+msgid "Text search conditional"
+msgstr "جستجوی متن مشروط"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:640
+#, fuzzy
+msgid "Text which displayed instead filter while it is closed if selected."
+msgstr "متنی که درصورت انتخاب بسته به جای آن فیلتر می شود در حالیکه بسته است."
+
+#. Text in function
+#: woocommerce-products-filter/classes/rate_alert.php:71
+#, fuzzy
+msgid "Thank you, I did it!"
+msgstr "ممنون ، من این کار را کردم!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:95
+#, fuzzy
+msgid "The placeholder  in title field"
+msgstr "محل نگهداری در قسمت عنوان"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:165
+#, fuzzy
+msgid "The result is only with the full coincidence of words"
+msgstr "نتیجه فقط با همزمانی کامل کلمات است"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:203
+#, fuzzy
+msgid "The submit and reset buttons position in current search form"
+msgstr "موقعیت دکمه های ارسال و بازنشانی در فرم جستجوی فعلی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:96
+#: woocommerce-products-filter/ext/query_save/views/options.php:83
+#, fuzzy
+msgid "The text before the block of subscription block"
+msgstr "متن قبل از بلوک بلوک اشتراک"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:107
+#, fuzzy
+msgid "The text in the button"
+msgstr "متن موجود در دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:131
+#, fuzzy
+msgid ""
+"This button is just helper which allows to assemble data for [woof] "
+"shortcode."
+msgstr ""
+"این دکمه فقط کمکی است که امکان جمع آوری داده ها برای کد کوتاه [woof] را "
+"فراهم می کند."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:281
+#, fuzzy
+msgid ""
+"This data is very important for assembling statistics data, so please fill "
+"fields very responsibly. To collect statistical data uses a separate MySQL "
+"table."
+msgstr ""
+"این داده ها برای جمع آوری داده های آماری بسیار مهم است ، بنابراین لطفاً قسمت "
+"ها را بسیار مسئولانه پر کنید. برای جمع آوری داده های آماری از جدول MySQL "
+"جداگانه استفاده می شود."
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "This link does not work."
+msgstr "این پیوند کار نمی کند"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:899
+#, fuzzy
+msgid ""
+"This option enables or disables initialization of the plugin on all pages of "
+"the site except links and link-masks in the textarea. One row - one link (or "
+"link-mask)! Example of link: http://site.com/ajaxed-search-7. Example of "
+"link-mask: product-category . Leave it empty to allow the plugin "
+"initialization on all pages of the site!"
+msgstr ""
+"این گزینه مقداردهی اولیه افزونه را در همه صفحات سایت به غیر از پیوندها و "
+"ماسک های پیوند در متن منطقه فعال یا غیرفعال می کند. یک ردیف - یک پیوند (یا "
+"پیوند ماسک)! نمونه پیوند: http://site.com/ajaxed-search-7. نمونه ای از ماسک "
+"پیوند: دسته بندی محصول. آن را خالی بگذارید تا در همه صفحات سایت مقدار اولیه "
+"پلاگین فراهم شود!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1017
+#, fuzzy
+msgid ""
+"This option place WOOF JavaScript files on the site footer. Use it for page "
+"loading optimization. Be care with this option, and always after enabling of "
+"it test your site frontend!"
+msgstr ""
+"این گزینه پرونده های WOOF JavaScript را در پایین صفحه قرار می دهد. از آن "
+"برای بهینه سازی بارگذاری صفحه استفاده کنید. مراقب این گزینه باشید و همیشه پس "
+"از فعال کردن آن ، پیشخوان سایت خود را آزمایش کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/image/index.php:144
+#, fuzzy
+msgid "This option should be set"
+msgstr "این گزینه باید تنظیم شود"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2106
+#, fuzzy
+msgid ""
+"This plugin provides an easy to use interface to create and administer "
+"custom post types and taxonomies in WordPress."
+msgstr ""
+"این پلاگین رابط کاربری آسان برای ایجاد و مدیریت انواع پست های سفارشی و طبقه "
+"بندی در وردپرس را فراهم می کند."
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/views/options.php:33
+msgid "This product matches your search %title%."
+msgstr "این محصول با جستجوی شما %title% مطابقت دارد."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2623
+#, fuzzy
+msgid "This works with ionSlider only"
+msgstr "این فقط با ionSlider کار می کند"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:130
+#: woocommerce-products-filter/views/plugin_options.php:2324
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/views/options.php:33
+#, fuzzy
+msgid "Title of the Query*"
+msgstr "عنوان پرس و جو *"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:191
+#, fuzzy
+msgid "Title of the email"
+msgstr "عنوان ایمیل"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:84
+#: woocommerce-products-filter/ext/by_text/views/options.php:103
+#: woocommerce-products-filter/views/plugin_options.php:2532
+#, fuzzy
+msgid "Title text"
+msgstr "متن عنوان"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:59
+#, fuzzy
+msgid "To"
+msgstr "به"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:167
+#, fuzzy
+msgid ""
+"To update the key, just delete it and save the plugin settings. Key should "
+"be min 16 symbols."
+msgstr ""
+"برای به روزرسانی کلید ، فقط آن را حذف کرده و تنظیمات افزونه را ذخیره کنید. "
+"کلید باید حداقل 16 علامت باشد."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:677
+#, fuzzy
+msgid "Toggle block type"
+msgstr "نوع بلوک را تغییر دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:742
+#, fuzzy
+msgid ""
+"Toggle text for closed html-items block. Example: open. By default applied "
+"sign plus \"+\""
+msgstr ""
+"تغییر متن برای بلوک موارد بسته html. مثال: باز کردن به طور پیش فرض علامت "
+"اعمال شده به علاوه \"+\""
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:726
+#, fuzzy
+msgid ""
+"Toggle text for opened html-items block. Example: close. By default applied "
+"sign minus \"-\""
+msgstr ""
+"متن را برای بلوک موارد html باز کنید. مثال: بستن به طور پیش فرض علامت منهای "
+"\"-\" اعمال می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:65
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:65
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:65
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:68
+#: woocommerce-products-filter/views/plugin_options.php:2216
+#: woocommerce-products-filter/views/plugin_options.php:2563
+#, fuzzy
+msgid "Tooltip"
+msgstr "راهنمایی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:590
+#, fuzzy
+msgid "Tooltip icon"
+msgstr "نماد راهنمای ابزار"
+
+#. Text in function
+#: woocommerce-products-filter/ext/color/index.php:1
+#, fuzzy
+msgid "Tooltip text"
+msgstr "متن راهنما"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:207
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "Top"
+msgstr "بالا"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:207
+#, fuzzy
+msgid "Top AND Bottom"
+msgstr "بالا و پایین"
+
+#. Text in function
+#: woocommerce-products-filter/classes/alert.php:188
+#, fuzzy
+msgid ""
+"Try new WooCommerce plugin for displaying your shop products in table format"
+msgstr ""
+"پلاگین WooCommerce جدید را برای نمایش محصولات فروشگاه خود در قالب جدول "
+"امتحان کنید"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Try to ajaxify the shop"
+msgstr "سعی کنید فروشگاه را ajaxify کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/index.php:177
+#, fuzzy
+msgid "Turbo mode"
+msgstr "حالت توربو"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "Two months"
+msgstr "دو ماه"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#, fuzzy
+msgid "Two weeks"
+msgstr "دو هفته"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:707
+#, fuzzy
+msgid ""
+"Type of the toogle on the front for block of html-items as: radio, checkbox ."
+"... Works only if the block title is not hidden!"
+msgstr ""
+"نوع توگل در قسمت جلوی موارد html-آیتم ها را به عنوان مثال: رادیو ، کادر "
+"تأیید ... فقط در صورتی که عنوان بلوک پنهان نباشد کار می کند!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "Unsubscribe"
+msgstr "لغو اشتراک"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:37
+#, fuzzy
+msgid "Update"
+msgstr "به روز رسانی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:126
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:163
+#, fuzzy
+msgid "Update now!"
+msgstr "اکنون به روز کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:104
+#, fuzzy
+msgid "Url of the custom image for the button"
+msgstr "آدرس اینترنتی تصویر دلخواه برای دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:495
+#, fuzzy
+msgid ""
+"Use WordPress Cron if your site has a lot of traffic, and external cron if "
+"the site traffic is not big. External cron is more predictable with time of "
+"execution, but additional knowledge how to set it correctly is required (<i "
+"style=\"color: orange;\">External cron will be ready in the next version of "
+"the extension</i>)"
+msgstr ""
+"اگر سایت شما بازدید زیادی دارد از WordPress Cron و اگر بازدید سایت زیاد نیست "
+"از cron خارجی استفاده کنید. cron خارجی با زمان اجرا قابل پیش بینی تر است ، "
+"اما دانش بیشتری در مورد تنظیم صحیح آن لازم است ( <i style=\"color: orange;\">"
+"cron خارجی در نسخه بعدی برنامه افزودنی آماده خواهد شد</i> )"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:394
+#, fuzzy
+msgid "Use beauty scroll"
+msgstr "از پیمایش زیبایی استفاده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:424
+#, fuzzy
+msgid ""
+"Use beauty scroll when you apply max height for taxonomy block on the front"
+msgstr ""
+"هنگام استفاده از حداکثر ارتفاع برای بلوک طبقه بندی در قسمت جلو ، از پیمایش "
+"زیبایی استفاده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:355
+#, fuzzy
+msgid "Use chosen"
+msgstr "انتخاب شده استفاده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:385
+#, fuzzy
+msgid "Use chosen javascript library on the front of your site for drop-downs."
+msgstr ""
+"برای منوی کشویی از کتابخانه جاوا اسکریپت انتخاب شده در جلوی سایت خود استفاده "
+"کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:132
+#, fuzzy
+msgid ""
+"Use comma as in example: 1,2,3,4,5. If you want structure like title->value "
+"use next syntax example: France^1,Germany^2,USA^3. Countries are titles here."
+msgstr ""
+"به عنوان مثال از ویرگول استفاده کنید: 1،2،3،4،5. اگر می خواهید ساختاری مانند "
+"عنوان -> مقدار را بدست آورید ، از نحو بعدی استفاده کنید: France ^ 1، Germany "
+"^ 2، USA ^ 3. کشورها در اینجا عنوان هستند."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/views/options.php:208
+#, fuzzy
+msgid "Use for"
+msgstr "استفاده برای"
+
+#. Text in function
+#: woocommerce-products-filter/ext/image/index.php:1
+#, fuzzy
+msgid "Use image as radio button"
+msgstr "از تصویر به عنوان دکمه رادیویی استفاده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:932
+#, fuzzy
+msgid ""
+"Use it if you can not translate your custom taxonomies labels and attributes "
+"labels by another plugins."
+msgstr ""
+"اگر نمی توانید برچسب ها و ویژگی های طبقه بندی های سفارشی خود را توسط پلاگین "
+"های دیگر ترجمه کنید ، از آن استفاده کنید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:852
+#, fuzzy
+msgid ""
+"Use it when you are need additional action after AJAX redraw your products "
+"in shop page or in page with shortcode! For use when you need additional "
+"functionality after AJAX redraw of your products on the shop page or on "
+"pages with shortcodes."
+msgstr ""
+"پس از اینکه AJAX محصولات خود را در صفحه فروشگاه یا در صفحه با کد کوتاه "
+"دوباره طراحی کرد ، از آن استفاده کنید! برای استفاده در مواقعی که بعد از "
+"طراحی مجدد AJAX محصولات خود در صفحه فروشگاه یا صفحات دارای کد کوتاه ، به "
+"قابلیت دیگری نیاز دارید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:900
+#, fuzzy
+msgid ""
+"Use sign # before link to apply strict compliance. Example: #https:"
+"//your_site.com/product-category/man/"
+msgstr ""
+"برای اعمال انطباق دقیق از علامت # قبل از پیوند استفاده کنید. مثال: #https: "
+"//your_site.com/product-category/man/"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:474
+#, fuzzy
+msgid "Use tooltip"
+msgstr "از راهنمایی استفاده کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:504
+#, fuzzy
+msgid ""
+"Use tooltip library on the front of your site. Possible to disable it here "
+"if any scripts conflicts on the site front."
+msgstr ""
+"از کتابخانه راهنمای ابزار در جلوی سایت خود استفاده کنید. در صورت تداخل "
+"اسکریپت ها در جلوی سایت ، امکان غیرفعال کردن آن در اینجا وجود دارد."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1402
+#, fuzzy
+msgid ""
+"Useful thing when you already set your site IN THE PRODUCTION MODE - its "
+"getting terms for filter faster without big MySQL queries! If you actively "
+"adds new terms every day or week you can set cron period for cleaning. "
+"Another way set: '<b>not clean cache automatically</b>'!"
+msgstr ""
+"وقتی سایت خود را در حالت تولید تنظیم می کنید ، چیز مفیدی است - بدون نیاز به "
+"پرسش های بزرگ MySQL ، سریعتر شرایط فیلتر را می گیرد! اگر هر روز یا هفته واژه "
+"های جدیدی فعال اضافه می کنید می توانید دوره cron را برای تمیز کردن تنظیم "
+"کنید. روش دیگری تنظیم شده است: \"<b> حافظه پنهان را به طور خودکار پاک نکنید "
+"</ b>\"!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1333
+#, fuzzy
+msgid ""
+"Useful thing when you already set your site IN THE PRODUCTION MODE and use "
+"dynamic recount -> it make recount very fast! Of course if you added new "
+"products which have to be in search results you have to clean this cache OR "
+"you can set time period for auto cleaning!"
+msgstr ""
+"وقتی سایت خود را در حالت تولید تنظیم می کنید و از بازشماری پویا استفاده می "
+"کنید ، چیز مفیدی است -> این باعث می شود که شمارش سریع انجام شود! مطمئناً اگر "
+"محصولات جدیدی را اضافه کنید که باید در نتایج جستجو باشند باید این حافظه "
+"پنهان را تمیز کنید یا می توانید برای تمیز کردن خودکار دوره زمانی تعیین کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:268
+#, fuzzy
+msgid "User"
+msgstr "کاربر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/query_save/views/options.php:19
+#, fuzzy
+msgid "User can save the search query"
+msgstr "کاربر می تواند درخواست جستجو را ذخیره کند"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:155
+#, fuzzy
+msgid ""
+"User on the site front will have to press button like \"Show products filter "
+"form\" to load search form by ajax and start filtering. Good feature when "
+"search form is quite big and page loading takes more time because of it!"
+msgstr ""
+"کاربر در جلوی سایت برای بارگذاری فرم جستجو توسط ajax و شروع به فیلتر کردن ، "
+"باید دکمه ای مانند \"نمایش فرم فیلتر محصولات\" را فشار دهد. ویژگی خوب وقتی "
+"فرم جستجو کاملاً بزرگ است و بارگذاری صفحه به دلیل آن زمان بیشتری می برد!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/views/additional_options.php:16
+#, fuzzy
+msgid "Value exists"
+msgstr "ارزش وجود دارد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1964
+#: woocommerce-products-filter/views/plugin_options.php:2017
+#, fuzzy
+msgid "Video tutorials"
+msgstr "آموزش های ویدئویی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:96
+#, fuzzy
+msgid "View"
+msgstr "چشم انداز"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:97
+#, fuzzy
+msgid "View of the search by author "
+msgstr "نمای جستجو توسط نویسنده"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2749
+#, fuzzy
+msgid "View of the taxonomies terms on the front"
+msgstr "نمای اصطلاحات طبقه بندی در جلو"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/templates/grid_2/output.php:29
+#: woocommerce-products-filter/ext/quick_search/views/templates/list_3/output.php:33
+#, fuzzy
+msgid "View product"
+msgstr "مشاهده محصول"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/export_import/views/tabs_content.php:18
+#, fuzzy
+msgid ""
+"WARNING: this action will overwrite all current WOOF settings. Insert WOOF "
+"settings data you need to import! Here you can import only WOOF settings and "
+"nothing more! If your site don`t have taxonomies WOOF will not create them "
+"(you should create taxonomies before)."
+msgstr ""
+"هشدار: این عمل همه تنظیمات فعلی WOOF را بازنویسی می کند. داده های تنظیمات "
+"WOOF را که برای وارد کردن نیاز دارید وارد کنید! در اینجا می توانید فقط "
+"تنظیمات WOOF را وارد کنید و نه هیچ چیز دیگر! اگر سایت شما دارای طبقه بندی "
+"نباشد ، WOOF آنها را ایجاد نمی کند (شما باید قبلا طبقه بندی ایجاد کنید)."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2714
+#, fuzzy
+msgid "WOOBE"
+msgstr "ووب"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2719
+#, fuzzy
+msgid "WOOCS"
+msgstr "WOOCS"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:1
+#, fuzzy
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - فیلتر محصولات ووکامرس"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:36
+msgid "WOOF - WooCommerce Products Filter v.%s"
+msgstr "WOOF - فیلتر محصولات WooCommerce v. %s"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2708
+#, fuzzy
+msgid "WOOF FULL VERSION"
+msgstr "نسخه کامل WOOF"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:653
+#, fuzzy
+msgid ""
+"WOOF cannot create database table for statistic! Make sure that your mysql "
+"user has the CREATE privilege! Do it manually using your host panel&amp;"
+"phpmyadmin!"
+msgstr ""
+"WOOF نمی تواند جدول پایگاه داده را برای آمار ایجاد کند! اطمینان حاصل کنید که "
+"کاربر mysql از امتیاز CREATE برخوردار است! این کار را با استفاده از پنل "
+"میزبان و phpmyadmin خود انجام دهید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1325
+#, fuzzy
+msgid ""
+"WOOF cannot create the database table! Make sure that your mysql user has "
+"the CREATE privilege! Do it manually using your host panel&phpmyadmin!"
+msgstr ""
+"WOOF نمی تواند جدول پایگاه داده را ایجاد کند! اطمینان حاصل کنید که کاربر "
+"mysql از امتیاز CREATE برخوردار است! این کار را با استفاده از پنل میزبان و "
+"phpmyadmin خود انجام دهید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1962
+#, fuzzy
+msgid "WOOF documentation"
+msgstr "مستندات WOOF"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:803
+#, fuzzy
+msgid "WOOF settings saving ..."
+msgstr "ذخیره تنظیمات WOOF ..."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2724
+#, fuzzy
+msgid "WOOT"
+msgstr "دزد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:908
+#, fuzzy
+msgid "WPML taxonomies labels translations"
+msgstr "طبقه بندی های WPML برچسب ها را ترجمه می کند"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:226
+#, fuzzy
+msgid "Way to show of slideout popup out: click or hover"
+msgstr "راهی برای نشان دادن پنجره بازشو به صورت اسلاید: کلیک یا نشانگر"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:114
+#, fuzzy
+msgid "Weekly recommended"
+msgstr "هفتگی توصیه می شود"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:182
+#, fuzzy
+msgid "Where to keep products data file"
+msgstr "پرونده داده ها را در کجا نگهداری کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:178
+#, fuzzy
+msgid "Where to show slideout button: right, left, top"
+msgstr "دکمه نمایش اسلاید از کجا نشان داده شود: راست ، چپ ، بالا"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:269
+#, fuzzy
+msgid ""
+"Which limitation has priority. Event after which user stop getting the "
+"emails. Both - means that any first event of two ones, will reset user "
+"subscription."
+msgstr ""
+"کدام محدودیت اولویت دارد. رویدادی که پس از آن کاربر دریافت ایمیل را متوقف می "
+"کند. هر دو - به این معنی است که هر رویداد اول از دو رویداد ، اشتراک کاربر را "
+"دوباره تنظیم می کند."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2111
+#, fuzzy
+msgid "Widget Logic lets you control on which pages widgets appear using"
+msgstr ""
+"Widget Logic به شما امکان می دهد در چه صفحه هایی ابزارک ها با استفاده از "
+"نمایش داده می شوند ، کنترل کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:142
+#, fuzzy
+msgid "Width X Height (px) of the button image"
+msgstr "عرض X ارتفاع (px) از تصویر دکمه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:295
+#, fuzzy
+msgid "Width and height of the popup html container size in (px)"
+msgstr "عرض و ارتفاع اندازه ظرف پنجره html در (px)"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:48
+#: woocommerce-products-filter/ext/by_instock/views/options.php:50
+#, fuzzy
+msgid ""
+"Will the plugin look in each variable of variable products. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+"آیا پلاگین در هر متغیر از محصولات متغیر جستجو می شود. درخواست برای محصولات "
+"متغیرها عبارات mysql بیشتری را در پایگاه داده ایجاد می کند ..."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2084
+#, fuzzy
+msgid ""
+"WooCommerce Active Products Table - WOOT - (new name is PROTAS) WooCommerce "
+"plugin for displaying shop products in table format. Woo Products Tables "
+"makes focus for your buyers on the things they want to get, nothing "
+"superfluous, just what the client wants, and full attention to what is "
+"offered!"
+msgstr ""
+"جدول محصولات فعال WooCommerce - WOOT - (نام جدید PROTAS است) پلاگین "
+"WooCommerce برای نمایش محصولات فروشگاهی در قالب جدول. جداول Woo Products "
+"باعث می شود خریداران شما تمرکز خود را بر روی چیزهایی که می خواهند بدست آورند "
+"، هیچ چیز اضافی ، فقط آنچه مشتری می خواهد و توجه کامل به آنچه ارائه می شود!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2713
+#, fuzzy
+msgid "WooCommerce Bulk Editor"
+msgstr "ویرایشگر انبوه WooCommerce"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2074
+#, fuzzy
+msgid ""
+"WooCommerce Currency Switcher – is the plugin that allows you to switch to "
+"different currencies and get their rates converted in the real time!"
+msgstr ""
+"WooCommerce Currency Switcher - افزونه ای است که به شما امکان می دهد به "
+"ارزهای مختلف بروید و نرخ آنها را در زمان واقعی تبدیل کنید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2718
+#, fuzzy
+msgid "WooCommerce Currency Swither"
+msgstr "واحد پول WooCommerce"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:207
+#, fuzzy
+msgid "WooCommerce Products Filter"
+msgstr "فیلتر محصولات ووکامرس"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:1
+#, fuzzy
+msgid "WooCommerce Products Filter by realmag777"
+msgstr "فیلتر محصولات ووکامرس توسط realmag777"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2723
+#, fuzzy
+msgid "WooCommerce Products Tables"
+msgstr "جداول محصولات WooCommerce"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:345
+#, fuzzy
+msgid ""
+"Word while searching is going on front when \"Overlay skins\" is default."
+msgstr "وقتی پیش فرض \"Overlay skins\" کلمه هنگام جستجو در حال انجام است."
+
+#. Text in function
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "WordPress Cron"
+msgstr "وردپرس Cron"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:81
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:526
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:117
+#, fuzzy
+msgid "WordPress Cron period"
+msgstr "دوره Cron وردپرس"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:134
+#, fuzzy
+msgid "WordPress cron period"
+msgstr "دوره cron وردپرس"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2079
+#, fuzzy
+msgid ""
+"WordPress plugin for managing and bulk edit WooCommerce Products data in "
+"robust and flexible way! Be professionals with managing data of your "
+"woocommerce e-shop!"
+msgstr ""
+"افزونه وردپرس برای مدیریت و ویرایش انبوه داده های محصولات WooCommerce به "
+"روشی قوی و انعطاف پذیر! در مدیریت داده های فروشگاه الکترونیکی woocommerce "
+"خود حرفه ای باشید!"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2291
+#, fuzzy
+msgid ""
+"Works for radio and checkboxes only. Allows show radio/checkboxes in 1 row!"
+msgstr ""
+"فقط برای رادیو و کادرهای تأیید کار می کند. نمایش کادرهای رادیویی / چک در 1 "
+"ردیف را مجاز می کند!"
+
+#. Text in function
+#: woocommerce-products-filter/classes/widgets.php:220
+#: woocommerce-products-filter/classes/widgets.php:207
+#: woocommerce-products-filter/ext/by_author/views/options.php:28
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:25
+#: woocommerce-products-filter/ext/by_featured/views/options.php:25
+#: woocommerce-products-filter/ext/by_instock/views/options.php:25
+#: woocommerce-products-filter/ext/by_onsales/views/options.php:24
+#: woocommerce-products-filter/ext/by_rating/views/options.php:24
+#: woocommerce-products-filter/ext/by_rating/views/options.php:50
+#: woocommerce-products-filter/ext/by_sku/views/options.php:24
+#: woocommerce-products-filter/ext/by_sku/views/options.php:213
+#: woocommerce-products-filter/ext/by_text/views/options.php:25
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#: woocommerce-products-filter/ext/color/index.php:1
+#: woocommerce-products-filter/ext/image/index.php:1
+#: woocommerce-products-filter/ext/meta_filter/classes/woof_type_meta_filter.php:50
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/index.php:93
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:43
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:46
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/additional_options.php:45
+#: woocommerce-products-filter/ext/meta_filter/index.php:203
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:24
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/query_save/views/options.php:24
+#: woocommerce-products-filter/ext/query_save/views/options.php:148
+#: woocommerce-products-filter/ext/sections/views/tabs_content.php:72
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#: woocommerce-products-filter/index.php:3532
+#: woocommerce-products-filter/views/plugin_options.php:2460
+#: woocommerce-products-filter/views/plugin_options.php:1698
+#: woocommerce-products-filter/views/plugin_options.php:1900
+#: woocommerce-products-filter/views/plugin_options.php:1860
+#: woocommerce-products-filter/views/plugin_options.php:1783
+#: woocommerce-products-filter/views/plugin_options.php:2299
+#: woocommerce-products-filter/views/plugin_options.php:2945
+#: woocommerce-products-filter/views/plugin_options.php:2630
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/widgets.php:187
+#, fuzzy
+msgid ""
+"Yes - filtering starts immediately if user changed any item in the search "
+"form. No - user can set search data and then should press Filter button"
+msgstr ""
+"بله - اگر کاربر هر موردی را در فرم جستجو تغییر دهد ، بلافاصله فیلتر کردن "
+"شروع می شود. خیر - کاربر می تواند داده های جستجو را تنظیم کند و سپس باید "
+"دکمه Filter را فشار دهد"
+
+#. Text in function
+#: woocommerce-products-filter/ext/query_save/views/options.php:148
+#, fuzzy
+msgid "Yes(only if the product exists)"
+msgstr "بله (فقط در صورت وجود محصول)"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Yes, but only for desktop"
+msgstr "بله ، اما فقط برای دسک تاپ"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:3532
+#, fuzzy
+msgid "Yes, but only for mobile devices"
+msgstr "بله ، اما فقط برای دستگاه های تلفن همراه"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:43
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:46
+#: woocommerce-products-filter/views/plugin_options.php:2205
+#: woocommerce-products-filter/views/plugin_options.php:2552
+#, fuzzy
+msgid "Yes, show as closed"
+msgstr "بله ، به عنوان بسته نشان داده شود"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/mselect/views/additional_options.php:85
+#: woocommerce-products-filter/ext/meta_filter/html_types/select/views/additional_options.php:43
+#: woocommerce-products-filter/ext/meta_filter/html_types/slider/views/additional_options.php:46
+#: woocommerce-products-filter/views/plugin_options.php:2206
+#: woocommerce-products-filter/views/plugin_options.php:2553
+#, fuzzy
+msgid "Yes, show as opened"
+msgstr "بله ، نمایش همانطور که باز شده است"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "You are unsubscribed from the future products newsletters."
+msgstr "اشتراک شما در خبرنامه محصولات آینده لغو نمی شود."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:174
+#, fuzzy
+msgid ""
+"You can always assemble products data for Turbo Mode by one click! While its "
+"assembling filtering on the site front is still possible with previous "
+"assembled products data until new data assembled!"
+msgstr ""
+"شما همیشه می توانید داده های محصولات را برای حالت Turbo با یک کلیک جمع آوری "
+"کنید! در حالی که فیلتر مونتاژ آن در قسمت جلو سایت هنوز با داده های محصولات "
+"مونتاژ شده قبلی تا زمان جمع آوری داده های جدید امکان پذیر نیست!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/conditionals/views/tabs_content.php:33
+#, fuzzy
+msgid ""
+"You can define the conditions for displaying filter elements depending of "
+"the current filtering request. Briefly this feature allows to hide some "
+"filter-elements while others are not selected. Or vice versa - show some "
+"filter-elements if some another filter elements are selected."
+msgstr ""
+"بسته به درخواست فیلتر کنونی می توانید شرایط نمایش عناصر فیلتر را تعریف کنید. "
+"به طور خلاصه این ویژگی اجازه می دهد برخی از عناصر فیلتر را پنهان کند در حالی "
+"که برخی دیگر انتخاب نشده اند. یا برعکس - در صورت انتخاب برخی از عناصر فیلتر "
+"دیگر ، برخی از عناصر فیلتر را نشان دهید."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:76
+#, fuzzy
+msgid "You can define whith which role show users in the drop down"
+msgstr "می توانید تعیین کنید که کدام نقش کاربران را در لیست کشویی نشان می دهد"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1826
+#, fuzzy
+msgid "You should write extension info in info.dat file!"
+msgstr "شما باید اطلاعات پسوند را در پرونده info.dat بنویسید!"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#, fuzzy
+msgid "You unsubscribed from the newsletter."
+msgstr "اشتراک خود را در خبرنامه لغو کردید."
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:32
+#, fuzzy
+msgid "Your settings have been saved."
+msgstr "تنظیمات شما ذخیره شده است."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:32
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:30
+#: woocommerce-products-filter/ext/by_featured/views/options.php:30
+#: woocommerce-products-filter/ext/by_instock/views/options.php:30
+#: woocommerce-products-filter/ext/by_rating/views/options.php:28
+#: woocommerce-products-filter/ext/by_sku/views/options.php:28
+#: woocommerce-products-filter/ext/by_text/views/options.php:29
+#: woocommerce-products-filter/ext/meta_filter/classes/woof_type_meta_filter.php:53
+#: woocommerce-products-filter/ext/meta_filter/index.php:206
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:29
+#: woocommerce-products-filter/ext/query_save/views/options.php:29
+#: woocommerce-products-filter/views/plugin_options.php:2770
+#: woocommerce-products-filter/views/plugin_options.php:2943
+#, fuzzy
+msgid "additional options"
+msgstr "گزینه های اضافی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:83
+#, fuzzy
+msgid "all"
+msgstr "همه"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "as Image"
+msgstr "به عنوان تصویر"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:347
+#, fuzzy
+msgid "as Text"
+msgstr "به عنوان متن"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "average rating between 1 to 2-"
+msgstr "میانگین امتیاز بین 1 تا 2"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "average rating between 2 to 3-"
+msgstr "میانگین امتیاز بین 2 تا 3"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "average rating between 3 to 4-"
+msgstr "میانگین امتیاز بین 3 تا 4-"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_rating/views/woof.php:20
+#, fuzzy
+msgid "average rating between 4 to 5"
+msgstr "میانگین امتیاز بین 4 تا 5"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/color/index.php:141
+#, fuzzy
+msgid "background image url 25x25"
+msgstr "تصویر پس زمینه url 25x25"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_text/views/options.php:133
+#, fuzzy
+msgid "behavior of the text searching"
+msgstr "رفتار جستجوی متن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_sku/index.php:75
+#, fuzzy
+msgid "by SKU"
+msgstr "توسط SKU"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically daily"
+msgstr "روزانه حافظه پنهان را به طور خودکار تمیز کنید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically each 2 days"
+msgstr "هر 2 روز حافظه پنهان را به طور خودکار تمیز کنید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically each 3 days"
+msgstr "هر 3 روز حافظه پنهان را به طور خودکار تمیز کنید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically each 4 days"
+msgstr "هر 4 روز حافظه پنهان را به طور خودکار تمیز کنید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically each 5 days"
+msgstr "هر 5 روز حافظه پنهان را به طور خودکار تمیز کنید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically each 6 days"
+msgstr "پاک کردن حافظه پنهان به طور خودکار هر 6 روز"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically each 7 days"
+msgstr "هر 7 روز حافظه پنهان را به طور خودکار تمیز کنید"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically hourly"
+msgstr "پاک کردن حافظه پنهان به صورت خودکار هر ساعت"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "clean cache automatically twicedaily"
+msgstr "پاک کردن حافظه پنهان به صورت خودکار بصورت روزانه"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1437
+#, fuzzy
+msgid "clear"
+msgstr "روشن"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1271
+#, fuzzy
+msgid "clear cache"
+msgstr "پاک کردن حافظه پنهان"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1370
+#, fuzzy
+msgid "clear terms cache"
+msgstr "پاک کردن حافظه نهان"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "daily"
+msgstr "روزانه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:140
+#: woocommerce-products-filter/index.php:902
+#, fuzzy
+msgid "date"
+msgstr "تاریخ"
+
+#. Text in function
+#: woocommerce-products-filter/index.php:974
+#, fuzzy
+msgid "default_overlay_skin_word"
+msgstr "default_overlay_skin_word"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:145
+#, fuzzy
+msgid "delete"
+msgstr "حذف"
+
+#. Text in function
+#: woocommerce-products-filter/views/plugin_options.php:1790
+#, fuzzy
+msgid "do not clean cache automatically"
+msgstr "حافظه پنهان را به طور خودکار تمیز نکنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1040
+#, fuzzy
+msgid "do not use shortcodes here in turbo mode"
+msgstr "در اینجا در حالت توربو از کد کوتاه استفاده نکنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:19
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:16
+#: woocommerce-products-filter/ext/by_featured/views/options.php:16
+#: woocommerce-products-filter/ext/by_instock/views/options.php:16
+#: woocommerce-products-filter/ext/by_onsales/views/options.php:16
+#: woocommerce-products-filter/ext/by_rating/views/options.php:16
+#: woocommerce-products-filter/ext/by_sku/views/options.php:15
+#: woocommerce-products-filter/ext/by_text/views/options.php:16
+#: woocommerce-products-filter/ext/meta_filter/classes/woof_type_meta_filter.php:41
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/index.php:84
+#: woocommerce-products-filter/ext/meta_filter/index.php:194
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:92
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:15
+#: woocommerce-products-filter/ext/query_save/views/options.php:15
+#: woocommerce-products-filter/views/plugin_options.php:2739
+#: woocommerce-products-filter/views/plugin_options.php:2925
+#, fuzzy
+msgid "drag and drope"
+msgstr "کشیدن و قطره قطره شدن"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:784
+#, fuzzy
+msgid "drawing graphs ..."
+msgstr "رسم نمودارها ..."
+
+#. Text in function
+#: woocommerce-products-filter/index.php:1
+msgid "each %s days"
+msgstr "هر %s روز"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_sku/views/shortcodes/woof_sku_filter.php:5
+#, fuzzy
+msgid "enter a product sku here ..."
+msgstr "اینجا sku محصول وارد کنید ..."
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/shortcodes/woof_text_filter.php:5
+#, fuzzy
+msgid "enter a product title here ..."
+msgstr "عنوان محصول را اینجا وارد کنید ..."
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/textinput/views/woof.php:5
+#, fuzzy
+msgid "enter a text here ..."
+msgstr "یک متن اینجا وارد کنید ..."
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:36
+#, fuzzy
+msgid "enter product ID"
+msgstr "شناسه محصول را وارد کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:99
+#, fuzzy
+msgid "enter title"
+msgstr "عنوان را وارد کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2763
+#, fuzzy
+msgid "excluded terms ids"
+msgstr "اصطلاحات مستثنی"
+
+#. Text in function
+#: woocommerce-products-filter/views/shortcodes/woof_price_filter_select.php:74
+#, fuzzy
+msgid "filter by price"
+msgstr "فیلتر با قیمت"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:864
+#, fuzzy
+msgid "finished!"
+msgstr "تمام شده!"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/woof.php:118
+#: woocommerce-products-filter/ext/sections/index.php:146
+#, fuzzy
+msgid "from"
+msgstr "از جانب"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/woof.php:2
+msgid "from: %s"
+msgstr "از: %s"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2709
+#, fuzzy
+msgid "full version of the plugin"
+msgstr "نسخه کامل افزونه"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:978
+#, fuzzy
+msgid "hide products filter"
+msgstr "فیلتر محصولات را مخفی کنید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#, fuzzy
+msgid "hourly"
+msgstr "ساعتی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:328
+#, fuzzy
+msgid "how to show slideout popup after page loaded: opened or closed"
+msgstr "نحوه نمایش پنجره بازشوی اسلاید بعد از بارگذاری صفحه: باز یا بسته"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/additional_options.php:80
+#, fuzzy
+msgid "jQuery-ui calendar date format"
+msgstr "قالب تاریخ تقویم jQuery-ui"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2244
+#, fuzzy
+msgid "leave it empty to show all terms"
+msgstr "برای نمایش همه اصطلاحات آن را خالی بگذارید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2261
+#, fuzzy
+msgid "leave it empty to use native taxonomy name"
+msgstr "برای استفاده از نام طبقه بندی بومی آن را خالی بگذارید"
+
+#. Text in function
+#: woocommerce-products-filter/views/shortcodes/woof_price_filter_text.php:44
+#, fuzzy
+msgid "max price"
+msgstr "حداکثر قیمت"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:905
+#, fuzzy
+msgid "menu order"
+msgstr "ترتیب منو"
+
+#. Text in function
+#: woocommerce-products-filter/views/shortcodes/woof_price_filter_text.php:44
+#, fuzzy
+msgid "min price"
+msgstr "حداقل قیمت"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "min1"
+msgstr "دقیقه 1"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "monthly"
+msgstr "ماهانه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/by_author/views/options.php:19
+#: woocommerce-products-filter/ext/by_backorder/views/options.php:16
+#: woocommerce-products-filter/ext/by_featured/views/options.php:16
+#: woocommerce-products-filter/ext/by_instock/views/options.php:16
+#: woocommerce-products-filter/ext/by_onsales/views/options.php:16
+#: woocommerce-products-filter/ext/by_rating/views/options.php:16
+#: woocommerce-products-filter/ext/by_sku/views/options.php:15
+#: woocommerce-products-filter/ext/by_text/views/options.php:16
+#: woocommerce-products-filter/ext/meta_filter/classes/woof_type_meta_filter.php:41
+#: woocommerce-products-filter/ext/meta_filter/html_types/checkbox/index.php:84
+#: woocommerce-products-filter/ext/meta_filter/index.php:194
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:92
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:15
+#: woocommerce-products-filter/ext/query_save/views/options.php:15
+#: woocommerce-products-filter/views/plugin_options.php:2739
+#: woocommerce-products-filter/views/plugin_options.php:2925
+#, fuzzy
+msgid "move"
+msgstr "حرکت"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/item_list_subscr.php:2
+#: woocommerce-products-filter/ext/query_save/views/item_list_query.php:10
+#, fuzzy
+msgid "new"
+msgstr "جدید"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "new window"
+msgstr "پنجره جدید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:138
+#, fuzzy
+msgid "number"
+msgstr "عدد"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:901
+#, fuzzy
+msgid "orderby"
+msgstr "سفارش توسط"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:903
+#, fuzzy
+msgid "per page"
+msgstr "هر صفحه"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:906
+#, fuzzy
+msgid "popularity"
+msgstr "محبوبیت"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:192
+#, fuzzy
+msgid "popup animation speed in (ms)"
+msgstr "سرعت انیمیشن پنجره ای (میلی ثانیه)"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2611
+#, fuzzy
+msgid "predifined step"
+msgstr "مرحله از پیش تعیین شده"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:909
+#, fuzzy
+msgid "price high to low"
+msgstr "قیمت بالا به پایین"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:908
+#, fuzzy
+msgid "price low to high"
+msgstr "قیمت پایین به بالا"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:904
+#: woocommerce-products-filter/index.php:979
+#, fuzzy
+msgid "price range"
+msgstr "حدود قیمت"
+
+#. Text in function
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:260
+#, fuzzy
+msgid "px"
+msgstr "px"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:907
+#, fuzzy
+msgid "rating"
+msgstr "رتبه بندی"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:1735
+#: woocommerce-products-filter/views/plugin_options.php:2485
+#, fuzzy
+msgid "remove extension"
+msgstr "حذف پسوند"
+
+#. Text in echo
+#: woocommerce-products-filter/views/plugin_options.php:2454
+#, fuzzy
+msgid "select image"
+msgstr "تصویر را انتخاب کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/image/index.php:131
+#, fuzzy
+msgid "set link to the image"
+msgstr "پیوند را به تصویر تنظیم کنید"
+
+#. Text in echo
+#: woocommerce-products-filter/views/woof.php:508
+#, fuzzy
+msgid "show blocks helper"
+msgstr "نمایش بلوک های کمکی"
+
+#. Text in echo
+#: woocommerce-products-filter/index.php:977
+#, fuzzy
+msgid "show products filter"
+msgstr "فیلتر محصولات را نشان دهید"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/views/tabs_content.php:139
+#, fuzzy
+msgid "string"
+msgstr "رشته"
+
+#. Text in function
+#: woocommerce-products-filter/classes/rate_alert.php:48
+#, fuzzy
+msgid "support"
+msgstr "حمایت کردن"
+
+#. Text in function
+#: woocommerce-products-filter/ext/by_text/views/options.php:305
+#, fuzzy
+msgid "the same window"
+msgstr "همان پنجره"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/woof.php:125
+#: woocommerce-products-filter/ext/sections/index.php:152
+#, fuzzy
+msgid "to"
+msgstr "به"
+
+#. Text in function
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/woof.php:2
+msgid "to: %s"
+msgstr "به: %s"
+
+#. Text in echo
+#: woocommerce-products-filter/classes/helper.php:802
+#: woocommerce-products-filter/classes/helper.php:806
+#: woocommerce-products-filter/classes/helper.php:807
+#, fuzzy
+msgid "toggle"
+msgstr "تغییر وضعیت"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/color/index.php:117
+#, fuzzy
+msgid "toggle color terms"
+msgstr "ضامن اصطلاحات رنگ"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/image/index.php:98
+#, fuzzy
+msgid "toggle image terms"
+msgstr "ضامن اصطلاحات تصویر"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#, fuzzy
+msgid "twicedaily"
+msgstr "دو بار در روز"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "twicemonthly"
+msgstr "دو ماهنامه"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/products_messenger/views/email_template.php:87
+#, fuzzy
+msgid "unsubscribe"
+msgstr "لغو اشتراک"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/views/options.php:273
+#: woocommerce-products-filter/ext/quick_search/views/tabs_content.php:153
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:532
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "weekly"
+msgstr "هفتگی"
+
+#. Text in function
+#: woocommerce-products-filter/ext/turbo_mode/views/tabs_content.php:188
+#, fuzzy
+msgid "without update"
+msgstr "بدون بروزرسانی"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/stat/views/tabs_content.php:189
+#, fuzzy
+msgid "xxx"
+msgstr "xxx"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/meta_filter/html_types/datepicker/views/woof.php:120
+#, fuzzy
+msgid "Сlear"
+msgstr "Сlear"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/conditionals/index.php:70
+#, fuzzy
+msgid "Сonditionals"
+msgstr "شرط"
+
+#. Text in echo
+#: woocommerce-products-filter/ext/slideout/views/tabs_content.php:272
+#, fuzzy
+msgid "Сontainer size"
+msgstr "اندازه ظرف"
+
+#. Text in function
+#: woocommerce-products-filter/ext/products_messenger/index.php:1
+#: woocommerce-products-filter/ext/query_save/index.php:1
+#, fuzzy
+msgid "Сount is max"
+msgstr "Сount حداکثر است"
+
+#, fuzzy
+msgid ""
+"For more <b>marketing attraction</b> of the shop WOOF team recommends you to "
+"install"
+msgstr ""
+"برای <b> جذابیت بازاریابی </ b> بیشتر ، فروشگاه WOOF به شما توصیه می کند نصب "
+"کنید"
+
+#, fuzzy
+msgid ""
+"Try new plugin for managing and bulk edit WooCommerce Products data in "
+"robust and flexible way"
+msgstr ""
+"پلاگین جدیدی را برای مدیریت و ویرایش انبوه داده های محصولات WooCommerce به "
+"روشی قوی و انعطاف پذیر امتحان کنید"
+
+#, fuzzy
+msgid "Go Pro!"
+msgstr "برو طرفدار!"
+
+#, fuzzy
+msgid ""
+"In FREE version it is possible to operate with 1 condition (first) only!"
+msgstr "در نسخه رایگان این امکان وجود دارد که فقط با 1 شرط کار کنید (اول)!"
+
+#, fuzzy
+msgid "Possible keys"
+msgstr "کلیدهای ممکن"

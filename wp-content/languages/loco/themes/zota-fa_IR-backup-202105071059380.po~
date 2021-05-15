@@ -1,0 +1,6978 @@
+# Copyright (C) 2021 Thembay Theme
+# This file is distributed under the same license as the Thembay Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Thembay Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-02 22:31+0000\n"
+"PO-Revision-Date: 2021-05-07 10:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: 404.php:10
+#, fuzzy
+msgid "404 Page"
+msgstr "صفحه 404"
+
+#: 404.php:26
+#, fuzzy
+msgid "Opps! page not found"
+msgstr "مخالفت! صفحه یافت نشد"
+
+#: 404.php:28
+#, fuzzy
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help or go back to"
+msgstr ""
+"به نظر می رسد ما نمی توانیم آنچه شما دنبال آن هستید پیدا کنیم. شاید جستجو "
+"بتواند کمک کند یا به آن برگردید"
+
+#: 404.php:28
+#, fuzzy
+msgid "Home page "
+msgstr "صفحه نخست"
+
+#: 404.php:29
+#, fuzzy
+msgid "page 404"
+msgstr "صفحه 404"
+
+#: comments.php:26
+#, fuzzy
+msgid "0 Comments"
+msgstr "0 نظر"
+
+#: comments.php:26
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 نظر"
+
+#: comments.php:26
+msgid "% Comments"
+msgstr "% نظرات"
+
+#: comments.php:46
+#, fuzzy
+msgid "Comments are closed."
+msgstr "نظرات بسته شده اند"
+
+#: comments.php:56
+#, fuzzy
+msgid "Leave a Reply"
+msgstr "پاسخ دهید"
+
+#: comments.php:57
+#, fuzzy
+msgid "Your Comment"
+msgstr "نظر شما"
+
+#: comments.php:62
+#, fuzzy
+msgid "Your name"
+msgstr "اسم شما"
+
+#: comments.php:64
+#, fuzzy
+msgid "Your email"
+msgstr "ایمیل شما"
+
+#: comments.php:65
+#, fuzzy
+msgid "Your website"
+msgstr "وبسایت شما"
+
+#: comments.php:68
+#, fuzzy
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: comments.php:69
+#, fuzzy
+msgid "Your email address will not be published. Required fields are makes."
+msgstr "آدرس ایمیل شما منتشر نخواهد شد. زمینه های مورد نیاز ایجاد می شود."
+
+#: inc/template-tags.php:363
+#, fuzzy
+msgid "Edit"
+msgstr "ویرایش کنید"
+
+#: dokan/global/seller-registration-form.php:15
+#, fuzzy
+msgid "First Name"
+msgstr "نام کوچک"
+
+#: dokan/global/seller-registration-form.php:19
+#, fuzzy
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: dokan/global/seller-registration-form.php:24
+#, fuzzy
+msgid "Shop Name"
+msgstr "نام فروشگاه"
+
+#: dokan/global/seller-registration-form.php:29
+#, fuzzy
+msgid "Shop URL"
+msgstr "آدرس اینترنتی خرید"
+
+#: widgets/contact-info.php:43
+#, fuzzy
+msgid "Phone Number"
+msgstr "شماره تلفن"
+
+#: dokan/global/seller-registration-form.php:47
+#, fuzzy
+msgid ""
+"I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; "
+"Conditions</a>."
+msgstr ""
+"<a target=\"_blank\" href=\"%s\">من شرایط و ضوابط</a> را خوانده و با آنها "
+"موافقم."
+
+#: dokan/global/seller-registration-form.php:60
+#, fuzzy
+msgid "I am a customer"
+msgstr "من مشتری هستم"
+
+#: dokan/global/seller-registration-form.php:65
+#, fuzzy
+msgid "I am a vendor"
+msgstr "من فروشنده هستم"
+
+#: elementor_templates/product-list-tags.php:32
+#, fuzzy
+msgid "Please go to the product save to get the tag."
+msgstr "لطفاً برای دریافت برچسب به ذخیره محصول بروید."
+
+#: inc/classes/class-main.php:187
+#, fuzzy
+msgid "Sidebar Default"
+msgstr "نوار کناری پیش فرض"
+
+#: inc/classes/class-main.php:189
+#, fuzzy
+msgid "Add widgets here to appear in your Sidebar."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در نوار کناری شما ظاهر شود."
+
+#: inc/classes/class-main.php:200
+#, fuzzy
+msgid "WPML Sidebar"
+msgstr "نوار کناری WPML"
+
+#: inc/classes/class-main.php:202
+#, fuzzy
+msgid "Add widgets here to appear."
+msgstr "برای نشان دادن ، ابزارک ها را اینجا اضافه کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:276
+msgid "Footer"
+msgstr "فوتر"
+
+#: inc/vendors/redux-framework/class-redux.php:43
+#, fuzzy
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در نوار کناری شما نشان داده شود."
+
+#: inc/classes/class-main.php:326
+#, fuzzy
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: inc/classes/class-main.php:327
+#, fuzzy
+msgid "Mobile Menu"
+msgstr "منوی موبایل"
+
+#: inc/classes/class-main.php:328
+#, fuzzy
+msgid "Nav Category Menu"
+msgstr "منوی دسته بندی Nav"
+
+#: inc/classes/class-main.php:329
+#, fuzzy
+msgid "Tracking Order Menu"
+msgstr "ردیابی منوی سفارش"
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "افزونه های مورد نیاز را نصب کنید"
+
+#: inc/merlin-config.php:90
+#, fuzzy
+msgid "Install Plugins"
+msgstr "افزونه ها را نصب کنید"
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "نصب پلاگین: %s"
+
+#. translators: %s: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "به روزرسانی افزونه: %s"
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+#, fuzzy
+msgid "Something went wrong with the plugin API."
+msgstr "مشکلی در افزونه API رخ داد."
+
+#: inc/classes/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب به پلاگین زیر نیاز دارد: %1$s."
+msgstr[1] "این موضوع به پلاگین های زیر نیاز دارد: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب پلاگین زیر را توصیه می کند: %1$s."
+msgstr[1] "این قالب پلاگین های زیر را توصیه می کند: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:353
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"برای اطمینان از حداکثر سازگاری با این قالب، پلاگین زیر باید به آخرین نسخه "
+"خود به روز شود: %1$s."
+msgstr[1] ""
+"برای اطمینان از حداکثر سازگاری با این قالب، پلاگین های زیر باید به آخرین "
+"نسخه خود به روز شوند: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "به روزرسانی در دسترس است برای:  %1$s."
+msgstr[1] "برای پلاگین های زیر به روزرسانی در دسترس است: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:365
+#, fuzzy
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه مورد نیاز زیر در حال حاضر غیرفعال است:٪ 1 $ s."
+msgstr[1] "پلاگین های مورد نیاز زیر در حال حاضر غیرفعال هستند: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:371
+#, fuzzy
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه پیشنهادی زیر در حال حاضر غیرفعال است:٪ 1 $ s."
+msgstr[1] "افزونه های توصیه شده زیر در حال حاضر غیرفعال هستند: %1$s."
+
+#: inc/classes/class-tgm-plugin-activation.php:377
+#, fuzzy
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "نصب افزونه را شروع کنید"
+msgstr[1] "نصب افزونه ها را شروع کنید"
+
+#: inc/classes/class-tgm-plugin-activation.php:382
+#, fuzzy
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "به روزرسانی افزونه را شروع کنید"
+msgstr[1] "به روزرسانی افزونه ها را شروع کنید"
+
+#: inc/classes/class-tgm-plugin-activation.php:387
+#, fuzzy
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "فعال کردن افزونه را شروع کنید"
+msgstr[1] "فعال سازی افزونه ها را شروع کنید"
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+#, fuzzy
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت برای نصب پلاگین مورد نیاز"
+
+#: inc/classes/class-tgm-plugin-activation.php:3670
+#, fuzzy
+msgid "Return to the Dashboard"
+msgstr "بازگشت به صفحه"
+
+#: inc/classes/class-tgm-plugin-activation.php:3249
+#, fuzzy
+msgid "Plugin activated successfully."
+msgstr "پلاگین با موفقیت فعال شد."
+
+#: inc/classes/class-tgm-plugin-activation.php:3042
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه زیر با موفقیت فعال شد:"
+msgstr[1] "افزونه های زیر با موفقیت فعال شدند:"
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "اقدامی انجام نشده است افزونه %1$s از قبل فعال بود."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:399
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نیست. نسخه بالاتر %s  برای این قالب مورد نیاز است. لطفا افزونه "
+"را به روز کنید."
+
+#. translators: 1: dashboard link.
+#: inc/classes/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه افزونه ها با موفقیت نصب و فعال شدند. %1$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "این اخطار را رد کنید"
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+#, fuzzy
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"یک یا چند افزونه مورد نیاز یا توصیه شده برای نصب ، به روزرسانی یا فعال سازی "
+"وجود دارد."
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+#, fuzzy
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفاً برای راهنمایی با مدیر این سایت تماس بگیرید."
+
+#: inc/classes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این پلاگین باید به روز شود تا با قالب شما سازگار باشد."
+
+#: inc/classes/class-tgm-plugin-activation.php:608
+#, fuzzy
+msgid "Update Required"
+msgstr "به روزرسانی نیاز است"
+
+#: inc/classes/class-tgm-plugin-activation.php:725
+#, fuzzy
+msgid "Set the parent_slug config variable instead."
+msgstr "در عوض متغیر پیکربندی parent_slug را تنظیم کنید."
+
+#: inc/classes/class-tgm-plugin-activation.php:1024
+#, fuzzy
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"بسته افزونه از راه دور شامل پوشه ای با حلقه حلقه مورد نظر نیست و تغییر نام "
+"کار نمی کند."
+
+#: inc/classes/class-tgm-plugin-activation.php:1027
+#, fuzzy
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفاً با ارائه دهنده افزونه تماس بگیرید و از آنها بخواهید بسته به دستورالعمل "
+"های وردپرس پلاگین خود را بسته بندی کنند."
+
+#: inc/classes/class-tgm-plugin-activation.php:1027
+#, fuzzy
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته افزونه راه دور از بیش از یک پرونده تشکیل شده است ، اما پرونده ها در یک "
+"پوشه بسته بندی نشده اند."
+
+#: inc/classes/class-tgm-plugin-activation.php:3038
+#, fuzzy
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#. translators: %s: version number
+#: inc/classes/class-tgm-plugin-activation.php:2072
+#, fuzzy
+msgid "TGMPA v%s"
+msgstr "TGMPA v٪ s"
+
+#: inc/merlin/class-merlin.php:1117
+#, fuzzy
+msgid "Required"
+msgstr "ضروری"
+
+#: inc/classes/class-tgm-plugin-activation.php:2366
+#, fuzzy
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: inc/classes/class-tgm-plugin-activation.php:2382
+#, fuzzy
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: inc/classes/class-tgm-plugin-activation.php:2385
+#, fuzzy
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: inc/classes/class-tgm-plugin-activation.php:2388
+#, fuzzy
+msgid "Pre-Packaged"
+msgstr "از قبل بسته بندی شده"
+
+#: inc/classes/class-tgm-plugin-activation.php:2405
+#, fuzzy
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: inc/classes/class-tgm-plugin-activation.php:2409
+#, fuzzy
+msgid "Installed But Not Activated"
+msgstr "نصب نشده اما فعال نشده است"
+
+#: inc/classes/class-tgm-plugin-activation.php:2411
+#, fuzzy
+msgid "Active"
+msgstr "فعال"
+
+#: inc/classes/class-tgm-plugin-activation.php:2417
+#, fuzzy
+msgid "Required Update not Available"
+msgstr "به روز رسانی مورد نیاز موجود نیست"
+
+#: inc/classes/class-tgm-plugin-activation.php:2420
+#, fuzzy
+msgid "Requires Update"
+msgstr "نیاز به بروزرسانی دارد"
+
+#: inc/classes/class-tgm-plugin-activation.php:2423
+#, fuzzy
+msgid "Update recommended"
+msgstr "به روز رسانی توصیه می شود"
+
+#. translators: 1: install status, 2: update status
+#: inc/classes/class-tgm-plugin-activation.php:2432
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2478
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+msgstr[1] "همه <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2482
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2486
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروزرسانی موجود <span class=\"count\">(%s)</span>"
+msgstr[1] "بروزرسانی موجود <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/classes/class-tgm-plugin-activation.php:2490
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعال سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "برای فعال سازی <span class=\"count\">(%s)</span>"
+
+#: inc/classes/class-tgm-plugin-activation.php:2572
+#, fuzzy
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناس"
+
+#: inc/classes/class-tgm-plugin-activation.php:2580
+#, fuzzy
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2588
+#, fuzzy
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2600
+#, fuzzy
+msgid "Available version:"
+msgstr "نسخه موجود:"
+
+#: inc/classes/class-tgm-plugin-activation.php:2623
+#, fuzzy
+msgid "No plugins to install, update or activate."
+msgstr "هیچ افزونه ای برای نصب ، به روزرسانی یا فعال سازی وجود ندارد."
+
+#: inc/classes/class-tgm-plugin-activation.php:2637
+#, fuzzy
+msgid "Plugin"
+msgstr "پلاگین"
+
+#: inc/classes/class-tgm-plugin-activation.php:2638
+#, fuzzy
+msgid "Source"
+msgstr "منبع"
+
+#: inc/classes/class-tgm-plugin-activation.php:2639
+#, fuzzy
+msgid "Type"
+msgstr "نوع"
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+#, fuzzy
+msgid "Version"
+msgstr "نسخه"
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+#, fuzzy
+msgid "Status"
+msgstr "وضعیت"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2693
+msgid "Install %2$s"
+msgstr "%2$s را نصب کنید"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2698
+msgid "Update %2$s"
+msgstr "%2$s را به روز کنید"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/classes/class-tgm-plugin-activation.php:2704
+msgid "Activate %2$s"
+msgstr "%2$s را فعال کنید"
+
+#: inc/classes/class-tgm-plugin-activation.php:2774
+#, fuzzy
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام را از نویسنده افزونه ارتقا دهید:"
+
+#: inc/merlin-config.php:60
+#, fuzzy
+msgid "Install"
+msgstr "نصب"
+
+#: inc/classes/class-tgm-plugin-activation.php:2813
+#, fuzzy
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: inc/merlin-config.php:62
+#, fuzzy
+msgid "Activate"
+msgstr "فعال کنید"
+
+#: inc/classes/class-tgm-plugin-activation.php:2847
+#, fuzzy
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برای نصب انتخاب نشده است. اقدامی انجام نشده است"
+
+#: inc/classes/class-tgm-plugin-activation.php:2849
+#, fuzzy
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ای برای به روزرسانی انتخاب نشده است. اقدامی انجام نشده است"
+
+#: inc/classes/class-tgm-plugin-activation.php:2890
+#, fuzzy
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای نصب در دسترس نیست."
+
+#: inc/classes/class-tgm-plugin-activation.php:2892
+#, fuzzy
+msgid "No plugins are available to be updated at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای به روزرسانی موجود نیست."
+
+#: inc/classes/class-tgm-plugin-activation.php:2998
+#, fuzzy
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ای برای فعال شدن انتخاب نشده است. اقدامی انجام نشده است"
+
+#: inc/classes/class-tgm-plugin-activation.php:3024
+#, fuzzy
+msgid "No plugins are available to be activated at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای فعال شدن موجود نیست."
+
+#: inc/classes/class-tgm-plugin-activation.php:3248
+#, fuzzy
+msgid "Plugin activation failed."
+msgstr "فعال سازی پلاگین انجام نشد."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3588
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "به روزرسانی افزونه %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/classes/class-tgm-plugin-activation.php:3591
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب %1$s خطایی روی داد: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3593
+msgid "The installation of %1$s failed."
+msgstr "نصب  %1$s  انجام نشد."
+
+#: inc/classes/class-tgm-plugin-activation.php:3597
+#, fuzzy
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"مراحل نصب و فعال سازی در حال شروع است. این روند ممکن است در برخی از میزبان "
+"ها مدتی طول بکشد ، بنابراین لطفاً صبور باشید."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3599
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال شد."
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, fuzzy
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, fuzzy
+msgid "Hide Details"
+msgstr "پنهان کردن جزئیات"
+
+#: inc/classes/class-tgm-plugin-activation.php:3600
+#, fuzzy
+msgid "All installations and activations have been completed."
+msgstr "تمام نصب ها و فعال سازی ها به پایان رسیده است."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال کردن افزونه %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+#, fuzzy
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"روند نصب در حال شروع است. این روند ممکن است در برخی از میزبان ها مدتی طول "
+"بکشد ، بنابراین لطفاً صبور باشید."
+
+#. translators: 1: plugin name.
+#: inc/classes/class-tgm-plugin-activation.php:3607
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#: inc/classes/class-tgm-plugin-activation.php:3608
+#, fuzzy
+msgid "All installations have been completed."
+msgstr "تمام نصب ها به پایان رسیده است."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب پلاگین  %1$s (%2$d/%3$d)"
+
+#: inc/classes/megamenu.php:116
+#, fuzzy
+msgid "New"
+msgstr "جدید"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:574
+#, fuzzy
+msgid "Hot"
+msgstr "داغ"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:557
+#, fuzzy
+msgid "Sale"
+msgstr "فروش"
+
+#: inc/skins/organic/customizer.php:32
+#, fuzzy
+msgid "Base Color Scheme"
+msgstr "طرح رنگ پایه"
+
+#: inc/skins/organic/customizer.php:47
+msgid "Header and Sidebar Text Color"
+msgstr "هدر و نوار کناری رنگ متن"
+
+#: inc/skins/organic/customizer.php:69
+#, fuzzy
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "روی صفحه در صفحه های کوچک و نوار کناری در صفحه های عریض اعمال می شود."
+
+#: inc/skins/organic/customizer.php:63
+#, fuzzy
+msgid "Header and Sidebar Background Color"
+msgstr "هدر و نوار کناری رنگ پس زمینه"
+
+#: inc/skins/organic/customizer.php:90
+#, fuzzy
+msgid "Tbay thumbnail image width"
+msgstr "عرض تصویر بند انگشتی Tbay"
+
+#: inc/skins/organic/customizer.php:117
+#, fuzzy
+msgid "Image size used for the mini cart or single product image thumbnail."
+msgstr "اندازه تصویر مورد استفاده برای سبد کوچک یا تصویر کوچک تصویر تک محصول."
+
+#: inc/skins/organic/customizer.php:116
+#, fuzzy
+msgid "Tbay thumbnail image height"
+msgstr "ارتفاع تصویر بند انگشتی Tbay"
+
+#: inc/skins/organic/customizer.php:142
+#, fuzzy
+msgid "Enable cropped"
+msgstr "برش خورده را فعال کنید"
+
+#: inc/skins/organic/customizer.php:223
+#, fuzzy
+msgid "Images will be cropped to a custom size above."
+msgstr "تصاویر در سایز سفارشی بالا برش داده می شوند."
+
+#: inc/skins/organic/customizer.php:170
+#, fuzzy
+msgid "Photo Reviews thumbnail image width"
+msgstr "عرض عکس بند انگشتی بررسی عکس"
+
+#: inc/skins/organic/customizer.php:197
+#, fuzzy
+msgid "Image size used for the comment photo review."
+msgstr "اندازه تصویر مورد استفاده برای بررسی عکس نظر."
+
+#: inc/skins/organic/customizer.php:196
+#, fuzzy
+msgid "Photo Reviews thumbnail image height"
+msgstr "بررسی عکس ارتفاع تصویر بند انگشتی"
+
+#: inc/skins/organic/customizer.php:222
+#, fuzzy
+msgid "Enable cropped photo reviews thumbnail"
+msgstr "تصویر کوچک بررسی عکس ها را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:476
+#, fuzzy
+msgid "Default"
+msgstr "پیش فرض"
+
+#: inc/skins/organic/customizer.php:288
+#, fuzzy
+msgid "Dark"
+msgstr "تاریک"
+
+#: inc/skins/organic/customizer.php:299
+#, fuzzy
+msgid "Yellow"
+msgstr "رنگ زرد"
+
+#: inc/skins/organic/customizer.php:310
+#, fuzzy
+msgid "Pink"
+msgstr "رنگ صورتی"
+
+#: inc/skins/organic/customizer.php:321
+#, fuzzy
+msgid "Purple"
+msgstr "رنگ بنفش"
+
+#: inc/skins/organic/customizer.php:332
+#, fuzzy
+msgid "Blue"
+msgstr "آبی"
+
+#: inc/functions-frontend.php:38
+#, fuzzy
+msgid "By:"
+msgstr "توسط:"
+
+#: inc/functions-frontend.php:38
+#, fuzzy
+msgid "Posted: "
+msgstr "ارسال شده:"
+
+#: inc/functions-frontend.php:40
+#, fuzzy
+msgid "In:"
+msgstr "که در:"
+
+#: inc/functions-frontend.php:68
+#, fuzzy
+msgid "Tags: "
+msgstr "برچسب ها:"
+
+#. translators: %s: Author's display name.
+#: inc/functions-frontend.php:129
+#, fuzzy
+msgid "All Author Posts"
+msgstr "همه پست های نویسنده"
+
+#: inc/functions-mobile.php:354
+#, fuzzy
+msgid "Home"
+msgstr "خانه"
+
+#: inc/functions-frontend.php:217
+#, fuzzy
+msgid "blog"
+msgstr "وبلاگ"
+
+#: post-formats/content.php:90
+#, fuzzy
+msgid "Page"
+msgstr "صفحه"
+
+#: page-templates/parts/search-modal.php:17
+#, fuzzy
+msgid "Search"
+msgstr "جستجو کردن"
+
+#: inc/functions-frontend.php:287
+#, fuzzy
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: inc/vendors/redux-framework/redux-config.php:1403
+#, fuzzy
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/functions-helper.php:1083
+#, fuzzy
+msgid "Error 404"
+msgstr "خطای 404"
+
+#: inc/functions-frontend.php:329
+#, fuzzy
+msgid "Search results for \""
+msgstr "نتایج جستجو برای \""
+
+#: inc/functions-frontend.php:334
+#, fuzzy
+msgid "Articles posted by \""
+msgstr "مقالات ارسال شده توسط \""
+
+#: inc/functions-frontend.php:441
+#, fuzzy
+msgid "breadcrumb"
+msgstr "خرده نان"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:259
+#, fuzzy
+msgid "Previous page"
+msgstr "صفحه قبلی"
+
+#: inc/functions-frontend.php:520
+#, fuzzy
+msgid "Posts navigation"
+msgstr "پیمایش پست ها"
+
+#: inc/functions-frontend.php:551
+#, fuzzy
+msgid "Post navigation"
+msgstr "پیمایش پست"
+
+#: inc/functions-frontend.php:555
+#, fuzzy
+msgid "Published In"
+msgstr "منتشر شده در"
+
+#: inc/functions-frontend.php:575
+#, fuzzy
+msgid "Previous"
+msgstr "قبلی"
+
+#: inc/merlin-config.php:55
+#, fuzzy
+msgid "Next"
+msgstr "بعد"
+
+#: inc/functions-frontend.php:816
+msgid "View all posts in %s"
+msgstr "مشاهده همه پست ها در %s"
+
+#: page-templates/parts/productsearchform-canvas.php:41
+#, fuzzy
+msgid "Close"
+msgstr "نزدیک"
+
+#: inc/functions-helper.php:121
+#, fuzzy
+msgid "Electronics"
+msgstr "الکترونیک"
+
+#: inc/functions-helper.php:126
+#, fuzzy
+msgid "Beauty & Cosmetic"
+msgstr "لوازم آرایشی و بهداشتی"
+
+#: inc/functions-helper.php:131
+#, fuzzy
+msgid "fashion"
+msgstr "روش"
+
+#: inc/functions-helper.php:135
+#, fuzzy
+msgid "organic"
+msgstr "ارگانیک. آلی"
+
+#: inc/functions-helper.php:139
+#, fuzzy
+msgid "furniture"
+msgstr "مبلمان"
+
+#: inc/vendors/woocommerce/classes/class-wc-shop.php:144
+#, fuzzy
+msgid "Grid"
+msgstr "توری"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:92
+#, fuzzy
+msgid "Vertical"
+msgstr "عمودی"
+
+#: inc/functions-helper.php:968
+#, fuzzy
+msgid "result found with"
+msgstr "نتیجه با یافت شد"
+
+#: inc/functions-helper.php:970
+#, fuzzy
+msgid "results found with"
+msgstr "نتایج یافت شده با"
+
+#: inc/functions-helper.php:1000
+#, fuzzy
+msgid "No products found."
+msgstr "محصولی یافت نشد"
+
+#: inc/functions-helper.php:1000
+#, fuzzy
+msgid "No posts..."
+msgstr "بدون ارسال ..."
+
+#: inc/vendors/elementor/elements/header/site-logo.php:67
+#, fuzzy
+msgid "None"
+msgstr "هیچ یک"
+
+#: inc/functions-helper.php:1075
+#, fuzzy
+msgid "Search results for"
+msgstr "نتایج جستجو برای"
+
+#: inc/functions-helper.php:1077
+#, fuzzy
+msgid "Posts tagged \""
+msgstr "ارسال های دارای برچسب \""
+
+#: inc/functions-helper.php:1250
+#, fuzzy
+msgid "Inner"
+msgstr "باطن"
+
+#: inc/functions-helper.php:1464
+#, fuzzy
+msgid "cancel"
+msgstr "لغو کردن"
+
+#: inc/functions-helper.php:1465
+#, fuzzy
+msgid "View all"
+msgstr "مشاهده همه"
+
+#: inc/functions-helper.php:1493
+#, fuzzy
+msgid "was added to shopping cart."
+msgstr "به سبد خرید اضافه شد."
+
+#: woocommerce/cart/mini-cart.php:110
+#, fuzzy
+msgid "Checkout"
+msgstr "وارسی"
+
+#: inc/functions-helper.php:1562
+#, fuzzy
+msgid "No Tab"
+msgstr "بدون برگه"
+
+#: inc/functions-mobile.php:120
+#, fuzzy
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:999
+#, fuzzy
+msgid "Wishlist"
+msgstr "لیست علاقه مندیها"
+
+#: inc/vendors/elementor/elements/header/account.php:39
+#, fuzzy
+msgid "Account"
+msgstr "حساب"
+
+#: woocommerce/global/form-login.php:52
+#, fuzzy
+msgid "Login"
+msgstr "وارد شدن"
+
+#: inc/merlin-config.php:47
+#, fuzzy
+msgid "Theme Setup"
+msgstr "تنظیمات قالب"
+
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/merlin-config.php:50
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr "%1$s%2$s  طرح زمینه ‹تنظیم موضوع: %3$s%4$s"
+
+#: inc/merlin-config.php:51
+#, fuzzy
+msgid "Return to the dashboard"
+msgstr "بازگشت به صفحه"
+
+#: inc/merlin-config.php:52
+#, fuzzy
+msgid "Disable this wizard"
+msgstr "این جادوگر را غیرفعال کنید"
+
+#: inc/merlin-config.php:54
+#, fuzzy
+msgid "Skip"
+msgstr "پرش"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:106
+#, fuzzy
+msgid "Start"
+msgstr "شروع کنید"
+
+#: inc/merlin-config.php:57
+#, fuzzy
+msgid "Cancel"
+msgstr "لغو"
+
+#: inc/merlin-config.php:61
+msgid "Import"
+msgstr "ایمپورت کردن"
+
+#: inc/merlin-config.php:63
+#, fuzzy
+msgid "Later"
+msgstr "بعد"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:66
+msgid "Activate %s"
+msgstr " %s را فعال کنید"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:68
+msgid "%s is Activated"
+msgstr "%sفعال شده است"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:70
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+"برای فعال کردن به روزرسانی از راه دور و پشتیبانی از قالب، کلید مجوز خود را "
+"وارد کنید."
+
+#: inc/merlin-config.php:71
+#, fuzzy
+msgid "License key"
+msgstr "کلید مجوز"
+
+#: inc/merlin-config.php:72
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr "قالب قبلاً ثبت شده است ، بنابراین می توانید به مرحله بعدی بروید!"
+
+#: inc/merlin-config.php:73
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+"قالب شما فعال شده است! به روزرسانی از راه دور و پشتیبانی از قالب فعال هستند."
+
+#: inc/merlin-config.php:74
+#, fuzzy
+msgid "Need help?"
+msgstr "کمک خواستن؟"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:77
+msgid "Welcome to %s"
+msgstr "به %s خوش آمدید"
+
+#: inc/merlin-config.php:78
+#, fuzzy
+msgid "Hi. Welcome back"
+msgstr "سلام. خوش برگشتی"
+
+#: inc/merlin-config.php:79
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+"این ویزارد قالب شما را تنظیم می کند ، افزونه ها را نصب می کند و محتوا را "
+"ایمپورت می کند. این اختیاری است و باید فقط چند دقیقه طول بکشد."
+
+#: inc/merlin-config.php:80
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+"ممکن است قبلاً این ویزارد راه اندازی قالب را اجرا کرده باشید. اگر می خواهید "
+"به هر حال ادامه دهید ، روی دکمه \"شروع\" در زیر کلیک کنید."
+
+#: inc/merlin-config.php:82
+msgid "Install Child Theme"
+msgstr "قالب فرزند را نصب کنید"
+
+#: inc/merlin-config.php:83
+#, fuzzy
+msgid "You're good to go!"
+msgstr "شما خوب رفتن!"
+
+#: inc/merlin-config.php:84
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+"بیایید یک قالب فرزند بسازیم و فعال کنیم تا بتوانید به راحتی تغییرات زمینه "
+"ایجاد کنید."
+
+#: inc/merlin-config.php:85
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+"قالب فرزند شما قبلاً نصب شده و اکنون فعال شده است ، اگر قبلاً نبوده است."
+
+#: inc/merlin-config.php:86
+msgid "Learn about child themes"
+msgstr "درباره قالب فرزند بیاموزید"
+
+#: inc/merlin-config.php:87
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr "عالی. قالب فرزند شما قبلاً نصب شده و اکنون فعال شده است."
+
+#: inc/merlin-config.php:88
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr "عالی. قالب فرزند شما ایجاد شده و اکنون فعال شده است."
+
+#: inc/merlin-config.php:91
+#, fuzzy
+msgid "You're up to speed!"
+msgstr "شما سرعت دارید!"
+
+#: inc/merlin-config.php:92
+#, fuzzy
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr "بیایید چند افزونه ضروری وردپرس نصب کنیم تا سایت شما سریعتر شود."
+
+#: inc/merlin-config.php:93
+#, fuzzy
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+"افزونه های مورد نیاز وردپرس همه نصب شده و به روز هستند. برای ادامه جادوگر "
+"راه اندازی ، \"بعدی\" را فشار دهید."
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:73
+#, fuzzy
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: inc/merlin-config.php:96
+msgid "Import Content"
+msgstr "ایمپورت کردن محتوا"
+
+#: inc/merlin-config.php:97
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+"برای کمک به شما در آشنایی با قالب ، بیایید محتوا را به وب سایت خود ایمپورت "
+"کنیم."
+
+#: inc/merlin-config.php:100
+#, fuzzy
+msgid "All done. Have fun!"
+msgstr "تمام شد خوش بگذره!"
+
+#. translators: Theme Author
+#: inc/merlin-config.php:103
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr "قالب شما همه تنظیم شده است. از قالب جدید خود با %s لذت ببرید."
+
+#: inc/merlin-config.php:104
+#, fuzzy
+msgid "Extras"
+msgstr "موارد اضافی"
+
+#: inc/merlin-config.php:105
+#, fuzzy
+msgid "View your website"
+msgstr "وب سایت خود را مشاهده کنید"
+
+#: inc/merlin-config.php:106
+#, fuzzy
+msgid "Ticket System"
+msgstr "سیستم بلیط"
+
+#: inc/merlin-config.php:107
+#, fuzzy
+msgid "Documentation"
+msgstr "مستندات"
+
+#: inc/merlin-config.php:108
+#, fuzzy
+msgid "Video Tutorials"
+msgstr "آموزش های ویدئویی"
+
+#: inc/merlin-config.php:109
+#, fuzzy
+msgid "Forums"
+msgstr "انجمن ها"
+
+#: woocommerce/cart/cart.php:79
+#, fuzzy
+msgid "Price"
+msgstr "قیمت"
+
+#: inc/vendors/redux-framework/redux-config.php:1409
+#, fuzzy
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: inc/merlin-config.php:324
+#, fuzzy
+msgid "Product Size"
+msgstr "اندازه محصول"
+
+#: inc/merlin-config.php:329
+#, fuzzy
+msgid "Product Color"
+msgstr "رنگ محصول"
+
+#: inc/merlin-config.php:334
+#, fuzzy
+msgid "Product Tags"
+msgstr "برچسب های محصول"
+
+#: inc/merlin-config.php:340
+#, fuzzy
+msgid "Brands"
+msgstr "مارک های تجاری"
+
+#: inc/merlin-data/elementor.php:266
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+"پس از ایمپورت کردن این نسخه ی نمایشی ، باید اسلایدر را به طور جداگانه تنظیم "
+"کنید."
+
+#: inc/merlin/class-merlin.php:467
+#, fuzzy
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr "مشکلی پیش آمد لطفا صفحه را مجددا بارگزاری کرده و دوباره تلاش کنید!"
+
+#: inc/merlin/class-merlin.php:612
+#, fuzzy
+msgid "Please define default parameters in the form of an array."
+msgstr "لطفاً پارامترهای پیش فرض را به صورت آرایه تعریف کنید."
+
+#: inc/merlin/class-merlin.php:617
+#, fuzzy
+msgid "Please define an SVG icon filename."
+msgstr "لطفاً نام پرونده آیکون SVG را تعیین کنید."
+
+#: inc/merlin/class-merlin.php:726
+#, fuzzy
+msgid "Welcome"
+msgstr "خوش آمدی"
+
+#: inc/merlin/class-merlin.php:733
+#, fuzzy
+msgid "Child"
+msgstr "کودک"
+
+#: inc/merlin/class-merlin.php:739
+#, fuzzy
+msgid "License"
+msgstr "مجوز"
+
+#: inc/merlin/class-merlin.php:747
+#, fuzzy
+msgid "Plugins"
+msgstr "پلاگین ها"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:222
+#, fuzzy
+msgid "Content"
+msgstr "محتوا"
+
+#: inc/merlin/class-merlin.php:761
+#, fuzzy
+msgid "Ready"
+msgstr "آماده"
+
+#: inc/merlin/class-merlin.php:866
+#, fuzzy
+msgid "The welcome step has been displayed"
+msgstr "مرحله استقبال نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:960
+#, fuzzy
+msgid "The license activation step has been displayed"
+msgstr "مرحله فعال سازی مجوز نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1030
+msgid "The child theme installation step has been displayed"
+msgstr "مرحله نصب قالب فرزند نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1118
+#, fuzzy
+msgid "req"
+msgstr "درخواست"
+
+#: inc/merlin/class-merlin.php:1158
+#, fuzzy
+msgid "The plugin installation step has been displayed"
+msgstr "مرحله نصب پلاگین نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1188
+#, fuzzy
+msgid "Watch Demo Online"
+msgstr "نسخه ی نمایشی آنلاین را تماشا کنید"
+
+#: inc/merlin/class-merlin.php:1220
+#, fuzzy
+msgid "Select Demo"
+msgstr "نسخه ی نمایشی را انتخاب کنید"
+
+#: inc/merlin/class-merlin.php:1258
+msgid "The content import step has been displayed"
+msgstr "مرحله ایمپورت کردن محتوا نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1338
+#, fuzzy
+msgid "The final step has been displayed"
+msgstr "مرحله آخر نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1415
+msgid "The existing child theme was activated"
+msgstr "قالب موجود فرزند فعال شد"
+
+#: inc/merlin/class-merlin.php:1432
+msgid "The newly generated child theme was activated"
+msgstr "قالب فرزند تازه فعال شده فعال شد"
+
+#: inc/merlin/class-merlin.php:1453
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+"بله فعال سازی قالب انجام نشد. لطفاً دوباره امتحان کنید یا با پشتیبانی تماس "
+"بگیرید."
+
+#: inc/merlin/class-merlin.php:1462
+#, fuzzy
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+"لطفاً قبل از اقدام به فعال كردن كليد مجوز ، كليد مجوز خود را اضافه كنيد."
+
+#: inc/merlin/class-merlin.php:1475
+#, fuzzy
+msgid "The license activation was performed with the following results"
+msgstr "فعال سازی مجوز با نتایج زیر انجام شد"
+
+#: inc/merlin/class-merlin.php:1562
+#, fuzzy
+msgid "An error occurred, please try again."
+msgstr "خطایی روی داد ، لطفاً دوباره امتحان کنید."
+
+#. translators: Expiration date
+#: inc/merlin/class-merlin.php:1534
+msgid "Your license key expired on %s."
+msgstr "کلید مجوز شما در %s منقضی شد."
+
+#: inc/merlin/class-merlin.php:1540
+#, fuzzy
+msgid "Your license key has been disabled."
+msgstr "کلید مجوز شما غیرفعال شده است."
+
+#: inc/merlin/class-merlin.php:1544
+#, fuzzy
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+"به نظر می رسد این یک کلید مجوز معتبر نیست. لطفاً دوباره امتحان کنید یا با "
+"پشتیبانی تماس بگیرید."
+
+#: inc/merlin/class-merlin.php:1549
+#, fuzzy
+msgid "Your license is not active for this URL."
+msgstr "مجوز شما برای این URL فعال نیست."
+
+#. translators: EDD Item Name
+#: inc/merlin/class-merlin.php:1554
+msgid "This appears to be an invalid license key for %s."
+msgstr "به نظر می رسد این یک کلید مجوز معتبر برای %s نیست."
+
+#: inc/merlin/class-merlin.php:1558
+#, fuzzy
+msgid "Your license key has reached its activation limit."
+msgstr "کلید مجوز شما به حد فعال سازی رسیده است."
+
+#: inc/merlin/class-merlin.php:1652
+msgid "The child theme functions.php content was generated"
+msgstr "محتوای قالب فرزند توابع.php تولید شد"
+
+#: inc/merlin/class-merlin.php:1683
+msgid "The child theme style.css content was generated"
+msgstr "محتوای قالب فرزند style.css تولید شد"
+
+#: inc/merlin/class-merlin.php:1717
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr "عکس صفحه قالب فرزند با استفاده از نتیجه زیر در قالب فرزند کپی شد"
+
+#: inc/merlin/class-merlin.php:1719
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr "به دلیل این نتایج ، تصویر قالب فرزند ایجاد نشده است"
+
+#: inc/merlin/class-merlin.php:1748
+#, fuzzy
+msgid "Activating"
+msgstr "فعال کردن"
+
+#: inc/merlin/class-merlin.php:1764
+#, fuzzy
+msgid "Updating"
+msgstr "در حال بروز رسانی"
+
+#: inc/merlin/class-merlin.php:2122
+#, fuzzy
+msgid "Installing"
+msgstr "در حال نصب"
+
+#: inc/merlin/class-merlin.php:1788
+#, fuzzy
+msgid "A plugin with the following data will be processed"
+msgstr "افزونه ای با داده های زیر پردازش می شود"
+
+#: inc/merlin/class-merlin.php:1800
+#, fuzzy
+msgid "A plugin with the following data was processed"
+msgstr "افزونه ای با داده های زیر پردازش شد"
+
+#: inc/merlin/class-merlin.php:2080
+#, fuzzy
+msgid "Success"
+msgstr "موفقیت"
+
+#: inc/merlin/class-merlin.php:1832
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr "ایمپورت کننده محتوا AJAX به دلیل داده های نادرست شروع نشد"
+
+#: inc/merlin/class-merlin.php:1837
+#, fuzzy
+msgid "Invalid content!"
+msgstr "محتوای نامعتبر است!"
+
+#: inc/merlin/class-merlin.php:1848
+msgid "The content import AJAX call will be executed with this import data"
+msgstr "AJAX ایمپورت محتوا با این داده های ایمپورت اجرا می شود"
+
+#: inc/merlin/class-merlin.php:1890
+msgid "The content import AJAX call failed with this passed data"
+msgstr "AJAX ایمپورت محتوا با این داده های منتقل شده ناموفق بود"
+
+#: inc/merlin/class-merlin.php:1901
+#, fuzzy
+msgid "Error"
+msgstr "خطا"
+
+#: inc/merlin/class-merlin.php:1915
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+"ایمپورت کننده محتوا AJAX برای بازیابی کل موارد ایمپورت  محتوا به دلیل داده "
+"های نادرست شروع نشد."
+
+#: inc/merlin/class-merlin.php:1920
+#, fuzzy
+msgid "Invalid data!"
+msgstr "داده نامعتبر است!"
+
+#: inc/merlin/class-merlin.php:2012
+#, fuzzy
+msgid "Demo content data."
+msgstr "داده های محتوای نسخه ی نمایشی."
+
+#: inc/merlin/class-merlin.php:2078
+#, fuzzy
+msgid "Pending"
+msgstr "در انتظار"
+
+#: inc/merlin/class-merlin.php:2024
+#, fuzzy
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+#: inc/merlin/class-merlin.php:2025
+#, fuzzy
+msgid "Sample widgets data."
+msgstr "نمونه داده های ابزارک."
+
+#: inc/merlin/class-merlin.php:2037
+msgid "Revolution Slider"
+msgstr "Revolution sliders"
+
+#: inc/merlin/class-merlin.php:2038
+msgid "Sample Revolution sliders data."
+msgstr "نمونه داده های Revolution sliders."
+
+#: inc/merlin/class-merlin.php:2050
+#, fuzzy
+msgid "Options"
+msgstr "گزینه ها"
+
+#: inc/merlin/class-merlin.php:2051
+msgid "Sample theme options data."
+msgstr "نمونه داده گزینه های قالب."
+
+#: inc/merlin/class-merlin.php:2063
+#, fuzzy
+msgid "Redux Options"
+msgstr "گزینه های Redux"
+
+#: inc/merlin/class-merlin.php:2064
+#, fuzzy
+msgid "Redux framework options."
+msgstr "گزینه های چارچوب Redux."
+
+#: inc/merlin/class-merlin.php:2076
+msgid "After import setup"
+msgstr "پس از راه اندازی ایمپورت "
+
+#: inc/merlin/class-merlin.php:2077
+msgid "After import setup."
+msgstr "پس از راه اندازی ایمپورت."
+
+#: inc/merlin/class-merlin.php:2106
+msgid "The revolution slider import was executed"
+msgstr "ایمپورت Revolution sliders اجرا شد"
+
+#: inc/merlin/class-merlin.php:2143
+#, fuzzy
+msgid "The home page was set"
+msgstr "صفحه اصلی تنظیم شد"
+
+#: inc/merlin/class-merlin.php:2153
+#, fuzzy
+msgid "The blog page was set"
+msgstr "صفحه وبلاگ تنظیم شد"
+
+#: inc/merlin/class-merlin.php:2168
+#, fuzzy
+msgid "The Hello world post status was set to draft"
+msgstr "وضعیت پست سلام جهان به پیش نویس تنظیم شد"
+
+#: inc/merlin/class-merlin.php:2192
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+"این ایمپورت آزمایشی از پیش تعریف شده پارامتر نام ندارد: import_file_name"
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr "ایمپورت کردن سفارشی ساز با موفقیت به پایان رسید"
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:57
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "خطا: پرونده وارد کردن سفارشی ساز وجود ندارد! مسیر پرونده: %s"
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+"خطا: پرونده ایمپورت کردن برنامه ساز هیچ محتوایی در آن ندارد. لطفاً اطمینان "
+"حاصل کنید که از پرونده ایمپورت کردن سفارشی ساز صحیح استفاده کنید."
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+"خطا: پرونده ایمپورت کردن سفارشی ساز در قالب صحیحی نیست. لطفاً اطمینان حاصل "
+"کنید که از پرونده ایمپورت کردن سفارشی ساز صحیح استفاده کنید."
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+"خطا: پرونده ایمپورت کردن سفارشی ساز برای موضوع فعلی مناسب نیست. فقط می "
+"توانید تنظیمات سفارشی ساز را برای همان موضوع یا قالب فرزند وارد کنید."
+
+#: inc/merlin/includes/class-merlin-downloader.php:49
+#, fuzzy
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr "ضمن تلاش برای بارگیری ، این پرونده در دیسک ذخیره نمی شود"
+
+#: inc/merlin/includes/class-merlin-downloader.php:66
+#, fuzzy
+msgid "Missing URL for downloading a file!"
+msgstr "URL برای بارگیری یک فایل از دست رفته است!"
+
+#: inc/merlin/includes/class-merlin-downloader.php:84
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+"هنگام واکشی پرونده از: %1$s%2$s%3$s خطایی رخ داد!%4$s دلیل: %5$s - %6$s."
+
+#: inc/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr "داده های Redux Framework ایمپورت شد"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr "خطا: پرونده ایمپورت  ویجت یافت نشد."
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr "خطا: پرونده ایمپورت ویجت هیچ محتوایی در آن وجود ندارد."
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:105
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+"خطا: داده های ایمپورت ویجت خوانده نمی شوند. لطفاً پرونده دیگری را امتحان "
+"کنید."
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "نوار کناری در قالب وجود ندارد (انتقال ابزارک به غیرفعال)"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:165
+#, fuzzy
+msgid "Site does not support widget"
+msgstr "سایت از ابزارک پشتیبانی نمی کند"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:198
+#, fuzzy
+msgid "Widget already exists"
+msgstr "ویجت از قبل وجود دارد"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr "ایمپورت شده"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr "به غیرفعال ایمپورت شد"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:266
+#, fuzzy
+msgid "No Title"
+msgstr "بدون عنوان"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr "هیچ نتیجه ای برای ایمپورت ویجت وجود ندارد!"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:55
+#, fuzzy
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+"کلاس XMLReader موجود نیست! لطفا پسوند XMLReader PHP را بر روی سرور خود نصب "
+"کنید"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:68
+#, fuzzy
+msgid "Could not open the XML file for parsing!"
+msgstr "پرونده XML برای تجزیه باز نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr "خطای شروع ایمپورت  محتوا:"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:375
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+"این پرونده WXR (نسخه %s) جدیدتر از وارد کننده (نسخه %s) است و ممکن است "
+"پشتیبانی نشود. لطفاً به روزرسانی کنید."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:504
+#, fuzzy
+msgid "New AJAX call!"
+msgstr "تماس جدید AJAX!"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+#, fuzzy
+msgid "Could not open the file for parsing"
+msgstr "پرونده برای تجزیه باز نمی شود"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:525
+#, fuzzy
+msgid "The file does not exist, please try again."
+msgstr "پرونده وجود ندارد ، لطفاً دوباره امتحان کنید."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:588
+#, fuzzy
+msgid "Invalid author mapping"
+msgstr "نقشه برداری نویسنده نامعتبر است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:689
+msgid "Cannot import auto-draft posts"
+msgstr "نمی توان پست های پیش نویس خودکار را ایمپورت کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:781
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "ایمپورت کردن \"%s\" انجام نشد: نوع پست نامعتبر %s است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:791
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" از قبل وجود دارد."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:869
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "رد کردن پیوست \"%s\" ، واکشی پیوست ها غیرفعال است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:883
+msgid "Failed to import \"%s\" (%s)"
+msgstr "ایمپورت کردن \"%s\" انجام نشد (%s)"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1833
+msgid "Imported \"%s\" (%s)"
+msgstr "\"%s\" ایمپورت شد (%s)"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:920
+msgid "Post %d remapped to %d"
+msgstr "ارسال %d به %d بازسازی شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:960
+msgid "Failed to import term: %s - %s"
+msgstr "ایمپورت کردن اصطلاح ناموفق بود: %s - %s"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1105
+#, fuzzy
+msgid "Invalid file type"
+msgstr "نوع پرونده نامعتبر است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1604
+msgid "Failed to import user \"%s\""
+msgstr "کاربر \"%s\" ایمپورت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1625
+msgid "Imported user \"%s\""
+msgstr "کاربر ایمپورت شده \"%s\""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1629
+msgid "User %d remapped to %d"
+msgstr "کاربر %d دوباره به %d تغییر یافت"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1794
+msgid "Failed to import %s %s"
+msgstr " %s %s ایمپورت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1838
+msgid "Term %d remapped to %d"
+msgstr "اصطلاح %d به %d اصلاح شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1897
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr "متاکی اضافه نشد: %s ، متا مقدار: %s به term_id:%d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1906
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr "متا برای term_id %d : %s => %s؛ با موفقیت اضافه شد!"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1958
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "سرور راه دور %1$d %2$s را برای %3$s بازگرداند"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+#, fuzzy
+msgid "Zero size file downloaded"
+msgstr "پرونده با اندازه صفر بارگیری شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1986
+msgid "Remote file is too large, limit is %s"
+msgstr "پرونده از راه دور خیلی بزرگ است ، حد %s است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+msgid "Running post-processing for post %d"
+msgstr "در حال اجرا پردازش پست برای پست %d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2024
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "والد پست برای \"%s\" پیدا نشد (پست #%d)"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2029
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "پست %d با %dوالد ایمپورت شد ، اما یافت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2043
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "نویسنده برای \"%s\" یافت نشد (پست #%d)"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2048
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "پست %d با نویسنده \"%s\" ایمپورت شد ، اما یافت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "پست %d برای پردازش علامت گذاری شده است ، اما هیچ موردی لازم نبود."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2085
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr "\"%s\" (پست #%d) با داده های نقشه برداری شده به روز نمی شود"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2130
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "شی منو برای \"%s\" پیدا نشد (پست #%d)"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2135
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr "پست %d با شی \"%d\" از نوع \"%s\" ایمپورت شد ، اما یافت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2157
+#, fuzzy
+msgid "Could not find the comment parent for comment #%d"
+msgstr "والدین نظر برای نظر یافت نشد #٪ d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2161
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "نظر %d با والد %d ایمپورت شد ، اما یافت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2175
+#, fuzzy
+msgid "Could not find the author for comment #%d"
+msgstr "نویسنده برای نظر یافت نشد #٪ d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2179
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "نظر %d با نویسنده %d ایمپورت شد ، اما یافت نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2196
+#, fuzzy
+msgid "Could not update comment #%d with mapped data"
+msgstr "نمی توان نظر #٪ d را با داده های ترسیم شده به روز کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2227
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr "term_id معیوب در آرایه قابل اصلاح مجدد %s ارائه شده است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2237
+#, fuzzy
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr "هیچ طبقه بندی از نظر آرایه قابل اصلاح برای مدت #٪ d ارائه نشده است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2247
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr "هیچ parent_slug در آرایه بازسازی برای مدت مشخص نشده است: %d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2255
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr "اصطلاح (%d) 's parent_slug (%s) در آرایه بازسازی یافت نمی شود."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+#, fuzzy
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr "هیچ داده ای توسط get_term_by برای مدت_id برگشت داده نشده است #٪ d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2288
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr "\"%s\" (اصطلاح #%d) با داده های ترسیم شده به روز نمی شود"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2298
+msgid "Term %d was successfully updated with parent %d"
+msgstr "اصطلاح %d با %d والد با موفقیت به روز شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2333
+#, fuzzy
+msgid "Starting remapping of featured images"
+msgstr "شروع بازسازی تصاویر برجسته"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2342
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr "رد کردن شناسه ویژه تصویر %d به شناسه جدید %d برای شناسه پست %d"
+
+#: inc/skins/organic/functions.php:37
+#, fuzzy
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "بر"
+
+#: inc/skins/fashion/functions.php:39
+#, fuzzy
+msgctxt "Marcellus font: on or off"
+msgid "on"
+msgstr "بر"
+
+#: inc/skins/electronics/functions.php:38
+#, fuzzy
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr "بر"
+
+#: inc/skins/furniture/functions.php:39
+#, fuzzy
+msgctxt "Jost font: on or off"
+msgid "on"
+msgstr "بر"
+
+#: inc/skins/organic/functions.php:39
+#, fuzzy
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "بر"
+
+#: inc/template-tags.php:23
+#, fuzzy
+msgid "Comment navigation"
+msgstr "پیمایش نظر"
+
+#: inc/template-tags.php:26
+#, fuzzy
+msgid "Older Comments"
+msgstr "نظریات قبلی"
+
+#: inc/template-tags.php:30
+#, fuzzy
+msgid "Newer Comments"
+msgstr "نظرات جدیدتر"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:54
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "ویرایش <span class=\"screen-reader-text\">&quot;%s&quot;</span>"
+
+#: inc/vendors/redux-framework/redux-config.php:722
+#, fuzzy
+msgid "Featured"
+msgstr "ویژه"
+
+#: inc/template-tags.php:78
+#, fuzzy
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "قالب بندی"
+
+#: inc/template-tags.php:99
+#, fuzzy
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "نوشته شده در"
+
+#: inc/template-tags.php:108
+#, fuzzy
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "نویسنده"
+
+#: inc/template-tags.php:122
+#, fuzzy
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:117
+#, fuzzy
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: inc/template-tags.php:125
+#, fuzzy
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: inc/template-tags.php:136
+#, fuzzy
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "اندازه کامل"
+
+#. translators: %s: post title
+#: inc/template-tags.php:146
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "درباره <span class=\"screen-reader-text\">%s نظر بدهید</span>"
+
+#: inc/template-tags.php:250
+#, fuzzy
+msgid "/ By "
+msgstr "/ توسط"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:287
+msgid "Read More %s"
+msgstr "بیشتر بخوانید %s"
+
+#: page-templates/posts/item-post-style-2.php:17
+msgid " comments"
+msgstr "دیدگاه ها"
+
+#: page-templates/posts/item-post-style-2.php:19
+msgid " comment"
+msgstr "دیدگاه"
+
+#: inc/template-tags.php:331
+#, fuzzy
+msgid "By "
+msgstr "توسط"
+
+#: inc/vendors/redux-framework/redux-config.php:1434
+#, fuzzy
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#. translators: %s: post date
+#: inc/template-tags.php:499
+msgid "%sPosted on%s %s"
+msgstr "%sارسال شده در%s %s"
+
+#: inc/vendors/woocommerce/wc-admin.php:387
+#, fuzzy
+msgid "Global Setting"
+msgstr "تنظیم جهانی"
+
+#: inc/vendors/cmb2/page.php:14
+#, fuzzy
+msgid "Select Layout"
+msgstr "طرح بندی را انتخاب کنید"
+
+#: inc/vendors/cmb2/page.php:18
+#, fuzzy
+msgid "Main Content Only"
+msgstr "فقط محتوای اصلی"
+
+#: inc/vendors/cmb2/page.php:19
+#, fuzzy
+msgid "Left Sidebar - Main Content"
+msgstr "نوار کناری سمت چپ - محتوای اصلی"
+
+#: inc/vendors/cmb2/page.php:20
+#, fuzzy
+msgid "Main Content - Right Sidebar"
+msgstr "محتوای اصلی - نوار کناری سمت راست"
+
+#: inc/vendors/redux-framework/redux-config.php:899
+#, fuzzy
+msgid "Left Sidebar"
+msgstr "نوار کناری سمت چپ"
+
+#: inc/vendors/redux-framework/redux-config.php:903
+#, fuzzy
+msgid "Right Sidebar"
+msgstr "نوار کناری سمت راست"
+
+#: inc/vendors/cmb2/page.php:38
+#, fuzzy
+msgid "Show Breadcrumb?"
+msgstr "Breadcrumb نمایش داده شود؟"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:142
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#: inc/vendors/cmb2/page.php:41
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#: inc/vendors/cmb2/page.php:46
+#, fuzzy
+msgid "Select Breadcrumbs Layout"
+msgstr "طرح Breadcrumbs را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1288
+#, fuzzy
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: inc/vendors/redux-framework/redux-config.php:1292
+#, fuzzy
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: inc/vendors/cmb2/page.php:52
+#, fuzzy
+msgid "Just text"
+msgstr "فقط پیامک بزنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1303
+msgid "Breadcrumb Background Color"
+msgstr "رنگ زمینه نشانگر صفحه"
+
+#: inc/vendors/redux-framework/redux-config.php:1313
+msgid "Breadcrumb Background Image"
+msgstr "نشانگر صفحه تصویر پس زمینه"
+
+#: inc/vendors/cmb2/page.php:72
+msgid "Header Layout Type"
+msgstr "نوع طرح بندی هدر"
+
+#: inc/vendors/cmb2/page.php:73
+#, fuzzy
+msgid "Choose a header for your website."
+msgstr "یک عنوان برای وب سایت خود انتخاب کنید."
+
+#: inc/vendors/cmb2/page.php:80
+msgid "Footer Layout Type"
+msgstr "نوع طرح فوتر"
+
+#: inc/vendors/cmb2/page.php:81
+msgid "Choose a footer for your website."
+msgstr "یک فوتر برای وب سایت خود انتخاب کنید."
+
+#: inc/vendors/cmb2/page.php:88
+#, fuzzy
+msgid "Extra Class"
+msgstr "کلاس فوق العاده"
+
+#: inc/vendors/cmb2/page.php:89
+#, fuzzy
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"اگر می خواهید عنصر محتوای خاص را متفاوت تغییر دهید ، از این قسمت برای افزودن "
+"نام کلاس استفاده کرده و سپس در پرونده css خود به آن مراجعه کنید."
+
+#: inc/vendors/cmb2/page.php:96
+#, fuzzy
+msgid "Display Settings"
+msgstr "تنظیمات نمایشگر"
+
+#: inc/vendors/cmb2/post.php:9
+#, fuzzy
+msgid "Images Gallery"
+msgstr "گالری تصاویر"
+
+#: inc/vendors/cmb2/post.php:15
+#, fuzzy
+msgid "Video Link"
+msgstr "لینک ویدیو"
+
+#: inc/vendors/cmb2/post.php:21
+#, fuzzy
+msgid "Audio Link"
+msgstr "پیوند صوتی"
+
+#: inc/vendors/cmb2/post.php:28
+#, fuzzy
+msgid "Format Setting"
+msgstr "تنظیمات قالب"
+
+#: inc/vendors/elementor/abstract/image.php:56
+msgid "Failed to load template with slug \"%s\" and name \"%s\"."
+msgstr "بارگیری الگوی با حلزون حرکت \"%s\" و نام \"%s\" انجام نشد."
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:262
+#, fuzzy
+msgid "Heading"
+msgstr "عنوان"
+
+#: inc/widgets/woo-carousel.php:26
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:1065
+#, fuzzy
+msgid "Title HTML Tag"
+msgstr "عنوان HTML Tag"
+
+#: inc/vendors/elementor/elements/general/banner.php:864
+#, fuzzy
+msgid "Sub Title"
+msgstr "عنوان فرعی"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:301
+#, fuzzy
+msgid "Choose Icon"
+msgstr "نماد را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:233
+#, fuzzy
+msgid "Alignment"
+msgstr "هم ترازی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:576
+#, fuzzy
+msgid "left"
+msgstr "ترک کرد"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:580
+#, fuzzy
+msgid "center"
+msgstr "مرکز"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:584
+#, fuzzy
+msgid "right"
+msgstr "درست"
+
+#: inc/vendors/elementor/abstract/base.php:189
+#, fuzzy
+msgid "Heading Content"
+msgstr "عنوان مطلب"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:304
+#, fuzzy
+msgid "Margin"
+msgstr "لبه"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:262
+#, fuzzy
+msgid "Padding"
+msgstr "لایه گذاری"
+
+#: inc/vendors/redux-framework/redux-config.php:665
+#, fuzzy
+msgid "Background"
+msgstr "زمینه"
+
+#: inc/vendors/elementor/abstract/base.php:237
+#, fuzzy
+msgid "Heading Title"
+msgstr "عنوان عنوان"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:368
+#, fuzzy
+msgid "Normal"
+msgstr "طبیعی"
+
+#: inc/vendors/redux-framework/redux-config.php:673
+#, fuzzy
+msgid "Color"
+msgstr "رنگ"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:664
+#, fuzzy
+msgid "Hover"
+msgstr "شناور"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:338
+#, fuzzy
+msgid "Hover Color"
+msgstr "رنگ شناوری"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:811
+#, fuzzy
+msgid "Spacing"
+msgstr "فاصله"
+
+#: inc/vendors/elementor/abstract/base.php:340
+#, fuzzy
+msgid "Heading Sub Title"
+msgstr "عنوان عنوان فرعی"
+
+#: inc/vendors/elementor/abstract/base.php:437
+#, fuzzy
+msgid "Heading Icon"
+msgstr "عنوان نماد"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:272
+#, fuzzy
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:288
+#, fuzzy
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: inc/vendors/elementor/abstract/carousel.php:308
+#, fuzzy
+msgid "Position"
+msgstr "موقعیت"
+
+#: inc/vendors/elementor/abstract/base.php:557
+#, fuzzy
+msgid "Absolute"
+msgstr "مطلق"
+
+#: inc/vendors/redux-framework/redux-config.php:815
+#, fuzzy
+msgid "Right"
+msgstr "درست"
+
+#: inc/vendors/redux-framework/redux-config.php:814
+#, fuzzy
+msgid "Left"
+msgstr "ترک کرد"
+
+#: inc/vendors/elementor/abstract/base.php:571
+#, fuzzy
+msgid "Horizontal Orientation"
+msgstr "جهت افقی"
+
+#: inc/vendors/elementor/abstract/base.php:700
+#, fuzzy
+msgid "Offset"
+msgstr "انحراف"
+
+#: inc/vendors/elementor/abstract/base.php:650
+#, fuzzy
+msgid "Vertical Orientation"
+msgstr "جهت گیری عمودی"
+
+#: inc/vendors/elementor/elements/header/custom-language.php:100
+#, fuzzy
+msgid "Top"
+msgstr "بالا"
+
+#: inc/vendors/elementor/elements/header/custom-language.php:101
+#, fuzzy
+msgid "Bottom"
+msgstr "پایین"
+
+#: inc/vendors/elementor/abstract/base.php:800
+#, fuzzy
+msgid "Newest Products"
+msgstr "جدیدترین محصولات"
+
+#: inc/vendors/elementor/abstract/base.php:801
+#, fuzzy
+msgid "On Sale Products"
+msgstr "در فروش محصولات"
+
+#: inc/vendors/elementor/abstract/base.php:802
+#, fuzzy
+msgid "Best Selling"
+msgstr "بهترین فروش"
+
+#: inc/vendors/elementor/abstract/base.php:803
+#, fuzzy
+msgid "Top Rated"
+msgstr "دارای بالاترین امتیاز"
+
+#: inc/vendors/elementor/abstract/base.php:804
+#, fuzzy
+msgid "Featured Product"
+msgstr "محصول ویژه"
+
+#: inc/vendors/elementor/abstract/base.php:805
+#, fuzzy
+msgid "Random Product"
+msgstr "محصول تصادفی"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:137
+#, fuzzy
+msgid "AND"
+msgstr "و"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:138
+#, fuzzy
+msgid "IN"
+msgstr "که در"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:139
+#, fuzzy
+msgid "NOT IN"
+msgstr "داخل نیست"
+
+#: inc/vendors/redux-framework/redux-config.php:1397
+#, fuzzy
+msgid "Date"
+msgstr "تاریخ"
+
+#: inc/vendors/elementor/abstract/base.php:985
+#, fuzzy
+msgid "ID"
+msgstr "شناسه"
+
+#: inc/vendors/elementor/abstract/base.php:987
+#, fuzzy
+msgid "Popularity"
+msgstr "محبوبیت"
+
+#: inc/vendors/elementor/abstract/base.php:988
+#, fuzzy
+msgid "Rating"
+msgstr "رتبه بندی"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:101
+#, fuzzy
+msgid "Random"
+msgstr "تصادفی"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:100
+#, fuzzy
+msgid "Menu Order"
+msgstr "سفارش منو"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:113
+#, fuzzy
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:114
+#, fuzzy
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:155
+#, fuzzy
+msgid "Order By"
+msgstr "سفارش توسط"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:165
+#, fuzzy
+msgid "Order"
+msgstr "سفارش"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:133
+#, fuzzy
+msgid "Category Operator"
+msgstr "اپراتور رده"
+
+#: inc/vendors/elementor/abstract/carousel.php:35
+#, fuzzy
+msgid "Carousel Options"
+msgstr "گزینه های چرخ فلک"
+
+#: inc/vendors/elementor/abstract/carousel.php:44
+#, fuzzy
+msgid "Rows"
+msgstr "ردیف ها"
+
+#: inc/vendors/elementor/abstract/carousel.php:54
+#, fuzzy
+msgid "Speed"
+msgstr "سرعت"
+
+#: inc/vendors/elementor/abstract/carousel.php:57
+#, fuzzy
+msgid "Slide/Fade animation speed"
+msgstr "Slide / Fade سرعت انیمیشن"
+
+#: inc/vendors/elementor/abstract/carousel.php:134
+#, fuzzy
+msgid "Navigation"
+msgstr "جهت یابی"
+
+#: inc/vendors/elementor/abstract/carousel.php:67
+#, fuzzy
+msgid "Show/hidden Navigation"
+msgstr "نمایش / پنهان کردن پیمایش"
+
+#: inc/vendors/elementor/abstract/carousel.php:266
+#, fuzzy
+msgid "Pagination"
+msgstr "صفحه بندی"
+
+#: inc/vendors/elementor/abstract/carousel.php:77
+#, fuzzy
+msgid "Show/hidden Pagination"
+msgstr "نمایش / صفحه بندی پنهان"
+
+#: inc/vendors/elementor/abstract/carousel.php:85
+#, fuzzy
+msgid "Infinite Loop"
+msgstr "حلقه بی نهایت"
+
+#: inc/vendors/elementor/abstract/carousel.php:88
+#, fuzzy
+msgid "Show/hidden Infinite Loop"
+msgstr "نمایش / مخفی کردن حلقه بی نهایت"
+
+#: inc/vendors/elementor/abstract/carousel.php:95
+#, fuzzy
+msgid "Autoplay"
+msgstr "پخش خودکار"
+
+#: inc/vendors/elementor/abstract/carousel.php:98
+#, fuzzy
+msgid "Show/hidden Autoplay"
+msgstr "نمایش / پخش خودکار پنهان"
+
+#: inc/vendors/elementor/abstract/carousel.php:105
+#, fuzzy
+msgid "Autoplay Speed"
+msgstr "سرعت پخش خودکار"
+
+#: inc/vendors/elementor/abstract/carousel.php:118
+#, fuzzy
+msgid "Disable Carousel On Mobile"
+msgstr "چرخ فلک را در تلفن همراه غیرفعال کنید"
+
+#: inc/vendors/elementor/abstract/carousel.php:121
+#, fuzzy
+msgid "To help load faster in mmobile"
+msgstr "برای کمک به بارگیری سریعتر در mmobile"
+
+#: inc/vendors/elementor/elements/header/search-form.php:497
+#, fuzzy
+msgid "Width"
+msgstr "عرض"
+
+#: inc/vendors/elementor/elements/customize/controls/column-border.php:87
+#, fuzzy
+msgid "Height"
+msgstr "قد"
+
+#: inc/vendors/elementor/abstract/carousel.php:184
+#, fuzzy
+msgid "Size Icon"
+msgstr "نماد اندازه"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:447
+#, fuzzy
+msgid "Border Radius"
+msgstr "شعاع حاشیه"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:1123
+#, fuzzy
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: inc/vendors/elementor/abstract/carousel.php:249
+#, fuzzy
+msgid "Text Color Hover"
+msgstr "متن رنگ شناور"
+
+#: inc/vendors/elementor/abstract/responsive.php:40
+#, fuzzy
+msgid "Responsive Settings"
+msgstr "تنظیمات پاسخگو"
+
+#: inc/vendors/elementor/abstract/responsive.php:50
+#, fuzzy
+msgid "Columns"
+msgstr "ستون ها"
+
+#: inc/vendors/elementor/abstract/responsive.php:64
+#, fuzzy
+msgid "Columns desktop"
+msgstr "دسک تاپ ستون ها"
+
+#: inc/vendors/elementor/abstract/responsive.php:65
+#, fuzzy
+msgid "Column apply when the width is between 1200px and 1600px"
+msgstr "ستون زمانی اعمال می شود که عرض بین 1200px و 1600px باشد"
+
+#: inc/vendors/elementor/abstract/responsive.php:75
+#, fuzzy
+msgid "Columns desktopsmall"
+msgstr "ستونها رومیزی"
+
+#: inc/vendors/elementor/abstract/responsive.php:76
+#, fuzzy
+msgid "Column apply when the width is between 992px and 1199px"
+msgstr "ستون زمانی اعمال می شود که عرض بین 992px و 1199px باشد"
+
+#: inc/vendors/elementor/abstract/responsive.php:86
+#, fuzzy
+msgid "Columns mobile landscape"
+msgstr "ستون ها چشم انداز تلفن همراه"
+
+#: inc/vendors/elementor/abstract/responsive.php:87
+#, fuzzy
+msgid "Column apply when the width is between 576px and 767px"
+msgstr "ستون زمانی اعمال می شود که عرض بین 576px و 767px باشد"
+
+#: inc/vendors/elementor/class-elementor.php:101
+#, fuzzy
+msgid "Zota Elements"
+msgstr "عناصر زوتا"
+
+#: inc/vendors/elementor/elements/customize/controls/column-border.php:10
+#, fuzzy
+msgid "Element border child"
+msgstr "کودک مرزی عنصر"
+
+#: inc/vendors/elementor/elements/customize/controls/column-border.php:18
+#, fuzzy
+msgid "Enable element border child"
+msgstr "کودک عنصر حاشیه را فعال کنید"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:481
+#, fuzzy
+msgid "Border Color"
+msgstr "رنگ لبه"
+
+#: inc/vendors/elementor/elements/customize/controls/global-typography.php:11
+#, fuzzy
+msgid "Primary"
+msgstr "اولیه"
+
+#: inc/vendors/elementor/elements/customize/controls/global-typography.php:18
+#, fuzzy
+msgid "Secondary"
+msgstr "ثانوی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:148
+#, fuzzy
+msgid "Text"
+msgstr "پیامک"
+
+#: inc/vendors/elementor/elements/customize/controls/global-typography.php:32
+#, fuzzy
+msgid "Accent"
+msgstr "لهجه"
+
+#: inc/vendors/elementor/elements/customize/controls/section-stretch-row.php:9
+#, fuzzy
+msgid "Stretch Row"
+msgstr "ردیف کشش"
+
+#: inc/vendors/elementor/elements/customize/controls/settings-layout.php:11
+#, fuzzy
+msgid "Sets the default width of the content area (Default: 1320)"
+msgstr "عرض پیش فرض منطقه محتوا را تنظیم می کند (پیش فرض: 1320)"
+
+#: inc/vendors/elementor/elements/customize/controls/settings-layout.php:21
+#, fuzzy
+msgid "Sets the default space between widgets (Default: 0)"
+msgstr "فضای پیش فرض بین ابزارک ها را تنظیم می کند (پیش فرض: 0)"
+
+#: inc/vendors/elementor/elements/customize/controls/settings-layout.php:29
+msgid ""
+"Elementor lets you hide the page title. This works for themes that have \"h1."
+"page-title\" selector. If your theme's selector is different, please enter "
+"it above."
+msgstr ""
+"Elementor به شما امکان می دهد عنوان صفحه را پنهان کنید. این برای قالب دارای "
+"انتخابگر \"h1.page-title\" کار می کند. اگر انتخاب کننده قالب شما متفاوت است "
+"، لطفاً آن را در بالا وارد کنید."
+
+#: inc/vendors/elementor/elements/customize/controls/sticky-header.php:9
+#, fuzzy
+msgid "Sticky Header"
+msgstr "هدر مهم"
+
+#: inc/vendors/elementor/elements/customize/controls/sticky-header.php:17
+#, fuzzy
+msgid "Enable Sticky Headers"
+msgstr "عناوین مهم را فعال کنید"
+
+#: inc/vendors/elementor/elements/general/banner.php:49
+#, fuzzy
+msgid "Zota Banner"
+msgstr "بنر زوتا"
+
+#: inc/vendors/redux-framework/redux-config.php:98
+#, fuzzy
+msgid "General"
+msgstr "عمومی"
+
+#: inc/vendors/redux-framework/redux-config.php:320
+#, fuzzy
+msgid "Link"
+msgstr "ارتباط دادن"
+
+#: inc/vendors/elementor/elements/general/banner.php:89
+#, fuzzy
+msgid "Enter URL if you want this banner to have a link."
+msgstr "اگر می خواهید این بنر پیوندی داشته باشد URL را وارد کنید."
+
+#: inc/vendors/elementor/elements/general/banner.php:122
+#, fuzzy
+msgid "Wraper"
+msgstr "بسته بندی"
+
+#: inc/vendors/elementor/elements/general/banner.php:197
+#, fuzzy
+msgid "Layout Content"
+msgstr "محتوای طرح بندی"
+
+#: inc/vendors/elementor/elements/general/banner.php:206
+#, fuzzy
+msgid "Horizontal alignment"
+msgstr "تراز افقی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:241
+#, fuzzy
+msgid "Center"
+msgstr "مرکز"
+
+#: inc/vendors/elementor/elements/general/banner.php:232
+#, fuzzy
+msgid "Vertical alignment"
+msgstr "چیدمان عمودی"
+
+#: inc/vendors/elementor/elements/general/banner.php:240
+#, fuzzy
+msgid "Middle"
+msgstr "وسط"
+
+#: inc/vendors/elementor/elements/general/banner.php:258
+#, fuzzy
+msgid "Text alignment"
+msgstr "تراز متن"
+
+#: inc/vendors/elementor/elements/header/site-logo.php:108
+#, fuzzy
+msgid "Max Width"
+msgstr "حداکثر عرض"
+
+#: inc/vendors/elementor/elements/general/features.php:245
+#, fuzzy
+msgid "Description"
+msgstr "شرح"
+
+#: inc/vendors/elementor/elements/general/banner.php:889
+#, fuzzy
+msgid "Label"
+msgstr "برچسب"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:172
+#, fuzzy
+msgid "Image"
+msgstr "تصویر"
+
+#: inc/vendors/elementor/elements/general/banner.php:799
+#, fuzzy
+msgid "Choose image"
+msgstr "تصویر را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/general/banner.php:835
+#, fuzzy
+msgid "This is the heading"
+msgstr "این عنوان است"
+
+#: inc/vendors/elementor/elements/general/banner.php:836
+#, fuzzy
+msgid "Enter your title"
+msgstr "عنوان خود را وارد کنید"
+
+#: inc/vendors/elementor/elements/general/banner.php:866
+#, fuzzy
+msgid "Enter your sub-title"
+msgstr "عنوان فرعی خود را وارد کنید"
+
+#: inc/vendors/elementor/elements/general/banner.php:879
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, "
+"pulvinar dapibus leo."
+msgstr ""
+"برای تغییر این متن روی دکمه ویرایش کلیک کنید. لورم ایپسوم متن ساختگی با "
+"تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است"
+
+#: inc/vendors/elementor/elements/general/banner.php:880
+#, fuzzy
+msgid "Enter your description"
+msgstr "توضیحات خود را وارد کنید"
+
+#: inc/vendors/elementor/elements/general/brands.php:43
+#, fuzzy
+msgid "Zota Brands"
+msgstr "مارک های زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:81
+#, fuzzy
+msgid "Layout Type"
+msgstr "نوع طرح بندی"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:86
+#, fuzzy
+msgid "Carousel"
+msgstr "چرخ فلک"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:187
+#, fuzzy
+msgid "Align"
+msgstr "تراز کردن"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:108
+#, fuzzy
+msgid "Choose Image"
+msgstr "تصویر را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:147
+#, fuzzy
+msgid "Link to"
+msgstr "پیوند به"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:149
+#, fuzzy
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: inc/vendors/elementor/elements/general/brands.php:144
+#, fuzzy
+msgid "Brand Items"
+msgstr "موارد مارک"
+
+#: inc/vendors/elementor/elements/general/button.php:43
+#, fuzzy
+msgid "Zota Button"
+msgstr "دکمه زوتا"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:357
+#, fuzzy
+msgid "Button"
+msgstr "دکمه"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:154
+#, fuzzy
+msgid "Text Button"
+msgstr "دکمه متن"
+
+#: inc/vendors/elementor/elements/general/button.php:88
+#, fuzzy
+msgid "Link Button"
+msgstr "دکمه پیوند"
+
+#: inc/vendors/elementor/elements/general/button.php:99
+#, fuzzy
+msgid "Add Icon"
+msgstr "نماد را اضافه کنید"
+
+#: inc/vendors/elementor/elements/general/features.php:45
+msgid "Zota Features"
+msgstr "ویژگی های زوتا"
+
+#: inc/vendors/elementor/elements/general/features.php:99
+#, fuzzy
+msgid "Display Type"
+msgstr "نوع نمایش"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:121
+#, fuzzy
+msgid "Icon"
+msgstr "آیکون"
+
+#: inc/vendors/elementor/elements/general/features.php:144
+#, fuzzy
+msgid "Feature Item"
+msgstr "مورد خاص"
+
+#: inc/vendors/elementor/elements/general/features.php:154
+#, fuzzy
+msgid "Font Size \"Icon\""
+msgstr "اندازه قلم \"نماد\""
+
+#: inc/vendors/elementor/elements/general/features.php:176
+#, fuzzy
+msgid "Color Icon"
+msgstr "نماد رنگی"
+
+#: inc/vendors/elementor/elements/general/features.php:186
+#, fuzzy
+msgid "Margin \"Icon\""
+msgstr "حاشیه \"نماد\""
+
+#: inc/vendors/redux-framework/redux-config.php:502
+#, fuzzy
+msgid "Style"
+msgstr "سبک"
+
+#: inc/vendors/elementor/elements/general/features.php:234
+#, fuzzy
+msgid "Spacing title"
+msgstr "عنوان فاصله"
+
+#: inc/vendors/elementor/elements/general/features.php:269
+#, fuzzy
+msgid "Spacing Description"
+msgstr "شرح فاصله"
+
+#: inc/vendors/elementor/elements/general/heading.php:45
+msgid "Zota Heading"
+msgstr "سربرگ زوتا"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:44
+msgid "Zota Instagram Feed"
+msgstr "فید اینستاگرام زوتا"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:99
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:110
+#, fuzzy
+msgid "Number of Photos <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "تعداد عکسها <a href=\"%s\" target=\"_blank\">در اینجا</a>"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:120
+#, fuzzy
+msgid "Image Resolution <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "وضوح تصویر <a href=\"%s\" target=\"_blank\">در اینجا</a>"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:129
+msgid "Header <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "هدر <a href=\"%s\" target=\"_blank\">اینجا</a>"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:141
+#, fuzzy
+msgid ""
+"Load More Button <a href=\"%s\" target=\"_blank\">here</a> </br> Only show "
+"on layout grid"
+msgstr ""
+"دکمه بیشتر را <a href=\"%s\" target=\"_blank\">در اینجا بارگیری کنید</a></br>"
+" فقط در شبکه طرح بندی نشان داده شود"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:150
+#, fuzzy
+msgid "Follow <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">اینجا را</a> دنبال کنید"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:329
+#, fuzzy
+msgid "Load More"
+msgstr "بارگذاری بیشتر"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:223
+#, fuzzy
+msgid "Item"
+msgstr "مورد"
+
+#: inc/vendors/elementor/elements/general/instagram-feed.php:231
+#, fuzzy
+msgid "Space Between"
+msgstr "فضای بین"
+
+#: inc/vendors/elementor/elements/general/list-custom-fonts.php:43
+msgid "Zota List Icons Tbay Custom Fonts"
+msgstr "آیکون های لیست قلم های سفارشی Tbay زوتا "
+
+#: inc/vendors/elementor/elements/general/list-custom-fonts.php:114
+#, fuzzy
+msgid "Small"
+msgstr "کم اهمیت"
+
+#: inc/vendors/redux-framework/redux-config.php:89
+#, fuzzy
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/vendors/redux-framework/redux-config.php:90
+#, fuzzy
+msgid "Large"
+msgstr "بزرگ"
+
+#: inc/vendors/elementor/elements/general/list-custom-fonts.php:134
+#, fuzzy
+msgid "click to show css class name"
+msgstr "برای نشان دادن نام کلاس css کلیک کنید"
+
+#: inc/vendors/elementor/elements/general/list-menu.php:18
+msgid "Zota List Menu"
+msgstr "فهرست منوی زوتا "
+
+#: page-templates/parts/offcanvas-main-menu.php:4
+#, fuzzy
+msgid "Menu"
+msgstr "منو"
+
+#: inc/vendors/elementor/elements/general/menu-vertical.php:54
+#, fuzzy
+msgid "Note does not apply to Mega Menu."
+msgstr "توجه به Mega Menu اعمال نمی شود."
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:77
+#, fuzzy
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+"<strong>هیچ منویی در سایت شما وجود ندارد.</strong><br> برای ایجاد <a "
+"href=\"%s\" target=\"_blank\">صفحه ،</a> به صفحه منوها بروید."
+
+#: inc/vendors/elementor/elements/general/list-menu.php:70
+#, fuzzy
+msgid "Custom Name Menu"
+msgstr "منوی نام سفارشی"
+
+#: inc/vendors/elementor/elements/general/list-menu.php:79
+#, fuzzy
+msgid "Separator Between"
+msgstr "جدا کننده بین"
+
+#: inc/vendors/elementor/elements/general/menu-vertical.php:20
+msgid "Zota Menu Vertical"
+msgstr "منوی عمودی زوتا"
+
+#: inc/vendors/elementor/elements/general/menu-vertical.php:75
+#, fuzzy
+msgid "Style Menu Vertical"
+msgstr "منوی سبک عمودی"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:40
+#, fuzzy
+msgid "Zota newsletter"
+msgstr "خبرنامه زوتا"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:78
+#, fuzzy
+msgid "Form Style Block"
+msgstr "فرم بلوک سبک"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:332
+#, fuzzy
+msgid "Off"
+msgstr "خاموش"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:333
+#, fuzzy
+msgid "On"
+msgstr "بر"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:232
+#, fuzzy
+msgid "Input"
+msgstr "ورودی"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:102
+#, fuzzy
+msgid "Input Width"
+msgstr "عرض ورودی"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:124
+#, fuzzy
+msgid "Hide Text"
+msgstr "مخفی کردن متن"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:148
+#, fuzzy
+msgid "Hide Icon"
+msgstr "پنهان کردن نماد"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:163
+#, fuzzy
+msgid "Margin Icon"
+msgstr "نماد حاشیه"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:207
+#, fuzzy
+msgid "Buton width"
+msgstr "عرض دکمه"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:159
+#, fuzzy
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:265
+#, fuzzy
+msgid "Placeholder Color"
+msgstr "نگهدارنده رنگ"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:452
+#, fuzzy
+msgid "Focus"
+msgstr "تمرکز"
+
+#: inc/vendors/elementor/elements/general/newsletter.php:470
+#, fuzzy
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+#: inc/vendors/elementor/elements/general/our-team.php:43
+msgid "Zota Our Team"
+msgstr "تیم زوتا"
+
+#: inc/vendors/elementor/elements/general/our-team.php:101
+#, fuzzy
+msgid "Our Team Items"
+msgstr "موارد تیمی ما"
+
+#: inc/vendors/elementor/elements/general/our-team.php:153
+#, fuzzy
+msgid "Padding \"Name\""
+msgstr "پر کردن \"نام\""
+
+#: inc/vendors/elementor/elements/general/our-team.php:165
+#, fuzzy
+msgid "Color Name"
+msgstr "نام رنگ"
+
+#: inc/vendors/elementor/elements/general/our-team.php:175
+#, fuzzy
+msgid "Color Job"
+msgstr "کار رنگی"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:420
+#, fuzzy
+msgid "Name"
+msgstr "نام"
+
+#: inc/vendors/elementor/elements/general/our-team.php:200
+#, fuzzy
+msgid "Job"
+msgstr "کار"
+
+#: inc/vendors/elementor/elements/general/our-team.php:216
+#, fuzzy
+msgid "FaceBook Link"
+msgstr "پیوند FaceBook"
+
+#: inc/vendors/elementor/elements/general/our-team.php:224
+#, fuzzy
+msgid "Twitter Link"
+msgstr "لینک توییتر"
+
+#: inc/vendors/elementor/elements/general/our-team.php:232
+#, fuzzy
+msgid "Goole Plus Link"
+msgstr "لینک Goole Plus"
+
+#: inc/vendors/elementor/elements/general/our-team.php:240
+#, fuzzy
+msgid "Linkin Link"
+msgstr "لینک لینک"
+
+#: inc/vendors/elementor/elements/general/our-team.php:248
+#, fuzzy
+msgid "Instagram Link"
+msgstr "لینک اینستاگرام"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:218
+#, fuzzy
+msgid "Name 1"
+msgstr "نام 1"
+
+#: inc/vendors/elementor/elements/general/our-team.php:261
+#, fuzzy
+msgid "Job 1"
+msgstr "شغل 1"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:224
+#, fuzzy
+msgid "Name 2"
+msgstr "نام 2"
+
+#: inc/vendors/elementor/elements/general/our-team.php:293
+#, fuzzy
+msgid "Job 2"
+msgstr "شغل 2"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:230
+#, fuzzy
+msgid "Name 3"
+msgstr "نام 3"
+
+#: inc/vendors/elementor/elements/general/our-team.php:325
+#, fuzzy
+msgid "Job 3"
+msgstr "شغل 3"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:236
+#, fuzzy
+msgid "Name 4"
+msgstr "نام 4"
+
+#: inc/vendors/elementor/elements/general/our-team.php:357
+#, fuzzy
+msgid "Job 4"
+msgstr "شغل 4"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:22
+msgid "Zota Posts Grid"
+msgstr "پست های گرید زوتا"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:61
+#, fuzzy
+msgid "Number of posts"
+msgstr "تعداد پست ها"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:63
+#, fuzzy
+msgid "Number of posts to show ( -1 = all )"
+msgstr "تعداد پست های نشان داده شده (-1 = همه)"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:386
+#, fuzzy
+msgid "Show"
+msgstr "نشان دادن"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:387
+#, fuzzy
+msgid "Hide"
+msgstr "پنهان شدن"
+
+#: inc/vendors/elementor/elements/woocommerce/product-category.php:141
+#, fuzzy
+msgid "Category"
+msgstr "دسته بندی"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:393
+#, fuzzy
+msgid "Excerpt"
+msgstr "گزیده"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:295
+#, fuzzy
+msgid "Excerpt Length"
+msgstr "گزیده طول"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:328
+#, fuzzy
+msgid "Read More Text"
+msgstr "ادامه متن را بخوانید"
+
+#: post-formats/content.php:75
+#, fuzzy
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:662
+#, fuzzy
+msgid "Meta"
+msgstr "متا"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:373
+#, fuzzy
+msgid "Comments"
+msgstr "نظرات"
+
+#: inc/vendors/elementor/elements/general/posts-grid.php:384
+#, fuzzy
+msgid "Comments Text"
+msgstr "متن نظرات"
+
+#: inc/vendors/elementor/elements/general/template.php:38
+#, fuzzy
+msgid "Zota Template"
+msgstr "الگوی زوتا"
+
+#: inc/widgets/template_elementor.php:48
+#, fuzzy
+msgid "You Haven’t Saved Templates Yet."
+msgstr "شما هنوز الگوها را ذخیره نکرده اید."
+
+#: inc/widgets/template_elementor.php:49
+#, fuzzy
+msgid "Want to learn more about Elementor library?"
+msgstr "آیا می خواهید درباره کتابخانه Elementor بیشتر بدانید؟"
+
+#: inc/widgets/template_elementor.php:49
+#, fuzzy
+msgid "Click Here"
+msgstr "اینجا کلیک کنید"
+
+#: inc/widgets/template_elementor.php:64
+#, fuzzy
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: inc/widgets/template_elementor.php:62
+#, fuzzy
+msgid "Choose Template"
+msgstr "الگو را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:43
+msgid "Zota Testimonials"
+msgstr "توصیفات زوتا"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:129
+#, fuzzy
+msgid "Testimonials Items"
+msgstr "موارد توصیفی"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:158
+#, fuzzy
+msgid "Subtitle"
+msgstr "عنوان فرعی"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:196
+#, fuzzy
+msgid "Image Before"
+msgstr "تصویر قبل"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:203
+#, fuzzy
+msgid "Image After"
+msgstr "تصویر بعد"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:215
+#, fuzzy
+msgid "Title 1"
+msgstr "عنوان 1"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:216
+#, fuzzy
+msgid "Subtitle 1"
+msgstr "زیرنویس 1"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:235
+#, fuzzy
+msgid "Lorem ipsum dolor sit amet, in mel unum delicatissimi conclusionemque"
+msgstr "Lorem ipsum dolor sit amet، in mel unum delicatissimi resultemque"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:221
+#, fuzzy
+msgid "Title 2"
+msgstr "عنوان 2"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:222
+#, fuzzy
+msgid "Subtitle 2"
+msgstr "زیرنویس 2"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:227
+#, fuzzy
+msgid "Title 3"
+msgstr "عنوان 3"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:228
+#, fuzzy
+msgid "Subtitle 3"
+msgstr "زیرنویس 3"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:233
+#, fuzzy
+msgid "Title 4"
+msgstr "عنوان 4"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:234
+#, fuzzy
+msgid "Subtitle 4"
+msgstr "زیرنویس 4"
+
+#: inc/vendors/elementor/elements/general/testimonials.php:366
+#, fuzzy
+msgid "SubTitle"
+msgstr "عنوان فرعی"
+
+#: inc/vendors/elementor/elements/header/account.php:19
+msgid "Zota Account"
+msgstr "اکانت زوتا "
+
+#: inc/vendors/elementor/elements/header/account.php:58
+#, fuzzy
+msgid "Display Text Account"
+msgstr "نمایش حساب متن"
+
+#: inc/vendors/elementor/elements/header/account.php:66
+#, fuzzy
+msgid "Text Before Login"
+msgstr "پیامک قبل از ورود"
+
+#: inc/vendors/elementor/elements/header/account.php:76
+#, fuzzy
+msgid "Text After Login"
+msgstr "پس از ورود به سیستم پیامک کنید"
+
+#: inc/vendors/elementor/elements/header/account.php:86
+#, fuzzy
+msgid "Display Sub Menu"
+msgstr "نمایش منوی فرعی"
+
+#: inc/vendors/elementor/elements/header/account.php:98
+#, fuzzy
+msgid "Choose Menu"
+msgstr "منو را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:69
+#, fuzzy
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">برای مدیریت منوها</a> به صفحه منوها بروید."
+
+#: inc/vendors/elementor/elements/header/wishlist.php:105
+#, fuzzy
+msgid "Style Icon"
+msgstr "نماد سبک"
+
+#: inc/vendors/elementor/elements/header/account.php:152
+#, fuzzy
+msgid "Padding Icon Account"
+msgstr "حساب نماد Padding"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:175
+#, fuzzy
+msgid "Style Text"
+msgstr "متن سبک"
+
+#: inc/vendors/elementor/elements/header/account.php:325
+#, fuzzy
+msgid "Hi,"
+msgstr "سلام،"
+
+#: inc/vendors/elementor/elements/header/account.php:332
+#, fuzzy
+msgid "Login Or Register"
+msgstr "ورود یا ثبت نام"
+
+#: inc/vendors/elementor/elements/header/banner-close.php:43
+msgid "Zota Banner Close"
+msgstr "بستن بنر زوتا"
+
+#: inc/vendors/elementor/elements/header/banner-close.php:73
+#, fuzzy
+msgid "Add Link"
+msgstr "افزودن پیوند"
+
+#: inc/vendors/elementor/elements/header/banner-close.php:81
+#, fuzzy
+msgid "Show Close Button"
+msgstr "دکمه بستن را نشان دهید"
+
+#: inc/vendors/elementor/elements/header/banner-close.php:119
+#, fuzzy
+msgid "Add Link Option"
+msgstr "گزینه پیوند را اضافه کنید"
+
+#: inc/vendors/elementor/elements/header/canvas-menu-template.php:43
+msgid "Zota Canvas Menu Template"
+msgstr "الگوی منوی صفحه مجازی زوتا"
+
+#: inc/vendors/elementor/elements/header/canvas-menu-template.php:99
+#, fuzzy
+msgid ""
+"<strong>There are no templates in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Templates screen</a> to create one."
+msgstr ""
+"<strong>هیچ الگویی در سایت شما وجود ندارد.</strong><br> برای ایجاد یکی از "
+"آنها ، به <a href=\"%s\" target=\"_blank\">صفحه الگوها</a> بروید."
+
+#: inc/vendors/elementor/elements/header/canvas-menu-template.php:132
+#, fuzzy
+msgid "Content Align"
+msgstr "تراز کردن محتوا"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:229
+#, fuzzy
+msgid "Font Size Icon"
+msgstr "نماد اندازه قلم"
+
+#: inc/vendors/elementor/elements/header/compare.php:16
+msgid "Zota Compare"
+msgstr " مقایسه زوتا"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:69
+#, fuzzy
+msgid "Display Title"
+msgstr "نمایش عنوان"
+
+#: inc/vendors/elementor/elements/header/compare.php:76
+#, fuzzy
+msgid "My Compare"
+msgstr "مقایسه من"
+
+#: inc/vendors/elementor/elements/header/currency.php:17
+#, fuzzy
+msgid "Zota Currency"
+msgstr "ارز زوتا"
+
+#: inc/vendors/elementor/elements/header/currency.php:33
+#, fuzzy
+msgid "Currency Settings"
+msgstr "تنظیمات ارز"
+
+#: inc/vendors/elementor/elements/header/currency.php:40
+#, fuzzy
+msgid "Choose Type Text"
+msgstr "نوع متن را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/header/currency.php:43
+#, fuzzy
+msgid "Desc"
+msgstr "رسوب"
+
+#: inc/vendors/elementor/elements/header/currency.php:44
+#, fuzzy
+msgid "Code"
+msgstr "کد"
+
+#: inc/vendors/elementor/elements/header/currency.php:52
+#, fuzzy
+msgid "Show Flags"
+msgstr "نمایش پرچم ها"
+
+#: inc/vendors/elementor/elements/header/currency.php:60
+#, fuzzy
+msgid "Position Flags"
+msgstr "پرچم های موقعیت"
+
+#: inc/vendors/elementor/elements/header/custom-language.php:97
+#, fuzzy
+msgid "Position Sub Menu"
+msgstr "منوی فرعی موقعیت"
+
+#: inc/vendors/elementor/elements/header/custom-language.php:17
+#, fuzzy
+msgid "Zota Language"
+msgstr "زبان زوتا"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:19
+#, fuzzy
+msgid "Zota Mini Cart"
+msgstr "سبد خرید مینی زوتا"
+
+#: inc/vendors/redux-framework/redux-config.php:807
+#, fuzzy
+msgid "Mini Cart"
+msgstr "سبد کوچک"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:77
+#, fuzzy
+msgid "Display Title \"Mini-Cart\""
+msgstr "عنوان نمایش \"Mini-Cart\""
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:85
+msgid "\"Mini-Cart\" Title"
+msgstr "عنوان \"سبد کوچک\""
+
+#: page-templates/parts/offcanvas-cart-right.php:7
+#, fuzzy
+msgid "Shopping cart"
+msgstr "سبد خرید"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:97
+#, fuzzy
+msgid "Show \"Mini-Cart\" Price"
+msgstr "نمایش \"Mini-Cart\" قیمت"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:199
+#, fuzzy
+msgid "Margin Text Cart"
+msgstr "سبد خرید حاشیه"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:253
+#, fuzzy
+msgid "Style Popup"
+msgstr "پنجره سبک"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:278
+#, fuzzy
+msgid "Position Popup"
+msgstr "پنجره موقعیت"
+
+#: inc/vendors/elementor/elements/header/mini-cart.php:307
+#, fuzzy
+msgid "Style Price"
+msgstr "قیمت سبک"
+
+#: inc/vendors/elementor/elements/header/search-canvas.php:381
+#, fuzzy
+msgid "Color Hover"
+msgstr "شناور رنگی"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:229
+#, fuzzy
+msgid "Style Total"
+msgstr "سبک کل"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:257
+#, fuzzy
+msgid "Font Weight"
+msgstr "وزن قلم"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:23
+msgid "Zota Nav Menu"
+msgstr "نوار منوی زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:103
+#, fuzzy
+msgid "Layout"
+msgstr "چیدمان"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:87
+#, fuzzy
+msgid "Layout Menu"
+msgstr "منوی طرح بندی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:91
+#, fuzzy
+msgid "Horizontal"
+msgstr "افقی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:93
+#, fuzzy
+msgid "Tree View"
+msgstr "نمای درختی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:114
+#, fuzzy
+msgid "End"
+msgstr "پایان"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:132
+#, fuzzy
+msgid "Hidden Submenu Indicator"
+msgstr "شاخص زیر منوی پنهان"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:145
+#, fuzzy
+msgid "Type Menu"
+msgstr "منو را تایپ کنید"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:1089
+#, fuzzy
+msgid "Toggle Menu"
+msgstr "تغییر منو"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:985
+#, fuzzy
+msgid "Canvas Menu"
+msgstr "منوی بوم"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:163
+#, fuzzy
+msgid "Show Canvas Menu Class"
+msgstr "نمایش کلاس منوی بوم"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:192
+#, fuzzy
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:200
+#, fuzzy
+msgid "Background Color Full"
+msgstr "رنگ پس زمینه کامل است"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:330
+#, fuzzy
+msgid "No Margin-Left First Item"
+msgstr "حاشیه چپ اولین مورد نیست"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:364
+#, fuzzy
+msgid "Canvas"
+msgstr "بوم"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:376
+#, fuzzy
+msgid "Icon content"
+msgstr "محتوای نماد"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:471
+#, fuzzy
+msgid "Title next to the icon"
+msgstr "عنوان در کنار نماد"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:601
+#, fuzzy
+msgid "Alignment Title"
+msgstr "عنوان تراز بندی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:559
+#, fuzzy
+msgid "Positioning Content"
+msgstr "محتوای موقعیت یابی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:1047
+#, fuzzy
+msgid "Title Content"
+msgstr "محتوای عنوان"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:627
+#, fuzzy
+msgid "Dropdown"
+msgstr "کشویی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:649
+#, fuzzy
+msgid "Heading sub title megamenu"
+msgstr "عنوان فرعی megamenu"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:756
+#, fuzzy
+msgid "Horizontal Padding"
+msgstr "بالشتک افقی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:769
+#, fuzzy
+msgid "Vertical Padding"
+msgstr "بالشتک عمودی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:829
+#, fuzzy
+msgid "Justified"
+msgstr "تعدیل شده"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:884
+#, fuzzy
+msgid "Toggle content menu"
+msgstr "منوی محتوا را تغییر دهید"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:894
+#, fuzzy
+msgid "Show content menu"
+msgstr "نمایش منوی محتوا"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:895
+#, fuzzy
+msgid "Show content menu on home page"
+msgstr "نمایش منوی محتوا در صفحه اصلی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:908
+#, fuzzy
+msgid "Show Icon"
+msgstr "نمایش نماد"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:951
+#, fuzzy
+msgid "Vertical Menu"
+msgstr "منوی عمودی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:961
+#, fuzzy
+msgid "Alignment Sub Menu"
+msgstr "منوی فرعی ترازبندی"
+
+#: inc/vendors/elementor/elements/header/nav-menu.php:1137
+#, fuzzy
+msgid "Hover Text Color"
+msgstr "شناور رنگ متن"
+
+#: inc/vendors/elementor/elements/header/search-canvas.php:21
+msgid "Zota Search Canvas"
+msgstr "صفحه مجازی جستجوی زوتا"
+
+#: inc/vendors/elementor/elements/header/search-form.php:44
+#, fuzzy
+msgid "Show Result"
+msgstr "نمایش نتیجه"
+
+#: inc/vendors/redux-framework/redux-config.php:362
+#, fuzzy
+msgid "Show Image of Search Result"
+msgstr "نمایش تصویر نتیجه جستجو"
+
+#: inc/vendors/redux-framework/redux-config.php:369
+#, fuzzy
+msgid "Show Price of Search Result"
+msgstr "نمایش قیمت نتیجه جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:599
+#, fuzzy
+msgid "Form"
+msgstr "فرم"
+
+#: inc/vendors/redux-framework/redux-config.php:334
+#, fuzzy
+msgid "Search Result"
+msgstr "نتیجه جستجو"
+
+#: woocommerce/cart/cart.php:48
+#, fuzzy
+msgid "Product"
+msgstr "تولید - محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:1270
+#, fuzzy
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: inc/vendors/elementor/elements/header/search-form.php:620
+#, fuzzy
+msgid "Auto-complete Search"
+msgstr "تکمیل خودکار جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:628
+#, fuzzy
+msgid "Placeholder Text"
+msgstr "متن نگهدارنده"
+
+#: page-templates/parts/device/productsearchform-mobileheader.php:17
+#, fuzzy
+msgid "Search for products..."
+msgstr "جستجوی محصولات ..."
+
+#: inc/vendors/elementor/elements/header/search-form.php:636
+#, fuzzy
+msgid "Text Validate Input Search"
+msgstr "اعتبار سنجی متن جستجو"
+
+#: page-templates/parts/productsearchform.php:63
+#, fuzzy
+msgid "Enter at least 2 characters"
+msgstr "حداقل 2 حرف وارد کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:377
+#, fuzzy
+msgid "Search Min Characters"
+msgstr "شخصیت های کوچک را جستجو کنید"
+
+#: inc/vendors/elementor/elements/header/search-form.php:664
+#, fuzzy
+msgid "Max Number of Search Results"
+msgstr "حداکثر تعداد نتایج جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:688
+#, fuzzy
+msgid "Button Search"
+msgstr "جستجوی دکمه"
+
+#: inc/vendors/elementor/elements/header/search-form.php:696
+#, fuzzy
+msgid "Button Search Text"
+msgstr "متن جستجوی دکمه"
+
+#: inc/vendors/elementor/elements/header/search-form.php:704
+#, fuzzy
+msgid "Button Search Icon"
+msgstr "نماد جستجوی دکمه"
+
+#: inc/vendors/elementor/elements/header/search-form.php:734
+#, fuzzy
+msgid "Categories Search"
+msgstr "جستجوی دسته ها"
+
+#: inc/vendors/redux-framework/redux-config.php:356
+#, fuzzy
+msgid "Enable Search in Categories"
+msgstr "جستجو در دسته ها را فعال کنید"
+
+#: inc/vendors/elementor/elements/header/search-form.php:750
+#, fuzzy
+msgid "Search in Categories Text"
+msgstr "جستجو در متن دسته بندی ها"
+
+#: inc/vendors/elementor/elements/header/search-form.php:752
+#, fuzzy
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: inc/vendors/elementor/elements/header/search-form.php:761
+#, fuzzy
+msgid "Show count in Categories"
+msgstr "نمایش تعداد در دسته ها"
+
+#: inc/vendors/elementor/elements/header/search-canvas.php:273
+#, fuzzy
+msgid "Padding Icon Search"
+msgstr "Padding Icon Search"
+
+#: inc/vendors/elementor/elements/header/search-canvas.php:320
+#, fuzzy
+msgid "Background Hover"
+msgstr "پس زمینه شناور"
+
+#: page-templates/parts/productsearchform-canvas.php:68
+#, fuzzy
+msgid "Search in:"
+msgstr "جستجو در:"
+
+#: inc/vendors/elementor/elements/header/search-form.php:21
+msgid "Zota Search Form"
+msgstr "فرم جستجوی زوتا"
+
+#: inc/vendors/elementor/elements/header/search-form.php:33
+#, fuzzy
+msgid "Search Form"
+msgstr "فرم جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:74
+#, fuzzy
+msgid "Style Search Form"
+msgstr "فرم جستجوی سبک"
+
+#: inc/vendors/elementor/elements/header/search-form.php:476
+#, fuzzy
+msgid "Border Type"
+msgstr "نوع حاشیه"
+
+#: inc/vendors/elementor/elements/header/search-form.php:480
+#, fuzzy
+msgid "Solid"
+msgstr "جامد"
+
+#: inc/vendors/elementor/elements/header/search-form.php:481
+#, fuzzy
+msgid "Double"
+msgstr "دو برابر"
+
+#: inc/vendors/elementor/elements/header/search-form.php:482
+#, fuzzy
+msgid "Dotted"
+msgstr "خط چین"
+
+#: inc/vendors/elementor/elements/header/search-form.php:483
+#, fuzzy
+msgid "Dashed"
+msgstr "نقطه چین"
+
+#: inc/vendors/elementor/elements/header/search-form.php:484
+#, fuzzy
+msgid "Groove"
+msgstr "شیار"
+
+#: inc/vendors/elementor/elements/header/search-form.php:580
+#, fuzzy
+msgid "Border Radius Search Form"
+msgstr "فرم جستجوی شعاع مرز"
+
+#: inc/vendors/elementor/elements/header/search-form.php:292
+#, fuzzy
+msgid "Padding Button Search"
+msgstr "جستجوی دکمه Padding"
+
+#: inc/vendors/elementor/elements/header/search-form.php:355
+#, fuzzy
+msgid "Border Radius Button Search"
+msgstr "جستجوی دکمه حاشیه مرزی"
+
+#: inc/vendors/elementor/elements/header/search-form.php:367
+#, fuzzy
+msgid "Line Height Button"
+msgstr "دکمه ارتفاع خط"
+
+#: inc/vendors/elementor/elements/header/search-form.php:447
+#, fuzzy
+msgid "Input Search"
+msgstr "جستجوی ورودی"
+
+#: inc/vendors/elementor/elements/header/search-form.php:455
+#, fuzzy
+msgid "Background Input Search"
+msgstr "جستجوی ورودی پس زمینه"
+
+#: inc/vendors/elementor/elements/header/search-form.php:465
+#, fuzzy
+msgid "Color Input Search"
+msgstr "جستجوی ورودی رنگ"
+
+#: inc/vendors/elementor/elements/header/search-form.php:630
+#, fuzzy
+msgid "Search products..."
+msgstr "جستجوی محصولات ..."
+
+#: inc/vendors/elementor/elements/header/search-form.php:775
+#, fuzzy
+msgid "Trending Search"
+msgstr "پرطرفدار جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:783
+#, fuzzy
+msgid "Show Trending Search"
+msgstr "نمایش جستجوی پرطرفدار"
+
+#: inc/vendors/elementor/elements/header/search-form.php:792
+#, fuzzy
+msgid "Trending Search Items"
+msgstr "موارد پرطرفدار جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:809
+#, fuzzy
+msgid "Text Trending"
+msgstr "متن پرطرفدار"
+
+#: inc/vendors/elementor/elements/header/search-form.php:819
+#, fuzzy
+msgid "Search 1"
+msgstr "جستجو 1"
+
+#: inc/vendors/elementor/elements/header/search-form.php:822
+#, fuzzy
+msgid "Search 2"
+msgstr "جستجو 2"
+
+#: inc/vendors/elementor/elements/header/search-form.php:840
+#, fuzzy
+msgid "Style Trending Search"
+msgstr "سبک پرطرفدار جستجو"
+
+#: inc/vendors/elementor/elements/header/search-form.php:859
+#, fuzzy
+msgid "Space Trending Search"
+msgstr "جستجوی پرطرفدار فضا"
+
+#: inc/vendors/elementor/elements/header/site-logo.php:17
+msgid "Zota Site Logo"
+msgstr "لوگو سایت زوتا"
+
+#: inc/vendors/elementor/elements/header/site-logo.php:68
+#, fuzzy
+msgid "Home Page"
+msgstr "صفحه نخست"
+
+#: inc/vendors/elementor/elements/header/site-logo.php:69
+#, fuzzy
+msgid "Custom URL"
+msgstr "URL سفارشی"
+
+#: wcfm/store/wcfmmp-view-store-header.php:34
+#, fuzzy
+msgid "Logo"
+msgstr "لوگو"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:19
+#, fuzzy
+msgid "Zota Wishlist"
+msgstr "لیست خواسته های زوتا"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:483
+#, fuzzy
+msgid "My Wishlist"
+msgstr "لیست علاقه مندی های من"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:88
+#, fuzzy
+msgid "Show Total"
+msgstr "نمایش کل"
+
+#: inc/vendors/elementor/elements/header/wishlist.php:300
+#, fuzzy
+msgid "Position Left"
+msgstr "موقعیت چپ"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:48
+msgid "Zota Custom Image List Categories"
+msgstr "دسته بندی های لیست عکس های سفارشی زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:92
+#, fuzzy
+msgid "Custom Image List Categories"
+msgstr "دسته بندی های لیست عکس های سفارشی"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:109
+#, fuzzy
+msgid "List Categories Items"
+msgstr "لیست دسته ها موارد"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:139
+#, fuzzy
+msgid "Spacing Content"
+msgstr "فاصله بین محتوا"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:216
+#, fuzzy
+msgid "Show Count Category"
+msgstr "نمایش تعداد دسته"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:138
+#, fuzzy
+msgid "Display Show All"
+msgstr "نمایش همه"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:233
+#, fuzzy
+msgid "Text Show All"
+msgstr "متن نمایش همه"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:244
+#, fuzzy
+msgid "Icon Show All"
+msgstr "نماد نمایش همه"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:272
+#, fuzzy
+msgid "Choose category"
+msgstr "دسته را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:282
+#, fuzzy
+msgid "Type Custom"
+msgstr "نوع سفارشی را تایپ کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:330
+#, fuzzy
+msgid "Show Custom Link"
+msgstr "پیوند سفارشی را نشان دهید"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:339
+#, fuzzy
+msgid "Custom Link"
+msgstr "پیوند سفارشی"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:355
+#, fuzzy
+msgid "Categories Item "
+msgstr "دسته ها مورد"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-categories.php:371
+#, fuzzy
+msgid "Content Item"
+msgstr "مورد محتوا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:361
+#, fuzzy
+msgid "Hover Background"
+msgstr "پس زمینه شناور"
+
+#: woocommerce/layout-categories/single-custom.php:34
+#, fuzzy
+msgid "items"
+msgstr "موارد"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:17
+msgid "Zota Custom Image List Tags"
+msgstr "برچسب های لیست عکس سفارشی زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-list-tags.php:56
+#, fuzzy
+msgid "Tag"
+msgstr "برچسب زدن"
+
+#: inc/vendors/elementor/elements/woocommerce/product-list-tags.php:67
+#, fuzzy
+msgid ""
+"<strong>There are no tags in your site.</strong><br>Go to the <a href=\"%s\" "
+"target=\"_blank\">Tags screen</a> to create one."
+msgstr ""
+"<strong>هیچ برچسبی در سایت شما وجود ندارد.</strong><br> برای ایجاد یک <a "
+"href=\"%s\" target=\"_blank\">صفحه ، به صفحه برچسب ها</a> بروید."
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:89
+#, fuzzy
+msgid "Choose Style"
+msgstr "سبک را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:164
+#, fuzzy
+msgid "Icon Button"
+msgstr "دکمه نماد"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:138
+#, fuzzy
+msgid "Add Custom Link"
+msgstr "پیوند سفارشی را اضافه کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-list-tags.php:78
+#, fuzzy
+msgid "List Tags"
+msgstr "لیست برچسب ها"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:178
+#, fuzzy
+msgid "Button Show All"
+msgstr "دکمه نمایش همه"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:103
+#, fuzzy
+msgid "Show Count"
+msgstr "نمایش تعداد"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:212
+#, fuzzy
+msgid "Display the product number of the tags"
+msgstr "شماره محصول برچسب ها را نمایش دهید"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:279
+#, fuzzy
+msgid "Item Padding"
+msgstr "بالشتک مورد"
+
+#: inc/vendors/elementor/elements/woocommerce/custom-image-list-tags.php:290
+#, fuzzy
+msgid "Icon Item Padding"
+msgstr "پر کردن آیتم نماد"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:43
+msgid "Zota List Categories Product"
+msgstr "لیست دسته بندی های محصول زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:87
+#, fuzzy
+msgid "List Categories Product"
+msgstr "لیست دسته ها محصول"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:93
+#, fuzzy
+msgid "Number of categories"
+msgstr "تعداد دسته ها"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:95
+#, fuzzy
+msgid "Number of categories to show ( -1 = all )"
+msgstr "تعداد دسته ها برای نمایش (-1 = همه)"
+
+#: inc/vendors/elementor/elements/woocommerce/list-categories-product.php:143
+#, fuzzy
+msgid "Show All"
+msgstr "نمایش همه"
+
+#: inc/vendors/elementor/elements/woocommerce/product-categories-tabs.php:44
+#, fuzzy
+msgid "Zota Product Categories Tabs"
+msgstr "زوات دسته بندی محصولات"
+
+#: inc/vendors/elementor/elements/woocommerce/product-categories-tabs.php:86
+#, fuzzy
+msgid "Product Categories"
+msgstr "دسته بندی محصولات"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:61
+#, fuzzy
+msgid "Number of products"
+msgstr "تعداد محصولات"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:63
+#, fuzzy
+msgid "Number of products to show ( -1 = all )"
+msgstr "تعداد محصولات برای نمایش (-1 = همه)"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:116
+#, fuzzy
+msgid "Product Type"
+msgstr "نوع محصول"
+
+#: inc/vendors/elementor/elements/woocommerce/product-categories-tabs.php:145
+#, fuzzy
+msgid "Categories Items"
+msgstr "دسته ها"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:127
+#, fuzzy
+msgid "Product Style"
+msgstr "سبک محصول"
+
+#: inc/vendors/elementor/elements/woocommerce/product-categories-tabs.php:177
+#, fuzzy
+msgid "Select Category"
+msgstr "دسته را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:212
+#, fuzzy
+msgid "Heading Product Categories Tabs"
+msgstr "عنوان دسته بندی محصولات زبانه ها"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:219
+#, fuzzy
+msgid "Style Heading Tab"
+msgstr "سربرگ Style"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:222
+#, fuzzy
+msgid "Inline"
+msgstr "خطی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:223
+#, fuzzy
+msgid "Block"
+msgstr "مسدود کردن"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:146
+#, fuzzy
+msgid "Display Show More"
+msgstr "نمایش بیشتر"
+
+#: inc/vendors/elementor/elements/woocommerce/product-category.php:44
+msgid "Zota Product Category"
+msgstr "دسته بندی محصولات زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-category.php:88
+#, fuzzy
+msgid "Product Category"
+msgstr "رده محصولات"
+
+#: inc/vendors/elementor/elements/woocommerce/product-category.php:104
+#, fuzzy
+msgid "Feature Image"
+msgstr "تصویر ویژه"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:98
+#, fuzzy
+msgid "Product Image"
+msgstr "تصویر محصول"
+
+#: inc/vendors/elementor/elements/woocommerce/product-category.php:207
+#, fuzzy
+msgid "Show More"
+msgstr "بیشتر نشان بده، اطلاعات بیشتر"
+
+#: inc/vendors/elementor/elements/woocommerce/product-count-down.php:18
+msgid "Zota Product CountDown"
+msgstr "شمارش معکوس محصولات زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:293
+#, fuzzy
+msgid "Title Date"
+msgstr "تاریخ عنوان"
+
+#: inc/vendors/elementor/elements/woocommerce/product-count-down.php:63
+#, fuzzy
+msgid "Deals end in:"
+msgstr "پایان معاملات:"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:422
+#, fuzzy
+msgid "Select products"
+msgstr "محصولات را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:436
+#, fuzzy
+msgid ""
+"You do not have any discount products. <br>Go to the <strong><a href=\"%s\" "
+"target=\"_blank\">Products screen</a></strong> to create one."
+msgstr ""
+"شما هیچ کالای تخفیفی ندارید.<br> برای ایجاد <strong><a href=\"%s\" "
+"target=\"_blank\">صفحه ،</a></strong> به صفحه محصولات بروید."
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:664
+#, fuzzy
+msgid "Please select the show product"
+msgstr "لطفا محصول نمایش را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:20
+#, fuzzy
+msgid "Zota Product Flash Sales"
+msgstr "فروش فلش محصولات زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:62
+#, fuzzy
+msgid "Position Displayed"
+msgstr "موقعیت نمایش داده شده"
+
+#: inc/vendors/redux-framework/redux-config.php:186
+msgid "Header"
+msgstr "هدر"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:67
+#, fuzzy
+msgid "Main Content"
+msgstr "محتوای اصلی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:104
+#, fuzzy
+msgid "Display type"
+msgstr "نوع نمایش"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:150
+#, fuzzy
+msgid "Flash Sale"
+msgstr "فروش فلش"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:201
+#, fuzzy
+msgid "Select Page"
+msgstr "صفحه را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:249
+#, fuzzy
+msgid ""
+"<strong>There are no pages in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">pages screen</a> to create one."
+msgstr ""
+"<strong>هیچ صفحه ای در سایت شما وجود ندارد.</strong><br> برای ایجاد <a "
+"href=\"%s\" target=\"_blank\">صفحه ،</a> به صفحه صفحات بروید."
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:232
+#, fuzzy
+msgid "Heading Wrapper"
+msgstr "عنوان بسته بندی"
+
+#: inc/vendors/redux-framework/redux-config.php:507
+#, fuzzy
+msgid "Main"
+msgstr "اصلی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:295
+#, fuzzy
+msgid "Remaining"
+msgstr "باقیمانده"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:306
+#, fuzzy
+msgid "Title deal ended"
+msgstr "معامله عنوان پایان یافت"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:308
+#, fuzzy
+msgid "Deal ended."
+msgstr "معامله تمام شد"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:320
+#, fuzzy
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:323
+#, fuzzy
+msgid "Choose the end time"
+msgstr "زمان پایان را انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:333
+#, fuzzy
+msgid "Background Top Flash Sale"
+msgstr "پس زمینه برتر فروش فلش"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:364
+#, fuzzy
+msgid "Heading Type"
+msgstr "نوع عنوان"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:120
+#, fuzzy
+msgid "Enable Button \"Read More\" "
+msgstr "فعال کردن دکمه \"بیشتر بخوانید\""
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:222
+#, fuzzy
+msgid "Button \"Read More\" Custom Text"
+msgstr "دکمه \"بیشتر بخوانید\" متن سفارشی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:519
+#, fuzzy
+msgid "Style Times"
+msgstr "سبک بار"
+
+#: inc/vendors/elementor/elements/woocommerce/product-flash-sales.php:561
+#, fuzzy
+msgid "Content Products"
+msgstr "محصولات محتوا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-list-tags.php:17
+msgid "Zota Icon List Tags"
+msgstr "برچسب های لیست آیکون زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:18
+msgid "Zota Product Recently Viewed"
+msgstr "محصول زوتا که اخیراً مشاهده شده است"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:85
+#, fuzzy
+msgid "Empty Result - Custom Paragraph"
+msgstr "نتیجه خالی - پاراگراف سفارشی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:87
+#, fuzzy
+msgid "You have no recently viewed item."
+msgstr "شما اخیراً موردی مشاهده نکرده اید."
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:97
+#, fuzzy
+msgid "Align Empty Result"
+msgstr "تراز کردن نتیجه خالی"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:211
+#, fuzzy
+msgid "Read More Options"
+msgstr "گزینه های بیشتر را بخوانید"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:389
+#, fuzzy
+msgid "Recently Viewed"
+msgstr "به تازگی بازدید شده"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:400
+#, fuzzy
+msgid "Columns and max item"
+msgstr "ستون ها و حداکثر مورد"
+
+#: inc/vendors/elementor/elements/woocommerce/product-recently-viewed.php:466
+#, fuzzy
+msgid "You have no recent viewed item."
+msgstr "شما مورد اخیراً مشاهده ای ندارید."
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:44
+msgid "Zota Product Tabs"
+msgstr "برچسب های محصول زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:88
+#, fuzzy
+msgid "Product Tabs"
+msgstr "زبانه های محصول"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:94
+#, fuzzy
+msgid "Number of products ( -1 = all )"
+msgstr "تعداد محصولات (-1 = همه)"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:191
+#, fuzzy
+msgid "Show Tabs"
+msgstr "نمایش برگه ها"
+
+#: inc/vendors/elementor/elements/woocommerce/product-tabs.php:200
+#, fuzzy
+msgid "Tab Item"
+msgstr "مورد مورد"
+
+#: inc/vendors/elementor/elements/woocommerce/products.php:17
+#, fuzzy
+msgid "Zota Products"
+msgstr "محصولات زوتا"
+
+#: inc/vendors/elementor/elements/woocommerce/woocommerce-tags.php:17
+msgid "Zota Woocommerce Tags"
+msgstr "برچسب های  ووکامرس زوتا "
+
+#: inc/vendors/elementor/elements/woocommerce/woocommerce-tags.php:46
+#, fuzzy
+msgid "Number tag to show ( -1 = all )"
+msgstr "نشان شماره برای نشان دادن (-1 = همه)"
+
+#: inc/vendors/elementor/elements/woocommerce/woocommerce-tags.php:60
+#, fuzzy
+msgid "Please select the number of tags again"
+msgstr "لطفاً تعداد برچسب ها را دوباره انتخاب کنید"
+
+#: inc/vendors/elementor/elements/woocommerce/woocommerce-tags.php:88
+#, fuzzy
+msgid "Sorry, but no tags were found"
+msgstr "با عرض پوزش ، اما هیچ برچسبی یافت نشد"
+
+#: inc/vendors/elementor/icons/icons.php:8
+#, fuzzy
+msgid "Simple Line Icons"
+msgstr "نمادهای خط ساده"
+
+#: inc/vendors/elementor/icons/icons.php:26
+#, fuzzy
+msgid "Material Design Iconic"
+msgstr "نماد طراحی مواد"
+
+#: inc/vendors/elementor/icons/icons.php:45
+#, fuzzy
+msgid "Thembay Custom"
+msgstr "سفارشی Thembay"
+
+#: inc/vendors/redux-framework/class-redux.php:21
+#, fuzzy
+msgid "Newsletter Popup"
+msgstr "پنجره خبرنامه"
+
+#: inc/vendors/woocommerce/compatible/wcmp_vendor.php:112
+#, fuzzy
+msgid "Add widgets here to appear in your site."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در سایت خود ظاهر شوند."
+
+#: inc/vendors/redux-framework/redux-config.php:1360
+#, fuzzy
+msgid "Blog Archive Sidebar"
+msgstr "نوار کناری بایگانی وبلاگ"
+
+#: inc/vendors/redux-framework/class-redux.php:41
+#, fuzzy
+msgid "Blog Single Sidebar"
+msgstr "نوار کناری وبلاگ"
+
+#: inc/vendors/redux-framework/redux-config.php:74
+#, fuzzy
+msgid "1 Column"
+msgstr "1 ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:75
+#, fuzzy
+msgid "2 Columns"
+msgstr "2 ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:76
+#, fuzzy
+msgid "3 Columns"
+msgstr "3 ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:77
+#, fuzzy
+msgid "4 Columns"
+msgstr "4 ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:78
+#, fuzzy
+msgid "5 Columns"
+msgstr "5 ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:79
+#, fuzzy
+msgid "6 Columns"
+msgstr "6 ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:88
+#, fuzzy
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+#: inc/vendors/redux-framework/redux-config.php:91
+#, fuzzy
+msgid "Full"
+msgstr "پر شده"
+
+#: inc/vendors/redux-framework/redux-config.php:105
+#, fuzzy
+msgid "Activated Skin"
+msgstr "پوست فعال شده"
+
+#: inc/vendors/redux-framework/redux-config.php:112
+#, fuzzy
+msgid "Enable Config Image Size"
+msgstr "پیکربندی اندازه تصویر را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:113
+#, fuzzy
+msgid "Config image size in WooCommerce and Media Setting"
+msgstr "اندازه تصویر را در WooCommerce و Media Setting پیکربندی کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:126
+#, fuzzy
+msgid "Select Header Layout"
+msgstr "طرح هدر را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:199
+#, fuzzy
+msgid "Upload Logo"
+msgstr "بارگذاری آرم"
+
+#: inc/vendors/redux-framework/redux-config.php:1499
+#, fuzzy
+msgid "Image File (.png or .gif)"
+msgstr "فایل تصویر (.png یا .gif)"
+
+#: inc/vendors/redux-framework/redux-config.php:140
+msgid "Header Located On Slider"
+msgstr "هدر واقع در اسلایدر"
+
+#: inc/vendors/redux-framework/redux-config.php:141
+#, fuzzy
+msgid "Only home-page"
+msgstr "فقط صفحه اصلی"
+
+#: inc/vendors/redux-framework/redux-config.php:155
+msgid "Select Footer Layout"
+msgstr "طرح فوتر را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:162
+#, fuzzy
+msgid "Copyright Text"
+msgstr "متن حق چاپ"
+
+#: inc/vendors/redux-framework/redux-config.php:163
+msgid "Copyright  &#64; 2021 Zota Designed by ThemBay. All Rights Reserved."
+msgstr "فارسی سازی قالب زوتا. کلیه حقوق محفوظ است طراحی شده توسط راستچین"
+
+#: inc/vendors/redux-framework/redux-config.php:295
+#, fuzzy
+msgid "Enable \"Back to Top\" Button"
+msgstr "دکمه \"بازگشت به بالا\" را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:180
+#, fuzzy
+msgid "Mobile"
+msgstr "سیار"
+
+#: inc/vendors/redux-framework/redux-config.php:191
+msgid "Enable Mobile Header"
+msgstr "هدر تلفن همراه را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:192
+#, fuzzy
+msgid "Only off when use Header Elementor Pro on mobile "
+msgstr "فقط هنگام استفاده از Header Elementor Pro در تلفن همراه خاموش است"
+
+#: inc/vendors/redux-framework/redux-config.php:1255
+#, fuzzy
+msgid "Logo maximum width (px)"
+msgstr "حداکثر عرض آرم (px)"
+
+#: inc/vendors/redux-framework/redux-config.php:219
+#, fuzzy
+msgid "Logo Padding"
+msgstr "بالشتک آرم"
+
+#: inc/vendors/redux-framework/redux-config.php:220
+#, fuzzy
+msgid "Add more spacing around logo."
+msgstr "فاصله بیشتری را به دور آرم اضافه کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:233
+#, fuzzy
+msgid "Always Display Logo"
+msgstr "همیشه آرم نمایش داده شود"
+
+#: inc/vendors/redux-framework/redux-config.php:234
+#, fuzzy
+msgid "Logo displays on all pages (page title is disabled)"
+msgstr "نمایش آرم در همه صفحات (عنوان صفحه غیرفعال است)"
+
+#: inc/vendors/redux-framework/redux-config.php:241
+#, fuzzy
+msgid "Always Display Menu"
+msgstr "همیشه منو نمایش داده شود"
+
+#: inc/vendors/redux-framework/redux-config.php:242
+#, fuzzy
+msgid "Menu displays on all pages (Button Back is disabled)"
+msgstr "نمایش منو در تمام صفحات (دکمه برگشت غیرفعال است)"
+
+#: inc/vendors/redux-framework/redux-config.php:249
+#, fuzzy
+msgid "Enable Form Search"
+msgstr "جستجوی فرم را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:250
+#, fuzzy
+msgid "Enable or disable Form Search"
+msgstr "جستجوی فرم را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:257
+#, fuzzy
+msgid "Always Display Search"
+msgstr "همیشه جستجو را نمایش دهید"
+
+#: inc/vendors/redux-framework/redux-config.php:258
+#, fuzzy
+msgid "Search displays on all pages"
+msgstr "نمایش صفحات جستجو در همه صفحات"
+
+#: inc/vendors/redux-framework/redux-config.php:266
+#, fuzzy
+msgid "Hide Header Elementor Pro"
+msgstr "پنهان کردن هدر Elementor Pro"
+
+#: inc/vendors/redux-framework/redux-config.php:267
+#, fuzzy
+msgid "Hide Header Elementor Pro on mobile"
+msgstr "Header Elementor Pro را در تلفن همراه مخفی کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:281
+msgid "Enable Desktop Footer"
+msgstr "فوتر دسکتاپ را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:288
+#, fuzzy
+msgid "Collapse widgets on mobile"
+msgstr "جمع کردن ابزارک ها در تلفن همراه"
+
+#: inc/vendors/redux-framework/redux-config.php:289
+msgid ""
+"Widgets added to the footer will be collapsed by default and opened when you "
+"click on their titles."
+msgstr ""
+"ابزارک های اضافه شده به فوتر به طور پیش فرض جمع می شوند و وقتی روی عنوان "
+"آنها کلیک می کنید باز می شوند."
+
+#: inc/vendors/redux-framework/redux-config.php:301
+msgid "Enable Mobile Footer"
+msgstr "فوتر موبایل را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:307
+#, fuzzy
+msgid "Config List Menu Icon"
+msgstr "نماد فهرست پیکربندی"
+
+#: inc/vendors/redux-framework/redux-config.php:1088
+#, fuzzy
+msgid "Enter icon name of fonts: "
+msgstr "نام نماد قلم ها را وارد کنید:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "List default URLs:"
+msgstr "URL های پیش فرض را لیست کنید:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "Home page:"
+msgstr "صفحه نخست:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "Shop page:"
+msgstr "صفحه فروشگاه:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "My account page:"
+msgstr "صفحه حساب من:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "Cart page:"
+msgstr "صفحه سبد خرید:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "Checkout page:"
+msgstr "صفحه پرداخت:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "Wishlist page:"
+msgstr "صفحه لیست علاقه مندی ها:"
+
+#: inc/vendors/redux-framework/redux-config.php:308
+#, fuzzy
+msgid "Watch video tutorial: "
+msgstr "آموزش فیلم را تماشا کنید:"
+
+#: inc/vendors/redux-framework/redux-config.php:319
+#, fuzzy
+msgid "Enter icon name"
+msgstr "نام نماد را وارد کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:336
+#, fuzzy
+msgid "Post"
+msgstr "پست"
+
+#: inc/vendors/redux-framework/redux-config.php:344
+#, fuzzy
+msgid "Auto-complete Search?"
+msgstr "تکمیل خودکار جستجو؟"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:421
+#, fuzzy
+msgid "Placeholder"
+msgstr "محل نگهدارنده"
+
+#: inc/vendors/redux-framework/redux-config.php:351
+#, fuzzy
+msgid "Search in 20.000+ products..."
+msgstr "جستجوی بیش از 20.000 محصول ..."
+
+#: inc/vendors/redux-framework/redux-config.php:387
+#, fuzzy
+msgid "Number of Search Results"
+msgstr "تعداد نتایج جستجو"
+
+#: inc/vendors/redux-framework/redux-config.php:388
+#, fuzzy
+msgid "Max number of results show in Mobile"
+msgstr "حداکثر تعداد نتایج در تلفن همراه نشان داده می شود"
+
+#: inc/vendors/redux-framework/redux-config.php:400
+#, fuzzy
+msgid "Menu Mobile"
+msgstr "موبایل منو"
+
+#: inc/vendors/redux-framework/redux-config.php:406
+#, fuzzy
+msgid "Main Menu Mobile"
+msgstr "منوی اصلی تلفن همراه"
+
+#: inc/vendors/redux-framework/redux-config.php:407
+#, fuzzy
+msgid "Select the menu you want to display."
+msgstr "منویی را که می خواهید نمایش دهید انتخاب کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:413
+#, fuzzy
+msgid "Enable Custom Language"
+msgstr "فعال کردن زبان سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:414
+#, fuzzy
+msgid "If you use WPML will appear here"
+msgstr "اگر از WPML استفاده می کنید در اینجا ظاهر می شود"
+
+#: inc/vendors/redux-framework/redux-config.php:420
+#, fuzzy
+msgid "Enable Currency"
+msgstr "فعال کردن ارز"
+
+#: inc/vendors/redux-framework/redux-config.php:431
+#, fuzzy
+msgid "Mobile WooCommerce"
+msgstr "موبایل ووکامرس"
+
+#: inc/vendors/redux-framework/redux-config.php:436
+#, fuzzy
+msgid "Product Column in Shop page"
+msgstr "ستون محصول در صفحه فروشگاه"
+
+#: inc/vendors/redux-framework/redux-config.php:439
+#, fuzzy
+msgid "One Column"
+msgstr "یک ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:443
+#, fuzzy
+msgid "Two Columns"
+msgstr "دو ستون"
+
+#: inc/vendors/redux-framework/redux-config.php:452
+#, fuzzy
+msgid "Show \"Add to Cart\" Button"
+msgstr "دکمه \"افزودن به سبد خرید\" را نشان دهید"
+
+#: inc/vendors/redux-framework/redux-config.php:453
+#, fuzzy
+msgid "On Home and page Shop"
+msgstr "در صفحه اصلی و صفحه خرید"
+
+#: inc/vendors/redux-framework/redux-config.php:459
+#, fuzzy
+msgid "Show \"Wishlist\" Button"
+msgstr "نمایش دکمه \"لیست دلخواه\""
+
+#: inc/vendors/redux-framework/redux-config.php:467
+#, fuzzy
+msgid "Enable or disable in Home and Shop page"
+msgstr "در صفحه اصلی و فروشگاه فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:466
+#, fuzzy
+msgid "Show Full Product Name"
+msgstr "نمایش نام کامل محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:473
+#, fuzzy
+msgid "Add To Cart Form Type"
+msgstr "افزودن به سبد خرید نوع فرم"
+
+#: inc/vendors/redux-framework/redux-config.php:493
+#, fuzzy
+msgid "On Page Single Product"
+msgstr "در صفحه تک محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:816
+#, fuzzy
+msgid "Popup"
+msgstr "پنجره بازشو"
+
+#: inc/vendors/redux-framework/redux-config.php:484
+#, fuzzy
+msgid "Show Quantity"
+msgstr "نمایش مقدار"
+
+#: inc/vendors/redux-framework/redux-config.php:492
+#, fuzzy
+msgid "Show Sidebar Tabs"
+msgstr "برگه های نوار کناری را نشان دهید"
+
+#: inc/vendors/redux-framework/redux-config.php:514
+#, fuzzy
+msgid "Body Background"
+msgstr "زمینه بدن"
+
+#: inc/vendors/redux-framework/redux-config.php:515
+#, fuzzy
+msgid "Body background with image, color, etc."
+msgstr "پس زمینه بدن با تصویر ، رنگ و غیره"
+
+#: inc/vendors/redux-framework/redux-config.php:519
+msgid "Theme Main Color"
+msgstr "رنگ قالب اصلی"
+
+#: inc/vendors/redux-framework/redux-config.php:534
+#, fuzzy
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: inc/vendors/redux-framework/redux-config.php:539
+#, fuzzy
+msgid "Edit Typography"
+msgstr "ویرایش تایپوگرافی"
+
+#: inc/vendors/redux-framework/redux-config.php:543
+#, fuzzy
+msgid "Font Source"
+msgstr "منبع قلم"
+
+#: inc/vendors/redux-framework/redux-config.php:557
+#, fuzzy
+msgid "Google Link"
+msgstr "Google Link"
+
+#: inc/vendors/redux-framework/redux-config.php:558
+#, fuzzy
+msgid "Paste the provided Google Code"
+msgstr "کد Google ارائه شده را جایگذاری کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:560
+#, fuzzy
+msgid "e.g.: https://fonts.googleapis.com/css?family=Open+Sans"
+msgstr "به عنوان مثال: https://fonts.googleapis.com/css؟family=Open+Sans"
+
+#: inc/vendors/redux-framework/redux-config.php:570
+#, fuzzy
+msgid "Video guide custom font in "
+msgstr "راهنمای ویدئو فونت سفارشی در"
+
+#: inc/vendors/redux-framework/redux-config.php:572
+#, fuzzy
+msgid "here"
+msgstr "اینجا"
+
+#: inc/vendors/redux-framework/redux-config.php:581
+#, fuzzy
+msgid "Main Font"
+msgstr "قلم اصلی"
+
+#: inc/vendors/redux-framework/redux-config.php:587
+#, fuzzy
+msgid "Font Face"
+msgstr "صورت قلم"
+
+#: inc/vendors/redux-framework/redux-config.php:610
+#, fuzzy
+msgid "Google Font Face"
+msgstr "Google Font Face"
+
+#: inc/vendors/redux-framework/redux-config.php:611
+msgid "Enter your Google Font Name for the theme's Main Typography"
+msgstr "نام قلم Google خود را برای تایپوگرافی اصلی قالب وارد کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:626
+#, fuzzy
+msgid "e.g.: &#39;Open Sans&#39;, sans-serif"
+msgstr "به عنوان مثال: &#39;Open Sans&#39;، sans-serif"
+
+#: inc/vendors/redux-framework/redux-config.php:624
+#, fuzzy
+msgid "Main custom Font Face"
+msgstr "چهره اصلی فونت سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:625
+msgid "Enter your Custom Font Name for the theme's Main Typography"
+msgstr "نام قلم سفارشی خود را برای تایپوگرافی اصلی قالب وارد کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:640
+#, fuzzy
+msgid "Header Mobile"
+msgstr "هدر موبایل"
+
+#: inc/vendors/redux-framework/redux-config.php:647
+msgid "Header Mobile Background"
+msgstr "هدر تلفن همراه"
+
+#: inc/vendors/redux-framework/redux-config.php:650
+msgid "Header Color"
+msgstr "هدر رنگ"
+
+#: inc/vendors/redux-framework/redux-config.php:661
+#, fuzzy
+msgid "WooCommerce Theme"
+msgstr "تم WooCommerce"
+
+#: inc/vendors/redux-framework/redux-config.php:666
+#, fuzzy
+msgid "Background button \"Buy Now\""
+msgstr "دکمه پس زمینه \"اکنون بخرید\""
+
+#: inc/vendors/redux-framework/redux-config.php:674
+#, fuzzy
+msgid "Color button \"Buy Now\""
+msgstr "دکمه رنگی \"اکنون بخرید\""
+
+#: inc/vendors/redux-framework/redux-config.php:687
+#, fuzzy
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: inc/vendors/redux-framework/redux-config.php:690
+#, fuzzy
+msgid "Label Sale Format"
+msgstr "قالب فروش برچسب"
+
+#: inc/vendors/redux-framework/redux-config.php:694
+#, fuzzy
+msgid "Sale!"
+msgstr "فروش!"
+
+#: inc/vendors/redux-framework/redux-config.php:695
+msgid "Save {percent-diff}% (e.g \"Save 50%\")"
+msgstr "ذخیره {درصد-تفاوت}% (به عنوان مثال \"ذخیره 50%\")"
+
+#: inc/vendors/redux-framework/redux-config.php:696
+#, fuzzy
+msgid "Save {symbol}{price-diff} (e.g \"Save $50\")"
+msgstr "ذخیره {نماد} {قیمت-تفاوت} (به عنوان مثال \"ذخیره 50 دلار\")"
+
+#: inc/vendors/redux-framework/redux-config.php:697
+#, fuzzy
+msgid "Custom Format (e.g -50%, -$50)"
+msgstr "قالب سفارشی (به عنوان مثال -50٪ ، - 50 دلار)"
+
+#: inc/vendors/redux-framework/redux-config.php:704
+#, fuzzy
+msgid "Custom Format"
+msgstr "قالب سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:705
+#, fuzzy
+msgid "{price-diff} inserts the dollar amount off."
+msgstr "{price-diff} مبلغ دلار را وارد می کند."
+
+#: inc/vendors/redux-framework/redux-config.php:706
+#, fuzzy
+msgid "{percent-diff} inserts the percent reduction (rounded)."
+msgstr "{درصد-تفاوت} درصد کاهش (گرد) را وارد می کند."
+
+#: inc/vendors/redux-framework/redux-config.php:707
+#, fuzzy
+msgid "{symbol} inserts the Default currency symbol."
+msgstr "{symbol} نماد ارز پیش فرض را وارد می کند."
+
+#: inc/vendors/redux-framework/redux-config.php:714
+#, fuzzy
+msgid "Enable \"Featured\" Label"
+msgstr "فعال کردن برچسب \"ویژه\""
+
+#: inc/vendors/redux-framework/redux-config.php:720
+#, fuzzy
+msgid "\"Featured Label\" Custom Text"
+msgstr "متن اختصاصی \"برچسب برجسته\""
+
+#: inc/vendors/redux-framework/redux-config.php:728
+#, fuzzy
+msgid "Enable Brand Name"
+msgstr "فعال کردن نام تجاری"
+
+#: inc/vendors/redux-framework/redux-config.php:729
+#, fuzzy
+msgid "Enable/Disable brand name on HomePage and Shop Page"
+msgstr "فعال کردن / غیرفعال کردن نام تجاری در صفحه اصلی و صفحه فروشگاه"
+
+#: inc/vendors/redux-framework/redux-config.php:735
+#, fuzzy
+msgid "Enable the text of Time Countdown"
+msgstr "متن شمارش معکوس زمان را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:747
+#, fuzzy
+msgid "Product Image Display Mode"
+msgstr "حالت نمایش تصویر محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:750
+#, fuzzy
+msgid "Single Image"
+msgstr "یک تصویر"
+
+#: inc/vendors/redux-framework/redux-config.php:754
+#, fuzzy
+msgid "Double Images (Hover)"
+msgstr "تصاویر دوتایی (شناور)"
+
+#: inc/vendors/redux-framework/redux-config.php:763
+#, fuzzy
+msgid "Enable Quick View"
+msgstr "نمایش سریع را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:769
+#, fuzzy
+msgid "Show WooCommerce Catalog Mode"
+msgstr "نمایش حالت کاتالوگ WooCommerce"
+
+#: inc/vendors/redux-framework/redux-config.php:775
+#, fuzzy
+msgid "Enable WooCommerce Quantity Mode"
+msgstr "حالت مقدار WooCommerce را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:776
+#, fuzzy
+msgid "Enable/Disable show quantity on Home Page and Shop Page"
+msgstr "مقدار نمایش را در صفحه اصلی و صفحه فروشگاه فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:782
+msgid "Quantity Ajax Auto-update"
+msgstr "تعداد Ajax به روز رسانی خودکار"
+
+#: inc/vendors/redux-framework/redux-config.php:783
+#, fuzzy
+msgid "Enable/Disable quantity ajax auto-update on page Cart"
+msgstr ""
+"فعال کردن / غیرفعال کردن به روز رسانی خودکار مقدار ajax در صفحه سبد خرید"
+
+#: inc/vendors/redux-framework/redux-config.php:789
+#, fuzzy
+msgid "Enable Product Variation Swatch"
+msgstr "Swatch تنوع محصول را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:790
+#, fuzzy
+msgid "Enable/Disable Product Variation Swatch on HomePage and Shop page"
+msgstr "فعال کردن / غیرفعال کردن Swatch تنوع محصول در صفحه اصلی و صفحه فروشگاه"
+
+#: inc/vendors/redux-framework/redux-config.php:796
+#, fuzzy
+msgid "Product Attribute"
+msgstr "ویژگی محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:812
+#, fuzzy
+msgid "Mini-Cart Position"
+msgstr "موقعیت مینی سبد خرید"
+
+#: inc/vendors/redux-framework/redux-config.php:817
+#, fuzzy
+msgid "None Popup"
+msgstr "هیچ پنجره ای وجود ندارد"
+
+#: inc/vendors/redux-framework/redux-config.php:1275
+#, fuzzy
+msgid "Breadcrumb"
+msgstr "خرده نان"
+
+#: inc/vendors/redux-framework/redux-config.php:832
+#, fuzzy
+msgid "Enable Breadcrumb"
+msgstr "Breadcrumb را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:840
+msgid "Breadcrumb Layout"
+msgstr "چیدمان نشانگر صفحه"
+
+#: inc/vendors/redux-framework/redux-config.php:1296
+#, fuzzy
+msgid "Text Only"
+msgstr "فقط متن"
+
+#: inc/vendors/redux-framework/redux-config.php:860
+#, fuzzy
+msgid "The Breadcrumb background color of the site."
+msgstr "رنگ پس زمینه Breadcrumb سایت."
+
+#: inc/vendors/redux-framework/redux-config.php:870
+msgid "Breadcrumb Background"
+msgstr "پس زمینه نشانگر صفحه"
+
+#: inc/vendors/redux-framework/redux-config.php:871
+#, fuzzy
+msgid "Upload a .jpg or .png image that will be your Breadcrumb."
+msgstr "یک تصویر .jpg یا .png بارگذاری کنید که Breadcrumb شما خواهد بود."
+
+#: woocommerce/layout-categories/single-custom.php:16
+#, fuzzy
+msgid "Shop"
+msgstr "خرید کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:896
+#, fuzzy
+msgid "Shop Layout"
+msgstr "چیدمان فروشگاه"
+
+#: inc/vendors/redux-framework/redux-config.php:907
+#, fuzzy
+msgid "No Sidebar"
+msgstr "نوار کناری وجود ندارد"
+
+#: inc/vendors/redux-framework/redux-config.php:916
+#, fuzzy
+msgid "Archive Sidebar"
+msgstr "نوار کناری بایگانی کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:923
+#, fuzzy
+msgid "Enable Products Display Mode"
+msgstr "حالت نمایش محصولات را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:924
+#, fuzzy
+msgid "Enable/Disable Display Mode"
+msgstr "فعال کردن / غیرفعال کردن حالت نمایش"
+
+#: inc/vendors/redux-framework/redux-config.php:930
+#, fuzzy
+msgid "Products Display Mode"
+msgstr "حالت نمایش محصولات"
+
+#: inc/vendors/woocommerce/classes/class-wc-shop.php:145
+#, fuzzy
+msgid "List"
+msgstr "لیست کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:941
+#, fuzzy
+msgid "Show Title of Categories"
+msgstr "نمایش عنوان دسته ها"
+
+#: inc/vendors/redux-framework/redux-config.php:947
+#, fuzzy
+msgid "Show Description, Image of Categories"
+msgstr "نمایش توصیف ، تصویر دسته ها"
+
+#: inc/vendors/redux-framework/redux-config.php:953
+#, fuzzy
+msgid "Number of Products Per Page"
+msgstr "تعداد محصولات در هر صفحه"
+
+#: inc/vendors/redux-framework/redux-config.php:962
+#, fuzzy
+msgid "Product Columns"
+msgstr "ستون های محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:969
+#, fuzzy
+msgid "Product Pagination Style"
+msgstr "سبک صفحه بندی محصولات"
+
+#: inc/vendors/redux-framework/redux-config.php:971
+#, fuzzy
+msgid "Pagination Number"
+msgstr "شماره صفحه بندی"
+
+#: inc/vendors/redux-framework/redux-config.php:972
+#, fuzzy
+msgid "Load More Button"
+msgstr "دکمه بیشتر را بارگیری کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:981
+#, fuzzy
+msgid "Single Product"
+msgstr "تک محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:987
+#, fuzzy
+msgid "Select Single Product Layout"
+msgstr "طرح بندی تک محصول را انتخاب کنید"
+
+#: inc/vendors/woocommerce/wc-admin.php:401
+#, fuzzy
+msgid "Image Vertical"
+msgstr "عمودی تصویر"
+
+#: inc/vendors/woocommerce/wc-admin.php:402
+#, fuzzy
+msgid "Image Horizontal"
+msgstr "تصویر افقی"
+
+#: inc/vendors/woocommerce/wc-admin.php:403
+#, fuzzy
+msgid "Left - Main Sidebar"
+msgstr "چپ - نوار کناری اصلی"
+
+#: inc/vendors/woocommerce/wc-admin.php:404
+#, fuzzy
+msgid "Main - Right Sidebar"
+msgstr "اصلی - نوار کناری سمت راست"
+
+#: inc/vendors/redux-framework/redux-config.php:1012
+#, fuzzy
+msgid "Single Product Sidebar"
+msgstr "نوار کناری تک محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:1023
+#, fuzzy
+msgid "Single Product Advanced Options"
+msgstr "گزینه های پیشرفته تک محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:1028
+#, fuzzy
+msgid "Enable Total Sales"
+msgstr "فروش کل را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1034
+#, fuzzy
+msgid "Enable Buy Now"
+msgstr "اکنون خرید را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1041
+#, fuzzy
+msgid "Redirect to page after Buy Now"
+msgstr "پس از خرید اکنون به صفحه هدایت شوید"
+
+#: inc/vendors/redux-framework/redux-config.php:1057
+#, fuzzy
+msgid "Tab Mode"
+msgstr "حالت Tab"
+
+#: inc/vendors/redux-framework/redux-config.php:1073
+#, fuzzy
+msgid "Enable Size Guide"
+msgstr "راهنمای اندازه را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1079
+#, fuzzy
+msgid "Size Guide Title"
+msgstr "عنوان راهنمای اندازه"
+
+#: inc/vendors/redux-framework/redux-config.php:1081
+#, fuzzy
+msgid "Size chart"
+msgstr "جدول سایزبندیها"
+
+#: inc/vendors/redux-framework/redux-config.php:1086
+#, fuzzy
+msgid "Size Guide Icon"
+msgstr "نماد راهنمای اندازه"
+
+#: inc/vendors/redux-framework/redux-config.php:1104
+#, fuzzy
+msgid "Sticky Menu Bar"
+msgstr "نوار منوی مهم"
+
+#: inc/vendors/redux-framework/redux-config.php:1105
+#, fuzzy
+msgid "Enable/disable Sticky Menu Bar"
+msgstr "Sticky Menu Bar را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1111
+#, fuzzy
+msgid "Zoom inner image"
+msgstr "تصویر داخلی را بزرگنمایی کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1112
+#, fuzzy
+msgid "Enable/disable Zoom inner Image"
+msgstr "بزرگنمایی تصویر داخلی را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1123
+#, fuzzy
+msgid "Featured Video Aspect Ratio"
+msgstr "نسبت تصویر ویژه"
+
+#: inc/vendors/redux-framework/redux-config.php:1124
+#, fuzzy
+msgid "Choose the aspect ratio for your video"
+msgstr "نسبت ابعاد ویدیوی خود را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1130
+#, fuzzy
+msgid "Featured Video Position"
+msgstr "موقعیت ویدئویی ویژه"
+
+#: inc/vendors/redux-framework/redux-config.php:1134
+#, fuzzy
+msgid "The last product gallery"
+msgstr "آخرین گالری محصولات"
+
+#: inc/vendors/redux-framework/redux-config.php:1135
+#, fuzzy
+msgid "The first product gallery"
+msgstr "اولین گالری محصولات"
+
+#: inc/vendors/redux-framework/redux-config.php:1506
+#, fuzzy
+msgid "Social Share"
+msgstr "اشتراک اجتماعی"
+
+#: inc/vendors/redux-framework/redux-config.php:1147
+#, fuzzy
+msgid "Enable/disable Social Share"
+msgstr "اشتراک اجتماعی را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1153
+#, fuzzy
+msgid "Product Review Tab"
+msgstr "برگه بررسی محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:1154
+#, fuzzy
+msgid "Enable/disable Review Tab"
+msgstr "فعال کردن / غیرفعال کردن برگه مرور"
+
+#: inc/vendors/redux-framework/redux-config.php:1160
+#, fuzzy
+msgid "Products Releated"
+msgstr "محصولات عرضه شده"
+
+#: inc/vendors/redux-framework/redux-config.php:1161
+#, fuzzy
+msgid "Enable/disable Products Releated"
+msgstr "محصولات عرضه شده را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1167
+#, fuzzy
+msgid "Products upsells"
+msgstr "محصولات افزایش می یابد"
+
+#: inc/vendors/redux-framework/redux-config.php:1168
+#, fuzzy
+msgid "Enable/disable Products upsells"
+msgstr "طغیان محصولات را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1174
+#, fuzzy
+msgid "Display Countdown time "
+msgstr "نمایش زمان شمارش معکوس"
+
+#: inc/vendors/redux-framework/redux-config.php:1180
+#, fuzzy
+msgid "Number Images Thumbnail to show"
+msgstr "تصویر کوچک تصاویر برای نمایش"
+
+#: inc/vendors/redux-framework/redux-config.php:1189
+#, fuzzy
+msgid "Number of related products to show"
+msgstr "تعداد محصولات مرتبط برای نمایش"
+
+#: inc/vendors/redux-framework/redux-config.php:1198
+#, fuzzy
+msgid "Releated Products Columns"
+msgstr "ستون محصولات منتشر شده"
+
+#: inc/vendors/redux-framework/redux-config.php:1205
+#, fuzzy
+msgid "HTML before Add To Cart button (Global)"
+msgstr "دکمه HTML قبل از افزودن به سبد خرید (جهانی)"
+
+#: inc/vendors/redux-framework/redux-config.php:1206
+#, fuzzy
+msgid "Enter HTML and shortcodes that will show before Add to cart selections."
+msgstr ""
+"HTML و کد کوتاهی را که قبل از انتخاب به سبد خرید اضافه می شوند وارد کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:1211
+#, fuzzy
+msgid "HTML after Add To Cart button (Global)"
+msgstr "HTML بعد از دکمه افزودن به سبد خرید (جهانی)"
+
+#: inc/vendors/redux-framework/redux-config.php:1212
+#, fuzzy
+msgid "Enter HTML and shortcodes that will show after Add to cart button."
+msgstr ""
+"HTML و کد کوتاهی را که بعد از دکمه افزودن به سبد خرید نشان داده می شوند ، "
+"وارد کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:1221
+#, fuzzy
+msgid "Other page"
+msgstr "صفحه دیگر"
+
+#: inc/vendors/redux-framework/redux-config.php:1226
+#, fuzzy
+msgid "Show Password Strength Meter"
+msgstr "نمایش قدرت سنجش رمز عبور"
+
+#: inc/vendors/redux-framework/redux-config.php:1227
+#, fuzzy
+msgid "Enable or disable in page My Account"
+msgstr "در صفحه حساب من فعال یا غیرفعال شود"
+
+#: inc/vendors/redux-framework/redux-config.php:1233
+#, fuzzy
+msgid "Show Image Product"
+msgstr "نمایش محصول"
+
+#: inc/vendors/redux-framework/redux-config.php:1234
+#, fuzzy
+msgid "Enable or disable \"Image Product\" in page Checkout"
+msgstr "\"Image Image\" را در صفحه Checkout فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1240
+#, fuzzy
+msgid "Checkout Optimized"
+msgstr "پرداخت بهینه شده است"
+
+#: inc/vendors/redux-framework/redux-config.php:1241
+#, fuzzy
+msgid "Remove \"Header\" and \"Footer\" in page Checkout"
+msgstr "\"Header\" و \"Footer\" را در صفحه Checkout حذف کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1248
+#, fuzzy
+msgid "Upload Logo in page Checkout"
+msgstr "بارگذاری آرم در صفحه پرداخت"
+
+#: inc/vendors/redux-framework/redux-config.php:1283
+#, fuzzy
+msgid "Select Breadcrumb Blog Layout"
+msgstr "طرح وبلاگ Breadcrumb را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1284
+#, fuzzy
+msgid "Only works on blog archiver"
+msgstr "فقط در بایگانی وبلاگ کار می کند"
+
+#: inc/vendors/redux-framework/redux-config.php:1314
+#, fuzzy
+msgid "Image File (.png or .jpg)"
+msgstr "پرونده تصویر (.png یا .jpg)"
+
+#: inc/vendors/redux-framework/redux-config.php:1325
+#, fuzzy
+msgid "Enable Previous Page Button"
+msgstr "دکمه صفحه قبلی را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1334
+#, fuzzy
+msgid "Blog Article"
+msgstr "مقاله وبلاگ"
+
+#: inc/vendors/redux-framework/redux-config.php:1340
+#, fuzzy
+msgid "Blog Layout"
+msgstr "طرح وبلاگ"
+
+#: inc/vendors/redux-framework/redux-config.php:1343
+#, fuzzy
+msgid "Articles"
+msgstr "مقالات"
+
+#: inc/vendors/redux-framework/redux-config.php:1347
+#, fuzzy
+msgid "Articles - Left Sidebar"
+msgstr "مقالات - نوار کناری سمت چپ"
+
+#: inc/vendors/redux-framework/redux-config.php:1351
+#, fuzzy
+msgid "Articles - Right Sidebar"
+msgstr "مقالات - نوار کناری سمت راست"
+
+#: inc/vendors/redux-framework/redux-config.php:1368
+#, fuzzy
+msgid "Post Column"
+msgstr "ستون ارسال"
+
+#: inc/vendors/redux-framework/redux-config.php:1380
+#, fuzzy
+msgid "Layout Blog"
+msgstr "طرح وبلاگ"
+
+#: inc/vendors/redux-framework/redux-config.php:1382
+#, fuzzy
+msgid "Post Style 1"
+msgstr "ارسال سبک 1"
+
+#: inc/vendors/redux-framework/redux-config.php:1383
+#, fuzzy
+msgid "Post Style 2"
+msgstr "ارسال سبک 2"
+
+#: inc/vendors/redux-framework/redux-config.php:1390
+#, fuzzy
+msgid "Post Image Size"
+msgstr "اندازه تصویر ارسال"
+
+#: inc/vendors/redux-framework/redux-config.php:1415
+#, fuzzy
+msgid "Comment"
+msgstr "اظهار نظر"
+
+#: inc/vendors/redux-framework/redux-config.php:1421
+#, fuzzy
+msgid "Comment Text"
+msgstr "متن نظر"
+
+#: inc/vendors/redux-framework/redux-config.php:1428
+#, fuzzy
+msgid "Short descriptions"
+msgstr "توضیحات کوتاه"
+
+#: inc/vendors/redux-framework/redux-config.php:1440
+#, fuzzy
+msgid "Button \"Read more\" Custom Text"
+msgstr "دکمه \"بیشتر بخوانید\" متن سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:1450
+#, fuzzy
+msgid "Single Blog"
+msgstr "وبلاگ تنها"
+
+#: inc/vendors/redux-framework/redux-config.php:1457
+#, fuzzy
+msgid "Blog Single Layout"
+msgstr "چیدمان وبلاگ"
+
+#: inc/vendors/redux-framework/redux-config.php:1460
+#, fuzzy
+msgid "Main Only"
+msgstr "فقط اصلی"
+
+#: inc/vendors/redux-framework/redux-config.php:1477
+#, fuzzy
+msgid "Single Blog Sidebar"
+msgstr "نوار کناری وبلاگ تنها"
+
+#: inc/vendors/redux-framework/redux-config.php:1485
+#, fuzzy
+msgid "Show Social Share"
+msgstr "نمایش اشتراک اجتماعی"
+
+#: inc/vendors/redux-framework/redux-config.php:1493
+#, fuzzy
+msgid "Page 404"
+msgstr "صفحه 404"
+
+#: inc/vendors/redux-framework/redux-config.php:1498
+#, fuzzy
+msgid "Upload Image 404"
+msgstr "تصویر 404 را بارگذاری کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1511
+#, fuzzy
+msgid "Enable Code Share"
+msgstr "اشتراک گذاری کد را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1517
+#, fuzzy
+msgid "Please select a sharing type"
+msgstr "لطفاً نوع اشتراک گذاری را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1529
+#, fuzzy
+msgid "\"Addthis\" Your Code"
+msgstr "کد شما را \"اضافه کنید\""
+
+#: inc/vendors/redux-framework/redux-config.php:1530
+#, fuzzy
+msgid "You get your code share in https://www.addthis.com"
+msgstr "اشتراک کد خود را در https://www.addthis.com دریافت می کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1538
+#, fuzzy
+msgid "Sortable Sharing"
+msgstr "اشتراک گذاری قابل مرتب سازی"
+
+#: inc/vendors/redux-framework/redux-config.php:1568
+#, fuzzy
+msgid "Performance"
+msgstr "کارایی"
+
+#: inc/vendors/redux-framework/redux-config.php:1573
+#, fuzzy
+msgid "Include minified JS"
+msgstr "JS کوچک شده را وارد کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1574
+#, fuzzy
+msgid "Minified version of functions.js and device.js file will be loaded"
+msgstr "نسخه کم شده فایل functions.js و device.js بارگیری می شود"
+
+#: inc/vendors/redux-framework/redux-config.php:1583
+#, fuzzy
+msgid "Preloader"
+msgstr "پیش بارگذار"
+
+#: inc/vendors/redux-framework/redux-config.php:1588
+#, fuzzy
+msgid "Preload Website"
+msgstr "وب سایت پیش بارگیری کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1595
+#, fuzzy
+msgid "Select Preloader"
+msgstr "Preloader را انتخاب کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1596
+msgid "Choose a Preloader for your website."
+msgstr "پیش نمایش را برای وب سایت خود انتخاب کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:1600
+#, fuzzy
+msgid "Loader 1"
+msgstr "لودر 1"
+
+#: inc/vendors/redux-framework/redux-config.php:1604
+#, fuzzy
+msgid "Loader 2"
+msgstr "لودر 2"
+
+#: inc/vendors/redux-framework/redux-config.php:1608
+#, fuzzy
+msgid "Loader 3"
+msgstr "لودر 3"
+
+#: inc/vendors/redux-framework/redux-config.php:1612
+#, fuzzy
+msgid "Loader 4"
+msgstr "لودر 4"
+
+#: inc/vendors/redux-framework/redux-config.php:1616
+#, fuzzy
+msgid "Loader 5"
+msgstr "لودر 5"
+
+#: inc/vendors/redux-framework/redux-config.php:1620
+#, fuzzy
+msgid "Loader 6"
+msgstr "لودر 6"
+
+#: inc/vendors/redux-framework/redux-config.php:1624
+#, fuzzy
+msgid "Custom image"
+msgstr "تصویر سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:1634
+#, fuzzy
+msgid "Upload preloader image"
+msgstr "تصویر پیش بارگذار را بارگذاری کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1635
+#, fuzzy
+msgid "Image File (.gif)"
+msgstr "پرونده تصویر (.gif)"
+
+#: inc/vendors/redux-framework/redux-config.php:1636
+#, fuzzy
+msgid ""
+"You can download some the Gif images <a target=\"_blank\" href=\"%1$s\">"
+"here</a>."
+msgstr ""
+"می توانید برخی از تصاویر Gif را از <a target=\"_blank\" href=\"%1$s\">"
+"اینجا</a> بارگیری کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:1644
+#, fuzzy
+msgid "Custom CSS/JS"
+msgstr "CSS / JS سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:1650
+#, fuzzy
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:1653
+#, fuzzy
+msgid "Global Custom CSS"
+msgstr "CSS سفارشی جهانی"
+
+#: inc/vendors/redux-framework/redux-config.php:1659
+#, fuzzy
+msgid "Custom CSS for desktop"
+msgstr "CSS سفارشی برای دسک تاپ"
+
+#: inc/vendors/redux-framework/redux-config.php:1665
+#, fuzzy
+msgid "Custom CSS for tablet"
+msgstr "CSS سفارشی برای رایانه لوحی"
+
+#: inc/vendors/redux-framework/redux-config.php:1671
+#, fuzzy
+msgid "Custom CSS for mobile landscape"
+msgstr "CSS سفارشی برای چشم انداز تلفن همراه"
+
+#: inc/vendors/redux-framework/redux-config.php:1677
+#, fuzzy
+msgid "Custom CSS for mobile"
+msgstr "CSS سفارشی برای موبایل"
+
+#: inc/vendors/redux-framework/redux-config.php:1688
+#, fuzzy
+msgid "Custom Js"
+msgstr "Js سفارشی"
+
+#: inc/vendors/redux-framework/redux-config.php:1691
+#, fuzzy
+msgid "Header JavaScript Code"
+msgstr "سربرگ کد جاوا اسکریپت"
+
+#: inc/vendors/redux-framework/redux-config.php:1692
+#, fuzzy
+msgid ""
+"Paste your custom JS code here. The code will be added to the header of your "
+"site."
+msgstr ""
+"کد JS سفارشی خود را در اینجا جای گذاری کنید. کد به عنوان سایت شما اضافه "
+"خواهد شد."
+
+#: inc/vendors/redux-framework/redux-config.php:1699
+msgid "Footer JavaScript Code"
+msgstr "فوتر کد جاوا اسکریپت"
+
+#: inc/vendors/redux-framework/redux-config.php:1700
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+"در اینجا مکانی برای جایگذاری کد Google Analytics یا هر کد JS دیگری است که "
+"ممکن است بخواهید اضافه کنید تا در فوتر صفحه وب سایت شما بارگیری شود."
+
+#: inc/vendors/redux-framework/redux-config.php:1711
+msgid "Import / Export"
+msgstr "ایمپورت / صادرات"
+
+#: inc/vendors/redux-framework/redux-config.php:1712
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+"تنظیمات Redux Framework خود را از پرونده ، متن یا URL ایمپورت کرده و صادر "
+"کنید."
+
+#: inc/vendors/redux-framework/redux-config.php:1737
+#, fuzzy
+msgid "Enable Vendor Name Only WCMP Vendor"
+msgstr "فقط نام فروشنده WCMP فروشنده را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1738
+#, fuzzy
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Setting</a> Enable \"Sold by\" "
+"for WCMP Vendor"
+msgstr ""
+"به <a href=\"%s\" target=\"_blank\">Setting</a> Enable &quot;Sold by&quot; "
+"برای فروشنده WCMP بروید"
+
+#: inc/vendors/redux-framework/redux-config.php:1746
+#, fuzzy
+msgid "Enable Vendor Name"
+msgstr "نام فروشنده را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1747
+#, fuzzy
+msgid ""
+"Enable/Disable Vendor Name on HomePage and Shop page only works for Dokan, "
+"WCMP Vendor"
+msgstr ""
+"فعال کردن / غیرفعال کردن نام فروشنده در صفحه اصلی و صفحه فروشگاه فقط برای "
+"Dokan ، فروشنده WCMP کار می کند"
+
+#: inc/vendors/redux-framework/redux-config.php:1764
+#, fuzzy
+msgid "Enable Tab Info Vendor Dokan"
+msgstr "فروشنده اطلاعات اطلاعات Dokan را فعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1765
+#, fuzzy
+msgid "Enable/Disable tab Info Vendor on Product Detail Dokan"
+msgstr "فعال کردن / غیرفعال کردن زبانه اطلاعات فروشنده در جزئیات محصول Dokan"
+
+#: inc/vendors/redux-framework/redux-config.php:1771
+#, fuzzy
+msgid "Enable/Disable Tab Products Seller"
+msgstr "فروشنده محصولات تب را فعال یا غیرفعال کنید"
+
+#: inc/vendors/redux-framework/redux-config.php:1772
+#, fuzzy
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Setting</a> of each Seller to "
+"Enable/Disable this tab of Dokan Vendor."
+msgstr ""
+"برای فعال یا غیرفعال کردن این برگه فروشنده Dokan ، به <a href=\"%s\" "
+"target=\"_blank\">تنظیمات هر فروشنده بروید.</a>"
+
+#: inc/vendors/redux-framework/redux-config.php:1777
+#, fuzzy
+msgid "Dokan Number of Products Seller Tab"
+msgstr "برگه تعداد فروشندگان دوکان"
+
+#: inc/vendors/redux-framework/redux-config.php:1786
+#, fuzzy
+msgid "Dokan Product Columns Seller Tab"
+msgstr "برگه فروشنده ستون های محصول Dokan"
+
+#: inc/vendors/redux-framework/redux-config.php:1805
+#, fuzzy
+msgid "Multi-vendor"
+msgstr "چند فروشنده"
+
+#: inc/vendors/redux-framework/redux-config.php:1837
+#, fuzzy
+msgid "Version "
+msgstr "نسخه"
+
+#: inc/vendors/woocommerce/wc-admin.php:10
+msgid "Zota Options"
+msgstr "تنظیمات زوتا"
+
+#: inc/vendors/woocommerce/classes/class-wc-shop.php:330
+#, fuzzy
+msgid " Sold: "
+msgstr " فروخته شده:"
+
+#: inc/vendors/woocommerce/classes/class-wc-single.php:936
+#, fuzzy
+msgid "Buy Now"
+msgstr "هم اکنون خریداری کنید"
+
+#: inc/vendors/woocommerce/classes/class-wc-single.php:340
+#, fuzzy
+msgid "Images from customers:"
+msgstr "تصاویر از مشتریان:"
+
+#: inc/vendors/woocommerce/classes/class-wc-single.php:491
+msgid "Deal will end soon! Only %s left"
+msgstr "معامله به زودی پایان می یابد! فقط %s باقی مانده است"
+
+#: inc/vendors/woocommerce/classes/class-wc-single.php:746
+#, fuzzy
+msgid "Clear all"
+msgstr "همه را پاک کن"
+
+#: inc/vendors/woocommerce/classes/class-wc-single.php:835
+#, fuzzy
+msgid "Sold: "
+msgstr "فروخته شده:"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:621
+#, fuzzy
+msgid "Add to cart"
+msgstr "افزودن به سبد خرید"
+
+#: inc/vendors/woocommerce/classes/class-wc-single.php:962
+#, fuzzy
+msgid "Choose an option "
+msgstr "گزینه ای را انتخاب کنید"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:230
+#, fuzzy
+msgid "Product Archive Sidebar Top"
+msgstr "بایگانی محصولات نوار کناری بالا"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:232
+#, fuzzy
+msgid "Add widgets here to appear in only shop page."
+msgstr "ابزارک ها را اینجا اضافه کنید تا فقط در صفحه فروشگاه ظاهر شوند."
+
+#: inc/vendors/woocommerce/classes/class-wc.php:239
+#, fuzzy
+msgid "Product Archive Sidebar Bottom"
+msgstr "بایگانی محصول پایین نوار کناری"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:241
+#, fuzzy
+msgid "Add widgets here to appear in bottom product archive."
+msgstr "ابزارک ها را اینجا اضافه کنید تا در بایگانی محصول پایین ظاهر شود."
+
+#: inc/vendors/woocommerce/classes/class-wc.php:248
+#, fuzzy
+msgid "Product Archive Sidebar"
+msgstr "نوار کناری بایگانی محصول"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:250
+#, fuzzy
+msgid "Add widgets here to appear in Product archive left, right sidebar."
+msgstr ""
+"ابزارک ها را اینجا اضافه کنید تا در بایگانی محصول در نوار کناری سمت چپ ، سمت "
+"راست ظاهر شود."
+
+#: inc/vendors/woocommerce/classes/class-wc.php:257
+#, fuzzy
+msgid "Product Single Sidebar"
+msgstr "نوار کناری محصول واحد"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:259
+msgid "Add widgets here to appear in Product single left, right sidebar."
+msgstr ""
+"ابزارک ها را اینجا اضافه کنید تا محصول تکی در نوار کناری سمت چپ و راست ظاهر "
+"شوند."
+
+#: inc/vendors/woocommerce/classes/class-wc.php:295
+#, fuzzy
+msgid "Hello!"
+msgstr "سلام!"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:309
+#, fuzzy
+msgid "View wishlist"
+msgstr "مشاهده لیست آرزوها"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:327
+#, fuzzy
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: inc/vendors/woocommerce/classes/class-wc.php:484
+#, fuzzy
+msgid "Addresses"
+msgstr "آدرس ها"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:485
+#, fuzzy
+msgid "Payment methods"
+msgstr "روش های پرداخت"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:486
+#, fuzzy
+msgid "Account details"
+msgstr "جزئیات حساب"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:487
+#, fuzzy
+msgid "Logout"
+msgstr "خروج"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:625
+#, fuzzy
+msgid "Select options"
+msgstr "گزینه مورد نظر را انتخاب کنید"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:633
+#, fuzzy
+msgid "Or connect with"
+msgstr "یا با ارتباط برقرار کنید"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:639
+#, fuzzy
+msgid "Or login with"
+msgstr "یا با آن وارد شوید"
+
+#: woocommerce/wishlist-view.php:146
+#, fuzzy
+msgid "Out of stock"
+msgstr "تمام شده"
+
+#: inc/vendors/woocommerce/classes/class-wc.php:700
+#, fuzzy
+msgid "Tagged: \""
+msgstr "برچسب خورده: \""
+
+#: inc/vendors/woocommerce/classes/class-wc.php:717
+#, fuzzy
+msgid "shop"
+msgstr "خرید"
+
+#: inc/vendors/woocommerce/compatible/wcmp_vendor.php:10
+#, fuzzy
+msgid "Are you a vendor? <a href=\"%s\">Register here.</a>"
+msgstr "آیا شما فروشنده هستید؟ <a href=\"%s\">اینجا ثبت نام کنید.</a>"
+
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:57
+#, fuzzy
+msgid "Vendor:"
+msgstr "فروشنده:"
+
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:130
+#, fuzzy
+msgid "Vendor Info"
+msgstr "اطلاعات فروشنده"
+
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:157
+#, fuzzy
+msgid "More Products"
+msgstr "محصولات بیشتر"
+
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:193
+#, fuzzy
+msgid "More Products From This Vendor"
+msgstr "محصولات بیشتر از این فروشنده"
+
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:209
+#, fuzzy
+msgid "No product has been found!"
+msgstr "هیچ محصولی پیدا نشده است!"
+
+#. translators: %d: total results
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:239
+#, fuzzy
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "نمایش نتیجه واحد"
+msgstr[1] "نمایش همه٪ d نتیجه"
+
+#. translators: 1: first result 2: last result 3: total results
+#: inc/vendors/woocommerce/compatible/wc-dokan.php:244
+#, fuzzy
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "نمایش نتیجه واحد"
+msgstr[1] "نمایش٪ 1 $ d–٪ 2 $ d از٪ 3 $ d نتیجه"
+
+#: inc/vendors/woocommerce/compatible/wcfm_multivendor.php:147
+#, fuzzy
+msgid "Product Filter"
+msgstr "فیلتر محصول"
+
+#: inc/vendors/woocommerce/compatible/wcmp_vendor.php:47
+#, fuzzy
+msgid "Sold by:"
+msgstr "فروخته شده توسط:"
+
+#: inc/vendors/woocommerce/compatible/wcmp_vendor.php:110
+#, fuzzy
+msgid "WC Marketplace Store Sidebar "
+msgstr "نوار کناری فروشگاه WC Marketplace"
+
+#: inc/vendors/woocommerce/wc-admin.php:34
+#, fuzzy
+msgid "Featured Video URL"
+msgstr "URL ویدیوی ویژه"
+
+#: inc/vendors/woocommerce/wc-admin.php:35
+#, fuzzy
+msgid "Video URL"
+msgstr "URL ویدیو"
+
+#: inc/vendors/woocommerce/wc-admin.php:37
+#, fuzzy
+msgid "Enter the video url at https://vimeo.com/ or https://www.youtube.com/"
+msgstr ""
+"آدرس اینترنتی ویدیو را در https://vimeo.com/ یا https://www.youtube.com/ "
+"وارد کنید"
+
+#: inc/vendors/woocommerce/wc-admin.php:47
+#, fuzzy
+msgid "Select Custom Tab"
+msgstr "برگه سفارشی را انتخاب کنید"
+
+#: inc/vendors/woocommerce/wc-admin.php:57
+#, fuzzy
+msgid "Custom Tab priority"
+msgstr "اولویت Tab Custom"
+
+#: inc/vendors/woocommerce/wc-admin.php:60
+#, fuzzy
+msgid "Description – 10, </br>Additional information – 20, </br>Reviews – 30"
+msgstr "توضیحات - 10 ، </br> اطلاعات اضافی - 20 ، </br> نظرات - 30"
+
+#: inc/vendors/woocommerce/wc-admin.php:270
+#, fuzzy
+msgid "Remove product image"
+msgstr "تصویر محصول را حذف کنید"
+
+#: inc/vendors/woocommerce/wc-admin.php:270
+#, fuzzy
+msgid "Add Images to Product Size Guide"
+msgstr "تصاویر را به راهنمای اندازه محصول اضافه کنید"
+
+#: inc/vendors/woocommerce/wc-admin.php:270
+#, fuzzy
+msgid "Add to image"
+msgstr "افزودن به تصویر"
+
+#: inc/vendors/woocommerce/wc-admin.php:270
+#, fuzzy
+msgid "Delete image"
+msgstr "حذف تصویر"
+
+#: inc/vendors/woocommerce/wc-admin.php:270
+#, fuzzy
+msgid "Add product Size Guide view images"
+msgstr "اضافه کردن راهنمای اندازه محصول مشاهده تصاویر"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:972
+#, fuzzy
+msgid "Compare"
+msgstr "مقایسه کنید"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:1042
+#, fuzzy
+msgid "Deal ended"
+msgstr "معامله تمام شد"
+
+#: inc/widgets/top_rate.php:76
+#, fuzzy
+msgid "days"
+msgstr "روزها"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:1068
+#, fuzzy
+msgid "hours"
+msgstr "ساعت ها"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:1069
+#, fuzzy
+msgid "mins"
+msgstr "دقیقه"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:1070
+#, fuzzy
+msgid "secs"
+msgstr "ثانیه"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:1369
+#, fuzzy
+msgid "Sold"
+msgstr "فروخته شده"
+
+#: inc/vendors/woocommerce/wc-template-functions.php:1166
+#, fuzzy
+msgid "Quick View"
+msgstr "مشاهده سریع"
+
+#: inc/widgets/top_rate.php:54
+#, fuzzy
+msgid "Sort by:"
+msgstr "مرتب سازی بر اساس:"
+
+#: inc/widgets/custom_menu.php:9
+msgid "Zota Custom Menu"
+msgstr "منوی سفارشی زوتا"
+
+#: inc/widgets/custom_menu.php:10
+#, fuzzy
+msgid "Show custom menu"
+msgstr "نمایش منوی سفارشی"
+
+#: inc/widgets/woo-carousel.php:116
+#, fuzzy
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/widgets/custom_menu.php:47
+#, fuzzy
+msgid "Menu:"
+msgstr "منو:"
+
+#: inc/widgets/list-categories.php:9
+msgid "Zota Woo List Categories"
+msgstr "دسته بندی های لیست ووکامرس زوتا"
+
+#: inc/widgets/list-categories.php:10
+#, fuzzy
+msgid "Show list categories"
+msgstr "نمایش دسته های لیست"
+
+#: inc/widgets/list-categories.php:83
+#, fuzzy
+msgid "Number of categories to show:"
+msgstr "تعداد دسته ها برای نمایش:"
+
+#: inc/widgets/woo-carousel.php:302
+#, fuzzy
+msgid "Columns:"
+msgstr "ستون ها:"
+
+#: inc/widgets/woo-carousel.php:330
+#, fuzzy
+msgid "No choose columns product found "
+msgstr "محصول ستون انتخابی یافت نشد"
+
+#: inc/widgets/list-categories.php:124
+#, fuzzy
+msgid "Columns screen desktop:"
+msgstr "دسک تاپ صفحه ستون ها:"
+
+#: inc/widgets/list-categories.php:152
+#, fuzzy
+msgid "No choose columns desktop product found "
+msgstr "محصول دسک تاپ ستون های انتخابی یافت نشد"
+
+#: inc/widgets/woo-carousel.php:337
+#, fuzzy
+msgid "Columns screen desktop small:"
+msgstr "دسک تاپ صفحه ستون ها کوچک:"
+
+#: inc/widgets/woo-carousel.php:365
+#, fuzzy
+msgid "No choose columns desktop small product found "
+msgstr "محصول کوچک دسک تاپ ستونها را پیدا نکردید"
+
+#: inc/widgets/woo-carousel.php:372
+#, fuzzy
+msgid "Columns screen tablet:"
+msgstr "رایانه لوحی صفحه ستون ها:"
+
+#: inc/widgets/woo-carousel.php:435
+#, fuzzy
+msgid "No choose columns table product found "
+msgstr "محصول جدول ستونها یافت نشد"
+
+#: inc/widgets/woo-carousel.php:407
+#, fuzzy
+msgid "Columns screen mobile:"
+msgstr "صفحه ستون تلفن همراه:"
+
+#: inc/widgets/popular_posts.php:8
+msgid "Zota Popular Posts"
+msgstr "پست های محبوب زوتا"
+
+#: inc/widgets/popular_posts.php:9
+#, fuzzy
+msgid "Show list of popular posts"
+msgstr "نمایش لیست پست های محبوب"
+
+#: inc/widgets/recent_post.php:51
+#, fuzzy
+msgid "Num Posts:"
+msgstr "تعداد ارسال ها:"
+
+#: inc/widgets/popup_newsletter.php:8
+msgid "Zota Popup Newsletter"
+msgstr "پنجره  خبرنامه زوتا"
+
+#: inc/widgets/popup_newsletter.php:9
+#, fuzzy
+msgid "Show Popup Newsletter"
+msgstr "نمایش خبرنامه پنجره بازشو"
+
+#: inc/widgets/single_image.php:43
+#, fuzzy
+msgid "Description:"
+msgstr "شرح:"
+
+#: inc/widgets/single_image.php:47
+#, fuzzy
+msgid "Image:"
+msgstr "تصویر:"
+
+#: inc/widgets/socials.php:47
+#, fuzzy
+msgid "Select socials:"
+msgstr "موارد اجتماعی را انتخاب کنید:"
+
+#: inc/widgets/socials.php:58
+#, fuzzy
+msgid "Show "
+msgstr "نشان دادن"
+
+#: inc/widgets/socials.php:68
+#, fuzzy
+msgid "Page URL:"
+msgstr "آدرس صفحه:"
+
+#: inc/widgets/posts.php:10
+msgid "Zota Posts"
+msgstr "پست های زوتا"
+
+#: inc/widgets/posts.php:12
+#, fuzzy
+msgid "Grid post widget"
+msgstr "ابزارک ارسال شبکه"
+
+#: inc/widgets/posts.php:50
+#, fuzzy
+msgid "Posts:"
+msgstr "نوشته ها:"
+
+#: inc/widgets/recent_comment.php:8
+msgid "Zota Recent Comments"
+msgstr "دیدگاه های اخیر زوتا"
+
+#: inc/widgets/recent_comment.php:9
+#, fuzzy
+msgid "Show list of recent comments"
+msgstr "نمایش لیست نظرات اخیر"
+
+#: inc/widgets/recent_comment.php:26
+#, fuzzy
+msgid "Latest Post"
+msgstr "آخرین پست"
+
+#: inc/widgets/recent_comment.php:41
+#, fuzzy
+msgid "Num Comments:"
+msgstr "نظرات Num:"
+
+#: inc/widgets/recent_post.php:8
+msgid "Zota Recent Posts"
+msgstr "آخرین پست های زوتا"
+
+#: inc/widgets/recent_post.php:9
+#, fuzzy
+msgid "Show list of recent post"
+msgstr "نمایش لیست پست های اخیر"
+
+#: inc/widgets/recent_post.php:39
+#, fuzzy
+msgid "Type:"
+msgstr "نوع:"
+
+#: inc/widgets/single_image.php:8
+msgid "Zota Single Image"
+msgstr "تصویر تکی زوتا"
+
+#: inc/widgets/single_image.php:9
+#, fuzzy
+msgid "Show single image"
+msgstr "نمایش تک تصویر"
+
+#: inc/widgets/single_image.php:60
+#, fuzzy
+msgid "Alt:"
+msgstr "Alt:"
+
+#: inc/widgets/socials.php:8
+msgid "Zota Socials"
+msgstr "شبکه های اجتماعی زوتا"
+
+#: inc/widgets/socials.php:9
+#, fuzzy
+msgid "Socials for website."
+msgstr "اجتماعی برای وب سایت."
+
+#: inc/widgets/template_elementor.php:9
+msgid "Zota Template Elementor"
+msgstr "الگوی المنتور زوتا"
+
+#: inc/widgets/template_elementor.php:11
+#, fuzzy
+msgid "Embed your saved elements"
+msgstr "عناصر ذخیره شده خود را وارد کنید"
+
+#: inc/widgets/template_elementor.php:83
+#, fuzzy
+msgid "Edit Template"
+msgstr "ویرایش الگو"
+
+#: inc/widgets/top_rate.php:12
+msgid "Zota Top Rate"
+msgstr "بالاترین رتبه ی زوتا"
+
+#: inc/widgets/top_rate.php:14
+#, fuzzy
+msgid "The highest rated posts on your site"
+msgstr "بالاترین امتیاز در سایت شما"
+
+#: inc/widgets/top_rate.php:45
+#, fuzzy
+msgid "Get most rated:"
+msgstr "بیشترین امتیاز را کسب کنید:"
+
+#: inc/widgets/top_rate.php:56
+#, fuzzy
+msgid "Overall bayesian rating (score)"
+msgstr "رتبه بندی کلی بیزی (نمره)"
+
+#: inc/widgets/top_rate.php:57
+#, fuzzy
+msgid "Average rating"
+msgstr "میانگین امتیاز"
+
+#: inc/widgets/top_rate.php:58
+#, fuzzy
+msgid "Number of votes"
+msgstr "تعداد آرا"
+
+#: inc/widgets/top_rate.php:65
+#, fuzzy
+msgid "Descending"
+msgstr "نزولی"
+
+#: inc/widgets/top_rate.php:70
+#, fuzzy
+msgid "Ascending"
+msgstr "صعودی"
+
+#: inc/widgets/top_rate.php:75
+#, fuzzy
+msgid "Ignore posts older than:"
+msgstr "نادیده گرفتن پست های قدیمی تر از:"
+
+#: inc/widgets/top_rate.php:78
+#, fuzzy
+msgid "(0 to ignore date)"
+msgstr "(0 برای چشم پوشی از تاریخ)"
+
+#: inc/widgets/top_rate.php:82
+#, fuzzy
+msgid "Limit:"
+msgstr "حد:"
+
+#: inc/widgets/video.php:10
+msgid "Zota Featured Video"
+msgstr "ویدئو ویژگی های زوتا"
+
+#: inc/widgets/video.php:12
+#, fuzzy
+msgid "Show Featured video"
+msgstr "نمایش فیلم ویژه"
+
+#: inc/widgets/video.php:40
+#, fuzzy
+msgid "Video link:"
+msgstr "لینک ویدیو:"
+
+#: inc/widgets/video.php:44
+#, fuzzy
+msgid ""
+"Support video from Youtube and Vimeo link. Ex: https://www.youtube.com/watch?"
+"v=sd0grLQ4voU"
+msgstr ""
+"فیلم پشتیبانی از لینک یوتیوب و ویمئو. مثال: https://www.youtube."
+"com/watch؟v=sd0grLQ4voU"
+
+#: inc/widgets/video.php:47
+#, fuzzy
+msgid "Video name:"
+msgstr "نام ویدئو:"
+
+#: inc/widgets/video.php:52
+#, fuzzy
+msgid "Video width:"
+msgstr "عرض فیلم:"
+
+#: inc/widgets/woo-carousel.php:8
+#, fuzzy
+msgid "Zota woocommerce Carousel"
+msgstr "چرخ فلک ووکامرس زوتا"
+
+#: inc/widgets/woo-carousel.php:9
+#, fuzzy
+msgid "Show list product"
+msgstr "نمایش محصول لیست"
+
+#: inc/widgets/woo-carousel.php:144
+#, fuzzy
+msgid "Please select category to show:"
+msgstr "لطفا برای نمایش دسته بندی کنید:"
+
+#: inc/widgets/woo-carousel.php:254
+#, fuzzy
+msgid "No woocommerce category found "
+msgstr "هیچ دسته تجارت جهانی یافت نشد"
+
+#: inc/widgets/woo-carousel.php:261
+#, fuzzy
+msgid "Number of products to show:"
+msgstr "تعداد محصولات برای نمایش:"
+
+#: inc/widgets/woo-carousel.php:267
+#, fuzzy
+msgid "Type Products:"
+msgstr "نوع محصولات:"
+
+#: inc/widgets/woo-carousel.php:295
+#, fuzzy
+msgid "No choose type product found "
+msgstr "هیچ کالای انتخابی یافت نشد"
+
+#: inc/widgets/woo-carousel.php:442
+#, fuzzy
+msgid "Rows:"
+msgstr "ردیف ها:"
+
+#: inc/widgets/woo-carousel.php:470
+#, fuzzy
+msgid "No choose rows product found "
+msgstr "هیچ ردیفی از محصولات یافت نشد"
+
+#: inc/widgets/woo-carousel.php:479
+#, fuzzy
+msgid "Show navigations"
+msgstr "نمایش پیمایش ها"
+
+#: inc/widgets/woo-carousel.php:486
+#, fuzzy
+msgid "Show paginations"
+msgstr "صفحه بندی ها را نشان دهید"
+
+#: inc/widgets/woo-carousel.php:492
+#, fuzzy
+msgid "Show loop"
+msgstr "نمایش حلقه"
+
+#: inc/widgets/woo-carousel.php:498
+#, fuzzy
+msgid "Show auto"
+msgstr "نمایش خودکار"
+
+#: inc/widgets/woo-carousel.php:504
+#, fuzzy
+msgid "Disable mobile"
+msgstr "تلفن همراه را غیرفعال کنید"
+
+#: inc/widgets/yith-brand-image.php:8
+#, fuzzy
+msgid "Zota Product Brand Images"
+msgstr "تصاویر برند محصولات زوتا"
+
+#: inc/widgets/yith-brand-image.php:9
+#, fuzzy
+msgid "Show YITH product brand images(Only applicable to product single pages)"
+msgstr ""
+"نمایش تصاویر تجاری با محصول YITH (فقط برای صفحات منفرد محصول قابل استفاده "
+"است)"
+
+#: page-templates/footer-default.php:35
+msgid ""
+"Copyright &copy; 2021 - Zota. All Rights Reserved. Powered by <a "
+"href=\"//thembay.com\">ThemBay</a>"
+msgstr ""
+"فارسی سازی قالب زوتا. کلیه حقوق محفوظ است طراحی شده توسط <a href=\"//rtl-"
+"theme.com\">راستچین</a>"
+
+#: page-templates/parts/category-menu-canvas.php:7
+#, fuzzy
+msgid "All Departments"
+msgstr "همه بخشها"
+
+#: page-templates/parts/device/productsearchform-mobileheader.php:13
+#, fuzzy
+msgid "All"
+msgstr "همه"
+
+#: page-templates/parts/device/productsearchform-mobileheader.php:19
+#, fuzzy
+msgid "Search for posts..."
+msgstr "جستجوی پست ها ..."
+
+#: page-templates/parts/productsearchform.php:14
+#, fuzzy
+msgid "All categories"
+msgstr "همه دسته بندی ها"
+
+#: page-templates/parts/productsearchform.php:15
+#, fuzzy
+msgid "I&rsquo;m shopping for..."
+msgstr "من برای ..."
+
+#: page-templates/parts/topbar-account.php:22
+#, fuzzy
+msgid "Hi, "
+msgstr "سلام،"
+
+#: page-templates/parts/topbar-account.php:52
+#, fuzzy
+msgid "Login or Register"
+msgstr "ورود یا ثبت نام"
+
+#: post-formats/content.php:86
+#, fuzzy
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: post-formats/content-none.php:14
+#, fuzzy
+msgid "Oops!"
+msgstr "اوه!"
+
+#: post-formats/content-none.php:14
+#, fuzzy
+msgid "Sorry, but your search returned no results!"
+msgstr "متاسفم ولی جستجوی شما هیچ نتیجه ای نداشت!"
+
+#: post-formats/content-none.php:16
+#, fuzzy
+msgid "Try again please, use the search form below."
+msgstr "لطفاً دوباره امتحان کنید ، از فرم جستجو در زیر استفاده کنید."
+
+#: search.php:25
+#, fuzzy
+msgid "Search Results for:"
+msgstr "نتایج جستجو برای:"
+
+#: searchform.php:13
+#, fuzzy
+msgid "Search ..."
+msgstr "جستجو کردن ..."
+
+#: widgets/contact-info.php:35
+#, fuzzy
+msgid "head Office"
+msgstr "دفتر مرکزی"
+
+#: widgets/custom-menu.php:52
+#, fuzzy
+msgid "Not found in custom menu"
+msgstr "در منوی سفارشی یافت نشد"
+
+#: widgets/popup-newsletter.php:11
+#, fuzzy
+msgid "Image Newletter"
+msgstr "خبرنامه"
+
+#: widgets/recent-comment.php:24
+#, fuzzy
+msgid "says"
+msgstr "می گوید"
+
+#: widgets/video.php:18
+#, fuzzy
+msgid "Video error!"
+msgstr "خطای ویدیویی!"
+
+#: woocommerce/cart/cart.php:85
+#, fuzzy
+msgid "Qty"
+msgstr "تعداد"
+
+#: woocommerce/cart/cart.php:103
+#, fuzzy
+msgid "Total"
+msgstr "جمع"
+
+#: woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr "در سفارش دهنده موجود است"
+
+#: woocommerce/cart/mini-cart.php:70
+#, fuzzy
+msgid "Remove this item"
+msgstr "این مورد را بردارید"
+
+#: woocommerce/cart/mini-cart.php:88
+#, fuzzy
+msgid "Continue Shopping"
+msgstr "خرید را ادامه دهید"
+
+#: woocommerce/cart/cart.php:136
+#, fuzzy
+msgid "Update Cart"
+msgstr "به روز رسانی سبد خرید"
+
+#: woocommerce/cart/cart.php:146
+#, fuzzy
+msgid "Coupon Apply"
+msgstr "درخواست کوپن"
+
+#: woocommerce/cart/cart.php:147
+#, fuzzy
+msgid "Enter coupon code here..."
+msgstr "کد کوپن را اینجا وارد کنید ..."
+
+#: woocommerce/cart/cart.php:147
+#, fuzzy
+msgid "Apply"
+msgstr "درخواست دادن"
+
+#: woocommerce/cart/cross-sells.php:42
+#, fuzzy
+msgid "You may be interested in&hellip;"
+msgstr "ممکن است به ..."
+
+#: woocommerce/cart/mini-cart-button.php:9
+#, fuzzy
+msgid "View your shopping cart"
+msgstr "سبد خرید خود را مشاهده کنید"
+
+#: woocommerce/cart/mini-cart.php:87
+#, fuzzy
+msgid "Your cart is empty"
+msgstr "سبد خرید شما خالی است"
+
+#: woocommerce/cart/mini-cart.php:109
+#, fuzzy
+msgid "View Cart"
+msgstr "مشاهده سبد خرید"
+
+#: woocommerce/checkout/form-checkout.php:31
+#, fuzzy
+msgid "You must be logged in to checkout."
+msgstr "برای تسویه حساب باید وارد شوید"
+
+#: woocommerce/checkout/form-checkout.php:72
+#, fuzzy
+msgid "your order"
+msgstr "سفارش شما"
+
+#: woocommerce/checkout/form-checkout.php:83
+#, fuzzy
+msgid "Payment method"
+msgstr "روش پرداخت"
+
+#: woocommerce/global/form-login.php:38
+#, fuzzy
+msgid "Username or email"
+msgstr "نام کاربری یا پست الکترونیک"
+
+#: woocommerce/global/form-login.php:41
+#, fuzzy
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: woocommerce/global/form-login.php:50
+#, fuzzy
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: woocommerce/global/form-login.php:56
+#, fuzzy
+msgid "Lost password?"
+msgstr "رمز فراموش شده؟"
+
+#: woocommerce/loop/orderby.php:24
+#, fuzzy
+msgid "Shop order"
+msgstr "سفارش خرید"
+
+#: woocommerce/single-product/meta.php:29
+#, fuzzy
+msgid "N/A"
+msgstr "N / A"
+
+#: woocommerce/single-product/meta.php:31
+#, fuzzy
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:35
+#, fuzzy
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "دسته بندی:"
+msgstr[1] "دسته بندی ها:"
+
+#: woocommerce/single-product/meta.php:37
+#, fuzzy
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "برچسب:"
+msgstr[1] "برچسب ها:"
+
+#: woocommerce/single-product/product-image.php:54
+#, fuzzy
+msgid "Awaiting product image"
+msgstr "در انتظار تصویر محصول"
+
+#: woocommerce/single-product/rating.php:45
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s بررسی"
+msgstr[1] "%s بررسی"
+
+#: woocommerce/single-product/related.php:44
+#, fuzzy
+msgid "Related products"
+msgstr "محصولات مرتبط"
+
+#: woocommerce/single-product/stock.php:22
+#, fuzzy
+msgid "Availability: "
+msgstr "دسترسی:"
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+#, fuzzy
+msgid "Additional Information"
+msgstr "اطلاعات تکمیلی"
+
+#: woocommerce/single-product/tabs/description.php:24
+#, fuzzy
+msgid "Product Description "
+msgstr "توضیحات محصول"
+
+#: woocommerce/single-product/up-sells.php:37
+#, fuzzy
+msgid "You may also like&hellip;"
+msgstr "همچنین ممکن است دوست داشته باشید"
+
+#: woocommerce/wishlist-view.php:68
+#, fuzzy
+msgid "Product name"
+msgstr "نام محصول"
+
+#: woocommerce/wishlist-view.php:75
+#, fuzzy
+msgid "Unit price"
+msgstr "قیمت واحد"
+
+#: woocommerce/wishlist-view.php:83
+#, fuzzy
+msgid "Quantity"
+msgstr "تعداد"
+
+#: woocommerce/wishlist-view.php:91
+#, fuzzy
+msgid "Stock status"
+msgstr "وضعیت سهام"
+
+#: woocommerce/wishlist-view.php:103
+#, fuzzy
+msgid "Arrange"
+msgstr "ترتیب دادن"
+
+#: woocommerce/wishlist-view.php:239
+#, fuzzy
+msgid "Remove this product"
+msgstr "این محصول را حذف کنید"
+
+#: woocommerce/wishlist-view.php:146
+#, fuzzy
+msgid "In Stock"
+msgstr "در انبار"
+
+#: woocommerce/wishlist-view.php:196
+msgid "Added on: %s"
+msgstr "اضافه شده در: %s"
+
+#: woocommerce/wishlist-view.php:209
+#, fuzzy
+msgid "Move"
+msgstr "حرکت"
+
+#: woocommerce/wishlist-view.php:228
+#, fuzzy
+msgid "Move to another list &rsaquo;"
+msgstr "انتقال به لیست دیگری ›"
+
+#: woocommerce/wishlist-view.php:239
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#: woocommerce/wishlist-view.php:255
+#, fuzzy
+msgid "No products added to the wishlist"
+msgstr "هیچ محصولی به لیست خواسته ها اضافه نشده است"
+
+#: woocommerce/yith-wfbt-form.php:92
+#, fuzzy
+msgid "This item"
+msgstr "این آیتم"

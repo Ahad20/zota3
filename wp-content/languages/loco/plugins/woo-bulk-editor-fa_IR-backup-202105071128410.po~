@@ -1,0 +1,3550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BEAR - Bulk Editor and Products Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-03 01:05+0000\n"
+"PO-Revision-Date: 2021-05-07 11:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: woo-bulk-editor"
+
+#: ext/meta/meta.php:212 ext/filters/views/panel.php:415
+#, php-format
+msgid "%s from"
+msgstr "%s از"
+
+#: ext/meta/meta.php:213 ext/filters/views/panel.php:422
+#, php-format
+msgid "%s to"
+msgstr "%s به"
+
+#: index.php:307
+#, fuzzy
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(از ورودیهای _MAX_ فیلتر شده)"
+
+#: views/woobe.php:102
+#, fuzzy
+msgid "Actions"
+msgstr "اقدامات"
+
+#: ext/bulkoperations/views/panel.php:287
+#, fuzzy
+msgid "Add attribute"
+msgstr "افزودن ویژگی"
+
+#: ext/export/views/panel.php:35
+#, fuzzy
+msgid "Add attributes combination"
+msgstr "ترکیب ویژگیها را اضافه کنید"
+
+#: ext/bulk/views/panel.php:34
+#, fuzzy
+msgid "Add attributes combination to apply on"
+msgstr "ترکیب ویژگیها را برای اعمال در آن اضافه کنید"
+
+#: ext/meta/views/panel.php:14
+#, fuzzy
+msgid "Add Custom key by hands"
+msgstr "کلید سفارشی را با دست اضافه کنید"
+
+#: data/settings.php:74
+#, fuzzy
+msgid "Add fields to the quick search"
+msgstr "زمینه ها را به جستجوی سریع اضافه کنید"
+
+#: views/woobe.php:207
+#, fuzzy
+msgid "Add File"
+msgstr "افزودن پرونده"
+
+#: views/woobe.php:277
+#, fuzzy
+msgid "Add Image"
+msgstr "تصویر اضافه کن"
+
+#: views/woobe.php:217
+#, fuzzy
+msgid "Add selected downloads to the already existed ones"
+msgstr "بارگیریهای انتخابی را به موارد موجود اضافه کنید"
+
+#: views/woobe.php:284
+#, fuzzy
+msgid "Add selected images to the already existed ones"
+msgstr "تصاویر انتخاب شده را به تصاویر موجود اضافه کنید"
+
+#: views/woobe.php:357 views/woobe.php:418 views/woobe.php:553
+#, fuzzy
+msgid "Add selected products to the already existed ones"
+msgstr "محصولات منتخب را به محصولات موجود اضافه کنید"
+
+#: ext/bulk/views/panel.php:65
+#, fuzzy
+msgid "Additional"
+msgstr "اضافی"
+
+#: data/settings.php:75
+#, fuzzy
+msgid ""
+"Adds more fields to quick search fields drop-down on the tools panel. Works "
+"only for text fields. Syntax: post_name:Product slug,post_content: Content"
+msgstr ""
+"قسمتهای بیشتری را به کشویی زمینه های جستجوی سریع در صفحه ابزار اضافه می کند. "
+"فقط برای فیلدهای متنی کار می کند. نحو: post_name: حلقه محصول ، محتوای پست: "
+"محتوا"
+
+#: data/fields.php:635
+#, fuzzy
+msgid "Aff.Button text"
+msgstr "متن دکمه Aff"
+
+#: ext/history/views/panel.php:21
+#, fuzzy
+msgid "ALL"
+msgstr "همه"
+
+#: ext/history/views/panel.php:33
+#, fuzzy
+msgid "all"
+msgstr "همه"
+
+#: index.php:315 ext/bulk/views/panel.php:11
+#: ext/bulkoperations/views/panel.php:85 ext/bulkoperations/views/panel.php:146
+#: ext/bulkoperations/views/panel.php:187
+#: ext/bulkoperations/views/panel.php:215
+#: ext/bulkoperations/views/panel.php:271
+#: ext/bulkoperations/views/panel.php:328
+#: ext/bulkoperations/views/panel.php:416 ext/export/views/panel.php:9
+#, fuzzy
+msgid "all the products on the site"
+msgstr "تمام محصولات موجود در سایت"
+
+#: data/fields.php:422
+#, fuzzy
+msgid "Allow backorders"
+msgstr "مجاز به سفارشات مجدد"
+
+#: ext/bulk/views/panel.php:268 ext/bulk/views/panel.php:446
+#, fuzzy
+msgid "append"
+msgstr "ضمیمه کردن"
+
+#: views/woobe.php:472
+#, fuzzy
+msgid "Append array key/value"
+msgstr "کلید / مقدار آرایه را اضافه کنید"
+
+#: views/woobe.php:473
+#, fuzzy
+msgid "Append object set"
+msgstr "مجموعه اشیا را اضافه کنید"
+
+#: index.php:321
+#, fuzzy
+msgid "append sub item"
+msgstr "ضمیمه مورد زیر"
+
+#: index.php:280 views/woobe.php:152 views/woobe.php:185 views/woobe.php:236
+#: views/woobe.php:304 views/woobe.php:373 views/woobe.php:433
+#: views/woobe.php:479 views/woobe.php:569
+#, fuzzy
+msgid "Apply"
+msgstr "درخواست دادن"
+
+#: ext/bulkoperations/views/panel.php:149
+#, fuzzy
+msgid "Apply combination"
+msgstr "اعمال ترکیب"
+
+#: views/elements/draw_meta_popup_editor_btn.php:20
+#, fuzzy
+msgid "Array"
+msgstr "آرایه"
+
+#: ext/meta/views/panel.php:83
+#, fuzzy
+msgid "array"
+msgstr "آرایه"
+
+#: ext/info/views/panel.php:25
+#, fuzzy
+msgid "ask for support here"
+msgstr "در اینجا درخواست پشتیبانی کنید"
+
+#: ext/bulkoperations/views/panel.php:37 ext/bulkoperations/views/panel.php:220
+#, fuzzy
+msgid "Attaching"
+msgstr "پیوستن"
+
+#: ext/bulkoperations/bulkoperations.php:46
+#, fuzzy
+msgid ""
+"Attaching of the default combination for the products variations is finished!"
+msgstr "پیوستن ترکیب پیش فرض برای تغییرات محصولات به پایان رسید!"
+
+#: ext/bulkoperations/bulkoperations.php:50
+#, fuzzy
+msgid "Attaching of the products variations is finished"
+msgstr "پیوست انواع محصولات به پایان رسید"
+
+#: views/woobe.php:36
+#, fuzzy
+msgid ""
+"ATTENTION! Your version of the woocommerce plugin is too obsolete. There is "
+"no warranty of normal working with the plugin!!"
+msgstr ""
+"توجه! نسخه شما از افزونه woocommerce بیش از حد منسوخ شده است. هیچ تضمینی "
+"برای کار عادی با پلاگین وجود ندارد !!"
+
+#: ext/bulk/bulk.php:55
+#, fuzzy
+msgid "ATTENTION: Bulk operation is going!"
+msgstr "توجه: عملیات انبوه در حال انجام است!"
+
+#: ext/export/export.php:35
+#, fuzzy
+msgid "ATTENTION: Export operation is going!"
+msgstr "توجه: عملیات صادرات در حال انجام است!"
+
+#: ext/history/history.php:50
+#, fuzzy
+msgid "ATTENTION: History operation is going!"
+msgstr "توجه: عملیات تاریخچه در حال انجام است!"
+
+#: ext/bulkoperations/bulkoperations.php:44
+#, fuzzy
+msgid "ATTENTION: Variations Advanced Bulk Operation is going"
+msgstr "توجه: تغییرات پیشرفته عملیات انبوه در حال انجام است"
+
+#: ext/bulkoperations/views/panel.php:238
+#: ext/bulkoperations/views/panel.php:351
+#, fuzzy
+msgid "attribute to select replaceable term"
+msgstr "صفت برای انتخاب اصطلاح قابل تعویض"
+
+#: ext/bulkoperations/views/panel.php:362
+#, fuzzy
+msgid "attribute to select substitute term"
+msgstr "صفت برای انتخاب اصطلاح جایگزین"
+
+#: data/fields.php:681
+#, fuzzy
+msgid "Attribute visibility"
+msgstr "قابلیت مشاهده"
+
+#: data/fields.php:667
+#, fuzzy
+msgid "Author"
+msgstr "نویسنده"
+
+#: data/settings.php:68
+#, fuzzy
+msgid "Autocomplete max count"
+msgstr "حداکثر شمارش خودکار"
+
+#: data/fields.php:726
+#, fuzzy
+msgid "Average rating"
+msgstr "میانگین امتیاز"
+
+#: data/fields.php:727
+#, fuzzy
+msgid "Average rating of the product"
+msgstr "میانگین امتیاز محصول"
+
+#: ext/filters/views/panel.php:447
+#, fuzzy
+msgid "Backorders"
+msgstr "سفارش دهندگان"
+
+#: ext/bulk/views/panel.php:62
+#, fuzzy
+msgid "Basic"
+msgstr "پایه ای"
+
+#. Name of the plugin
+msgid "BEAR - Bulk Editor and Products Manager"
+msgstr "BEAR - ویرایشگر انبوه و مدیر محصولات"
+
+#: views/woobe.php:1034
+#, fuzzy
+msgid "BEAR - WooCommerce Bulk Editor Professional"
+msgstr "BEAR - WooCommerce Bulk Editor Professional"
+
+#: ext/history/history.php:105 ext/history/history.php:133
+#, fuzzy
+msgid ""
+"BEAR cannot create the database table! Make sure that your mysql user has "
+"the CREATE privilege! Do it manually using your host panel phpmyadmin!"
+msgstr ""
+"BEAR نمی تواند جدول پایگاه داده را ایجاد کند! اطمینان حاصل کنید که کاربر "
+"mysql از امتیاز CREATE برخوردار است! این کار را با استفاده از phpmyadmin پنل "
+"میزبان خود انجام دهید!"
+
+#: ext/filters/filters.php:1164 ext/filters/views/panel.php:149
+#, fuzzy
+msgid "BEGIN"
+msgstr "شروع"
+
+#: ext/bulk/bulk.php:64 ext/info/views/panel.php:82
+#, fuzzy
+msgid "binded editing"
+msgstr "ویرایش مقید"
+
+#: ext/bulk/bulk.php:50 ext/bulk/views/panel.php:162
+#: ext/bulk/views/panel.php:164
+#, fuzzy
+msgid "Bulk deleting"
+msgstr "حذف انبوه"
+
+#: ext/bulk/bulk.php:38
+#, fuzzy
+msgid "Bulk Edit"
+msgstr "ویرایش انبوه"
+
+#: ext/bulk/bulk.php:52
+#, fuzzy
+msgid "Bulk editing"
+msgstr "ویرایش انبوه"
+
+#: views/parts/advanced-table.php:33
+#, fuzzy
+msgid ""
+"Bulk editing of the parent products will be ignored! Enabling this mode hide "
+"not relevant bulk edit operations for the products [variations]! Before "
+"activation of this mode, for more convenient editing of [variations] "
+"recommend make filtering for all variable products. Binded operation also "
+"will be applied only to the products variations!"
+msgstr ""
+"از ویرایش انبوه محصولات اصلی چشم پوشی می شود! با فعال کردن این حالت ، عملیات "
+"مربوط به ویرایش انبوه مربوط به محصولات [تغییرات] را پنهان کنید! قبل از فعال "
+"سازی این حالت ، برای راحت تر ویرایش [تغییرات] فیلتر کردن را برای همه محصولات "
+"متغیر توصیه کنید. عملیات صحافی نیز فقط برای تغییرات محصولات اعمال می شود!"
+
+#: ext/bulk/views/panel.php:11
+#, php-format
+msgid "Bulk editing will be applied to: %s"
+msgstr "ویرایش انبوه به موارد زیر اعمال خواهد شد: %s"
+
+#: index.php:127 index.php:142
+#, fuzzy
+msgid "Bulk Editor"
+msgstr "ویرایشگر انبوه"
+
+#: ext/history/views/list.php:33
+msgid "Bulk operation"
+msgstr "عملیات انبوه"
+
+#: ext/history/views/panel.php:35
+msgid "bulk operations"
+msgstr "عملیات انبوه"
+
+#: ext/bulk/views/panel.php:20
+#, fuzzy
+msgid ""
+"Bulk operations will be applied to the variations of the products, and their "
+"parent-products will be ignored!"
+msgstr ""
+"عملیات انبوه بر روی تغییرات محصولات اعمال می شود و محصولات اصلی آنها نادیده "
+"گرفته می شوند!"
+
+#: ext/filters/views/panel.php:462
+#, fuzzy
+msgid "By author"
+msgstr "توسط نویسنده"
+
+#: ext/history/views/panel.php:56
+#, fuzzy
+msgid "by date from"
+msgstr "بر اساس تاریخ از"
+
+#: ext/history/views/panel.php:61
+#, fuzzy
+msgid "by date to"
+msgstr "با تاریخ به"
+
+#: ext/history/views/panel.php:66
+#, fuzzy
+msgid "by fields, use comma"
+msgstr "توسط قسمتها ، از ویرگول استفاده کنید"
+
+#: ext/meta/views/panel.php:84
+#, fuzzy
+msgid "calendar"
+msgstr "تقویم"
+
+#: ext/info/views/panel.php:51
+#, php-format
+msgid "Can I %s?"
+msgstr "آیا می توانم %s را انتخاب کنم؟"
+
+#: index.php:281 views/woobe.php:151 views/woobe.php:184 views/woobe.php:235
+#: views/woobe.php:303 views/woobe.php:372 views/woobe.php:432
+#: views/woobe.php:478 views/woobe.php:568 views/woobe.php:1000
+#, fuzzy
+msgid "Cancel"
+msgstr "لغو"
+
+#: views/elements/attribute_visibility.php:57
+#: views/elements/multi_select.php:32
+#, fuzzy
+msgid "cancel"
+msgstr "لغو کردن"
+
+#: ext/export/views/panel.php:66
+#, fuzzy
+msgid "cancel export"
+msgstr "صادرات را لغو کنید"
+
+#: index.php:282
+#, fuzzy
+msgid "Canceled"
+msgstr "لغو شد"
+
+#: data/fields.php:174
+#, fuzzy
+msgid "Catalog Visibility"
+msgstr "نمایان بودن کاتالوگ"
+
+#: ext/filters/views/panel.php:482
+#, fuzzy
+msgid "Catalog visibility"
+msgstr "قابلیت مشاهده کاتالوگ"
+
+#: ext/bulk/bulk.php:818
+#, fuzzy
+msgid "catalog visibility"
+msgstr "نمایان بودن کاتالوگ"
+
+#: ext/meta/views/panel.php:82
+#, fuzzy
+msgid "checkbox"
+msgstr "کادر انتخاب"
+
+#: data/fields.php:45
+#, fuzzy
+msgid ""
+"Checkboxes for the products selection. Use SHIFT button on your keyboard to "
+"select multiple rows."
+msgstr ""
+"کادرهای انتخاب محصولات. برای انتخاب چندین ردیف از دکمه SHIFT در صفحه کلید "
+"خود استفاده کنید."
+
+#: data/fields.php:346
+#, fuzzy
+msgid ""
+"Choose a tax class for this product. Tax classes are used to apply different "
+"tax rates specific to certain types of product."
+msgstr ""
+"برای این محصول کلاس مالیاتی انتخاب کنید. از کلاسهای مالیاتی برای اعمال نرخ "
+"های مختلف مالیاتی مخصوص انواع خاصی از محصولات استفاده می شود."
+
+#: views/woobe.php:256 views/parts/product-downloads.php:20
+#: views/parts/product-downloads.php:20
+#, fuzzy
+msgid "Choose file"
+msgstr "انتخاب فایل"
+
+#: views/parts/product-gallery.php:12
+#, fuzzy
+msgid "Clean"
+msgstr "تمیز"
+
+#: views/elements/draw_calendar.php:16 ext/history/views/panel.php:58
+#: ext/history/views/panel.php:63
+#, fuzzy
+msgid "clear"
+msgstr "روشن"
+
+#: ext/history/views/panel.php:25
+#, fuzzy
+msgid "Clear the History"
+msgstr "تاریخچه را پاک کنید"
+
+#: ext/info/views/panel.php:98
+#, fuzzy
+msgid ""
+"Click ID of the product in the products table to see it on the site front."
+msgstr ""
+"روی شناسه محصول در جدول محصولات کلیک کنید تا آن را در قسمت جلوی سایت مشاهده "
+"کنید."
+
+#: views/woobe.php:946 ext/bulkoperations/views/panel.php:439
+#: ext/fprofiles/views/panel.php:83
+#, fuzzy
+msgid "Close"
+msgstr "نزدیک"
+
+#: views/parts/top_panel.php:20
+#, fuzzy
+msgid "Close the panel"
+msgstr "صفحه را ببندید"
+
+#: views/woobe.php:628
+#, fuzzy
+msgid "columns finder ..."
+msgstr "ستون یاب ..."
+
+#: views/woobe.php:887
+#, fuzzy
+msgid "Columns profile"
+msgstr "نمایه ستون ها"
+
+#: views/woobe.php:894 views/parts/advanced-table.php:12
+#, fuzzy
+msgid "Columns profiles"
+msgstr "نمایه های ستون ها"
+
+#: views/woobe.php:625
+#, php-format
+msgid "Columns settings%s, columns enabled %s"
+msgstr "تنظیمات ستون %s ، ستون ها %s را فعال کرده اند"
+
+#: ext/history/views/list.php:79
+#, php-format
+msgid "columns: %s"
+msgstr "ستون ها: %s"
+
+#: ext/bulkoperations/bulkoperations.php:53
+#, fuzzy
+msgid "Combination(s) not selected!"
+msgstr "ترکیب (ها) انتخاب نشده است!"
+
+#: ext/bulkoperations/views/panel.php:416
+#, php-format
+msgid ""
+"Combination, of the products variations for deleting, will be applied to: %s"
+msgstr "ترکیبی از تغییرات محصولات برای حذف ، به موارد زیر اعمال خواهد شد: %s"
+
+#: views/elements/draw_popup_editor_btn.php:10
+#, fuzzy
+msgid "Content"
+msgstr "محتوا"
+
+#: data/fields.php:408
+#, fuzzy
+msgid ""
+"Controls whether or not the product is listed as in stock or out of stock on "
+"the frontend. Count products in stock can not be zero while activating!"
+msgstr ""
+"کنترل می کند که آیا محصول به عنوان موجود یا خارج از انبار موجود در جلو قرار "
+"گرفته است. شمارش محصولات موجود در انبار در هنگام فعال سازی صفر نیست!"
+
+#: views/woobe.php:945 views/woobe.php:999
+#, fuzzy
+msgid "Create"
+msgstr "ايجاد كردن"
+
+#: views/woobe.php:139
+#, fuzzy
+msgid "create new term"
+msgstr "ایجاد اصطلاح جدید"
+
+#: index.php:285
+#, fuzzy
+msgid "Created!"
+msgstr "ایجاد شده!"
+
+#: index.php:284 ext/bulkoperations/views/panel.php:24
+#, fuzzy
+msgid "Creating"
+msgstr "پدید آوردن"
+
+#: data/fields.php:546
+#, fuzzy
+msgid "Cross-sells"
+msgstr "متقابل می فروشد"
+
+#: data/fields.php:547
+#, fuzzy
+msgid ""
+"Cross-sells are products which you promote in the cart, based on the current "
+"product."
+msgstr ""
+"فروش متقابل محصولاتی است که شما بر اساس کالای موجود در سبد خرید تبلیغ می "
+"کنید."
+
+#: views/woobe.php:899
+#, php-format
+msgid "Current profile is: %s %s"
+msgstr "نمایه فعلی: %s %s"
+
+#: ext/info/views/panel.php:33
+#, php-format
+msgid ""
+"Current version of the plugin is FREE. See the difference between FREE and "
+"PREMIUM versions %s"
+msgstr ""
+"نسخه فعلی این افزونه رایگان است. تفاوت بین نسخه های رایگان و PREMIUM%s را "
+"مشاهده کنید"
+
+#: data/fields.php:589
+#, fuzzy
+msgid "Custom ordering position."
+msgstr "موقعیت سفارش سفارشی"
+
+#: data/fields.php:756
+#, fuzzy
+msgid "Date Published"
+msgstr "تاریخ انتشار"
+
+#: ext/bulk/bulk.php:842 ext/bulk/bulk.php:863 ext/bulk/bulk.php:877
+#: ext/meta/meta.php:300
+msgid "decrease by %"
+msgstr "کاهش %"
+
+#: ext/bulk/bulk.php:840 ext/bulk/bulk.php:848 ext/bulk/bulk.php:861
+#: ext/bulk/bulk.php:875 ext/meta/meta.php:298 ext/bulk/views/panel.php:518
+#, fuzzy
+msgid "decrease by value"
+msgstr "کاهش با ارزش"
+
+#: classes/models/profiles.php:51
+#, fuzzy
+msgid "Default"
+msgstr "پیش فرض"
+
+#: ext/bulkoperations/views/panel.php:27
+#, fuzzy
+msgid "Default combination"
+msgstr "ترکیب پیش فرض"
+
+#: data/settings.php:10
+#, fuzzy
+msgid "Default products count per page"
+msgstr "تعداد محصولات پیش فرض در هر صفحه"
+
+#: data/settings.php:28
+#, fuzzy
+msgid "Default sort"
+msgstr "مرتب سازی پیش فرض"
+
+#: data/settings.php:21
+#, fuzzy
+msgid "Default sort by"
+msgstr "مرتب سازی بر اساس پیش فرض"
+
+#: ext/bulkoperations/views/panel.php:146
+#, php-format
+msgid "Default variations combination will be applied to: %s"
+msgstr "ترکیب تغییرات پیش فرض برای: %s اعمال خواهد شد"
+
+#: data/fields.php:327
+#, fuzzy
+msgid ""
+"Define whether or not the entire product is taxable, or just the cost of "
+"shipping it."
+msgstr ""
+"مشخص کنید که آیا کل محصول مشمول مالیات است یا نه ، یا فقط هزینه حمل و نقل آن "
+"است."
+
+#: index.php:270 ext/bulk/bulk.php:849 ext/history/views/list.php:90
+#: ext/history/views/list.php:94 ext/meta/views/panel.php:97
+#, fuzzy
+msgid "delete"
+msgstr "حذف"
+
+#: ext/bulkoperations/views/panel.php:400
+#, fuzzy
+msgid "Delete all products variations"
+msgstr "همه تغییرات محصولات را حذف کنید"
+
+#: ext/bulk/views/panel.php:167
+#, fuzzy
+msgid "Delete products!"
+msgstr "محصولات را حذف کنید!"
+
+#: views/woobe.php:285
+#, fuzzy
+msgid "Delete selected images from the products"
+msgstr "تصاویر انتخاب شده را از محصولات حذف کنید"
+
+#: views/woobe.php:286
+#, fuzzy
+msgid ""
+"Delete selected images from the products, also delete them from the media "
+"library forever"
+msgstr ""
+"تصاویر انتخاب شده را از محصولات حذف کنید ، همچنین آنها را برای همیشه از "
+"کتابخانه رسانه حذف کنید"
+
+#: views/parts/advanced-table.php:23
+#, fuzzy
+msgid "Delete selected product(s)"
+msgstr "حذف محصولات (های) انتخاب شده"
+
+#: ext/bulkoperations/views/panel.php:399
+#, fuzzy
+msgid ""
+"Delete the products variations according to the combination of the attributes"
+msgstr "متناسب با ترکیبی از ویژگی ها ، تغییرات محصولات را حذف کنید"
+
+#: index.php:289
+#, fuzzy
+msgid "Deleted!"
+msgstr "حذف شده!"
+
+#: index.php:288 ext/bulkoperations/views/panel.php:50
+#, fuzzy
+msgid "Deleting"
+msgstr "در حال حذف شدن"
+
+#: ext/bulkoperations/bulkoperations.php:47
+#, fuzzy
+msgid "Deleting of the products variations is finished"
+msgstr "حذف تغییرات محصولات به پایان رسید"
+
+#: data/fields.php:108
+#, fuzzy
+msgid "Description"
+msgstr "شرح"
+
+#: ext/bulk/bulk.php:781
+#, fuzzy
+msgid "description"
+msgstr "شرح"
+
+#: views/elements/attribute_visibility.php:52
+#: views/elements/multi_select.php:27
+#, fuzzy
+msgid "Deselect all"
+msgstr "لغو انتخاب همه"
+
+#: views/parts/product-gallery.php:27
+#, fuzzy
+msgid "Detach image of the product"
+msgstr "تصویر محصول را جدا کنید"
+
+#: ext/bulk/views/panel.php:151
+#, fuzzy
+msgid "Do Bulk Edit"
+msgstr "ویرایش انبوه را انجام دهید"
+
+#: index.php:250 views/woobe.php:461 views/woobe.php:594
+#: ext/bulk/views/panel.php:193 ext/bulkoperations/views/panel.php:15
+#: ext/export/views/panel.php:123 ext/filters/views/panel.php:37
+#, fuzzy
+msgid "Documentation"
+msgstr "مستندات"
+
+#: ext/info/views/panel.php:13
+#, fuzzy
+msgid "documentation"
+msgstr "مستندات"
+
+#: data/fields.php:284
+#, fuzzy
+msgid "Down.Files"
+msgstr "پایین. پرونده ها"
+
+#: ext/export/views/panel.php:64
+#, fuzzy
+msgid "download CSV"
+msgstr "بارگیری CSV"
+
+#: data/fields.php:312
+#, fuzzy
+msgid "Download expiry"
+msgstr "تاریخ انقضا بارگیری"
+
+#: ext/bulk/bulk.php:891
+#, fuzzy
+msgid "download expiry"
+msgstr "انقضا download بارگیری"
+
+#: data/fields.php:298
+#, fuzzy
+msgid "Download limit"
+msgstr "حد بارگیری"
+
+#: ext/bulk/bulk.php:897
+#, fuzzy
+msgid "download limit"
+msgstr "حد بارگیری"
+
+#: ext/export/views/panel.php:65
+#, fuzzy
+msgid "download XML"
+msgstr "XML را بارگیری کنید"
+
+#: data/fields.php:265 ext/filters/views/panel.php:348
+#, fuzzy
+msgid "Downloadable"
+msgstr "قابل بارگیری"
+
+#: data/fields.php:285
+#, fuzzy
+msgid ""
+"Downloadable files. Attention: maybe should be enabled Downloadable by logic!"
+msgstr "فایلهای قابل بارگیری توجه: شاید باید فعال شود قابل بارگیری با منطق!"
+
+#: data/fields.php:266
+#, fuzzy
+msgid "Downloadable products give access to a file upon purchase."
+msgstr "محصولات قابل بارگیری در هنگام خرید به یک پرونده دسترسی پیدا می کنند."
+
+#: ext/bulk/views/panel.php:848
+#, fuzzy
+msgid "Downloadable: no"
+msgstr "قابل بارگیری: نه"
+
+#: ext/bulk/views/panel.php:847
+#, fuzzy
+msgid "Downloadable: yes"
+msgstr "قابل بارگیری: بله"
+
+#: classes/models/profiles.php:68
+#, fuzzy
+msgid "Downloads, Cross-sells, Up-sells, Grouped"
+msgstr "بارگیری ، فروش متقابل ، فروش بالاتر ، گروه بندی شده"
+
+#: views/woobe.php:250 views/woobe.php:491 views/woobe.php:501
+#: views/woobe.php:583 views/woobe.php:656
+#: views/parts/product-cross-sells.php:19 views/parts/product-downloads.php:14
+#: views/parts/product-grouped.php:19 views/parts/product-upsells.php:19
+#: ext/bulkoperations/views/panel.php:450
+#: ext/bulkoperations/views/panel.php:456 ext/meta/views/panel.php:67
+#, fuzzy
+msgid "drag and drop"
+msgstr "کشیدن و انداختن"
+
+#: views/parts/advanced-table.php:22
+#, fuzzy
+msgid ""
+"Duplicate selected product(s). ATTENTION: duplication of variations of the "
+"products is locked!"
+msgstr ""
+"محصولات (های) انتخاب شده را کپی کنید. توجه: تکثیر تغییرات محصولات قفل شده "
+"است!"
+
+#: index.php:287
+#, fuzzy
+msgid "Duplicated!"
+msgstr "تکراری!"
+
+#: index.php:286
+#, fuzzy
+msgid "Duplicating"
+msgstr "کپی کردن"
+
+#: index.php:585
+#, fuzzy
+msgid "Editing of the product on its page"
+msgstr "ویرایش محصول در صفحه آن"
+
+#: ext/filters/views/panel.php:151
+#, fuzzy
+msgid "Empty"
+msgstr "خالی"
+
+#: data/fields.php:374
+#, fuzzy
+msgid ""
+"Enable stock management at product level. ATTENTION: if to set count of "
+"products in Stock quantity, Manage stock option automatically set as TRUE!"
+msgstr ""
+"مدیریت سهام را در سطح محصول فعال کنید. توجه: اگر تعداد محصولات را در مقدار "
+"سهام تنظیم کنید ، گزینه سهام را به طور خودکار به عنوان TRUE تنظیم کنید!"
+
+#: data/fields.php:438
+#, fuzzy
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr ""
+"این را فعال کنید تا فقط اجازه خرید یکی از این موارد را در یک سفارش فراهم کند"
+
+#: ext/filters/filters.php:1165 ext/filters/views/panel.php:150
+#, fuzzy
+msgid "END"
+msgstr "پایان"
+
+#: ext/meta/meta.php:50
+#, fuzzy
+msgid "Enter a product ID!"
+msgstr "شناسه محصول را وارد کنید!"
+
+#: data/fields.php:575
+#, fuzzy
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "برای ارسال مشتری پس از خرید ، یک یادداشت اختیاری وارد کنید."
+
+#: index.php:297
+#, fuzzy
+msgid "Enter how many new product(s) to create!"
+msgstr "چند محصول جدید برای ایجاد وارد کنید!"
+
+#: index.php:296
+#, fuzzy
+msgid "Enter how many time duplicate selected product(s)!"
+msgstr "چند بار تکرار محصول (های) انتخاب شده را وارد کنید!"
+
+#: ext/calculator/views/panel.php:20
+#, fuzzy
+msgid "enter operation value"
+msgstr "مقدار عمل را وارد کنید"
+
+#: ext/meta/views/panel.php:22
+#, fuzzy
+msgid "enter product ID"
+msgstr "شناسه محصول را وارد کنید"
+
+#: data/fields.php:313
+#, fuzzy
+msgid ""
+"Enter the number of days before a download link expires, or leave blank. "
+"Attention: maybe should be enabled Downloadable by logic!"
+msgstr ""
+"قبل از انقضا پیوند بارگیری ، تعداد روزها را وارد کنید یا آن را خالی بگذارید. "
+"توجه: شاید باید فعال شود قابل بارگیری با منطق!"
+
+#: ext/meta/views/panel.php:74
+#, fuzzy
+msgid "enter title"
+msgstr "عنوان را وارد کنید"
+
+#: index.php:269
+#, fuzzy
+msgid "Error"
+msgstr "خطا"
+
+#: ext/filters/filters.php:1162 ext/filters/views/panel.php:147
+#: ext/filters/views/panel.php:158
+#, fuzzy
+msgid "EXACT"
+msgstr "دقیق"
+
+#: ext/meta/meta.php:190
+#, fuzzy
+msgid "EXACT (=)"
+msgstr "دقیق (=)"
+
+#: ext/export/export.php:22
+#, fuzzy
+msgid "Export"
+msgstr "صادرات"
+
+#: ext/export/views/panel.php:61
+#, fuzzy
+msgid "Export to CSV"
+msgstr "صادرات به CSV"
+
+#: ext/export/views/panel.php:63
+#, fuzzy
+msgid "Export to Excel"
+msgstr "صادرات به اکسل"
+
+#: ext/export/views/panel.php:62
+#, fuzzy
+msgid "Export to XML"
+msgstr "صادرات به XML"
+
+#: ext/export/views/panel.php:9
+#, php-format
+msgid "Export will be applied to: %s"
+msgstr "صادرات به موارد زیر اعمال خواهد شد: %s"
+
+#: ext/export/export.php:34
+#, fuzzy
+msgid "Exported"
+msgstr "صادر شده"
+
+#: ext/export/export.php:33
+#, fuzzy
+msgid "Exporting"
+msgstr "صادر کردن"
+
+#: data/fields.php:621
+#, fuzzy
+msgid "External/Affiliate product: External URL to the product"
+msgstr "محصول خارجی / وابسته: URL خارجی محصول"
+
+#: data/fields.php:636
+#, fuzzy
+msgid ""
+"External/Affiliate product: This text will be shown on the button linking to "
+"the external product"
+msgstr ""
+"محصول خارجی / وابسته: این متن در دکمه پیوند دادن به محصول خارجی نشان داده "
+"خواهد شد"
+
+#: index.php:268
+#, fuzzy
+msgid "Failed"
+msgstr "ناموفق"
+
+#: ext/info/views/panel.php:17
+#, fuzzy
+msgid "FAQ"
+msgstr "سالات متداول"
+
+#: data/fields.php:189 ext/filters/views/panel.php:329
+#, fuzzy
+msgid "Featured"
+msgstr "ویژه"
+
+#: ext/bulk/bulk.php:830
+#, fuzzy
+msgid "featured"
+msgstr "ویژه"
+
+#: views/woobe.php:252 views/parts/product-downloads.php:16
+#, fuzzy
+msgid "File name"
+msgstr "نام فایل"
+
+#: views/elements/draw_downloads_popup_editor_btn.php:31
+#, php-format
+msgid "Files (%s)"
+msgstr "پرونده ها (%s)"
+
+#: views/woobe.php:209
+#, fuzzy
+msgid "Files should has an allowed file type!"
+msgstr "Files باید نوع پرونده مجاز داشته باشد!"
+
+#: index.php:295
+#, fuzzy
+msgid "Fill up the data please!"
+msgstr "لطفاً اطلاعات را پر کنید!"
+
+#: ext/filters/views/panel.php:32 ext/history/views/panel.php:69
+#, fuzzy
+msgid "Filter"
+msgstr "فیلتر"
+
+#: ext/filters/filters.php:37
+#, fuzzy
+msgid "Filtered! Table redrawing ..."
+msgstr "فیلتر شده! طراحی مجدد جدول ..."
+
+#: ext/filters/filters.php:36
+#, fuzzy
+msgid "Filtering"
+msgstr "فیلتر کردن"
+
+#: ext/filters/filters.php:24
+#, fuzzy
+msgid "Filters"
+msgstr "فیلترها"
+
+#: ext/fprofiles/fprofiles.php:34 ext/fprofiles/views/panel.php:13
+#, fuzzy
+msgid "Filters profiles"
+msgstr "پروفایل فیلترها"
+
+#: index.php:311
+#, fuzzy
+msgid "First"
+msgstr "اولین"
+
+#: views/woobe.php:224
+#, fuzzy
+msgid ""
+"For [Remove selected downloads] - enter links to downloads which should be "
+"removed."
+msgstr ""
+"برای [حذف بارگیری های انتخاب شده] - پیوندهایی را برای بارگیری وارد کنید که "
+"باید حذف شوند."
+
+#: classes/models/profiles.php:57
+#, fuzzy
+msgid "For variations fields only"
+msgstr "فقط برای قسمتهای تغییرات"
+
+#: classes/models/products.php:130
+#, fuzzy
+msgid "forbidden"
+msgstr "ممنوع"
+
+#: data/fields.php:81
+#, fuzzy
+msgid "Gallery"
+msgstr "گالری"
+
+#: views/woobe.php:751
+#, fuzzy
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: ext/bulkoperations/views/panel.php:88
+#, fuzzy
+msgid "Generate possible combinations"
+msgstr "ترکیبات احتمالی ایجاد کنید"
+
+#: ext/bulkoperations/bulkoperations.php:51
+#, fuzzy
+msgid "Generating possible combinations"
+msgstr "تولید ترکیبات احتمالی"
+
+#: ext/meta/views/panel.php:23
+#, fuzzy
+msgid "Get"
+msgstr "گرفتن"
+
+#: ext/meta/views/panel.php:21
+#, fuzzy
+msgid "Get meta keys from any product by its ID"
+msgstr "با شناسه آن از هر کالایی کلیدهای متا بگیرید"
+
+#: ext/bulkoperations/views/panel.php:244
+#, fuzzy
+msgid "Get the existing products variations"
+msgstr "انواع محصولات موجود را دریافت کنید"
+
+#: ext/bulkoperations/views/panel.php:178
+#, fuzzy
+msgid "Get the products variations"
+msgstr "انواع محصولات را دریافت کنید"
+
+#: index.php:1451
+#, fuzzy
+msgid "Give Feedback"
+msgstr "بازخورد بدهید"
+
+#: index.php:255
+#, fuzzy
+msgid "Go Pro!"
+msgstr "برو طرفدار!"
+
+#: data/fields.php:560
+#, fuzzy
+msgid "Grouped products"
+msgstr "محصولات گروهی"
+
+#: data/fields.php:501
+#, fuzzy
+msgid "Height"
+msgstr "قد"
+
+#: ext/filters/views/panel.php:234
+#, fuzzy
+msgid "height from"
+msgstr "ارتفاع از"
+
+#: ext/filters/views/panel.php:235
+#, fuzzy
+msgid "height to"
+msgstr "قد به"
+
+#: ext/info/info.php:12 ext/info/views/panel.php:7
+#, fuzzy
+msgid "Help"
+msgstr "کمک"
+
+#: ext/bulk/views/panel.php:49 ext/bulk/views/panel.php:370
+#: ext/bulkoperations/views/panel.php:75 ext/bulkoperations/views/panel.php:136
+#: ext/bulkoperations/views/panel.php:253
+#: ext/bulkoperations/views/panel.php:311
+#: ext/bulkoperations/views/panel.php:369
+#: ext/bulkoperations/views/panel.php:406 ext/export/views/panel.php:52
+#: ext/info/views/panel.php:35
+#, fuzzy
+msgid "here"
+msgstr "اینجا"
+
+#: views/woobe.php:895
+#, fuzzy
+msgid ""
+"Here you can load previously saved columns profile. After pressing on the "
+"load button, page reloading will start immediately!"
+msgstr ""
+"در اینجا می توانید مشخصات ستون های ذخیره شده قبلی را بارگیری کنید. پس از "
+"فشار دادن دکمه بارگیری ، بارگیری مجدد صفحه بلافاصله شروع می شود!"
+
+#: ext/fprofiles/views/panel.php:21
+#, fuzzy
+msgid ""
+"Here you can load previously saved filters profile. After pressing on the "
+"load button, products table data reloading will start immediately!"
+msgstr ""
+"در اینجا می توانید مشخصات فیلترهای ذخیره شده قبلی را بارگیری کنید. پس از "
+"فشار دادن دکمه بارگیری ، بارگیری مجدد داده های جدول محصولات بلافاصله شروع می "
+"شود!"
+
+#: views/woobe.php:990
+#, fuzzy
+msgid "Here you can select parent for the the new term (optionally)"
+msgstr ""
+"در اینجا می توانید والدین را برای اصطلاح جدید انتخاب کنید (به صورت اختیاری)"
+
+#: ext/bulkoperations/views/panel.php:86
+#, fuzzy
+msgid ""
+"Here you can set order of attributes on the single product page after loaded."
+" Before attaching products variations select variable products by filter or "
+"select them by checkboxes! Selection by checkbox has higher priority!"
+msgstr ""
+"در اینجا می توانید ترتیب صفات را پس از بارگیری در صفحه محصول واحد تنظیم کنید."
+" قبل از پیوست کردن تغییرات محصولات ، محصولات متغیر را با فیلتر انتخاب کنید "
+"یا آنها را با کادرهای انتخاب انتخاب کنید! انتخاب توسط کادر انتخاب از اولویت "
+"بیشتری برخوردار است!"
+
+#: views/woobe.php:933
+#, fuzzy
+msgid ""
+"Here you can type any title and save current columns set and their order. "
+"Type here any title and then press Save button OR press Enter button on your "
+"keyboard!"
+msgstr ""
+"در اینجا می توانید هر عنوانی را تایپ کنید و ستونهای موجود و ترتیب آنها را "
+"ذخیره کنید. هر عنوانی را در اینجا تایپ کنید و سپس دکمه ذخیره را فشار دهید یا "
+"دکمه Enter را روی صفحه کلید خود فشار دهید!"
+
+#: ext/fprofiles/views/panel.php:60
+#, fuzzy
+msgid ""
+"Here you can type any title and save current filters set. Type here any "
+"title and then press Save button OR press Enter button on your keyboard!"
+msgstr ""
+"در اینجا می توانید هر عنوانی را تایپ کنید و مجموعه فیلترهای فعلی را ذخیره "
+"کنید. هر عنوانی را در اینجا تایپ کنید و سپس دکمه ذخیره را فشار دهید یا دکمه "
+"Enter را روی صفحه کلید خود فشار دهید!"
+
+#: views/woobe.php:979
+#, fuzzy
+msgid ""
+"Here you can write slug for the the new term (optionally). Use comma for "
+"slug(s) when you create some on the same time terms, or leave slug field "
+"empty to create slug(s) automatically"
+msgstr ""
+"در اینجا می توانید برای اصطلاح جدید حلزون بنویسید (به صورت اختیاری). هنگامی "
+"که برخی از اصطلاحات مشابه را ایجاد می کنید ، از ویرگول استفاده کنید یا برای "
+"ایجاد خودکار حلزون حرکت خالی را خالی بگذارید"
+
+#: views/woobe.php:968
+#, fuzzy
+msgid ""
+"Here you can write title for the new term. Use comma to create some new tags "
+"on the same time! New terms with already existed names will not be created!"
+msgstr ""
+"در اینجا می توانید عنوان را برای اصطلاح جدید بنویسید. از ویرگول برای ایجاد "
+"همزمان چند برچسب جدید استفاده کنید! اصطلاحات جدید با نام های موجود ایجاد نمی "
+"شوند!"
+
+#: index.php:1434
+#, fuzzy
+msgid ""
+"Hi! Are you enjoying using <i>BEAR - WooCommerce Bulk Editor and Products "
+"Manager Professional</i>?"
+msgstr ""
+"سلام! آیا از استفاده از <i> BEAR - WooCommerce Bulk Editor and Products "
+"Manager Professional </i> لذت می برید؟"
+
+#: ext/bulk/views/panel.php:1297 ext/filters/views/panel.php:478
+#, fuzzy
+msgid "Hidden"
+msgstr "پنهان"
+
+#: index.php:300
+#, fuzzy
+msgid "Hide: Filters/Bulk Edit/Export"
+msgstr "پنهان کردن: فیلترها / ویرایش انبوه / صادرات"
+
+#: ext/history/history.php:29 ext/history/views/panel.php:7
+#, fuzzy
+msgid "History"
+msgstr "تاریخ"
+
+#: ext/history/history.php:48
+#, fuzzy
+msgid "History clearing ..."
+msgstr "پاکسازی تاریخچه ..."
+
+#: ext/history/history.php:49
+#, fuzzy
+msgid "History is cleared!"
+msgstr "تاریخ پاک شد!"
+
+#: ext/history/views/list.php:109
+#, fuzzy
+msgid "History is empty!"
+msgstr "تاریخ خالی است!"
+
+#: data/settings.php:69
+#, fuzzy
+msgid ""
+"How many products display in the autocomplete drop-downs. Uses in up-sells, "
+"cross-sells and grouped popups."
+msgstr ""
+"چه تعداد محصول در گزینه های تکمیل خودکار نمایش داده می شود. در پنجره های باز "
+"فروش ، فروش متقابل و گروهی استفاده می شود."
+
+#: data/settings.php:11
+#, php-format
+msgid ""
+"How many rows of products show per page in tab Products. Max possible value "
+"is 100! To set more - read %s please"
+msgstr ""
+"چند ردیف محصول در هر صفحه در برگه محصولات نشان داده می شود. حداکثر مقدار "
+"ممکن 100 است! برای تنظیم بیشتر - لطفاً %s را بخوانید"
+
+#: data/fields.php:711
+#, fuzzy
+msgid "How many times the products been reviewed by customers"
+msgstr "چند بار محصولات توسط مشتریان بررسی شده اند"
+
+#: ext/info/views/panel.php:60
+#, php-format
+msgid "How to %s by bulk operation"
+msgstr "نحوه %s با کار انبوه"
+
+#: ext/info/views/panel.php:80
+#, php-format
+msgid "How to set the same value for some products on the same time - %s"
+msgstr "نحوه تعیین مقدار یکسان برای برخی از محصولات به طور هم زمان - %s"
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://bulk-editor.com/"
+msgstr "https://bulk-editor.com/"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+#: index.php:1444
+#, fuzzy
+msgid "I already did"
+msgstr "من قبلاً کردم"
+
+#: ext/filters/filters.php:1171
+#, fuzzy
+msgid "ID"
+msgstr "شناسه"
+
+#: ext/filters/views/panel.php:157
+#, fuzzy
+msgid "ID(s). Use comma or/and minus for range"
+msgstr "شناسه (ها) از کاما یا / و منفی برای دامنه استفاده کنید"
+
+#: ext/bulkoperations/views/panel.php:100
+#, fuzzy
+msgid ""
+"If combinations of the variations in the products exists already - changings "
+"will be ignored, so do not worry, you will never got the same product "
+"variations in one product!"
+msgstr ""
+"اگر ترکیبی از تغییرات موجود در محصولات از قبل وجود داشته باشد - تغییراتی "
+"نادیده گرفته می شوند ، نگران نباشید ، هرگز تغییرات یکسان در یک محصول نخواهید "
+"داشت!"
+
+#: data/fields.php:423
+#, fuzzy
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed. If "
+"enabled, stock quantity can go below 0. Does Not work if the product Manage "
+"stock option is not activated!"
+msgstr ""
+"در صورت مدیریت سهام ، این اجازه را می دهد که سفارشات پس انداز مجاز باشند یا "
+"خیر. در صورت فعال بودن ، مقدار سهام می تواند به زیر 0 برسد. اگر گزینه Manage "
+"stock stock فعال نباشد ، کار نمی کند!"
+
+#: ext/info/views/panel.php:47
+#, fuzzy
+msgid ""
+"If to click on an empty space of the black wp-admin bar, it will get you "
+"back to the top of the page"
+msgstr ""
+"اگر بر روی یک فضای خالی از نوار wp-admin سیاه کلیک کنید ، شما را به بالای "
+"صفحه باز می گرداند"
+
+#: ext/info/views/panel.php:136
+#, php-format
+msgid "If you have an idea you can %s"
+msgstr "اگر ایده دارید می توانید %s"
+
+#: ext/info/views/panel.php:111
+#, php-format
+msgid "If you have any ideas, you can suggest them on %s"
+msgstr "اگر ایده ای دارید ، می توانید آنها را در %s پیشنهاد دهید"
+
+#: ext/info/views/panel.php:125
+#, php-format
+msgid ""
+"If you like BEAR %s about what you liked and what you want to see in future "
+"versions of the plugin"
+msgstr ""
+"اگر BEAR %s را در مورد آنچه دوست دارید و آنچه می خواهید در نسخه های بعدی "
+"افزونه مشاهده کنید ، دوست دارید"
+
+#: index.php:109
+#, php-format
+msgid "If you not familiar with the plugin, firstly %s please"
+msgstr "اگر با افزونه آشنایی ندارید ، ابتدا %s لطفا"
+
+#: ext/info/views/panel.php:70
+#, php-format
+msgid ""
+"If your shop is on the Russian language you should install %s for the "
+"correct working of BEAR with Cyrillic"
+msgstr ""
+"اگر فروشگاه شما به زبان روسی است باید %s را برای کار صحیح BEAR با Cyrillic "
+"نصب کنید"
+
+#: index.php:271
+#, fuzzy
+msgid "ignore"
+msgstr "چشم پوشی"
+
+#: ext/bulk/views/panel.php:281
+#, fuzzy
+msgid "ignore case"
+msgstr "مورد را نادیده بگیرید"
+
+#: views/elements/draw_gallery_popup_editor_btn.php:40
+#, php-format
+msgid "Images (%s)"
+msgstr "تصاویر (%s)"
+
+#: ext/export/views/panel.php:73
+msgid "Import from CSV"
+msgstr "ایمپورت کردن از CSV"
+
+#: ext/bulkoperations/views/panel.php:218
+#, fuzzy
+msgid ""
+"IMPORTANT: if attached attribute is already selected in the product and not "
+"marked as [Used for variations] operation of attaching is not be done, so "
+"before attaching do [Visibility operation] for the products attributes."
+msgstr ""
+"مهم: اگر ویژگی پیوست قبلاً در محصول انتخاب شده باشد و به عنوان [برای تغییرات "
+"استفاده می شود] علامت گذاری نشده است ، عملیات پیوست انجام نمی شود ، بنابراین "
+"قبل از پیوست کردن ، [ویژگی دید] را برای ویژگی های محصولات انجام دهید."
+
+#: ext/bulkoperations/views/panel.php:331
+#, fuzzy
+msgid ""
+"IMPORTANT: if swap-attribute is already selected in the product and not "
+"marked as [Used for variations] operation of swapping is not be done, so "
+"before swapping do [Visibility operation] for the products attributes"
+msgstr ""
+"مهم: اگر ویژگی swap قبلاً در محصول انتخاب شده باشد و به عنوان [برای تغییرات "
+"استفاده می شود] علامت گذاری نشده است ، عملیات تعویض انجام نمی شود ، بنابراین "
+"قبل از تعویض ، [عملکرد دید] را برای ویژگی های محصولات انجام دهید"
+
+#: ext/export/views/panel.php:32
+#, fuzzy
+msgid "In"
+msgstr "که در"
+
+#: ext/meta/views/panel.php:10
+#, fuzzy
+msgid ""
+"In FREE version of the plugin it is possible manipulate with 2 meta fields."
+msgstr "در نسخه رایگان پلاگین ، می توان با 2 زمینه متا دستکاری کرد."
+
+#: ext/history/views/panel.php:11
+#, fuzzy
+msgid ""
+"In FREE version of the plugin it is possible to roll back 2 last operations."
+msgstr "در نسخه رایگان پلاگین ، امکان برگشت 2 عملیات گذشته وجود دارد."
+
+#: ext/bulk/bulk.php:81
+#, php-format
+msgid "In FREE version of the plugin you can change only next fields: %s"
+msgstr "در نسخه رایگان پلاگین ، می توانید فقط قسمتهای بعدی را تغییر دهید: %s"
+
+#: index.php:320
+#, fuzzy
+msgid "In FREE version of the plugin you can create one profile only!"
+msgstr "در نسخه رایگان پلاگین ، می توانید فقط یک نمایه ایجاد کنید!"
+
+#: ext/bulk/views/panel.php:178
+#, fuzzy
+msgid ""
+"In red containers wrapped fields which are not possible modify in bulk in "
+"FREE version of the plugin!"
+msgstr ""
+"در ظروف قرمز قسمتهای بسته بندی شده ای وجود دارد که امکان تغییر آنها در نسخه "
+"رایگان پلاگین وجود ندارد!"
+
+#: ext/bulk/bulk.php:885
+#, fuzzy
+msgid "in stock quantity"
+msgstr "در مقدار سهام"
+
+#: ext/bulk/views/panel.php:181
+#, fuzzy
+msgid ""
+"In the case of an aborted bulk-operation you can roll back changes in the "
+"tab History"
+msgstr ""
+"در مورد یک عملیات انبوه لغو شده ، می توانید تغییرات را در برگه History "
+"برگردانید"
+
+#: ext/bulk/bulk.php:86
+#, fuzzy
+msgid ""
+"In this mode to the all selected products will be set the value of a product "
+"field which been edited"
+msgstr ""
+"در این حالت برای همه محصولات انتخاب شده مقدار فیلد محصول که ویرایش شده تنظیم "
+"می شود"
+
+#: ext/bulk/bulk.php:841 ext/bulk/bulk.php:862 ext/bulk/bulk.php:876
+#: ext/meta/meta.php:299
+msgid "increase by %"
+msgstr "افزایش %"
+
+#: ext/bulk/bulk.php:839 ext/bulk/bulk.php:847 ext/bulk/bulk.php:860
+#: ext/bulk/bulk.php:874 ext/meta/meta.php:297 ext/bulk/views/panel.php:517
+#, fuzzy
+msgid "increase by value"
+msgstr "افزایش با ارزش"
+
+#: views/woobe.php:256 views/parts/product-downloads.php:20
+#, fuzzy
+msgid "Insert file URL"
+msgstr "درج URL پرونده"
+
+#: classes/alert.php:94 classes/alert.php:140
+#, fuzzy
+msgid "Install"
+msgstr "نصب"
+
+#: classes/alert.php:95 classes/alert.php:141
+#, fuzzy
+msgid "Install Now"
+msgstr "الآن نصب کن"
+
+#: ext/filters/views/panel.php:330
+#, fuzzy
+msgid "Is Featured"
+msgstr "برجسته است"
+
+#: views/woobe.php:492 views/woobe.php:502 views/woobe.php:510
+#, fuzzy
+msgid "key"
+msgstr "کلید"
+
+#: index.php:312
+#, fuzzy
+msgid "Last"
+msgstr "آخر"
+
+#: index.php:1432
+#, fuzzy
+msgid "Later"
+msgstr "بعد"
+
+#: data/fields.php:299
+#, fuzzy
+msgid ""
+"Leave blank for unlimited re-downloads.  Attention: maybe should be enabled "
+"Downloadable by logic!"
+msgstr ""
+"برای بارگیری مجدد نامحدود خالی بگذارید. توجه: شاید باید فعال شود قابل "
+"بارگیری با منطق!"
+
+#: data/fields.php:471
+#, fuzzy
+msgid "Length"
+msgstr "طول"
+
+#: ext/filters/views/panel.php:238
+#, fuzzy
+msgid "length from"
+msgstr "طول از"
+
+#: ext/filters/views/panel.php:239
+#, fuzzy
+msgid "length to"
+msgstr "طول به"
+
+#: ext/filters/filters.php:1161 ext/meta/meta.php:189
+#: ext/filters/views/panel.php:146
+#, fuzzy
+msgid "LIKE"
+msgstr "پسندیدن"
+
+#: views/woobe.php:922 ext/fprofiles/views/panel.php:41
+#, fuzzy
+msgid "load"
+msgstr "بار"
+
+#: data/settings.php:58
+#, fuzzy
+msgid "Load beauty switchers"
+msgstr "سوئیچرهای زیبایی را بارگیری کنید"
+
+#: data/settings.php:59
+#, fuzzy
+msgid "Load beauty switchers instead of checkboxes in the products table."
+msgstr ""
+"به جای جعبه های انتخاب در جدول محصولات ، کلیدهای زیبایی را بارگیری کنید."
+
+#: index.php:277
+#, fuzzy
+msgid "Loaded"
+msgstr "لود شده"
+
+#: index.php:276
+#, fuzzy
+msgid "Loading"
+msgstr "بارگذاری"
+
+#: index.php:308
+#, fuzzy
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: data/fields.php:373
+#, fuzzy
+msgid "Manage stock"
+msgstr "سهام را مدیریت کنید"
+
+#: ext/bulk/views/panel.php:768
+#, fuzzy
+msgid "Manage stock: No"
+msgstr "مدیریت سهام: نه"
+
+#: ext/bulk/views/panel.php:767
+#, fuzzy
+msgid "Manage stock: Yes"
+msgstr "مدیریت سهام: بله"
+
+#: ext/export/views/panel.php:86
+#, fuzzy
+msgid "max downloads per product"
+msgstr "حداکثر بارگیری در هر محصول"
+
+#: index.php:319
+#, fuzzy
+msgid "Maybe term(s) with such name(s) already exists!"
+msgstr "شاید اصطلاحی با چنین نام هایی از قبل وجود داشته باشد!"
+
+#: ext/bulk/views/panel.php:257 ext/bulk/views/panel.php:296
+#, fuzzy
+msgid "MENU ORDER"
+msgstr "سفارش منو"
+
+#: data/fields.php:588
+#, fuzzy
+msgid "Menu order"
+msgstr "سفارش منو"
+
+#: ext/filters/views/panel.php:432
+#, fuzzy
+msgid "Menu order from"
+msgstr "سفارش منو از"
+
+#: ext/filters/views/panel.php:438
+#, fuzzy
+msgid "Menu order to"
+msgstr "سفارش منو به"
+
+#: ext/meta/meta.php:27 ext/meta/views/panel.php:7
+#, fuzzy
+msgid "Meta Fields"
+msgstr "زمینه های متا"
+
+#: ext/meta/meta.php:49
+#, fuzzy
+msgid "Meta key cannot be empty!"
+msgstr "کلید متا نمی تواند خالی باشد!"
+
+#: ext/info/views/panel.php:151
+#, fuzzy
+msgid "Minimal PHP version is"
+msgstr "حداقل نسخه PHP است"
+
+#: views/woobe.php:805
+#, fuzzy
+msgid "More settings (implicit)"
+msgstr "تنظیمات بیشتر (ضمنی)"
+
+#: index.php:266 views/woobe.php:250 views/woobe.php:491 views/woobe.php:501
+#: views/woobe.php:583 views/woobe.php:656
+#: views/parts/product-cross-sells.php:19 views/parts/product-downloads.php:14
+#: views/parts/product-grouped.php:19 views/parts/product-upsells.php:19
+#: ext/meta/views/panel.php:67
+#, fuzzy
+msgid "move"
+msgstr "حرکت"
+
+#: views/elements/multi_select.php:42 ext/bulk/views/panel.php:270
+#, fuzzy
+msgid "new"
+msgstr "جدید"
+
+#: ext/fprofiles/views/panel.php:59
+#, fuzzy
+msgid "New Filter Profile"
+msgstr "نمایه فیلتر جدید"
+
+#: ext/meta/meta.php:52
+#, fuzzy
+msgid "New meta key"
+msgstr "کلید متای جدید"
+
+#: index.php:924 views/parts/advanced-table.php:18
+#, fuzzy
+msgid "New Product"
+msgstr "محصول جدید"
+
+#: views/woobe.php:932
+#, fuzzy
+msgid "New Profile"
+msgstr "نمایه جدید"
+
+#: views/woobe.php:960
+#, php-format
+msgid "New term for [%s]"
+msgstr "اصطلاح جدید برای [%s]"
+
+#: views/woobe.php:967
+#, fuzzy
+msgid "New Term(s)"
+msgstr "اصطلاحات جدید"
+
+#: index.php:313 ext/history/views/panel.php:82
+#, fuzzy
+msgid "Next"
+msgstr "بعد"
+
+#: data/fields.php:196 data/fields.php:274 data/fields.php:382
+#: data/fields.php:446 data/fields.php:610 data/fields.php:657
+#: data/settings.php:44 data/settings.php:54 data/settings.php:64
+#: ext/meta/meta.php:163 ext/meta/meta.php:326 ext/filters/views/panel.php:350
+#: ext/filters/views/panel.php:368 ext/filters/views/panel.php:505
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#: ext/bulk/views/panel.php:47 ext/bulkoperations/views/panel.php:73
+#: ext/bulkoperations/views/panel.php:134
+#: ext/bulkoperations/views/panel.php:251
+#: ext/bulkoperations/views/panel.php:309
+#: ext/bulkoperations/views/panel.php:367
+#: ext/bulkoperations/views/panel.php:404 ext/export/views/panel.php:50
+#, php-format
+msgid "No attributes created, you can do it %s"
+msgstr "هیچ ویژگی ایجاد نشده است ، می توانید %s را انجام دهید"
+
+#: index.php:275
+#, fuzzy
+msgid "no data"
+msgstr "بدون اطلاعات"
+
+#: index.php:304
+#, fuzzy
+msgid "No data available in the table"
+msgstr "هیچ داده ای در جدول موجود نیست"
+
+#: index.php:273 views/elements/attribute_visibility.php:33
+#: views/elements/draw_attribute_list_btn.php:15
+#: views/elements/draw_taxonomy_popup_btn.php:16
+#, fuzzy
+msgid "no items"
+msgstr "هیچ موردی"
+
+#: index.php:310
+#, fuzzy
+msgid "No matching records found"
+msgstr "هیچ پرونده مطابقی یافت نشد"
+
+#: ext/meta/meta.php:51
+#, fuzzy
+msgid "No meta keys found!"
+msgstr "هیچ کلید متایی یافت نشد!"
+
+#: data/fields.php:11
+#, fuzzy
+msgid "No shipping class"
+msgstr "کلاس حمل و نقل وجود ندارد"
+
+#: index.php:1452
+#, fuzzy
+msgid "No thanks"
+msgstr "نه ممنون"
+
+#: index.php:274
+#, fuzzy
+msgid "none"
+msgstr "هیچ یک"
+
+#: index.php:1443
+#, fuzzy
+msgid "Nope, maybe later"
+msgstr "نه ، شاید بعدا"
+
+#: classes/rate_alert.php:62
+#, fuzzy
+msgid "Nope, maybe later!"
+msgstr "نه ، شاید بعدا!"
+
+#: ext/filters/filters.php:1163 ext/filters/views/panel.php:148
+#, fuzzy
+msgid "NOT"
+msgstr "نه"
+
+#: views/elements/draw_restricked.php:8
+#, fuzzy
+msgid "Not allowed!"
+msgstr "مجاز نیست"
+
+#: ext/meta/meta.php:191
+#, fuzzy
+msgid "NOT EXACT (!=)"
+msgstr "دقیق نیست (! =)"
+
+#: ext/filters/views/panel.php:331
+#, fuzzy
+msgid "Not Featured"
+msgstr "برجسته نیست"
+
+#: ext/export/views/panel.php:33
+#, fuzzy
+msgid "Not in"
+msgstr "در نیست"
+
+#: ext/meta/meta.php:192
+#, fuzzy
+msgid "NOT LIKE"
+msgstr "دوست ندارم"
+
+#: index.php:1435
+#, fuzzy
+msgid "Not really..."
+msgstr "نه واقعا..."
+
+#: ext/bulk/bulk.php:1003 ext/export/export.php:804
+#, fuzzy
+msgid "not selected"
+msgstr "انتخاب نشده"
+
+#: ext/bulkoperations/views/panel.php:100
+#, fuzzy
+msgid "Note"
+msgstr "توجه داشته باشید"
+
+#: views/woobe.php:598
+#, fuzzy
+msgid ""
+"Note: if horizontal scroll disappeared when it must be visible, click on tab "
+"Products Editor to make it visible"
+msgstr ""
+"توجه: اگر پیمایش افقی هنگامی که باید قابل مشاهده بود ، ناپدید شد ، روی صفحه "
+"Products Editor کلیک کنید تا قابل مشاهده باشد"
+
+#: ext/export/views/panel.php:15
+#, fuzzy
+msgid ""
+"Note: you can change columns set and then set their order in the tab "
+"Settings, then save it as columns profile which in future will help you with "
+"exporting of the products data format quickly without necessary each time "
+"set columns order and their set!"
+msgstr ""
+"توجه: می توانید ستونها را تنظیم کرده و ترتیب آنها را در برگه تنظیمات تنظیم "
+"کنید ، سپس آن را به عنوان نمایه ستونها ذخیره کنید که در آینده به شما در "
+"صادرات سریع قالب داده محصولات بدون نیاز به ترتیب تنظیم ستونها و مجموعه آنها "
+"کمک خواهد کرد!"
+
+#: ext/bulk/views/panel.php:175
+#, fuzzy
+msgid "Notes"
+msgstr "یادداشت"
+
+#: ext/meta/views/panel.php:92
+#, fuzzy
+msgid "number"
+msgstr "عدد"
+
+#: ext/bulk/views/panel.php:89
+#, fuzzy
+msgid "numeric"
+msgstr "عددی"
+
+#: ext/history/views/panel.php:81
+#, fuzzy
+msgid "of"
+msgstr "از"
+
+#: classes/rate_alert.php:66
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "خوب ، شما شایسته آن هستید"
+
+#: index.php:1442
+#, fuzzy
+msgid "Okay, you deserve it"
+msgstr "باشه ، تو لیاقتشو داری"
+
+#: ext/bulkoperations/views/panel.php:417
+#, fuzzy
+msgid ""
+"Order of the product variations no matter, has the sense only count of the "
+"attributes and their names. Will be deleted variations of the products only "
+"with the exact count of attributes and the exact names of attributes! For "
+"more convenience and more quick operation before deleting filter the "
+"products by their type [Variable]."
+msgstr ""
+"ترتیب تغییرات محصول مهم نیست ، فقط تعداد صفات و نام آنها را دارد. تغییرات "
+"محصولات فقط با شمارش دقیق ویژگی ها و نام دقیق ویژگی ها حذف می شود! برای "
+"راحتی بیشتر و کار سریعتر قبل از حذف فیلتر کردن محصولات بر اساس نوع آنها "
+"[متغیر]."
+
+#: ext/bulkoperations/views/panel.php:32
+#, fuzzy
+msgid "Ordering"
+msgstr "مرتب سازی"
+
+#: ext/bulkoperations/bulkoperations.php:48
+#, fuzzy
+msgid "Ordering of the products variations is finished"
+msgstr "سفارش انواع محصولات به پایان رسید"
+
+#: ext/bulkoperations/views/panel.php:187
+#, php-format
+msgid "Ordering of the products variations will be applied to: %s"
+msgstr "سفارش انواع محصولات به موارد زیر اعمال می شود: %s"
+
+#: data/fields.php:770
+#, fuzzy
+msgid "Parent"
+msgstr "والدین"
+
+#: ext/bulk/views/panel.php:258 ext/bulk/views/panel.php:297
+#, fuzzy
+msgid "PARENT ID"
+msgstr "شناسه اصلی"
+
+#: views/woobe.php:989
+#, fuzzy
+msgid "Parent of the new term(s)"
+msgstr "والدین اصطلاح (های) جدید"
+
+#: ext/bulk/views/panel.php:260 ext/bulk/views/panel.php:299
+#, fuzzy
+msgid "PARENT SKU"
+msgstr "SKU والدین"
+
+#: ext/bulk/views/panel.php:259 ext/bulk/views/panel.php:298
+#, fuzzy
+msgid "PARENT TITLE"
+msgstr "عنوان والدین"
+
+#: ext/bulkoperations/views/panel.php:170
+#, fuzzy
+msgid "Paste any variable product ID"
+msgstr "شناسه محصول متغیر را جایگذاری کنید"
+
+#: ext/bulkoperations/views/panel.php:242
+#, fuzzy
+msgid ""
+"Paste any variable product ID which has combinations of the products "
+"variations you need"
+msgstr ""
+"هر شناسه متغیر محصول را که ترکیبی از تنوع محصولات مورد نیاز شما باشد ، "
+"جایگذاری کنید"
+
+#: index.php:301
+#, fuzzy
+msgid "Per page"
+msgstr "هر صفحه"
+
+#: ext/history/views/panel.php:16
+#, fuzzy
+msgid "Per page:"
+msgstr "هر صفحه:"
+
+#: ext/bulkoperations/views/panel.php:110
+#, fuzzy
+msgid "Possible combinations"
+msgstr "ترکیبات احتمالی"
+
+#: ext/bulkoperations/bulkoperations.php:52
+#, fuzzy
+msgid "Possible combinations been generated."
+msgstr "ترکیبات احتمالی ایجاد شده است."
+
+#: ext/filters/views/panel.php:397
+#, fuzzy
+msgid "Post date from"
+msgstr "تاریخ ارسال از"
+
+#: ext/filters/views/panel.php:404
+#, fuzzy
+msgid "Post date to"
+msgstr "تاریخ ارسال به"
+
+#: ext/bulk/bulk.php:800
+#, fuzzy
+msgid "post status"
+msgstr "وضعیت ارسال"
+
+#: views/woobe.php:656 views/woobe.php:675 views/woobe.php:776
+#: ext/bulk/views/panel.php:162
+#, fuzzy
+msgid "premium version"
+msgstr "نسخه ممتاز"
+
+#: ext/bulk/views/panel.php:269
+#, fuzzy
+msgid "prepend"
+msgstr "پیش آوردن"
+
+#: views/woobe.php:467
+#, fuzzy
+msgid "Prepend array key/value"
+msgstr "کلید / مقدار آرایه را مقدم کنید"
+
+#: views/woobe.php:468
+#, fuzzy
+msgid "Prepend object set"
+msgstr "مجموعه اشیاpend را اضافه کنید"
+
+#: ext/history/views/panel.php:80
+#, fuzzy
+msgid "Prev"
+msgstr "قبلی"
+
+#: index.php:314
+#, fuzzy
+msgid "Previous"
+msgstr "قبلی"
+
+#: classes/models/profiles.php:64
+#, fuzzy
+msgid "Prices"
+msgstr "قیمت"
+
+#: index.php:309
+#, fuzzy
+msgid "Processing..."
+msgstr "در حال پردازش..."
+
+#: ext/filters/views/panel.php:165
+#, fuzzy
+msgid "Product content ..."
+msgstr "محتوای محصول ..."
+
+#: ext/filters/views/panel.php:169
+#, fuzzy
+msgid "Product excerpt ..."
+msgstr "گزیده محصول ..."
+
+#: ext/bulk/bulk.php:789
+#, fuzzy
+msgid "product slug"
+msgstr "حلزون محصول"
+
+#: ext/filters/views/panel.php:173
+#, fuzzy
+msgid "Product slug ..."
+msgstr "حلزون محصول ..."
+
+#: ext/filters/views/panel.php:297
+#, fuzzy
+msgid "Product status"
+msgstr "وضعیت محصول"
+
+#: ext/filters/views/panel.php:161
+#, fuzzy
+msgid "Product title ..."
+msgstr "عنوان محصول ..."
+
+#: ext/filters/views/panel.php:278
+#, fuzzy
+msgid "Product type"
+msgstr "نوع محصول"
+
+#: ext/bulk/bulk.php:824
+#, fuzzy
+msgid "product type"
+msgstr "نوع محصول"
+
+#: data/fields.php:620
+#, fuzzy
+msgid "Product url"
+msgstr "آدرس اینترنتی محصول"
+
+#: ext/filters/views/panel.php:181
+#, fuzzy
+msgid "Product URL ..."
+msgstr "URL محصول ..."
+
+#: ext/bulk/bulk.php:51
+#, fuzzy
+msgid "Product(s) deleted!"
+msgstr "محصول (ها) حذف شد!"
+
+#: ext/bulk/bulk.php:54
+#, fuzzy
+msgid "Product(s) edited!"
+msgstr "محصولات (ها) ویرایش شد!"
+
+#: ext/bulk/bulk.php:53
+#, fuzzy
+msgid "Product(s) edited! Table redrawing ..."
+msgstr "محصولات (ها) ویرایش شد! طراحی مجدد جدول ..."
+
+#: views/elements/draw_cross_sells_popup_editor_btn.php:30
+#: views/elements/draw_cross_sells_popup_editor_btn.php:36
+#: views/elements/draw_downloads_popup_editor_btn.php:30
+#: views/elements/draw_gallery_popup_editor_btn.php:39
+#: views/elements/draw_gallery_popup_editor_btn.php:45
+#: views/elements/draw_grouped_popup_editor_btn.php:19
+#: views/elements/draw_grouped_popup_editor_btn.php:25
+#: views/elements/draw_meta_popup_editor_btn.php:24
+#: views/elements/draw_popup_editor_btn.php:9
+#: views/elements/draw_upsells_popup_editor_btn.php:29
+#: views/elements/draw_upsells_popup_editor_btn.php:35
+#, php-format
+msgid "Product: %s"
+msgstr "محصول: %s"
+
+#: views/elements/draw_cross_sells_popup_editor_btn.php:31
+#: views/elements/draw_grouped_popup_editor_btn.php:20
+#: views/elements/draw_upsells_popup_editor_btn.php:30
+#, php-format
+msgid "Products (%s)"
+msgstr "محصولات (%s)"
+
+#: ext/history/views/list.php:69
+#, php-format
+msgid "products bulked: %s"
+msgstr "محصولات حجیم شده:%s"
+
+#: index.php:249 views/woobe.php:56
+#, fuzzy
+msgid "Products Editor"
+msgstr "ویرایشگر محصولات"
+
+#: index.php:845
+#, fuzzy
+msgid "Products not found!"
+msgstr "محصولات یافت نشد!"
+
+#: ext/fprofiles/views/panel.php:20
+#, fuzzy
+msgid "Profiles"
+msgstr "پروفایل ها"
+
+#: data/fields.php:574
+#, fuzzy
+msgid "Purchase note"
+msgstr "یادداشت خرید"
+
+#: views/woobe.php:134
+#, fuzzy
+msgid "Quick search"
+msgstr "جستجوی سریع"
+
+#: ext/filters/filters.php:1184
+#, fuzzy
+msgid "quick search by ..."
+msgstr "جستجوی سریع توسط ..."
+
+#: views/woobe.php:135
+#, fuzzy
+msgid "Quick terms search by its name"
+msgstr "جستجوی سریع عبارات با نام آن"
+
+#. Author of the plugin
+#, fuzzy
+msgid "realmag777"
+msgstr "777"
+
+#: ext/info/views/panel.php:150
+#, fuzzy
+msgid "Recommended min RAM"
+msgstr "حداقل رم توصیه شده"
+
+#: ext/info/views/panel.php:152
+#, fuzzy
+msgid "Recommended PHP version"
+msgstr "نسخه PHP توصیه شده"
+
+#: ext/bulk/views/panel.php:261 ext/bulk/views/panel.php:300
+#, fuzzy
+msgid "REGULAR PRICE"
+msgstr "قیمت عادی"
+
+#: data/fields.php:206
+#, fuzzy
+msgid "Regular price"
+msgstr "قیمت عادی"
+
+#: ext/bulk/bulk.php:857
+#, fuzzy
+msgid "regular price"
+msgstr "قیمت عادی"
+
+#: ext/filters/views/panel.php:218
+#, fuzzy
+msgid "regular price from"
+msgstr "قیمت منظم از"
+
+#: ext/bulk/bulk.php:878
+msgid "regular price minus %"
+msgstr "قیمت عادی منهای %"
+
+#: ext/bulk/bulk.php:879
+#, fuzzy
+msgid "regular price minus value"
+msgstr "قیمت منظم منهای ارزش"
+
+#: ext/filters/views/panel.php:219
+#, fuzzy
+msgid "regular price to"
+msgstr "قیمت منظم به"
+
+#: ext/info/views/panel.php:89
+#, fuzzy
+msgid ""
+"Remember! \"Sale price\" can not be greater than \"Regular price\", never! "
+"So if \"Regular price\" is 0 - not possible to set \"Sale price\"!"
+msgstr ""
+"یاد آوردن! \"قیمت فروش\" نمی تواند بیشتر از \"قیمت عادی\" باشد ، هرگز! "
+"بنابراین اگر \"قیمت عادی\" 0 باشد - تنظیم \"قیمت فروش\" امکان پذیر نیست!"
+
+#: views/woobe.php:458
+#, fuzzy
+msgid ""
+"REMEMBER: sequence of data maybe have sense (and maybe not), so be attentive!"
+" Do not mix in the same popup window data of array and object data!"
+msgstr ""
+"به یاد داشته باشید: توالی داده ها ممکن است حس داشته باشند (و شاید نه) ، "
+"بنابراین مراقب باشید! داده های آرایه و شی را در همان پنجره بازشو مخلوط نکنید!"
+
+#: views/woobe.php:923 ext/bulk/views/panel.php:448
+#: ext/fprofiles/views/panel.php:49
+#, fuzzy
+msgid "remove"
+msgstr "برداشتن"
+
+#: views/parts/product-gallery.php:12
+#, fuzzy
+msgid "Remove all images"
+msgstr "همه تصاویر را حذف کنید"
+
+#: views/woobe.php:903
+#, fuzzy
+msgid "remove current columns profile"
+msgstr "حذف مشخصات ستون های فعلی"
+
+#: views/parts/product-gallery.php:9
+#, fuzzy
+msgid "Remove images also from medialibrary if detached of the product"
+msgstr "در صورت جدا شدن از محصول ، تصاویر را نیز از وسط کتابخانه حذف کنید"
+
+#: ext/info/views/panel.php:62
+#, fuzzy
+msgid "remove sale prices"
+msgstr "قیمت های فروش را حذف کنید"
+
+#: views/woobe.php:218
+#, fuzzy
+msgid "Remove selected downloads"
+msgstr "بارگیریهای انتخاب شده را حذف کنید"
+
+#: views/woobe.php:358 views/woobe.php:419 views/woobe.php:554
+#, fuzzy
+msgid "Remove selected products"
+msgstr "محصولات منتخب را بردارید"
+
+#: ext/bulk/views/panel.php:271 ext/bulk/views/panel.php:447
+#, fuzzy
+msgid "replace"
+msgstr "جایگزین کردن"
+
+#: views/woobe.php:216
+#, fuzzy
+msgid "Replace all downloads by the selected ones"
+msgstr "همه بارگیریها را با موارد انتخاب شده جایگزین کنید"
+
+#: views/woobe.php:356 views/woobe.php:417 views/woobe.php:552
+#, fuzzy
+msgid "Replace all products by the selected ones"
+msgstr "محصولات را جایگزین محصولات انتخابی کنید"
+
+#: views/woobe.php:283
+#, fuzzy
+msgid "Replace all products images by the selected ones"
+msgstr "تصاویر منتخب همه محصولات را جایگزین کنید"
+
+#: ext/bulk/views/panel.php:286
+#, fuzzy
+msgid "replace to text"
+msgstr "جایگزین کردن به متن"
+
+#: ext/bulkoperations/views/panel.php:354
+#, fuzzy
+msgid "replaceable term"
+msgstr "اصطلاح قابل تعویض"
+
+#: ext/info/views/panel.php:148
+#, fuzzy
+msgid "Requirements"
+msgstr "الزامات"
+
+#: ext/filters/views/panel.php:33 ext/history/views/panel.php:69
+#, fuzzy
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: views/parts/advanced-table.php:26
+#, fuzzy
+msgid "Reset filters"
+msgstr "تنظیم مجدد فیلترها"
+
+#: index.php:291
+#, fuzzy
+msgid "Reseted!"
+msgstr "بازنشانی شد!"
+
+#: index.php:290
+#, fuzzy
+msgid "Reseting"
+msgstr "بازنشانی"
+
+#: ext/history/views/list.php:89 ext/history/views/list.php:93
+#, fuzzy
+msgid "revert"
+msgstr "برگرداندن"
+
+#: ext/history/history.php:46
+#, fuzzy
+msgid "Reverted!"
+msgstr "برگردانده شد!"
+
+#: ext/history/history.php:45
+#, fuzzy
+msgid "Reverting"
+msgstr "برگرداندن"
+
+#: data/fields.php:710
+#, fuzzy
+msgid "Review count"
+msgstr "تعداد بررسی"
+
+#: data/fields.php:603
+#, fuzzy
+msgid "Reviews allowed"
+msgstr "بررسی مجاز است"
+
+#: ext/bulk/views/panel.php:262 ext/bulk/views/panel.php:301
+#, fuzzy
+msgid "SALE PRICE"
+msgstr "قیمت فروش"
+
+#: data/fields.php:220
+#, fuzzy
+msgid "Sale price"
+msgstr "قیمت فروش"
+
+#: ext/bulk/bulk.php:871
+#, fuzzy
+msgid "sale price"
+msgstr "قیمت فروش"
+
+#: ext/filters/views/panel.php:381
+#, fuzzy
+msgid "Sale price from"
+msgstr "قیمت فروش از"
+
+#: ext/filters/views/panel.php:222
+#, fuzzy
+msgid "sale price from"
+msgstr "قیمت فروش از"
+
+#: ext/bulk/bulk.php:864
+msgid "sale price plus %"
+msgstr "قیمت فروش به علاوه %"
+
+#: ext/bulk/bulk.php:865
+#, fuzzy
+msgid "sale price plus value"
+msgstr "قیمت فروش به علاوه ارزش"
+
+#: ext/filters/views/panel.php:388
+#, fuzzy
+msgid "Sale price to"
+msgstr "قیمت فروش به"
+
+#: ext/filters/views/panel.php:223
+#, fuzzy
+msgid "sale price to"
+msgstr "قیمت فروش به"
+
+#: data/fields.php:234
+#, fuzzy
+msgid "Sale time from"
+msgstr "زمان فروش از"
+
+#: data/fields.php:250
+#, fuzzy
+msgid "Sale time to"
+msgstr "زمان فروش به"
+
+#: data/fields.php:351
+#, fuzzy
+msgid "Same as parent"
+msgstr "همان پدر و مادر"
+
+#: ext/bulk/views/panel.php:280
+#, fuzzy
+msgid "same case"
+msgstr "مورد مشابه"
+
+#: ext/fprofiles/views/panel.php:82
+#, fuzzy
+msgid "Save"
+msgstr "صرفه جویی"
+
+#: views/elements/attribute_visibility.php:62
+#: views/elements/multi_select.php:37
+#, fuzzy
+msgid "save"
+msgstr "صرفه جویی"
+
+#: views/woobe.php:746 views/woobe.php:802
+#, fuzzy
+msgid "Save all settings"
+msgstr "همه تنظیمات را ذخیره کنید"
+
+#: ext/meta/views/panel.php:47
+#, fuzzy
+msgid "Save meta fields"
+msgstr "فیلدهای متا را ذخیره کنید"
+
+#: index.php:278
+#, fuzzy
+msgid "Saved"
+msgstr "ذخیره"
+
+#: index.php:279
+#, fuzzy
+msgid "Saving"
+msgstr "صرفه جویی در"
+
+#: views/parts/advanced-table.php:43
+#, fuzzy
+msgid "Scroll left"
+msgstr "به چپ بروید"
+
+#: views/parts/advanced-table.php:42
+#, fuzzy
+msgid "Scroll right"
+msgstr "به سمت راست پیمایش کنید"
+
+#: index.php:267 views/woobe.php:335 views/woobe.php:397 views/woobe.php:532
+#, fuzzy
+msgid "Search"
+msgstr "جستجو کردن"
+
+#: ext/info/views/panel.php:93
+#, fuzzy
+msgid ""
+"Search by products slugs, which are in non-latin symbols does not work "
+"because in the data base they are keeps in the encoded format!"
+msgstr ""
+"جستجوی حباب های محصولات که دارای نمادهای غیر لاتین هستند کار نمی کند زیرا در "
+"پایگاه داده در قالب رمزگذاری شده نگهداری می شوند!"
+
+#: views/woobe.php:336 views/woobe.php:398 views/woobe.php:533
+#, fuzzy
+msgid "Search products by its name"
+msgstr "محصولات را با نام آن جستجو کنید"
+
+#: ext/filters/views/panel.php:477
+#, fuzzy
+msgid "Search results only"
+msgstr "فقط نتایج جستجو"
+
+#: index.php:1273
+#, fuzzy
+msgid ""
+"see the product on the site OR select products variations if they are shown"
+msgstr ""
+"محصول را در سایت مشاهده کنید یا در صورت نشان دادن تغییرات محصولات را انتخاب "
+"کنید"
+
+#: views/elements/attribute_visibility.php:51
+#: views/elements/multi_select.php:26
+#, fuzzy
+msgid "Select all"
+msgstr "انتخاب همه"
+
+#: views/woobe.php:141
+#, fuzzy
+msgid "Select all terms"
+msgstr "همه اصطلاحات را انتخاب کنید"
+
+#: views/parts/advanced-table.php:36
+#, fuzzy
+msgid "select all variations"
+msgstr "همه تغییرات را انتخاب کنید"
+
+#: data/fields.php:82
+#, fuzzy
+msgid "Select any images which relate to the product"
+msgstr "هر تصویری را که مربوط به محصول باشد انتخاب کنید"
+
+#: ext/bulkoperations/views/panel.php:234
+#: ext/bulkoperations/views/panel.php:291
+#: ext/bulkoperations/views/panel.php:347
+#: ext/bulkoperations/views/panel.php:358
+#, fuzzy
+msgid "select attribute"
+msgstr "صفت را انتخاب کنید"
+
+#: ext/bulkoperations/views/panel.php:61 ext/bulkoperations/views/panel.php:66
+#: ext/bulkoperations/views/panel.php:122
+#: ext/bulkoperations/views/panel.php:127
+#: ext/bulkoperations/views/panel.php:385
+#: ext/bulkoperations/views/panel.php:391
+#, fuzzy
+msgid "Select attributes"
+msgstr "ویژگی ها را انتخاب کنید"
+
+#: ext/bulkoperations/views/panel.php:62
+#, fuzzy
+msgid "Select attributes which products variations you want to create"
+msgstr "ویژگی هایی را انتخاب کنید که می خواهید تنوع محصولات را ایجاد کنید"
+
+#: index.php:302
+#, fuzzy
+msgid "Select background color"
+msgstr "رنگ پس زمینه را انتخاب کنید"
+
+#: ext/export/views/panel.php:31
+#, fuzzy
+msgid "select behavior"
+msgstr "رفتار را انتخاب کنید"
+
+#: data/settings.php:22
+#, fuzzy
+msgid ""
+"Select column by which products sorting is going after plugin page loaded"
+msgstr ""
+"ستونی را انتخاب کنید که پس از بارگیری صفحه پلاگین ، مرتب سازی محصولات بر "
+"اساس آن انجام شود"
+
+#: ext/bulk/views/panel.php:30 ext/export/views/panel.php:26
+#, fuzzy
+msgid "select combination of attributes"
+msgstr "ترکیبی از ویژگی ها را انتخاب کنید"
+
+#: ext/bulk/views/panel.php:38
+#, fuzzy
+msgid ""
+"Select combination(s) of attributes if you need it by your logic, another "
+"way changes will be applied to all variations of all/filtered/selected "
+"variable products. Order of the terms in combination(s) has no matter."
+msgstr ""
+"اگر با منطق خود به آن نیاز دارید ، ترکیبی از ویژگیها را انتخاب کنید ، تغییر "
+"روش دیگری برای همه تغییرات همه / متغیرهای فیلترشده / انتخاب شده اعمال می شود."
+" ترتیب اصطلاحات در ترکیب هیچ اهمیتی ندارد."
+
+#: ext/export/views/panel.php:41
+#, fuzzy
+msgid ""
+"Select combination(s) of attributes you want (in) or do not want (not in) "
+"export if you need it. If leave empty will be exported all combinations. "
+"Combinations should be strongly exact!"
+msgstr ""
+"ترکیبی (ها) از ویژگی هایی را که می خواهید (در) انتخاب کنید یا اگر نمی خواهید "
+"(در آن نیست) صادر کنید ، انتخاب کنید. اگر خالی بماند ، تمام ترکیبات صادر می "
+"شود. ترکیبات باید کاملاً دقیق باشند!"
+
+#: ext/export/views/panel.php:100
+#, fuzzy
+msgid ""
+"Select CSV data delimiter. ATTENTION: if you going to import data back using "
+"native woocommerce importer - delimiter should be comma or import of the "
+"data will not be possible!"
+msgstr ""
+"جداکننده داده CSV را انتخاب کنید. توجه: اگر می خواهید داده ها را با استفاده "
+"از وارد کننده محلی woocommerce دوباره وارد کنید - جداکننده باید با کاما باشد "
+"یا وارد کردن داده ها امکان پذیر نیست!"
+
+#: ext/fprofiles/views/panel.php:31
+#, fuzzy
+msgid "Select filter profile to load"
+msgstr "برای بارگذاری ، نمایه فیلتر را انتخاب کنید"
+
+#: ext/bulk/views/panel.php:369
+#, php-format
+msgid ""
+"Select how to round float values fractions in the numeric fields. Works for "
+"prices and numeric meta fields. Read more %s."
+msgstr ""
+"نحوه گردآوری کسر مقادیر شناور را در قسمتهای عددی انتخاب کنید. برای قیمتها و "
+"فیلدهای متا عددی کار می کند. بیشتر بخوانید %s."
+
+#: ext/bulk/views/panel.php:222 ext/bulk/views/panel.php:244
+#: ext/bulk/views/panel.php:344 ext/bulk/views/panel.php:428
+#: ext/bulk/views/panel.php:482 ext/bulk/views/panel.php:538
+#: ext/bulk/views/panel.php:571 ext/bulk/views/panel.php:602
+#: ext/bulk/views/panel.php:635 ext/bulk/views/panel.php:674
+#: ext/bulk/views/panel.php:716 ext/bulk/views/panel.php:759
+#: ext/bulk/views/panel.php:799 ext/bulk/views/panel.php:839
+#: ext/bulk/views/panel.php:879 ext/bulk/views/panel.php:907
+#: ext/bulk/views/panel.php:945 ext/bulk/views/panel.php:987
+#: ext/bulk/views/panel.php:1026 ext/bulk/views/panel.php:1065
+#: ext/bulk/views/panel.php:1100 ext/bulk/views/panel.php:1134
+#: ext/bulk/views/panel.php:1168 ext/bulk/views/panel.php:1202
+#: ext/bulk/views/panel.php:1235 ext/bulk/views/panel.php:1277
+#: ext/bulk/views/panel.php:1319
+#, fuzzy
+msgid "select it to use"
+msgstr "آن را برای استفاده انتخاب کنید"
+
+#: ext/info/views/panel.php:53
+#, fuzzy
+msgid "select products and add 15% to their regular price"
+msgstr "محصولات را انتخاب کنید و 15٪ به قیمت عادی آنها اضافه کنید"
+
+#: views/woobe.php:912
+#, fuzzy
+msgid "Select profile to load"
+msgstr "برای بارگیری نمایه را انتخاب کنید"
+
+#: views/woobe.php:99
+#, fuzzy
+msgid "Select some columns in tab \"Settings\""
+msgstr "چند ستون را در برگه \"تنظیمات\" انتخاب کنید"
+
+#: data/settings.php:29
+#, fuzzy
+msgid "Select sort direction for Default sort by column above"
+msgstr "جهت مرتب سازی را برای مرتب سازی پیش فرض بر اساس ستون بالا انتخاب کنید"
+
+#: index.php:303
+#, fuzzy
+msgid "Select text color"
+msgstr "رنگ متن را انتخاب کنید"
+
+#: ext/bulk/views/panel.php:547
+#, fuzzy
+msgid "select thumbnail"
+msgstr "تصویر کوچک را انتخاب کنید"
+
+#: ext/bulkoperations/views/panel.php:215
+#: ext/bulkoperations/views/panel.php:271
+#: ext/bulkoperations/views/panel.php:328
+#, php-format
+msgid "Selected combination will be applied to: %s"
+msgstr "ترکیب انتخاب شده به موارد زیر اعمال خواهد شد: %s"
+
+#: views/woobe.php:140
+#, fuzzy
+msgid "selected only"
+msgstr "فقط انتخاب شده"
+
+#: views/parts/advanced-table.php:11
+#, fuzzy
+msgid "Set full width"
+msgstr "عرض کامل را تنظیم کنید"
+
+#: ext/export/views/panel.php:87
+#, fuzzy
+msgid ""
+"Set here maximal possible count of downloads per product. Not possible to "
+"automate counting of this value because this data is serialized in the data "
+"base!"
+msgstr ""
+"حداکثر تعداد بارگیری ممکن برای هر محصول را در اینجا تنظیم کنید. شمارش خودکار "
+"این مقدار به صورت خودکار امکان پذیر نیست زیرا این داده ها به صورت سریال در "
+"پایگاه داده قرار می گیرند!"
+
+#: ext/bulk/bulk.php:843 ext/bulk/bulk.php:850 ext/bulk/bulk.php:866
+#: ext/bulk/bulk.php:880 ext/meta/meta.php:296 ext/bulk/views/panel.php:516
+#, fuzzy
+msgid "set new"
+msgstr "تنظیم جدید"
+
+#: ext/bulkoperations/views/panel.php:274
+#, fuzzy
+msgid "Set visibility"
+msgstr "تنظیم قابلیت مشاهده"
+
+#: ext/bulk/views/panel.php:488
+#, php-format
+msgid "Set: %s"
+msgstr "تنظیم: %s"
+
+#: views/woobe.php:64
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ext/info/views/panel.php:139
+#, fuzzy
+msgid "share it with us here"
+msgstr "همینجا با ما به اشتراک بگذارید"
+
+#: data/fields.php:516
+#, fuzzy
+msgid "Shipping class"
+msgstr "کلاس حمل و نقل"
+
+#: data/fields.php:517
+#, fuzzy
+msgid ""
+"Shipping classes are used by certain shipping methods to group similar "
+"products."
+msgstr ""
+"کلاسهای حمل و نقل با روشهای خاص حمل و نقل برای گروه بندی محصولات مشابه "
+"استفاده می شود."
+
+#: ext/filters/views/panel.php:475
+#, fuzzy
+msgid "Shop and search results"
+msgstr "خرید و نتایج جستجو"
+
+#: ext/filters/views/panel.php:476
+#, fuzzy
+msgid "Shop only"
+msgstr "فقط خرید کنید"
+
+#: data/fields.php:119
+#, fuzzy
+msgid "Short Desc."
+msgstr "میز کوتاه"
+
+#: ext/bulk/bulk.php:785
+#, fuzzy
+msgid "short description"
+msgstr "توضیح کوتاه"
+
+#: ext/export/export.php:32
+#, fuzzy
+msgid "Should the export be started?"
+msgstr "آیا صادرات باید آغاز شود؟"
+
+#: views/woobe.php:639
+#, fuzzy
+msgid "Show all columns"
+msgstr "نمایش همه ستون ها"
+
+#: data/settings.php:49
+#, fuzzy
+msgid "Show bigger thumbnail preview on mouse over"
+msgstr "پیش نمایش تصویر بزرگتر را روی ماوس نمایش دهید"
+
+#: data/settings.php:39
+#, fuzzy
+msgid ""
+"Show Bulk Editor button in admin bar for quick access to the products editor"
+msgstr ""
+"برای دسترسی سریع به ویرایشگر محصولات ، دکمه ویرایشگر انبوه را در نوار مدیر "
+"نشان دهید"
+
+#: data/settings.php:38
+#, fuzzy
+msgid "Show button in admin bar"
+msgstr "نمایش دکمه در نوار مدیر"
+
+#: data/settings.php:48
+#, fuzzy
+msgid "Show thumbnail preview"
+msgstr "نمایش پیش نمایش تصویر کوچک"
+
+#: index.php:299 views/parts/top_panel.php:24
+#, fuzzy
+msgid "Show: Filters/Bulk Edit/Export"
+msgstr "نمایش: فیلترها / ویرایش انبوه / صادرات"
+
+#: index.php:306
+#, fuzzy
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "نمایش 0 تا 0 از 0 ورودی"
+
+#: index.php:305
+#, fuzzy
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "در حال نمایش _START_ به _END_ از _TOTAL_ ورودی ها"
+
+#: data/fields.php:360 ext/bulk/bulk.php:793 ext/filters/filters.php:1170
+#: ext/bulk/views/panel.php:256 ext/bulk/views/panel.php:295
+#, fuzzy
+msgid "SKU"
+msgstr "SKU"
+
+#: data/fields.php:361
+#, fuzzy
+msgid ""
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
+"product and service that can be purchased."
+msgstr ""
+"SKU به یک واحد نگهداری سهام اشاره دارد ، یک شناسه منحصر به فرد برای هر محصول "
+"و خدماتی که قابل خریداری است."
+
+#: ext/filters/views/panel.php:177
+#, fuzzy
+msgid "SKU, use comma for several ..."
+msgstr "SKU ، از ویرگول برای چندین ..."
+
+#: data/fields.php:132
+#, fuzzy
+msgid "Slug"
+msgstr "مثل حلزون حرکت کردن"
+
+#: views/woobe.php:978
+#, fuzzy
+msgid "Slug(s) of the new term"
+msgstr "حلزون حرکت کردن اصطلاح جدید"
+
+#: ext/bulk/views/panel.php:954
+#, fuzzy
+msgid "Sold individ.: No"
+msgstr "فرد فروخته شده: نه"
+
+#: ext/bulk/views/panel.php:953
+#, fuzzy
+msgid "Sold individ.: Yes"
+msgstr "فرد فروخته شده: بله"
+
+#: data/fields.php:437 ext/filters/views/panel.php:366
+#, fuzzy
+msgid "Sold individually"
+msgstr "به صورت جداگانه فروخته می شود"
+
+#: ext/history/views/panel.php:34
+#, fuzzy
+msgid "solo operations"
+msgstr "عملیات انفرادی"
+
+#: ext/info/views/panel.php:44
+#, fuzzy
+msgid "Some little hints"
+msgstr "چند نکته کوچک"
+
+#: ext/info/views/panel.php:158
+#, fuzzy
+msgid "Some useful plugins for your e-shop"
+msgstr "چند افزونه مفید برای فروشگاه الکترونیکی شما"
+
+#: ext/bulkoperations/views/panel.php:190
+#, fuzzy
+msgid "Start"
+msgstr "شروع کنید"
+
+#: ext/bulkoperations/views/panel.php:98
+#, fuzzy
+msgid "Start BULK Adding!"
+msgstr "شروع اضافه کردن انبوه!"
+
+#: ext/bulkoperations/views/panel.php:419
+#, fuzzy
+msgid "Start deleting"
+msgstr "شروع به حذف کنید"
+
+#: ext/history/views/list.php:34
+#, fuzzy, php-format
+msgid "state: %s"
+msgstr "ایالت ها"
+
+#: data/fields.php:160
+#, fuzzy
+msgid "Status"
+msgstr "وضعیت"
+
+#: ext/bulk/views/panel.php:101
+#, fuzzy
+msgid "statuses and types"
+msgstr "وضعیت و انواع"
+
+#: classes/models/profiles.php:60
+#, fuzzy
+msgid "Stock"
+msgstr "موجودی"
+
+#: data/fields.php:392
+#, fuzzy
+msgid "Stock quantity"
+msgstr "مقدار سهام"
+
+#: ext/filters/views/panel.php:226
+#, fuzzy
+msgid "stock quantity from"
+msgstr "مقدار سهام از"
+
+#: ext/filters/views/panel.php:227
+#, fuzzy
+msgid "stock quantity to"
+msgstr "مقدار سهام به"
+
+#: data/fields.php:393
+#, fuzzy
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation level."
+" ATTENTION: if to set count of products, Manage stock and Stock status "
+"options automatically set as TRUE!"
+msgstr ""
+"مقدار سهام اگر این یک محصول متغیر باشد ، این مقدار برای کنترل سهام برای همه "
+"تغییرات استفاده می شود ، مگر اینکه سهام را در سطح تغییرات تعریف کنید. توجه: "
+"اگر تعداد محصولات را تنظیم کنید ، گزینه های وضعیت سهام و سهام را به طور "
+"خودکار به عنوان TRUE تنظیم کنید!"
+
+#: data/fields.php:407 ext/filters/views/panel.php:310
+#, fuzzy
+msgid "Stock status"
+msgstr "وضعیت سهام"
+
+#: ext/bulk/bulk.php:806
+#, fuzzy
+msgid "stock status"
+msgstr "وضعیت سهام"
+
+#: ext/meta/views/panel.php:91
+#, fuzzy
+msgid "string"
+msgstr "رشته"
+
+#: ext/bulkoperations/views/panel.php:354
+#, fuzzy
+msgid "substitute term"
+msgstr "اصطلاح جایگزین"
+
+#: classes/rate_alert.php:46
+#, fuzzy
+msgid "support"
+msgstr "حمایت کردن"
+
+#: index.php:283
+#, fuzzy
+msgid "Sure?"
+msgstr "مطمئن؟"
+
+#: ext/bulk/bulk.php:49
+#, fuzzy
+msgid "Sure? Delete products?"
+msgstr "مطمئن؟ محصولات حذف شود؟"
+
+#: ext/bulkoperations/views/panel.php:45 ext/bulkoperations/views/panel.php:333
+#, fuzzy
+msgid "Swap"
+msgstr "مبادله"
+
+#: ext/bulkoperations/bulkoperations.php:49
+#, fuzzy
+msgid "Swap of variations is finished"
+msgstr "مبادله تغییرات به پایان رسید"
+
+#: ext/bulkoperations/views/panel.php:354
+#, fuzzy
+msgid "swap to"
+msgstr "مبادله به"
+
+#: data/fields.php:345
+#, fuzzy
+msgid "Tax class"
+msgstr "کلاس مالیاتی"
+
+#: data/fields.php:326
+#, fuzzy
+msgid "Tax status"
+msgstr "وضعیت مالیات"
+
+#: ext/bulk/bulk.php:812
+#, fuzzy
+msgid "tax status"
+msgstr "وضعیت مالیات"
+
+#: ext/bulk/views/panel.php:113
+#, fuzzy
+msgid "taxonomies"
+msgstr "طبقه بندی ها"
+
+#: ext/bulk/views/panel.php:152
+#, fuzzy
+msgid "terminate bulk operation"
+msgstr "عملیات فله ای را خاتمه دهید"
+
+#: ext/bulkoperations/views/panel.php:105
+#: ext/bulkoperations/views/panel.php:150
+#: ext/bulkoperations/views/panel.php:195
+#: ext/bulkoperations/views/panel.php:221
+#: ext/bulkoperations/views/panel.php:275
+#: ext/bulkoperations/views/panel.php:334
+#: ext/bulkoperations/views/panel.php:420
+#, fuzzy
+msgid "Terminate operation!"
+msgstr "خاتمه عملیات!"
+
+#: ext/fprofiles/fprofiles.php:27 ext/info/info.php:22
+#, fuzzy
+msgid "test"
+msgstr "تست"
+
+#: ext/bulk/views/panel.php:75
+#, fuzzy
+msgid "text"
+msgstr "متن"
+
+#: index.php:298
+#, fuzzy
+msgid "Text search by title or SKU"
+msgstr "جستجوی متن براساس عنوان یا SKU"
+
+#: ext/meta/views/panel.php:81
+#, fuzzy
+msgid "textarea"
+msgstr "متن متن"
+
+#: ext/meta/views/panel.php:80
+#, fuzzy
+msgid "textinput"
+msgstr "ورودی متن"
+
+#: classes/rate_alert.php:70
+#, fuzzy
+msgid "Thank you, I did it!"
+msgstr "ممنون ، من این کار را کردم!"
+
+#: index.php:1439
+#, php-format
+msgid ""
+"That's awesome! Could you please do us a BIG favor and give it a 5-star "
+"rating on %s to help us spread the word and boost our motivation?"
+msgstr ""
+"عالی است! آیا می توانید لطف بزرگی به ما بکنید و 5% امتیاز %s به آن بدهید تا "
+"به ما کمک کند این خبر را گسترش دهیم و انگیزه خود را تقویت کنیم؟"
+
+#: index.php:316
+#, fuzzy
+msgid ""
+"the filtered products. To remove the products filtering press reset button "
+"on the tools panel below"
+msgstr ""
+"محصولات فیلتر شده برای حذف فیلتر کردن محصولات ، دکمه بازنشانی را در صفحه "
+"ابزار زیر فشار دهید"
+
+#: ext/info/views/panel.php:113
+#, fuzzy
+msgid "the plugin forum"
+msgstr "انجمن افزونه"
+
+#: ext/info/views/panel.php:11
+#, php-format
+msgid "The plugin has %s, %s, %s list. Also if you have troubles you can %s!"
+msgstr ""
+"این افزونه دارای لیست %s, %s, %s است. همچنین اگر مشکلی دارید می توانید %s!"
+
+#: ext/bulkoperations/bulkoperations.php:55
+#, fuzzy
+msgid "the product has no variations"
+msgstr "محصول هیچ گونه تغییری ندارد"
+
+#: data/fields.php:235
+#, fuzzy
+msgid "The sale will end at the beginning of the set date"
+msgstr "فروش در ابتدای تاریخ تعیین شده پایان می یابد"
+
+#: index.php:317
+#, fuzzy
+msgid "the selected products (variations)"
+msgstr "محصولات انتخاب شده (تغییرات)"
+
+#: data/settings.php:13
+#, fuzzy
+msgid "this article"
+msgstr "این مقاله"
+
+#: index.php:322
+#, fuzzy
+msgid "This field is deactivated in FREE version for bulk edit!"
+msgstr "این قسمت در نسخه رایگان برای ویرایش عمده غیرفعال می شود!"
+
+#: index.php:272
+#, fuzzy
+msgid "This is not deletable!"
+msgstr "این قابل حذف نیست!"
+
+#: data/fields.php:561
+#, fuzzy
+msgid "This lets you choose which products are part of this group."
+msgstr "به شما این امکان را می دهد که کدام محصول را در این گروه قرار دهید."
+
+#: ext/bulkoperations/views/panel.php:272
+#, fuzzy
+msgid ""
+"This operation is only for attributes of variable products. Select "
+"attributes and their properties."
+msgstr ""
+"این عملیات فقط برای ویژگی های محصولات متغیر است. ویژگی ها و خصوصیات آنها را "
+"انتخاب کنید."
+
+#: ext/bulkoperations/views/panel.php:147
+#, fuzzy
+msgid ""
+"This operation is only for variable products and not for their variations. "
+"Before attaching default combination of variations, select variation "
+"products by filter or by checkboxes! Selection by checkbox has higher "
+"priority!"
+msgstr ""
+"این عملیات فقط برای محصولات متغیر است و نه برای تغییرات آنها. قبل از پیوستن "
+"ترکیب پیش فرض تغییرات ، محصولات تغییر را با فیلتر یا با کادرهای انتخاب "
+"انتخاب کنید! انتخاب توسط کادر انتخاب از اولویت بیشتری برخوردار است!"
+
+#: ext/bulkoperations/views/panel.php:171
+#, fuzzy
+msgid ""
+"This operation is only for variable products and not for their variations. "
+"Paste in the textinput ID of any variable product, which variations you want "
+"to set in the custom order, change their order and then apply their new "
+"ordering to the another variative products which you filtered by the filter "
+"or selected them by checkboxes."
+msgstr ""
+"این عملیات فقط برای محصولات متغیر است و نه برای تغییرات آنها. در شناسه ورودی "
+"متن از هر محصول متغیری ، که تغییراتی را می خواهید به ترتیب سفارشی تنظیم کنید "
+"، جایگذاری کنید ، ترتیب آنها را تغییر دهید و سپس ترتیب جدید آنها را روی "
+"محصولات تنوع دیگری که توسط فیلتر فیلتر کرده یا با کادرهای انتخاب انتخاب کرده "
+"اید ، اعمال کنید."
+
+#: ext/bulkoperations/views/panel.php:123
+#, fuzzy
+msgid ""
+"This operation is only for variable products and not for their variations. "
+"Select attributes which combination you want to apply as default one on its "
+"single page of variable a product. Select terms of the attributes and press "
+"button Apply combination. This combination will be pre-selected on the shop "
+"single page. If you will miss any attribute you can always can stop the "
+"operation, and then try again!"
+msgstr ""
+"این عملیات فقط برای محصولات متغیر است و نه برای تغییرات آنها. ویژگی هایی را "
+"که می خواهید به عنوان ترکیب پیش فرض در صفحه واحد متغیر یک محصول اعمال شود ، "
+"انتخاب کنید. شرایط ویژگی ها را انتخاب کنید و دکمه را فشار دهید اعمال ترکیب. "
+"این ترکیب از قبل در صفحه تک فروشگاه انتخاب خواهد شد. اگر ویژگی خاصی را از "
+"دست ندهید ، همیشه می توانید عملیات را متوقف کنید و دوباره امتحان کنید!"
+
+#: ext/bulkoperations/views/panel.php:216
+#, fuzzy
+msgid ""
+"This operation is only for variations of variable products and not their "
+"parents. Select a product attribute to attach and also its default term, "
+"then add attaching rules. Attaching usually uses when exists empty attribute "
+"in the variation, but it is also can change existed attribute term in the "
+"variation!"
+msgstr ""
+"این عملیات فقط برای تغییرات محصولات متغیر است و نه والدین آنها. ویژگی محصول "
+"را برای ضمیمه و اصطلاح پیش فرض آن را انتخاب کنید ، سپس قوانین پیوست را اضافه "
+"کنید. پیوست معمولاً وقتی از ویژگی خالی در تنوع استفاده می شود ، استفاده می "
+"کند ، اما همچنین می تواند اصطلاح ویژگی موجود را در تغییر تغییر دهد!"
+
+#: ext/bulkoperations/views/panel.php:386
+#, fuzzy
+msgid ""
+"This operation is only for variations of variable products and not their "
+"parents. Select attributes combination of which you want to delete. Remember:"
+" not possible to rollback delete-operations!"
+msgstr ""
+"این عملیات فقط برای تغییرات محصولات متغیر است و نه والدین آنها. ترکیبی از "
+"ویژگی هایی را که می خواهید حذف کنید انتخاب کنید. بخاطر بسپار: امکان برگشت "
+"مجدد عملیات حذف وجود ندارد!"
+
+#: ext/bulkoperations/views/panel.php:329
+#, fuzzy
+msgid ""
+"This operation is only for variations of variable products and not their "
+"parents. Select which term is replaceable and which is substitute. If the "
+"terms has the same attribute, replaceable term will be replaced by "
+"substitute term. If terms has different attributes - substitute term will be "
+"attached as new to a product variation which has replaceable term, and "
+"replaceable term will not be replaced! Also if parent product has not the "
+"substitute attribute (tab Attributes on the product page) - it will be "
+"attached to the product automatically in the current process!"
+msgstr ""
+"این عملیات فقط برای تغییرات محصولات متغیر است و نه والدین آنها. کدام اصطلاح "
+"قابل تعویض و کدام یک جایگزین است را انتخاب کنید. اگر اصطلاحات همان ویژگی را "
+"داشته باشند ، اصطلاح جایگزین با اصطلاح جایگزین جایگزین می شود. اگر اصطلاحات "
+"دارای ویژگی های مختلفی باشد - اصطلاح جایگزین به عنوان جدیدی برای یک نوع "
+"محصول که دارای اصطلاح قابل تعویض است پیوست می شود و اصطلاح قابل تعویض "
+"جایگزین نخواهد شد! همچنین اگر محصول اصلی صفت جایگزین را نداشته باشد (برگه "
+"ویژگی ها در صفحه محصول) - در روند فعلی به طور خودکار به محصول پیوست می شود!"
+
+#: ext/bulk/views/panel.php:186 ext/info/views/panel.php:72
+#, fuzzy
+msgid "this plugin"
+msgstr "این افزونه"
+
+#: data/fields.php:175
+#, fuzzy
+msgid "This setting determines which shop pages products will be listed on"
+msgstr ""
+"این تنظیم تعیین می کند که محصولات مربوط به صفحات فروشگاه در کدام لیست ها "
+"قرار بگیرد"
+
+#: data/fields.php:69
+#, fuzzy
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+#: ext/bulk/views/panel.php:183
+#, php-format
+msgid ""
+"Time by time (one time per week for example) - make the backup of your site "
+"database. For example by %s"
+msgstr ""
+"زمان به زمان (به عنوان مثال یک بار در هفته) - از پایگاه داده سایت خود "
+"پشتیبان تهیه کنید. به عنوان مثال توسط %s"
+
+#: ext/bulk/views/panel.php:254 ext/bulk/views/panel.php:293
+#, fuzzy
+msgid "TITLE"
+msgstr "عنوان"
+
+#: data/fields.php:95 ext/filters/filters.php:1169
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#: ext/bulk/bulk.php:777
+#, fuzzy
+msgid "title"
+msgstr "عنوان"
+
+#: ext/info/views/panel.php:107
+#, fuzzy
+msgid ""
+"To select range of products using checkboxes - select first product, press "
+"SHIFT key on your PC keyboard and click last product."
+msgstr ""
+"برای انتخاب طیف وسیعی از محصولات با استفاده از کادرهای تأیید - اولین محصول "
+"را انتخاب کنید ، کلید SHIFT را روی صفحه کلید رایانه خود فشار دهید و روی "
+"آخرین محصول کلیک کنید."
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Tools for managing and bulk edit <strong>WooCommerce Products</strong> data "
+"in the reliable and flexible way! Be professionals with managing data of "
+"your e-shop!"
+msgstr ""
+"ابزاری برای مدیریت و ویرایش انبوه داده های <strong> محصولات WooCommerce "
+"</strong> به روشی قابل اعتماد و انعطاف پذیر! در مدیریت داده های فروشگاه "
+"الکترونیکی خود حرفه ای باشید!"
+
+#: data/fields.php:695
+#, fuzzy
+msgid "Total count of the product sales"
+msgstr "تعداد کل فروش محصول"
+
+#: data/fields.php:694
+#, fuzzy
+msgid "Total sales"
+msgstr "کل فروش"
+
+#: ext/info/views/panel.php:21
+#, fuzzy
+msgid "translations"
+msgstr "ترجمه ها"
+
+#: classes/alert.php:93
+#, fuzzy
+msgid ""
+"Try new BEAR compatible plugin for displaying WooCommerce shop products in "
+"table format"
+msgstr ""
+"برای نمایش محصولات فروشگاه WooCommerce در قالب جدول ، پلاگین سازگار با BEAR "
+"جدید را امتحان کنید"
+
+#: data/fields.php:146
+#, fuzzy
+msgid "Type"
+msgstr "نوع"
+
+#: views/parts/advanced-table.php:25
+#, fuzzy
+msgid "Uncheck all selected products"
+msgstr "علامت همه محصولات انتخاب شده را بردارید"
+
+#: views/woobe.php:1033
+#, fuzzy
+msgid "UPGRADE TO FULL VERSION"
+msgstr "به روزرسانی کامل"
+
+#: index.php:294
+#, fuzzy
+msgid "Upload file"
+msgstr "آپلود فایل"
+
+#: index.php:292
+#, fuzzy
+msgid "Upload image"
+msgstr "بارگذاری تصویر"
+
+#: index.php:293
+#, fuzzy
+msgid "Upload images"
+msgstr "بارگذاری تصاویر"
+
+#: data/fields.php:532
+#, fuzzy
+msgid "Upsells"
+msgstr "فروشهای بزرگ"
+
+#: data/fields.php:533
+#, fuzzy
+msgid ""
+"Upsells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
+"Upsells محصولاتی است که شما به جای محصول مورد بازدید فعلی ، به عنوان مثال "
+"محصولات با سود بیشتر یا کیفیت بهتر یا گران تر ، توصیه می کنید."
+
+#: ext/info/views/panel.php:103
+#, fuzzy
+msgid ""
+"Use Enter keyboard button in the Products Editor for moving to the next "
+"products row cell with saving of changes while edit textinputs. Use arrow Up "
+"or arrow Down keyboard buttons in the Products Editor for moving to the "
+"next/previous products row without saving of changes."
+msgstr ""
+"برای انتقال به سلول ردیف محصولات بعدی با ذخیره تغییرات در هنگام ویرایش ورودی "
+"های متن ، از دکمه صفحه کلید Enter در Editor Editor استفاده کنید. برای رفتن "
+"به ردیف محصولات بعدی / قبلی بدون صرفه جویی در تغییرات ، از دکمه های صفحه "
+"کلید جهت دار یا فلش پایین در ویرایشگر محصولات استفاده کنید."
+
+#: ext/fprofiles/views/panel.php:48
+#, fuzzy
+msgid "Use it constantly"
+msgstr "به طور مداوم از آن استفاده کنید"
+
+#: ext/bulkoperations/views/panel.php:297
+#, fuzzy
+msgid "Used for variations"
+msgstr "برای تغییرات استفاده می شود"
+
+#: ext/bulkoperations/views/panel.php:188
+#, fuzzy
+msgid "Using mouse, set order of variations you need and press start button."
+msgstr ""
+"با استفاده از ماوس ، ترتیب تغییرات مورد نیاز خود را تنظیم کرده و دکمه شروع "
+"را فشار دهید."
+
+#: views/woobe.php:493 views/woobe.php:511
+#, fuzzy
+msgid "value"
+msgstr "مقدار"
+
+#: ext/history/views/list.php:64
+#, php-format
+msgid "value been: %s"
+msgstr "مقدار بوده است: %s"
+
+#: ext/bulk/views/panel.php:253 ext/bulk/views/panel.php:292
+#, fuzzy
+msgid "variable"
+msgstr "متغیر"
+
+#: ext/fprofiles/models/profiles.php:28
+#, fuzzy
+msgid "Variable products"
+msgstr "محصولات متغیر"
+
+#: ext/bulkoperations/bulkoperations.php:54
+#, fuzzy
+msgid "variation is not selected"
+msgstr "تنوع انتخاب نشده است"
+
+#: views/parts/advanced-table.php:32
+#, fuzzy
+msgid "variations"
+msgstr "تغییرات"
+
+#: ext/bulkoperations/bulkoperations.php:45
+#, fuzzy
+msgid "Variations Advanced Bulk Operation is finished"
+msgstr "عملیات انبوه پیشرفته تغییرات به پایان رسید"
+
+#: ext/bulkoperations/views/panel.php:85
+#, php-format
+msgid "Variations Advanced Bulk Operation will be applied to: %s"
+msgstr "تغییرات عملیات انبوه پیشرفته در موارد زیر اعمال خواهد شد: %s"
+
+#: ext/bulkoperations/bulkoperations.php:62
+#: ext/bulkoperations/views/panel.php:15
+#, fuzzy
+msgid "Variations Advanced Bulk Operations"
+msgstr "تغییرات عملیات فله پیشرفته"
+
+#: index.php:579
+#, fuzzy
+msgid "View the product on the site front"
+msgstr "مشاهده محصول در قسمت جلوی سایت"
+
+#: data/fields.php:649
+#, fuzzy
+msgid "Virtual"
+msgstr "مجازی"
+
+#: data/fields.php:650
+#, fuzzy
+msgid "Virtual products are intangible and are not shipped."
+msgstr "محصولات مجازی نامحسوس هستند و حمل نمی شوند."
+
+#: ext/bulk/views/panel.php:808
+#, fuzzy
+msgid "Virtual: no"
+msgstr "مجازی: نه"
+
+#: ext/bulk/views/panel.php:807
+#, fuzzy
+msgid "Virtual: yes"
+msgstr "مجازی: بله"
+
+#: ext/bulkoperations/views/panel.php:41
+#, fuzzy
+msgid "Visibility"
+msgstr "دید"
+
+#: ext/bulk/views/panel.php:1297
+#, fuzzy
+msgid "Visible"
+msgstr "قابل رویت"
+
+#: views/woobe.php:674
+#, fuzzy
+msgid "visible for the shop manager"
+msgstr "برای مدیر فروشگاه قابل مشاهده است"
+
+#: ext/bulkoperations/views/panel.php:296
+#, fuzzy
+msgid "Visible on the product page"
+msgstr "در صفحه محصول قابل مشاهده است"
+
+#: index.php:110
+#, fuzzy
+msgid "visit this page"
+msgstr "از این صفحه دیدن کنید"
+
+#: ext/history/history.php:47
+#, fuzzy
+msgid "Wait please while data reverting is going!"
+msgstr "لطفاً منتظر بمانید تا بازگشت اطلاعات داده شود!"
+
+#: index.php:1449
+#, fuzzy
+msgid ""
+"We are sorry to hear you aren't enjoying BEAR. We would love a chance to "
+"improve it. Could you take a minute and let us know what we can do better?"
+msgstr ""
+"متأسفیم که می شنویم از BEAR لذت نمی برید. ما دوست داریم فرصتی برای بهبود آن "
+"داشته باشیم. ممکن است یک دقیقه وقت بگذارید و به ما اطلاع دهید که چه کارهایی "
+"می توانیم بهتر انجام دهیم؟"
+
+#: data/fields.php:456
+#, fuzzy
+msgid "Weight"
+msgstr "وزن"
+
+#: ext/filters/views/panel.php:242
+#, fuzzy
+msgid "weight from"
+msgstr "وزن از"
+
+#: ext/filters/views/panel.php:243
+#, fuzzy
+msgid "weight to"
+msgstr "وزن به"
+
+#: data/fields.php:486
+#, fuzzy
+msgid "Width"
+msgstr "عرض"
+
+#: ext/filters/views/panel.php:230
+#, fuzzy
+msgid "width from"
+msgstr "عرض از"
+
+#: ext/filters/views/panel.php:231
+#, fuzzy
+msgid "width to"
+msgstr "عرض به"
+
+#: ext/bulk/bulk.php:48
+#, fuzzy
+msgid "Will be edited next:"
+msgstr "ویرایش بعدی:"
+
+#: views/woobe.php:1043 views/woobe.php:1044
+#, fuzzy
+msgid "WooCommerce Currency Switcher"
+msgstr "تعویض ارز ووکامرس"
+
+#: views/woobe.php:1048
+#, fuzzy
+msgid "WooCommerce Products Filter"
+msgstr "فیلتر محصولات ووکامرس"
+
+#: views/woobe.php:1049
+#, fuzzy
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - فیلتر محصولات ووکامرس"
+
+#: ext/history/views/panel.php:8
+#, fuzzy
+msgid ""
+"Works for edit-operations and not work with delete-operations! Also does not "
+"work with all operations which are presented in \"Variations Advanced Bulk "
+"Operations\""
+msgstr ""
+"برای عملیات ویرایش کار می کند و با عملیات حذف کار نمی کند! همچنین با تمام "
+"عملیاتی که در \"تغییرات پیشرفته فله ای\" ارائه شده اند کار نمی کند"
+
+#: views/woobe.php:1038
+#, fuzzy
+msgid "WPBE - WordPress Posts Bulk Editor"
+msgstr "WPBE - WordPress Posts Bulk Editor"
+
+#: views/woobe.php:1039
+#, fuzzy
+msgid "WPBE - WordPress Posts Bulk Editor Professional"
+msgstr "WPBE - WordPress Posts Bulk Editor Professional"
+
+#: ext/info/views/panel.php:128
+#, fuzzy
+msgid "write us feedback please"
+msgstr "نظرات خود را برای ما بنویسید لطفا"
+
+#: data/fields.php:195 data/fields.php:273 data/fields.php:381
+#: data/fields.php:445 data/fields.php:609 data/fields.php:656
+#: data/settings.php:43 data/settings.php:53 data/settings.php:63
+#: ext/meta/meta.php:162 ext/meta/meta.php:325 ext/filters/views/panel.php:349
+#: ext/filters/views/panel.php:367 ext/filters/views/panel.php:504
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#: index.php:1435
+#, fuzzy
+msgid "Yes, I love it"
+msgstr "بله ، من آن را دوست دارم"
+
+#: index.php:318
+#, fuzzy
+msgid ""
+"You can reset selection of the products by its reset button on the panel of "
+"the editor OR uncheck them manually!"
+msgstr ""
+"می توانید انتخاب محصولات را با دکمه تنظیم مجدد آن در صفحه ویرایشگر تنظیم "
+"مجدد کنید یا علامت دستی آنها را بردارید!"
+
+#: ext/fprofiles/views/panel.php:74
+#, fuzzy
+msgid ""
+"You can save filter profile only when you applying filters to the products."
+msgstr ""
+"فقط هنگام استفاده از فیلتر برای محصولات ، می توانید مشخصات فیلتر را ذخیره "
+"کنید."
+
+#: views/woobe.php:26
+#, fuzzy
+msgid "Your settings have been saved."
+msgstr "تنظیمات شما ذخیره شده است."

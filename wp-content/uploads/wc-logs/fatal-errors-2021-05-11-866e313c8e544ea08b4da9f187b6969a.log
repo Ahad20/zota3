@@ -1,0 +1,11 @@
+2021-05-11T12:12:24+00:00 CRITICAL Uncaught Error: Class 'WeDevs\Dokan\Widgets\Manager' not found in C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\dokan-lite\dokan.php:416
+Stack trace:
+#0 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): WeDevs_Dokan->register_widgets('')
+#1 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\widgets.php(1799): do_action('widgets_init')
+#4 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#5 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\ahad21\Local Sites\zota3\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\Users\ahad21\Local Sites\zota3\app\public\wp-settings.php(560): do_action('i در C:\Users\ahad21\Local Sites\zota3\app\public\wp-content\plugins\dokan-lite\dokan.php روی خط 416
+

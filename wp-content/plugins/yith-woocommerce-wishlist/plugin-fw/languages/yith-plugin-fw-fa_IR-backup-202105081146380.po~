@@ -1,0 +1,875 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2021-04-12 11:06:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-05-08 11:44+0000\n"
+"Language-Team: فارسی\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: includes/class-yit-assets.php:129
+#, fuzzy
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: includes/class-yit-assets.php:130
+#, fuzzy
+msgid "Clear color"
+msgstr "رنگ شفاف"
+
+#: includes/class-yit-assets.php:131
+#, fuzzy
+msgid "Default"
+msgstr "پیش فرض"
+
+#: includes/class-yit-assets.php:132
+#, fuzzy
+msgid "Select default color"
+msgstr "رنگ پیش فرض را انتخاب کنید"
+
+#: includes/class-yit-assets.php:133
+#, fuzzy
+msgid "Select Color"
+msgstr "رنگ را انتخاب کنید"
+
+#: includes/class-yit-assets.php:134
+#, fuzzy
+msgid "Color value"
+msgstr "مقدار رنگ"
+
+#: includes/class-yit-plugin-panel-woocommerce.php:419
+#, fuzzy
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "اگر از این صفحه خارج شوید ، تغییراتی که ایجاد کرده اید از بین می رود."
+
+#: includes/class-yit-plugin-panel.php:83
+#, fuzzy
+msgid "Plugin Settings"
+msgstr "تنظیمات پلاگین"
+
+#: includes/class-yit-plugin-panel.php:84
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/class-yit-plugin-panel.php:450
+#: includes/class-yit-plugin-panel.php:453
+#, fuzzy
+msgid "How to install premium version"
+msgstr "نحوه نصب نسخه ممتاز"
+
+#: includes/class-yit-plugin-panel.php:619
+#: includes/class-yit-plugin-subpanel.php:132
+#: templates/panel/woocommerce/woocommerce-form.php:28
+#, fuzzy
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: includes/class-yit-plugin-panel.php:624
+#: includes/class-yit-plugin-subpanel.php:136
+#: templates/panel/woocommerce/woocommerce-form.php:14
+#, fuzzy
+msgid ""
+"If you continue with this action, you will reset all options in this page."
+msgstr ""
+"اگر به این عمل ادامه دهید ، تمام گزینه های موجود در این صفحه را بازنشانی "
+"خواهید کرد."
+
+#: includes/class-yit-plugin-panel.php:624
+#: includes/class-yit-plugin-subpanel.php:136
+#: templates/panel/woocommerce/woocommerce-form.php:14
+#, fuzzy
+msgid "Are you sure?"
+msgstr "مطمئنی؟"
+
+#: includes/class-yit-plugin-panel.php:628
+#: includes/class-yit-plugin-subpanel.php:139
+#, fuzzy
+msgid "Reset to default"
+msgstr "تنظیم مجدد به حالت پیش فرض"
+
+#: includes/class-yit-plugin-panel.php:865
+#, fuzzy
+msgid ""
+"The element you have entered already exists. Please, enter another name."
+msgstr "عنصری که وارد کرده اید از قبل وجود دارد. لطفاً نام دیگری وارد کنید"
+
+#: includes/class-yit-plugin-panel.php:866
+#, fuzzy
+msgid "Settings saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: includes/class-yit-plugin-panel.php:867
+#, fuzzy
+msgid "Settings reset"
+msgstr "تنظیمات بازنشانی شد"
+
+#: includes/class-yit-plugin-panel.php:868
+#, fuzzy
+msgid "Element deleted correctly."
+msgstr "عنصر به درستی حذف شد."
+
+#: includes/class-yit-plugin-panel.php:869
+#: includes/class-yit-plugin-panel.php:870
+#, fuzzy
+msgid "Element updated correctly."
+msgstr "عنصر به درستی به روز شد."
+
+#: includes/class-yit-plugin-panel.php:871
+#, fuzzy
+msgid "Database imported correctly."
+msgstr "پایگاه داده به درستی وارد شد."
+
+#: includes/class-yit-plugin-panel.php:872
+#, fuzzy
+msgid "An error has occurred during import. Please try again."
+msgstr "هنگام وارد کردن خطایی رخ داده است. لطفا دوباره تلاش کنید."
+
+#: includes/class-yit-plugin-panel.php:873
+#, fuzzy
+msgid "The added file is not valid."
+msgstr "پرونده اضافه شده معتبر نیست."
+
+#: includes/class-yit-plugin-panel.php:874
+#, fuzzy
+msgid "Sorry, import is disabled."
+msgstr "با عرض پوزش ، واردات غیرفعال است"
+
+#: includes/class-yit-plugin-panel.php:875
+#, fuzzy
+msgid "Sorting successful."
+msgstr "مرتب سازی موفقیت آمیز است."
+
+#: includes/class-yit-plugin-panel.php:1343
+#, fuzzy
+msgid "We need your support"
+msgstr "ما به حمایت شما نیاز داریم"
+
+#: includes/class-yit-plugin-panel.php:1344
+#, fuzzy
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "برای به روزرسانی و بهبود پلاگین. لطفا،"
+
+#: includes/class-yit-plugin-panel.php:1346
+#, fuzzy
+msgid "help us by leaving a good review"
+msgstr "با گذاشتن یک بررسی خوب به ما کمک کنید"
+
+#: includes/class-yit-plugin-panel.php:1347
+#, fuzzy
+msgid ":) Thanks!"
+msgstr ":) با تشکر!"
+
+#: includes/class-yit-pointers.php:80
+#, fuzzy
+msgid "Plugins Activated"
+msgstr "افزونه ها فعال شدند"
+
+#: includes/class-yit-pointers.php:81
+#, fuzzy
+msgid ""
+"From now on, you can find all plugin options in YITH menu. Plugin "
+"customization settings will be available as a new entry in YITH menu."
+msgstr ""
+"از این پس می توانید تمام گزینه های پلاگین را در فهرست YITH پیدا کنید. "
+"تنظیمات سفارشی سازی پلاگین به عنوان ورودی جدید در فهرست YITH در دسترس خواهد "
+"بود."
+
+#. translators: 1. YITH site link; 2. WordPress site link.
+#: includes/class-yit-pointers.php:84 includes/class-yit-pointers.php:100
+#, fuzzy
+msgid "Discover all our plugins available on: %1$s and %2$s"
+msgstr "تمام افزونه های موجود ما را در:٪ 1 $ s و٪ 2 $ s کشف کنید"
+
+#: includes/class-yit-pointers.php:96
+#, fuzzy
+msgid "Plugins Upgraded"
+msgstr "پلاگین ها به روز شده اند"
+
+#: includes/class-yit-pointers.php:97
+#, fuzzy
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH menu. "
+"Every time one of our plugins is added, a new entry will be added to this "
+"menu. For example, after the update, plugin options (such as for YITH "
+"WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) will be moved from "
+"previous location to YITH menu."
+msgstr ""
+"از این پس می توانید پنل گزینه پلاگین های YITH را در فهرست YITH پیدا کنید. هر "
+"بار که یکی از افزونه های ما اضافه می شود ، ورودی جدیدی به این منو اضافه می "
+"شود. به عنوان مثال ، پس از به روزرسانی ، گزینه های پلاگین (مانند YITH "
+"WooCommerce Wishlist ، YITH WooCommerce Ajax Search و غیره) از مکان قبلی به "
+"فهرست YITH منتقل می شوند."
+
+#: includes/class-yith-dashboard.php:35
+#, fuzzy
+msgid "YITH Latest Updates"
+msgstr "با آخرین به روز رسانی ها"
+
+#: includes/class-yith-dashboard.php:36
+#, fuzzy
+msgid "Latest news from YITH Blog"
+msgstr "آخرین اخبار از وبلاگ YITH"
+
+#: includes/class-yith-dashboard.php:56
+#, fuzzy
+msgid "RSS Error:"
+msgstr "خطای RSS:"
+
+#: includes/class-yith-dashboard.php:63
+#, fuzzy
+msgid ""
+"An error has occurred, which probably means the feed is down. Try again "
+"later."
+msgstr ""
+"خطایی رخ داده است ، که احتمالاً به این معنی است که خبرمایه قطع است. بعدا "
+"دوباره تلاش کنید."
+
+#: includes/class-yith-system-status.php:110
+#, fuzzy
+msgid "WordPress Version"
+msgstr "نسخه وردپرس"
+
+#: includes/class-yith-system-status.php:111
+#, fuzzy
+msgid "WooCommerce Version"
+msgstr "نسخه WooCommerce"
+
+#: includes/class-yith-system-status.php:112
+#, fuzzy
+msgid "Available Memory"
+msgstr "حافظه موجود"
+
+#: includes/class-yith-system-status.php:113
+#, fuzzy
+msgid "PHP Version"
+msgstr "نسخه PHP"
+
+#: includes/class-yith-system-status.php:114
+#, fuzzy
+msgid "TLS Version"
+msgstr "نسخه TLS"
+
+#: includes/class-yith-system-status.php:115
+#, fuzzy
+msgid "WordPress Cron"
+msgstr "وردپرس Cron"
+
+#: includes/class-yith-system-status.php:116
+#, fuzzy
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: includes/class-yith-system-status.php:117
+#, fuzzy
+msgid "MultiByte String"
+msgstr "رشته چند بایت"
+
+#: includes/class-yith-system-status.php:118
+#, fuzzy
+msgid "ImageMagick Version"
+msgstr "نسخه ImageMagick"
+
+#: includes/class-yith-system-status.php:119
+#, fuzzy
+msgid "GD Library"
+msgstr "کتابخانه GD"
+
+#: includes/class-yith-system-status.php:120
+#, fuzzy
+msgid "Iconv Module"
+msgstr "ماژول Iconv"
+
+#: includes/class-yith-system-status.php:121
+#, fuzzy
+msgid "OPCache Save Comments"
+msgstr "OPCache ذخیره نظرات"
+
+#: includes/class-yith-system-status.php:122
+#, fuzzy
+msgid "URL FOpen"
+msgstr "URL را باز کنید"
+
+#: includes/class-yith-system-status.php:140
+#: includes/class-yith-system-status.php:141
+#: templates/sysinfo/system-information-panel.php:11
+#, fuzzy
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: includes/class-yith-system-status.php:183
+#, fuzzy
+msgid "YITH Plugins"
+msgstr "پلاگین های YITH"
+
+#: includes/class-yith-system-status.php:191
+#, fuzzy
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: includes/class-yith-system-status.php:342
+#, fuzzy
+msgid "Warning!"
+msgstr "هشدار"
+
+#. translators: %1$s open link tag, %2$s open link tag
+#: includes/class-yith-system-status.php:346
+#, fuzzy
+msgid ""
+"The system check has detected some compatibility issues on your installation."
+"%1$sClick here%2$s to know more"
+msgstr ""
+"بررسی سیستم برخی از مشکلات سازگاری را در نصب شما شناسایی کرده است.٪ 1 $ s "
+"برای اطلاعات بیشتر اینجا را کلیک کنید٪ 2 $ s"
+
+#: includes/class-yith-system-status.php:488
+#, fuzzy
+msgid "Enabled"
+msgstr "فعال شد"
+
+#: includes/class-yith-system-status.php:488
+#, fuzzy
+msgid "Disabled"
+msgstr "معلول"
+
+#: includes/class-yith-system-status.php:493
+#, fuzzy
+msgid "N/A"
+msgstr "N / A"
+
+#. translators: %1$s plugin name, %2$s requirement name
+#: includes/class-yith-system-status.php:520
+#, fuzzy
+msgid "%1$s needs %2$s enabled"
+msgstr "٪ 1 $ s نیاز به٪ 2 $ s فعال دارد"
+
+#. translators: %1$s plugin name, %2$s required memory amount
+#: includes/class-yith-system-status.php:523
+#, fuzzy
+msgid "%1$s needs at least %2$s of available memory"
+msgstr "٪ 1 $ s حداقل به٪ 2 $ s حافظه موجود نیاز دارد"
+
+#. translators: %1$s plugin name, %2$s version number
+#: includes/class-yith-system-status.php:526
+#, fuzzy
+msgid "%1$s needs at least %2$s version"
+msgstr "٪ 1 $ s حداقل به نسخه٪ 2 $ s نیاز دارد"
+
+#: includes/class-yith-system-status.php:550
+#, fuzzy
+msgid ""
+"Update it to the latest version in order to benefit of all new features and "
+"security updates."
+msgstr ""
+"آن را به جدیدترین نسخه به روز کنید تا از تمام ویژگی های جدید و به روزرسانی "
+"های امنیتی بهره مند شوید."
+
+#: includes/class-yith-system-status.php:554
+#: includes/class-yith-system-status.php:560
+#, fuzzy
+msgid "Contact your hosting company in order to update it."
+msgstr "برای به روزرسانی شرکت میزبان خود تماس بگیرید."
+
+#: includes/class-yith-system-status.php:558
+#, fuzzy
+msgid "Contact your hosting company in order to install it."
+msgstr "جهت نصب با شرکت میزبان خود تماس بگیرید."
+
+#. translators: %1$s code, %2$s file name
+#: includes/class-yith-system-status.php:565
+#, fuzzy
+msgid "Remove %1$s from %2$s file"
+msgstr "٪ 1 $ s را از پرونده٪ 2 $ s حذف کنید"
+
+#: includes/class-yith-system-status.php:573
+#, fuzzy
+msgid "Contact your hosting company in order to enable it."
+msgstr "برای فعال کردن شرکت میزبان خود تماس بگیرید."
+
+#. translators: %1$s opening link tag, %2$s closing link tag
+#: includes/class-yith-system-status.php:577
+#: includes/class-yith-system-status.php:600
+#, fuzzy
+msgid ""
+"Read more %1$shere%2$s or contact your hosting company in order to increase "
+"it."
+msgstr ""
+"بیشتر٪ 1 $ shere٪ 2 $ s را بخوانید یا برای افزایش آن با شرکت میزبان خود تماس "
+"بگیرید."
+
+#. translators: %s recommended memory amount
+#: includes/class-yith-system-status.php:597
+#, fuzzy
+msgid ""
+"For optimal functioning of our plugins, we suggest setting at least %s of "
+"available memory"
+msgstr ""
+"برای عملکرد مطلوب افزونه ها ، پیشنهاد می کنیم حداقل٪ s حافظه موجود را تنظیم "
+"کنید"
+
+#. translators: %1$s TLS label, %2$s cURL label
+#: includes/class-yith-system-status.php:605
+#, fuzzy
+msgid ""
+"The system check cannot determine which %1$s version is installed because "
+"%2$s module is disabled. Ask your hosting company to enable it."
+msgstr ""
+"بررسی سیستم نمی تواند تعیین کند کدام نسخه٪ 1 $ s نصب شده است زیرا ماژول٪ 2 $ "
+"s غیرفعال است. از شرکت میزبان خود بخواهید آن را فعال کند."
+
+#. translators: %1$s TLS label
+#: includes/class-yith-system-status.php:608
+#, fuzzy
+msgid ""
+"The system check cannot determine which %1$s version is installed due to a "
+"connection issue between your site and our server."
+msgstr ""
+"بررسی سیستم نمی تواند تعیین کند کدام نسخه٪ 1 $ s نصب شده است به دلیل مشکل "
+"اتصال بین سایت شما و سرور ما."
+
+#: templates/fields/ajax-customers.php:41
+#, fuzzy
+msgid "Search Customers"
+msgstr "جستجوی مشتریان"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: templates/fields/ajax-customers.php:68
+#: templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: templates/fields/ajax-posts.php:41
+#, fuzzy
+msgid "Search Posts"
+msgstr "جستجوی پست ها"
+
+#: templates/fields/ajax-products.php:14
+#, fuzzy
+msgid "Search Product"
+msgstr "جستجوی محصول"
+
+#: templates/fields/ajax-terms.php:41
+#, fuzzy
+msgid "Search Categories"
+msgstr "جستجوی دسته ها"
+
+#: templates/fields/customtabs.php:17
+#, fuzzy
+msgid "Close all"
+msgstr "بستن همه"
+
+#: templates/fields/customtabs.php:17
+#, fuzzy
+msgid "Expand all"
+msgstr "همه را بزرگ کنید"
+
+#: templates/fields/customtabs.php:25 templates/fields/customtabs.php:68
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#: templates/fields/customtabs.php:34 templates/fields/customtabs.php:76
+#, fuzzy
+msgid "Name"
+msgstr "نام"
+
+#: templates/fields/customtabs.php:40 templates/fields/customtabs.php:81
+#, fuzzy
+msgid "Value"
+msgstr "مقدار"
+
+#: templates/fields/customtabs.php:41 templates/fields/customtabs.php:82
+#, fuzzy
+msgid "Content of the tab. (HTML is supported)"
+msgstr "محتوای برگه. (HTML پشتیبانی می شود)"
+
+#: templates/fields/customtabs.php:52
+#, fuzzy
+msgid "Add custom product tab"
+msgstr "برگه محصول سفارشی را اضافه کنید"
+
+#: templates/fields/customtabs.php:93
+#, fuzzy
+msgid "Do you want to remove the custom tab?"
+msgstr "آیا می خواهید برگه سفارشی را حذف کنید؟"
+
+#: templates/fields/date-format.php:65
+#, fuzzy
+msgid "Custom:"
+msgstr "سفارشی:"
+
+#: templates/fields/date-format.php:70
+#, fuzzy
+msgid "Preview:"
+msgstr "پیش نمایش:"
+
+#: templates/fields/icons.php:63
+#, fuzzy
+msgid "Set Default"
+msgstr "مجموعه پیش فرض"
+
+#: templates/fields/image-gallery.php:29 templates/fields/image-gallery.php:40
+#, fuzzy
+msgid "Delete image"
+msgstr "حذف تصویر"
+
+#: templates/fields/image-gallery.php:37
+#, fuzzy
+msgid "Add Images to Gallery"
+msgstr "تصاویر را به گالری اضافه کنید"
+
+#: templates/fields/image-gallery.php:38
+#, fuzzy
+msgid "Add to gallery"
+msgstr "افزودن به گالری"
+
+#: templates/fields/image-gallery.php:39
+#, fuzzy
+msgid "Add images"
+msgstr "تصاویر اضافه کنید"
+
+#: templates/fields/image-gallery.php:41
+#, fuzzy
+msgid "Delete"
+msgstr "حذف"
+
+#: templates/fields/select-buttons.php:19
+#, fuzzy
+msgid "Add All"
+msgstr "اضافه کردن همه"
+
+#: templates/fields/select-buttons.php:32
+#, fuzzy
+msgid "Remove All"
+msgstr "حذف همه"
+
+#: templates/fields/sidebars.php:20
+#, fuzzy
+msgid "Left sidebar"
+msgstr "نوار کناری سمت چپ"
+
+#: templates/fields/sidebars.php:23
+#, fuzzy
+msgid "Right sidebar"
+msgstr "نوار کناری سمت راست"
+
+#: templates/fields/sidebars.php:26 templates/fields/sidebars.php:29
+#, fuzzy
+msgid "No sidebar"
+msgstr "بدون نوار کناری"
+
+#: templates/fields/sidebars.php:39
+#, fuzzy
+msgid "Left Sidebar"
+msgstr "نوار کناری سمت چپ"
+
+#: templates/fields/sidebars.php:41 templates/fields/sidebars.php:56
+#, fuzzy
+msgid "Choose a sidebar"
+msgstr "نوار کناری را انتخاب کنید"
+
+#: templates/fields/sidebars.php:54
+#, fuzzy
+msgid "Right Sidebar"
+msgstr "نوار کناری سمت راست"
+
+#: templates/fields/upload.php:34
+#: templates/panel/woocommerce/woocommerce-upload.php:37
+#, fuzzy
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: templates/fields/upload.php:39
+#, fuzzy
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: templates/panel/woocommerce/woocommerce-form.php:34
+#, fuzzy
+msgid "Reset Defaults"
+msgstr "تنظیم مجدد پیش فرض ها"
+
+#: templates/sysinfo/system-information-panel.php:12
+#, fuzzy
+msgid "PHPInfo"
+msgstr "PHPInfo"
+
+#: templates/sysinfo/system-information-panel.php:13
+#: templates/sysinfo/tabs/error-log.php:25
+#, fuzzy
+msgid "Log Files"
+msgstr "ثبت پرونده ها"
+
+#: templates/sysinfo/system-information-panel.php:22
+#, fuzzy
+msgid "YITH System Information"
+msgstr "اطلاعات سیستم"
+
+#: templates/sysinfo/tabs/error-log.php:13
+#, fuzzy
+msgid "WP debug.log file"
+msgstr "پرونده WP debug.log"
+
+#: templates/sysinfo/tabs/error-log.php:18
+#, fuzzy
+msgid "PHP error_log file"
+msgstr "فایل پی اچ پی خطا"
+
+#: templates/sysinfo/tabs/error-log.php:60
+#, fuzzy
+msgid "Download"
+msgstr "دانلود"
+
+#: templates/sysinfo/tabs/error-log.php:72
+#, fuzzy
+msgid "The file size exceeds 8 megabytes so it must be downloaded"
+msgstr "اندازه پرونده بیش از 8 مگابایت است بنابراین باید بارگیری شود"
+
+#. translators: %s file name.
+#: templates/sysinfo/tabs/error-log.php:96
+#, fuzzy
+msgid ""
+"No Log file available. Enable the WordPress debug by adding this in the %s "
+"file of your installation"
+msgstr ""
+"پرونده ورود به سیستم موجود نیست. با افزودن این مورد در فایل٪ s نصب ، اشکال "
+"زدایی وردپرس را فعال کنید"
+
+#: templates/sysinfo/tabs/error-log.php:105
+#, fuzzy
+msgid "Copied!"
+msgstr "کپی شد"
+
+#: templates/sysinfo/tabs/error-log.php:105
+#, fuzzy
+msgid "Copy Code"
+msgstr "کپی کردن کد"
+
+#: templates/sysinfo/tabs/main.php:15
+#, fuzzy
+msgid "Site Info"
+msgstr "اطلاعات سایت"
+
+#: templates/sysinfo/tabs/main.php:20
+#, fuzzy
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: templates/sysinfo/tabs/main.php:29
+#, fuzzy
+msgid "Output IP Address"
+msgstr "آدرس IP خروجی"
+
+#: templates/sysinfo/tabs/main.php:37
+#, fuzzy
+msgid "Defined WP_CACHE"
+msgstr "WP_CACHE تعریف شده است"
+
+#: templates/sysinfo/tabs/main.php:40 templates/sysinfo/tabs/main.php:48
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#: templates/sysinfo/tabs/main.php:40 templates/sysinfo/tabs/main.php:48
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#: templates/sysinfo/tabs/main.php:45
+#, fuzzy
+msgid "External object cache"
+msgstr "حافظه نهان خارجی شی"
+
+#: templates/sysinfo/tabs/main.php:54
+#, fuzzy
+msgid "Plugins Requirements"
+msgstr "الزامات پلاگین ها"
+
+#: yit-plugin.php:190
+#, fuzzy
+msgid "License"
+msgstr "مجوز"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "YITH"
+msgstr "بله"
+
+#. translators: %s it the Elementor Widget title.
+#: includes/builders/elementor/class-yith-elementor-widget.php:252
+#, fuzzy
+msgctxt "Elementor Widget - section title"
+msgid "%s - Options"
+msgstr "٪ s - گزینه ها"
+
+#: includes/builders/gutenberg/class-yith-gutenberg.php:147
+#, fuzzy
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "بله"
+
+#: includes/class-yith-dashboard.php:96
+#, fuzzy
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "مشاهده تغییرات"
+
+#: includes/class-yith-dashboard.php:97
+#, fuzzy
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "آخرین به روزرسانی منتشر شده در"
+
+#: includes/class-yith-dashboard.php:137
+#, fuzzy
+msgctxt "Button label"
+msgid "Close"
+msgstr "نزدیک"
+
+#: includes/privacy/class-yith-privacy.php:61
+#, fuzzy
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "پلاگین های YITH"
+
+#: includes/privacy/class-yith-privacy.php:93
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid ""
+"This sample language includes the basics around what personal data your "
+"store may be collecting, storing and sharing, as well as who may have access "
+"to that data. Depending on what settings are enabled and which additional "
+"plugins are used, the specific information shared by your store will vary. "
+"We recommend consulting with a lawyer when deciding what information to "
+"disclose on your privacy policy."
+msgstr ""
+"این زبان نمونه شامل اصول مربوط به اطلاعات شخصی شما است که ممکن است فروشگاه "
+"شما جمع آوری ، ذخیره و به اشتراک بگذارد و همچنین افرادی که به این داده ها "
+"دسترسی دارند. بسته به اینکه چه تنظیماتی فعال هستند و از کدام افزونه های "
+"اضافی استفاده می شود ، اطلاعات خاص مشترک فروشگاه شما متفاوت خواهد بود. توصیه "
+"می کنیم هنگام تصمیم گیری در مورد سیاست حفظ حریم خصوصی خود با یک وکیل مشورت "
+"کنید."
+
+#: includes/privacy/class-yith-privacy.php:97
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "آنچه را جمع آوری و ذخیره می کنیم"
+
+#: includes/privacy/class-yith-privacy.php:100
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "چه کسی در تیم ما دسترسی دارد"
+
+#: includes/privacy/class-yith-privacy.php:103
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "آنچه با دیگران به اشتراک می گذاریم"
+
+#: includes/privacy/class-yith-privacy.php:106
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "مبلغ پرداختی"
+
+#: templates/fields/copy-to-clipboard.php:41
+#, fuzzy
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr "کپی شد"
+
+#: templates/fields/copy-to-clipboard.php:45
+#, fuzzy
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr "کپی 🀄"
+
+#: templates/fields/dimensions.php:13
+#, fuzzy
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "بالا"
+
+#: templates/fields/dimensions.php:14
+#, fuzzy
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "درست"
+
+#: templates/fields/dimensions.php:15
+#, fuzzy
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "پایین"
+
+#: templates/fields/dimensions.php:16
+#, fuzzy
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "ترک کرد"
+
+#: templates/fields/dimensions.php:94
+#, fuzzy
+msgctxt "Tooltip in the \"Dimensions\" field"
+msgid "Link values together"
+msgstr "مقادیر را با هم پیوند دهید"
+
+#: templates/fields/onoff.php:28
+#, fuzzy
+msgctxt "YES/NO button: use MAX 4 characters!"
+msgid "YES"
+msgstr "آره"
+
+#: templates/fields/onoff.php:29
+#, fuzzy
+msgctxt "YES/NO button: use MAX 4 characters!"
+msgid "NO"
+msgstr "نه"
+
+#: yit-plugin.php:78
+#, fuzzy
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "نسخه ی نمایشی زنده"
+
+#: yit-plugin.php:82
+#, fuzzy
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "مستندات"
+
+#: yit-plugin.php:86
+#, fuzzy
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "حمایت کردن"
+
+#: yit-plugin.php:90
+#, fuzzy
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "نسخه ممتاز"
+
+#: yit-plugin.php:186
+#, fuzzy
+msgctxt "Action links"
+msgid "Settings"
+msgstr "تنظیمات"

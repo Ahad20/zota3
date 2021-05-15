@@ -1,0 +1,2356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Active Products Tables for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-03 01:09+0000\n"
+"PO-Revision-Date: 2021-05-07 11:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: profit-products-tables-for-woocommerce"
+
+#: classes/tables.php:237
+#, php-format
+msgid "%s (clone)"
+msgstr "%s (کلون)"
+
+#: profiles/woocommerce/views/reviews.php:38
+#: profiles/woocommerce/views/reviews.php:43
+#, php-format
+msgid "%s reviews"
+msgstr "%s بررسی"
+
+#: classes/tables-meta.php:463
+#, fuzzy
+msgid "0 write key here"
+msgstr "0 نوشتن کلید در اینجا"
+
+#: profiles/woocommerce/woocommerce.php:406
+#, fuzzy
+msgid "Action after clicking on button Add to cart"
+msgstr "پس از کلیک بر روی دکمه افزودن به سبد خرید اقدام کنید"
+
+#: classes/columns.php:106 classes/tables-meta.php:296 classes/tables.php:88
+#, fuzzy
+msgid "Actions"
+msgstr "اقدامات"
+
+#: classes/columns.php:86
+#, fuzzy
+msgid "Active"
+msgstr "فعال"
+
+#. Name of the plugin
+#, fuzzy
+msgid "Active Products Tables for WooCommerce"
+msgstr "جداول محصولات فعال برای ووکامرس"
+
+#: views/options.php:35
+#, php-format
+msgid "Actualized for WooCommerce v.%s"
+msgstr "واقعی برای WooCommerce v.%s"
+
+#: views/options.php:486
+#, fuzzy
+msgid "Add meta field"
+msgstr "اضافه کردن فیلد متا"
+
+#: index.php:292
+#, fuzzy
+msgid "add selected"
+msgstr "اضافه شده انتخاب شده"
+
+#: index.php:293
+#, fuzzy
+msgid "Add to cart"
+msgstr "افزودن به سبد خرید"
+
+#: index.php:272
+#, fuzzy
+msgid "Added!"
+msgstr "اضافه!"
+
+#: index.php:271
+#, fuzzy
+msgid "Adding"
+msgstr "اضافه كردن"
+
+#: index.php:282
+#, fuzzy
+msgid "Adding to cart ..."
+msgstr "در حال افزودن به سبد خرید ..."
+
+#: profiles/woocommerce/woocommerce.php:397
+#, fuzzy
+msgid "After to cart adding"
+msgstr "بعد از اضافه کردن به سبد خرید"
+
+#: views/options.php:146
+#, fuzzy
+msgid "All possible columns keys"
+msgstr "کلیدهای ستون های ممکن"
+
+#: views/options.php:495
+#, php-format
+msgid "Also for products filtration you can use %s filter!"
+msgstr "همچنین برای فیلتراسیون محصولات می توانید از فیلتر %s استفاده کنید!"
+
+#: views/options.php:478
+#, fuzzy
+msgid "Also read"
+msgstr "همچنین بخوانید"
+
+#: views/options.php:436
+#, fuzzy
+msgid "Append column"
+msgstr "ستون را اضافه کنید"
+
+#: views/options.php:527
+#, fuzzy
+msgid "Apply"
+msgstr "درخواست دادن"
+
+#: lib/helper.php:396
+#, fuzzy
+msgid "Apr"
+msgstr "آوریل"
+
+#: lib/helper.php:382
+#, fuzzy
+msgid "April"
+msgstr "آوریل"
+
+#: index.php:278
+#, fuzzy
+msgid "Are you sure?"
+msgstr "مطمئنی؟"
+
+#: classes/tables-meta.php:49
+#, fuzzy
+msgid "Ascending"
+msgstr "صعودی"
+
+#: classes/tables-options.php:362
+#, fuzzy
+msgid ""
+"Attach to table constant html id which you can use for targeted CSS "
+"customizations. Remember that ID should be unique! If you not understand it -"
+" leave this field empty."
+msgstr ""
+"به شناسه ثابت html جدول پیوست کنید که می توانید برای سفارشی سازی های هدفمند "
+"CSS استفاده کنید. به یاد داشته باشید که شناسه باید منحصر به فرد باشد! اگر آن "
+"را نمی فهمید - این قسمت را خالی بگذارید."
+
+#: views/options.php:278
+#, fuzzy
+msgid "Attachments"
+msgstr "پیوست ها"
+
+#: index.php:1532
+#, fuzzy
+msgid "ATTENTION! All existed WOOT data will be wiped!"
+msgstr "توجه! تمام داده های WOOT موجود پاک می شوند!"
+
+#: profiles/woocommerce/woocommerce.php:1714
+#, fuzzy
+msgid "attribute not exist"
+msgstr "صفت وجود ندارد"
+
+#: lib/helper.php:400
+#, fuzzy
+msgid "Aug"
+msgstr "اوت"
+
+#: lib/helper.php:386
+#, fuzzy
+msgid "August"
+msgstr "مرداد"
+
+#: profiles/default.php:66 profiles/woocommerce/woocommerce.php:790
+#: profiles/woocommerce/woocommerce.php:828
+#, fuzzy
+msgid "Author"
+msgstr "نویسنده"
+
+#: classes/predefinition.php:233
+#, fuzzy
+msgid "Authors"
+msgstr "نویسندگان"
+
+#: classes/columns-fields-options.php:331
+#, fuzzy
+msgid "Background"
+msgstr "زمینه"
+
+#: classes/predefinition.php:240
+#, fuzzy
+msgid "Bestsellers"
+msgstr "بهترین فروشندگان"
+
+#: classes/predefinition.php:243
+#, fuzzy
+msgid ""
+"Bestsellers products. Set their count to display. Set -1 if you do not want "
+"to use it."
+msgstr ""
+"محصولات پرفروش تعداد آنها را برای نمایش تنظیم کنید. اگر نمی خواهید از آن "
+"استفاده کنید ، -1 را تنظیم کنید."
+
+#: classes/tables-options.php:223 classes/tables-options.php:237
+#, fuzzy
+msgid "Bottom"
+msgstr "پایین"
+
+#: classes/tables-meta.php:384
+#, fuzzy
+msgid "calendar"
+msgstr "تقویم"
+
+#: classes/tables.php:137 profiles/woocommerce/woocommerce.php:1816
+#, fuzzy
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: profiles/woocommerce/woocommerce.php:389
+#, fuzzy
+msgid "Cart left, Sorting dropdown right"
+msgstr "سبد خرید سمت چپ ، مرتب سازی کشویی سمت راست"
+
+#: profiles/woocommerce/views/woot_cart.php:19
+#, fuzzy
+msgid "Cart loading"
+msgstr "بارگیری سبد خرید"
+
+#: profiles/woocommerce/woocommerce.php:388
+#, fuzzy
+msgid "Cart right, Sorting dropdown left"
+msgstr "سبد خرید راست ، مرتب سازی کشویی سمت چپ"
+
+#: index.php:284
+#, fuzzy
+msgid "Cart updated!"
+msgstr "سبد خرید به روز شد!"
+
+#: profiles/woocommerce/woocommerce.php:384
+#, fuzzy
+msgid "Cart/Sorting positions"
+msgstr "سبد خرید / مرتب سازی موقعیت ها"
+
+#: index.php:295
+#, fuzzy
+msgid "Checkout"
+msgstr "وارسی"
+
+#: index.php:296
+#, fuzzy
+msgid "Clear cart"
+msgstr "گاری را پاک کنید"
+
+#: index.php:1667
+#, fuzzy
+msgid "click me"
+msgstr "مرا کلیک کن"
+
+#: index.php:505
+#, fuzzy
+msgid "click on me"
+msgstr "روی من کلیک کن"
+
+#: classes/tables.php:337
+#, fuzzy
+msgid "clone table"
+msgstr "جدول کلون"
+
+#: index.php:277
+#, fuzzy
+msgid "Cloned!"
+msgstr "شبیه سازی شده!"
+
+#: index.php:276
+#, fuzzy
+msgid "Cloning"
+msgstr "شبیه سازی"
+
+#: views/options.php:526 views/popup.php:25
+#, fuzzy
+msgid "Close"
+msgstr "نزدیک"
+
+#: views/options.php:223
+#, fuzzy
+msgid "Codex"
+msgstr "Codex"
+
+#: classes/columns-fields-options.php:313
+#, fuzzy
+msgid "Color"
+msgstr "رنگ"
+
+#: views/options.php:354
+#, fuzzy
+msgid "Columns"
+msgstr "ستون ها"
+
+#: profiles/woocommerce/woocommerce-universal.php:97
+#, php-format
+msgid "Columns for %s and shortcode [%s]. Press and wait to reorder."
+msgstr ""
+"ستون های %s و کد کوتاه [%s]. را فشار دهید و منتظر بمانید تا دوباره سفارش "
+"دهید."
+
+#: profiles/woocommerce/woocommerce-single.php:50
+#, fuzzy
+msgid ""
+"Columns for table Single and shortcode [woot_single]. Press and wait to "
+"reorder."
+msgstr ""
+"ستون های جدول تک و کد کوتاه [woot_single]. را فشار دهید و منتظر بمانید تا "
+"دوباره سفارش دهید."
+
+#: index.php:1546
+#, fuzzy
+msgid "Columns keys"
+msgstr "کلیدهای ستون ها"
+
+#: profiles/woocommerce/woocommerce-cart.php:162
+#, fuzzy
+msgid "Columns of WOOT shop cart. Press and wait to reorder."
+msgstr ""
+"ستون های سبد خرید WOOT. را فشار دهید و منتظر بمانید تا دوباره سفارش دهید."
+
+#: profiles/woocommerce/woocommerce-reviews.php:32
+#, fuzzy
+msgid "Comment"
+msgstr "اظهار نظر"
+
+#: profiles/default.php:77 profiles/woocommerce/woocommerce.php:910
+#, fuzzy
+msgid "Comment count"
+msgstr "تعداد نظرات"
+
+#: classes/tables-options.php:352
+#, fuzzy
+msgid "Compact view width"
+msgstr "عرض دید فشرده"
+
+#: views/options.php:272
+#, fuzzy
+msgid "Compare"
+msgstr "مقایسه کنید"
+
+#: classes/filter-fields-options.php:217
+msgid "Container width. By default is 100%. Example: 50%, 150px"
+msgstr "عرض ظرف. به طور پیش فرض 100% است. مثال: 50% ، 150px"
+
+#: profiles/default.php:52 profiles/default.php:54
+#: profiles/woocommerce/woocommerce.php:728
+#, fuzzy
+msgid "Content"
+msgstr "محتوا"
+
+#: views/options.php:173
+#, fuzzy
+msgid "Create"
+msgstr "ايجاد كردن"
+
+#: views/options.php:111
+#, fuzzy
+msgid "Create table"
+msgstr "ایجاد جدول"
+
+#: index.php:268
+#, fuzzy
+msgid "Created!"
+msgstr "ایجاد شده!"
+
+#: index.php:267
+#, fuzzy
+msgid "Creating"
+msgstr "پدید آوردن"
+
+#: profiles/woocommerce/woocommerce.php:1555
+#, fuzzy
+msgid "Cross sells"
+msgstr "کراس می فروشد"
+
+#: profiles/woocommerce/woocommerce-cross-sells.php:20
+#, fuzzy
+msgid "Cross-sells columns"
+msgstr "متقابل ستون ها را می فروشد"
+
+#: profiles/woocommerce/woocommerce.php:1583
+#, php-format
+msgid "Cross[%s]"
+msgstr "صلیب [%s]"
+
+#: views/options.php:391
+#, fuzzy
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: classes/filter-fields-options.php:226
+#, fuzzy
+msgid "Data type"
+msgstr "نوع داده"
+
+#: profiles/default.php:69 profiles/woocommerce/woocommerce-reviews.php:39
+#, fuzzy
+msgid "Date"
+msgstr "تاریخ"
+
+#: lib/helper.php:404
+#, fuzzy
+msgid "Dec"
+msgstr "دسامبر"
+
+#: lib/helper.php:390
+#, fuzzy
+msgid "December"
+msgstr "دسامبر"
+
+#: classes/skins.php:31 profiles/default.php:14
+#, fuzzy
+msgid "Default"
+msgstr "پیش فرض"
+
+#: classes/tables-options.php:254
+#, fuzzy
+msgid "Default order"
+msgstr "سفارش پیش فرض"
+
+#: classes/tables-options.php:245
+#, fuzzy
+msgid "Default order by"
+msgstr "سفارش پیش فرض توسط"
+
+#: classes/settings.php:208
+#, fuzzy
+msgid "Default size of products thumbnails (px)"
+msgstr "اندازه پیش فرض تصاویر کوچک محصولات (px)"
+
+#: classes/columns.php:300 classes/tables-meta.php:398
+#: classes/vocabulary.php:189
+#, fuzzy
+msgid "delete"
+msgstr "حذف"
+
+#: classes/tables.php:342
+#, fuzzy
+msgid "delete table"
+msgstr "حذف جدول"
+
+#: index.php:274
+#, fuzzy
+msgid "Deleted!"
+msgstr "حذف شده!"
+
+#: index.php:273
+#, fuzzy
+msgid "Deleting"
+msgstr "در حال حذف شدن"
+
+#: views/options.php:244
+#, fuzzy
+msgid "Demo"
+msgstr "نسخه ی نمایشی"
+
+#: classes/tables-meta.php:50
+#, fuzzy
+msgid "Descending"
+msgstr "نزولی"
+
+#: classes/tables-options.php:348
+#, fuzzy
+msgid ""
+"Disable columns data ordering on the site front in the columns where it is "
+"possible"
+msgstr "در صورت امکان سفارش داده ستونها را در قسمت جلو ستونها غیرفعال کنید"
+
+#: classes/tables-options.php:339
+#, fuzzy
+msgid "Disable columns order-by"
+msgstr "غیرفعال کردن ستون ها به ترتیب"
+
+#: classes/tables-options.php:311
+#, fuzzy
+msgid "Disable filter form"
+msgstr "فرم فیلتر را غیرفعال کنید"
+
+#: classes/filter-fields-options.php:252
+#, fuzzy
+msgid "Display as multi-select"
+msgstr "به صورت چند گزینه ای نمایش داده شود"
+
+#: classes/columns-fields-options.php:162
+#: classes/columns-fields-options.php:180
+#, fuzzy
+msgid "Display as text"
+msgstr "نمایش به عنوان متن"
+
+#: classes/columns-fields-options.php:182
+#, fuzzy
+msgid "Display as text instead of link to the product"
+msgstr "به جای نوشتن پیوند به محصول ، به عنوان متن نمایش داده شود"
+
+#: classes/tables-options.php:366
+#, fuzzy
+msgid "Display cell info"
+msgstr "نمایش اطلاعات سلول"
+
+#: classes/tables-options.php:369
+#, fuzzy
+msgid "Display cell info on its mouse hover"
+msgstr "اطلاعات سلول را در موشواره خود نشان دهید"
+
+#: classes/predefinition.php:257
+#, fuzzy
+msgid ""
+"Display products which relevant to the rule. Example: product_cat:25,"
+"26|pa_color:19|rel:AND. Set -1 if you do not want to use it."
+msgstr ""
+"محصولاتی را که مربوط به این قانون هستند نمایش دهید. مثال: product_cat: 25،26 "
+"| pa_color: 19 | rel: AND. اگر نمی خواهید از آن استفاده کنید ، -1 را تنظیم "
+"کنید."
+
+#: profiles/woocommerce/woocommerce.php:379
+#, fuzzy
+msgid ""
+"Displays cart as button with information, on click popup with selected "
+"products appears"
+msgstr ""
+"سبد خرید را به عنوان دکمه با اطلاعات نشان می دهد ، در پنجره کلیک با محصولات "
+"انتخاب شده ظاهر می شود"
+
+#: profiles/woocommerce/woocommerce.php:357
+#, fuzzy
+msgid "Displays Sorting Dropdown list"
+msgstr "مرتب سازی لیست کشویی را نمایش می دهد"
+
+#: profiles/woocommerce/woocommerce.php:414
+#, fuzzy
+msgid "Do not display in the table products, which are in the cart"
+msgstr "محصولات موجود در جدول را که در سبد خرید هستند نمایش ندهید"
+
+#: index.php:106 views/options.php:209
+#, fuzzy
+msgid "Documentation"
+msgstr "مستندات"
+
+#: profiles/woocommerce/woocommerce.php:1088
+#, fuzzy
+msgid "Downloadable"
+msgstr "قابل بارگیری"
+
+#: classes/columns.php:221
+#, fuzzy
+msgid "drag and drope"
+msgstr "کشیدن و قطره قطره شدن"
+
+#: classes/columns.php:292
+#, fuzzy
+msgid "edit"
+msgstr "ویرایش"
+
+#: classes/settings.php:214
+#, fuzzy
+msgid ""
+"Enable this option ONLY if you are going to uninstall WOOT completely and "
+"forever. For updates keep it disabled."
+msgstr ""
+"اگر می خواهید WOOT را به طور کامل و برای همیشه حذف نصب کنید ، این گزینه را "
+"فقط فعال کنید. برای به روزرسانی آن را غیرفعال کنید."
+
+#: classes/settings.php:180
+#, fuzzy
+msgid ""
+"Enable/Disable WOOT button on the top admin bar. Button will "
+"appear/disappear after the page reloading!"
+msgstr ""
+"دکمه WOOT را در نوار مدیر بالا فعال یا غیرفعال کنید. بعد از بارگیری مجدد "
+"صفحه ، دکمه ظاهر می شود / ناپدید می شود!"
+
+#: index.php:266 index.php:281 index.php:993
+#, fuzzy
+msgid "Error!"
+msgstr "خطا"
+
+#: profiles/woocommerce/woocommerce.php:1476
+#, fuzzy
+msgid "exactly 5"
+msgstr "دقیقاً 5"
+
+#: classes/columns-fields-options.php:340
+msgid "Example: #000000 OR https://__IMG_URL__"
+msgstr "مثال: #000000 یا https: // __ IMG_URL__"
+
+#: classes/columns-fields-options.php:322
+msgid "Example: #00ff00"
+msgstr "مثال: #00ff00"
+
+#: classes/columns-fields-options.php:284
+#, fuzzy
+msgid "Example: 16px OR 1.2em"
+msgstr "مثال: 16px یا 1.2em"
+
+#: profiles/default.php:42 profiles/default.php:44
+#: profiles/woocommerce/woocommerce.php:701
+#, fuzzy
+msgid "Excerpt"
+msgstr "گزیده"
+
+#: classes/filter-fields-options.php:281
+#, fuzzy
+msgid "Exclude"
+msgstr "استثنا کردن"
+
+#: classes/predefinition.php:184
+#, fuzzy
+msgid "Exclude products ids"
+msgstr "شناسه محصولات را حذف کنید"
+
+#: classes/predefinition.php:198
+#, fuzzy
+msgid "Exclude products SKU"
+msgstr "محصولات SKU را حذف کنید"
+
+#: classes/predefinition.php:264
+#, fuzzy
+msgid ""
+"Exclude products which relevant to the rule. Example: pa_color:19|pa_size:"
+"21|rel:OR. Set -1 if you do not want to use it."
+msgstr ""
+"محصولی را که مربوط به قانون است ، حذف کنید. مثال: pa_color: 19 | pa_size: 21 "
+"| rel: OR. اگر نمی خواهید از آن استفاده کنید ، -1 را تنظیم کنید."
+
+#: classes/predefinition.php:261
+#, fuzzy
+msgid "Excluded taxonomy"
+msgstr "طبقه بندی مستثنی"
+
+#: views/options.php:147
+#, fuzzy
+msgid "Export WOOT Data"
+msgstr "صادرات داده های WOOT"
+
+#: views/options.php:257
+#, fuzzy
+msgid "Extensions for WOOT"
+msgstr "برنامه های افزودنی برای WOOT"
+
+#: views/options.php:216
+#, fuzzy
+msgid "FAQ"
+msgstr "سالات متداول"
+
+#: views/options.php:266
+#, fuzzy
+msgid "Favourites"
+msgstr "موارد دلخواه"
+
+#: profiles/woocommerce/woocommerce.php:1637
+#, fuzzy
+msgid "Featured"
+msgstr "ویژه"
+
+#: profiles/woocommerce/woocommerce.php:637
+#, fuzzy
+msgid "featured"
+msgstr "ویژه"
+
+#: classes/predefinition.php:226
+#, fuzzy
+msgid "Featured only"
+msgstr "فقط ویژه"
+
+#: lib/helper.php:394
+#, fuzzy
+msgid "Feb"
+msgstr "فوریه"
+
+#: lib/helper.php:380
+#, fuzzy
+msgid "February"
+msgstr "فوریه"
+
+#: classes/columns.php:94
+#, fuzzy
+msgid "Field"
+msgstr "رشته"
+
+#: profiles/woocommerce/woocommerce.php:371
+#, fuzzy
+msgid ""
+"fields which you want to see in Sorting Dropdown fields. Press and wait to "
+"reorder."
+msgstr ""
+"فیلدهایی که می خواهید در قسمتهای مرتب سازی کشویی مشاهده کنید. را فشار دهید و "
+"منتظر بمانید تا دوباره سفارش دهید."
+
+#: views/options.php:373
+#, fuzzy
+msgid "Filter"
+msgstr "فیلتر"
+
+#: classes/filter-fields-options.php:132
+#, fuzzy
+msgid "Filter element title"
+msgstr "عنوان عنصر فیلتر را بزنید"
+
+#: index.php:1570
+#, fuzzy
+msgid "Filter keys"
+msgstr "کلیدهای فیلتر"
+
+#: classes/tables-options.php:269
+#, fuzzy
+msgid ""
+"Flying header while table scrolling. Disabled in the compact view mode on "
+"the mobile devices"
+msgstr ""
+"پرواز سربرگ هنگام پیمایش روی میز. در حالت نمایش جمع و جور در دستگاه های تلفن "
+"همراه غیرفعال شده است"
+
+#: classes/columns-fields-options.php:297
+#, fuzzy
+msgid "Font family"
+msgstr "خانواده قلم"
+
+#: classes/columns-fields-options.php:275
+#, fuzzy
+msgid "Font size"
+msgstr "اندازه فونت"
+
+#: classes/settings.php:193
+#, fuzzy
+msgid "Fonts"
+msgstr "قلم ها"
+
+#: classes/tables-options.php:355
+#, fuzzy
+msgid ""
+"For small mobile devices. Here you can set window width less of which the "
+"table will be displayed in compact mode. Example: 500. To disable this "
+"behaviour set -1"
+msgstr ""
+"برای دستگاه های کوچک تلفن همراه. در اینجا می توانید عرض پنجره را تنظیم کنید "
+"که جدول در حالت جمع و جور نمایش داده شود. مثال: 500. برای غیرفعال کردن این "
+"رفتار مجموعه -1"
+
+#: classes/settings.php:198
+#, fuzzy
+msgid ""
+"For the columns options. Use fonts which are represented in the current "
+"WordPress theme. Use comma and do not use quotes! Example: Helvetica,Roboto"
+msgstr ""
+"برای گزینه های ستون ها. از قلمهایی استفاده کنید که در طرح زمینه وردپرس نشان "
+"داده شده اند. از ویرگول استفاده کنید و از نقل قول استفاده نکنید! مثال: "
+"Helvetica ، Roboto"
+
+#: lib/helper.php:411
+#, fuzzy
+msgid "Fr"
+msgstr "پدر"
+
+#: profiles/woocommerce/woocommerce.php:1460
+#, fuzzy
+msgid "from 1 to 2"
+msgstr "از 1 تا 2"
+
+#: profiles/woocommerce/woocommerce.php:1464
+#, fuzzy
+msgid "from 2 to 3"
+msgstr "از 2 به 3"
+
+#: profiles/woocommerce/woocommerce.php:1468
+#, fuzzy
+msgid "from 3 to 4"
+msgstr "از 3 به 4"
+
+#: profiles/woocommerce/woocommerce.php:1472
+#, fuzzy
+msgid "from 4 to 5"
+msgstr "از 4 به 5"
+
+#: classes/filter.php:229
+#, php-format
+msgid "From: %s"
+msgstr "از: %s"
+
+#: classes/tables.php:136 profiles/woocommerce/woocommerce.php:1116
+#, fuzzy
+msgid "Gallery"
+msgstr "گالری"
+
+#: index.php:110
+#, fuzzy
+msgid "Go Pro!"
+msgstr "برو طرفدار!"
+
+#: profiles/woocommerce/woocommerce.php:1510
+#, fuzzy, php-format
+msgid "Group[%s]"
+msgstr "گروه ها]"
+
+#: profiles/woocommerce/woocommerce.php:1483
+#, fuzzy
+msgid "Grouped"
+msgstr "گروه بندی شده"
+
+#: profiles/woocommerce/woocommerce-grouped.php:20
+#, fuzzy
+msgid "Grouped columns"
+msgstr "ستون های گروه بندی شده"
+
+#: profiles/woocommerce/woocommerce.php:1200
+#, fuzzy
+msgid "Height"
+msgstr "قد"
+
+#: index.php:289 classes/columns.php:289 views/options.php:96
+#: views/options.php:337
+#, fuzzy
+msgid "Help"
+msgstr "کمک"
+
+#: views/options.php:511
+#, php-format
+msgid ""
+"Here you can set rules about what products to display in the table. The "
+"filtration will work with the predefined products as with basic ones. %s."
+msgstr ""
+"در اینجا می توانید قوانینی راجع به اینکه محصولاتی در جدول نمایش داده شوند "
+"تنظیم کنید. فیلتراسیون با محصولات از پیش تعریف شده همانند محصولات اساسی کار "
+"خواهد کرد. %s"
+
+#: index.php:300
+#, fuzzy
+msgid "hide"
+msgstr "پنهان شدن"
+
+#: profiles/woocommerce/woocommerce.php:411
+#, fuzzy
+msgid "Hide added to cart products"
+msgstr "پنهان کردن به محصولات سبد خرید اضافه شود"
+
+#: profiles/woocommerce/woocommerce-cart.php:134
+#, fuzzy
+msgid "Hide checkout button"
+msgstr "دکمه پرداخت را مخفی کنید"
+
+#: profiles/woocommerce/woocommerce-cart.php:136
+#, fuzzy
+msgid "Hide checkout button on WOOT Cart panel"
+msgstr "دکمه پرداخت را در صفحه WOOT Cart مخفی کنید"
+
+#: classes/tables-options.php:304
+#, fuzzy
+msgid "Hide filter form"
+msgstr "پنهان کردن فرم فیلتر"
+
+#: classes/tables-options.php:307
+#, fuzzy
+msgid ""
+"Hide filter form, and show it by button click. Useful if the filter form is "
+"quite big"
+msgstr ""
+"فرم فیلتر را پنهان کرده و با کلیک روی دکمه آن را نشان دهید. اگر فرم فیلتر "
+"کاملاً بزرگ باشد مفید است"
+
+#: classes/columns-fields-options.php:349
+#, fuzzy
+msgid "Hide on small screen"
+msgstr "پنهان شدن در صفحه کوچک"
+
+#: profiles/woocommerce/woocommerce-cart.php:127
+#, fuzzy
+msgid "Hide shop cart button"
+msgstr "دکمه سبد خرید را مخفی کنید"
+
+#: profiles/woocommerce/woocommerce-cart.php:129
+#, fuzzy
+msgid "Hide shop cart button on WOOT Cart panel"
+msgstr "دکمه سبد خرید را در صفحه WOOT Cart مخفی کنید"
+
+#: classes/tables-options.php:206
+#, fuzzy
+msgid "How many products per page display in the table by default. Example: 10"
+msgstr ""
+"به طور پیش فرض چند محصول در هر صفحه در جدول نمایش داده می شود. مثال: 10"
+
+#: classes/tables-options.php:250
+#, fuzzy
+msgid "How to order products after table initialization"
+msgstr "نحوه سفارش محصولات پس از مقداردهی اولیه جدول"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://products-tables.com/"
+msgstr "https://products-tables.com/"
+
+#: profiles/woocommerce/woocommerce.php:477
+#, fuzzy
+msgid "ID"
+msgstr "شناسه"
+
+#: classes/columns-fields-options.php:199
+#, fuzzy
+msgid ""
+"If enabled in the title cell will be able to shown such labels as: featured, "
+"on sale, out of stock"
+msgstr ""
+"اگر در سلول عنوان فعال باشد ، می توانید برچسب هایی مانند: برجسته ، در فروش ، "
+"موجودی را نشان دهید"
+
+#: classes/columns-fields-options.php:242
+#, fuzzy
+msgid ""
+"If enabled thumbnail will be displayed without link to the single product"
+msgstr ""
+"در صورت فعال بودن ، تصویر کوچک بدون پیوند به محصول واحد نمایش داده می شود"
+
+#: classes/columns-fields-options.php:164
+#, fuzzy
+msgid ""
+"If enabled, taxonomy terms will be displayed as text. By default: links."
+msgstr ""
+"در صورت فعال بودن ، اصطلاحات طبقه بندی به عنوان متن نمایش داده می شوند. به "
+"طور پیش فرض: پیوندها."
+
+#: views/options.php:475
+#, php-format
+msgid ""
+"If to use sorting by meta keys - will be visible only products which has any "
+"value for the selected meta key. %s"
+msgstr ""
+"در صورت استفاده از مرتب سازی بر اساس کلیدهای متا - فقط محصولی قابل مشاهده "
+"خواهد بود که برای کلید متای انتخابی دارای مقداری باشد. %s"
+
+#: classes/columns-fields-options.php:358
+#, fuzzy
+msgid ""
+"If you want to hide this column on small screens, set here width, lower "
+"which its will be hidden. Example: 500. Leave it empty to disable."
+msgstr ""
+"اگر می خواهید این ستون را در صفحه های کوچک پنهان کنید ، عرض را در اینجا "
+"تنظیم کنید ، پایین تر از آن پنهان می شود. مثال: 500. آن را خالی بگذارید تا "
+"غیرفعال شود."
+
+#: index.php:1540
+msgid "Import"
+msgstr "ایمپورت كردن"
+
+#: views/options.php:148
+msgid "Import WOOT Data"
+msgstr "ایمپورت کردن داده های WOOT"
+
+#: index.php:304
+msgid "Imported!"
+msgstr "ایمپورت شد!"
+
+#: index.php:303
+msgid "Importing"
+msgstr "ایمپورت کردن"
+
+#: classes/filter-fields-options.php:237
+#, php-format
+msgid "In ACF is used %s data type"
+msgstr "در ACF از %s نوع داده استفاده می شود"
+
+#: index.php:285
+#, fuzzy
+msgid "In cart"
+msgstr "در گاری"
+
+#: views/options.php:138 views/options.php:157 views/options.php:414
+#, php-format
+msgid "In free version is possible to display only first %s columns!"
+msgstr "در نسخه رایگان امکان نمایش فقط اولین ستون %s وجود دارد!"
+
+#: views/options.php:503
+#, php-format
+msgid "In free version is possible to display only first %s items!"
+msgstr "در نسخه رایگان فقط نمایش %s موارد اول امکان پذیر است!"
+
+#: classes/predefinition.php:219
+#, fuzzy
+msgid "In stock only"
+msgstr "فقط موجود است"
+
+#: classes/filter-fields-options.php:299
+#, fuzzy
+msgid "Include"
+msgstr "عبارتند از"
+
+#: classes/predefinition.php:254
+#, fuzzy
+msgid "Included taxonomy"
+msgstr "طبقه بندی شامل"
+
+#: profiles/woocommerce/woocommerce-cart.php:91
+#, fuzzy
+msgid "individually 1"
+msgstr "به صورت جداگانه 1"
+
+#: classes/columns-fields-options.php:103 classes/filter-fields-options.php:93
+#: classes/predefinition.php:99 classes/settings.php:134
+#: classes/tables-options.php:89
+#, fuzzy
+msgid "Info"
+msgstr "اطلاعات"
+
+#: views/options.php:146
+#, fuzzy
+msgid "Info data: All possible columns keys for [woot] shortcode attributes"
+msgstr "اطلاعات اطلاعات: تمام کلیدهای ستون ممکن برای ویژگی های [woot] کد کوتاه"
+
+#: classes/filter-fields-options.php:166
+#, fuzzy
+msgid "Input minlength"
+msgstr "طول مینل ورودی"
+
+#: classes/filter-fields-options.php:149
+#, fuzzy
+msgid "Input placeholder"
+msgstr "محل نگهدارنده ورودی"
+
+#: lib/helper.php:393
+#, fuzzy
+msgid "Jan"
+msgstr "جان"
+
+#: lib/helper.php:379
+#, fuzzy
+msgid "January"
+msgstr "ژانویه"
+
+#: lib/helper.php:399
+#, fuzzy
+msgid "Jul"
+msgstr "ژوئیه"
+
+#: lib/helper.php:385
+#, fuzzy
+msgid "July"
+msgstr "جولای"
+
+#: lib/helper.php:398
+#, fuzzy
+msgid "Jun"
+msgstr "ژوئن"
+
+#: lib/helper.php:384
+#, fuzzy
+msgid "June"
+msgstr "ژوئن"
+
+#: classes/vocabulary.php:75
+#, fuzzy
+msgid "Key Word"
+msgstr "کلمه کلیدی"
+
+#: classes/settings.php:184
+#, fuzzy
+msgid "Languages"
+msgstr "زبان ها"
+
+#: classes/settings.php:189
+#, fuzzy
+msgid ""
+"Languages for tab Vocabulary. This options created for dynamic words and "
+"such plugins as WPML. Use the comma to add languages you want to use on the "
+"site front. By default: -1. Example: en_US,fr_FR,es_ES,de_DE,ru_RU. After "
+"the field change, settings of Vocabulary will appear after the page "
+"reloading."
+msgstr ""
+"زبانهای برگه واژگان. این گزینه ها برای کلمات پویا و پلاگین هایی مانند WPML "
+"ایجاد شده است. از ویرگول برای افزودن زبانهایی که می خواهید در قسمت جلوی سایت "
+"استفاده کنید استفاده کنید. به طور پیش فرض: -1. مثال: en_US ، fr_FR ، es_ES ، "
+"de_DE ، ru_RU. پس از تغییر قسمت ، تنظیمات واژگان پس از بارگیری مجدد صفحه "
+"ظاهر می شوند."
+
+#: profiles/woocommerce/woocommerce.php:329
+#, fuzzy
+msgid "Last Modified Date: Newest to Oldest"
+msgstr "آخرین تاریخ اصلاح شده: جدیدترین تا قدیمی ترین"
+
+#: profiles/woocommerce/woocommerce.php:328
+#, fuzzy
+msgid "Last Modified Date: Oldest to Newest"
+msgstr "آخرین تاریخ اصلاح شده: قدیمی ترین به جدیدترین"
+
+#: profiles/woocommerce/woocommerce.php:1173
+#, fuzzy
+msgid "Length"
+msgstr "طول"
+
+#: index.php:997
+#, fuzzy
+msgid "Load More"
+msgstr "بارگذاری بیشتر"
+
+#: index.php:264 index.php:991 views/popup.php:22 views/table.php:107
+#, fuzzy
+msgid "Loading ..."
+msgstr "بارگذاری ..."
+
+#: classes/filter-fields-options.php:261
+#, fuzzy
+msgid "Logic"
+msgstr "منطق"
+
+#: classes/filter-fields-options.php:272
+#, fuzzy
+msgid "Logic of the selected terms. Mainly for multi-select."
+msgstr "منطق اصطلاحات انتخاب شده عمدتا برای چند انتخاب."
+
+#: views/options.php:237
+#, fuzzy
+msgid "Make skins"
+msgstr "پوست درست کنید"
+
+#: profiles/woocommerce/woocommerce.php:1254
+#, fuzzy
+msgid "Manage stock"
+msgstr "سهام را مدیریت کنید"
+
+#: lib/helper.php:395
+#, fuzzy
+msgid "Mar"
+msgstr "مارس"
+
+#: lib/helper.php:381
+#, fuzzy
+msgid "March"
+msgstr "مارس"
+
+#: classes/filter-fields-options.php:192
+#, fuzzy
+msgid "Max"
+msgstr "حداکثر"
+
+#: index.php:308
+#, fuzzy
+msgid "Max count of products is:"
+msgstr "حداکثر تعداد محصولات:"
+
+#: lib/helper.php:383 lib/helper.php:397
+#, fuzzy
+msgid "May"
+msgstr "ممکن است"
+
+#: views/options.php:363
+#, fuzzy
+msgid "Meta"
+msgstr "متا"
+
+#: classes/tables-meta.php:282
+#, fuzzy
+msgid "Meta key"
+msgstr "کلید متا"
+
+#: classes/filter-fields-options.php:175
+#, fuzzy
+msgid "Min"
+msgstr "حداقل"
+
+#: classes/tables-options.php:290
+#, fuzzy
+msgid "Min symbols count"
+msgstr "حداقل نمادها شمرده می شوند"
+
+#: classes/tables-options.php:293
+#, fuzzy
+msgid "Minimum symbols for search by title when search is possible"
+msgstr "حداقل نمادها برای جستجو بر اساس عنوان در صورت امکان جستجو"
+
+#: classes/filter-fields-options.php:158
+#, fuzzy
+msgid "Minlength"
+msgstr "طول کوچک"
+
+#: lib/helper.php:407
+#, fuzzy
+msgid "Mo"
+msgstr "مو"
+
+#: classes/columns.php:90
+#, fuzzy
+msgid "Mobile"
+msgstr "سیار"
+
+#: profiles/default.php:73
+#, fuzzy
+msgid "Modified"
+msgstr "اصلاح شده"
+
+#: classes/columns.php:78
+#, fuzzy
+msgid "Move"
+msgstr "حرکت"
+
+#: classes/filter-fields-options.php:250
+#, fuzzy
+msgid "MultiSelect"
+msgstr "انتخاب چندگانه"
+
+#: classes/columns.php:423
+#, fuzzy
+msgid "New Column"
+msgstr "ستون جدید"
+
+#: classes/tables.php:125 classes/tables.php:232
+#, fuzzy
+msgid "New Table"
+msgstr "جدول جدید"
+
+#: classes/vocabulary.php:246
+#, fuzzy
+msgid "new translate"
+msgstr "ترجمه جدید"
+
+#: classes/predefinition.php:247
+#, fuzzy
+msgid "Newest"
+msgstr "جدیدترین"
+
+#: classes/predefinition.php:250
+#, fuzzy
+msgid ""
+"Newest products. Set their count to display. Set -1 if you do not want to "
+"use it."
+msgstr ""
+"جدیدترین محصولات تعداد آنها را برای نمایش تنظیم کنید. اگر نمی خواهید از آن "
+"استفاده کنید ، -1 را تنظیم کنید."
+
+#: index.php:265 index.php:992
+#, fuzzy
+msgid "No Data!"
+msgstr "بدون اطلاعات!"
+
+#: classes/columns.php:279
+#, fuzzy
+msgid "no fields found"
+msgstr "هیچ فیلدی پیدا نشد"
+
+#: classes/columns-fields-options.php:240
+#, fuzzy
+msgid "No Link"
+msgstr "بدون پیوند"
+
+#: classes/tables-options.php:224 classes/tables-options.php:238
+#, fuzzy
+msgid "None"
+msgstr "هیچ یک"
+
+#: lib/rate_alert.php:81
+#, fuzzy
+msgid "Nope, maybe later!"
+msgstr "نه ، شاید بعدا!"
+
+#: classes/tables-meta.php:381
+#, fuzzy
+msgid "not defined"
+msgstr "تعریف نشده"
+
+#: profiles/woocommerce/woocommerce.php:2064
+#: profiles/woocommerce/woocommerce.php:2066
+#, fuzzy
+msgid "not exists"
+msgstr "وجود ندارد"
+
+#: classes/columns.php:254
+#, fuzzy
+msgid "not selected"
+msgstr "انتخاب نشده"
+
+#: classes/columns.php:102 classes/tables-meta.php:292
+#, fuzzy
+msgid "Notes"
+msgstr "یادداشت"
+
+#: index.php:279
+#, fuzzy
+msgid "Notice!"
+msgstr "اطلاع!"
+
+#: lib/helper.php:403
+#, fuzzy
+msgid "Nov"
+msgstr "نوامبر"
+
+#: lib/helper.php:389
+#, fuzzy
+msgid "November"
+msgstr "نوامبر"
+
+#: classes/tables-meta.php:383
+#, fuzzy
+msgid "number"
+msgstr "عدد"
+
+#: profiles/woocommerce/woocommerce.php:326
+#, fuzzy
+msgid "Number of Comments: Ascending"
+msgstr "تعداد نظرات: صعودی"
+
+#: profiles/woocommerce/woocommerce.php:327
+#, fuzzy
+msgid "Number of Comments: Descending"
+msgstr "تعداد نظرات: نزولی"
+
+#: lib/helper.php:402
+#, fuzzy
+msgid "Oct"
+msgstr "مهر"
+
+#: lib/helper.php:388
+#, fuzzy
+msgid "October"
+msgstr "اکتبر"
+
+#: index.php:306
+#, fuzzy
+msgid "Offline!"
+msgstr "آفلاین!"
+
+#: lib/rate_alert.php:85
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "خوب ، شما شایسته آن هستید"
+
+#: profiles/woocommerce/woocommerce.php:1028
+#, fuzzy
+msgid "On Sale"
+msgstr "حراج"
+
+#: profiles/woocommerce/woocommerce.php:638
+#, fuzzy
+msgid "on sale"
+msgstr "حراج"
+
+#: classes/predefinition.php:205
+#, fuzzy
+msgid "On sale only"
+msgstr "فقط در فروش"
+
+#: profiles/woocommerce/woocommerce.php:392
+#, fuzzy
+msgid ""
+"On which side should be shop cart: be left or right. Sorting Dropdown will "
+"take opposite position."
+msgstr ""
+"در کدام طرف باید سبد خرید وجود داشته باشد: چپ یا راست. مرتب سازی Dropdown "
+"موقعیت متضادی خواهد داشت."
+
+#: index.php:305
+#, fuzzy
+msgid "Online!"
+msgstr "برخط!"
+
+#: views/options.php:400
+#, fuzzy
+msgid "Options"
+msgstr "گزینه ها"
+
+#: index.php:1561
+#, fuzzy
+msgid "Order by keys"
+msgstr "سفارش با کلید"
+
+#: profiles/woocommerce/woocommerce.php:639
+#, fuzzy
+msgid "out of stock"
+msgstr "تمام شده"
+
+#: index.php:995
+#, fuzzy
+msgid "Page"
+msgstr "صفحه"
+
+#: index.php:996
+#, fuzzy
+msgid "Pages"
+msgstr "صفحات"
+
+#: classes/tables-options.php:217
+#, fuzzy
+msgid "Pagination position"
+msgstr "موقعیت صفحه بندی"
+
+#: classes/tables-options.php:203
+#, fuzzy
+msgid "Per page default"
+msgstr "به طور پیش فرض برای هر صفحه"
+
+#: classes/tables-options.php:231
+#, fuzzy
+msgid "Per page drop-down position"
+msgstr "در هر موقعیت کشویی صفحه"
+
+#: classes/tables-options.php:210
+#, fuzzy
+msgid "Per page values"
+msgstr "مقادیر صفحه"
+
+#: classes/filter-fields-options.php:141
+#, fuzzy
+msgid "Placeholder"
+msgstr "محل نگهدارنده"
+
+#: profiles/woocommerce/woocommerce.php:842
+#, fuzzy
+msgid "Post date"
+msgstr "تاریخ ارسال"
+
+#: profiles/woocommerce/woocommerce.php:875
+#, fuzzy
+msgid "Post modified"
+msgstr "پست اصلاح شده"
+
+#: classes/tables-options.php:326
+#, fuzzy
+msgid "Post statuses"
+msgstr "وضعیت ارسال"
+
+#: views/options.php:296
+#, fuzzy
+msgid "Power your store"
+msgstr "فروشگاه خود را تأمین کنید"
+
+#: views/options.php:382
+#, fuzzy
+msgid "Predefinition"
+msgstr "از پیش تعریف شده"
+
+#: classes/tables-options.php:322 profiles/woocommerce/woocommerce.php:414
+#, fuzzy
+msgid "Premium version"
+msgstr "نسخه ممتاز"
+
+#: views/options.php:422
+#, fuzzy
+msgid "Prepend column"
+msgstr "ستون پیش ساخته"
+
+#: classes/columns-fields-options.php:257
+#, fuzzy
+msgid "Preview on hover"
+msgstr "پیش نمایش در شناور"
+
+#: classes/tables.php:135 profiles/woocommerce/woocommerce.php:947
+#, fuzzy
+msgid "Price"
+msgstr "قیمت"
+
+#: index.php:1915
+#, fuzzy
+msgid "Product"
+msgstr "تولید - محصول"
+
+#: profiles/woocommerce/woocommerce-single.php:125
+#, fuzzy, php-format
+msgid "Product #%s does not exists!"
+msgstr "محصول #٪ s وجود ندارد!"
+
+#: index.php:283
+#, fuzzy
+msgid "Product added to cart!"
+msgstr "محصول به سبد خرید اضافه شد!"
+
+#: index.php:302
+#, fuzzy
+msgid "Product title"
+msgstr "عنوان محصول"
+
+#: index.php:290 index.php:994
+#, fuzzy
+msgid "Products"
+msgstr "محصولات"
+
+#: classes/predefinition.php:236
+#, fuzzy
+msgid ""
+"Products by authors ids. Example: 1,2,3. Set -1 if you do not want to use it."
+msgstr ""
+"محصولات شناسه نویسندگان مثال: 1،2،3. اگر نمی خواهید از آن استفاده کنید ، -1 "
+"را تنظیم کنید."
+
+#: classes/predefinition.php:177
+#, fuzzy
+msgid "Products ids"
+msgstr "شناسه محصولات"
+
+#: index.php:1804
+#, fuzzy
+msgid "Products in popup"
+msgstr "محصولات در پنجره بازشو"
+
+#: classes/tables-options.php:262
+#, fuzzy
+msgid "Products order direction"
+msgstr "محصولات جهت سفارش"
+
+#: classes/predefinition.php:191
+#, fuzzy
+msgid "Products SKU"
+msgstr "محصولات SKU"
+
+#: index.php:105
+#, fuzzy
+msgid "Products Tables"
+msgstr "جداول محصولات"
+
+#: classes/tables.php:80
+#, fuzzy
+msgid "Published"
+msgstr "منتشر شده"
+
+#: profiles/woocommerce/woocommerce-cart.php:69
+#, fuzzy
+msgid "Quantity"
+msgstr "تعداد"
+
+#: profiles/woocommerce/woocommerce-reviews.php:35
+#: profiles/woocommerce/woocommerce.php:1421
+#: profiles/woocommerce/woocommerce.php:1455
+#, fuzzy
+msgid "Rating"
+msgstr "رتبه بندی"
+
+#: views/options.php:514
+#, fuzzy
+msgid "Read more here"
+msgstr "بیشتر بخوانید اینجا"
+
+#. Author of the plugin
+#, fuzzy
+msgid "realmag777"
+msgstr "777"
+
+#: profiles/woocommerce/woocommerce.php:402
+#, fuzzy
+msgid "Redirect to the cart page"
+msgstr "به صفحه سبد خرید هدایت شوید"
+
+#: profiles/woocommerce/woocommerce.php:403
+#, fuzzy
+msgid "Redirect to the checkout page"
+msgstr "به صفحه پرداخت منتقل شوید"
+
+#: profiles/woocommerce/woocommerce.php:974
+#, fuzzy
+msgid "Regular Price"
+msgstr "قیمت عادی"
+
+#: profiles/woocommerce/woocommerce-related.php:20
+#, fuzzy
+msgid "Related columns"
+msgstr "ستون های مرتبط"
+
+#: index.php:286
+#, fuzzy
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: profiles/woocommerce/woocommerce.php:1386
+#, fuzzy
+msgid "Reviews count"
+msgstr "بررسی ها حساب می شوند"
+
+#: lib/helper.php:412
+#, fuzzy
+msgid "Sa"
+msgstr "سا"
+
+#: profiles/woocommerce/woocommerce.php:1001
+#, fuzzy
+msgid "Sale Price"
+msgstr "قیمت فروش"
+
+#: profiles/woocommerce/woocommerce.php:331
+#, fuzzy
+msgid "Sales products first"
+msgstr "ابتدا محصولات را بفروشید"
+
+#: index.php:270
+#, fuzzy
+msgid "Saved!"
+msgstr "ذخیره!"
+
+#: index.php:269
+#, fuzzy
+msgid "Saving"
+msgstr "صرفه جویی در"
+
+#: classes/columns.php:338
+#, fuzzy
+msgid "search by column title"
+msgstr "جستجو براساس عنوان ستون"
+
+#: classes/vocabulary.php:130
+#, fuzzy
+msgid "search by keyword"
+msgstr "جستجو با کلیدواژه"
+
+#: index.php:475 classes/tables-options.php:298
+#, fuzzy
+msgid "search by title"
+msgstr "جستجو بر اساس عنوان"
+
+#: classes/tables-options.php:297
+#, fuzzy
+msgid "Search by title placeholder"
+msgstr "جستجو براساس مکان نگهدارنده عنوان"
+
+#: profiles/default.php:58
+#, fuzzy
+msgid "See Content"
+msgstr "به مطالب مراجعه کنید"
+
+#: profiles/woocommerce/views/woot_drop_down.php:13
+#, fuzzy
+msgid "see details"
+msgstr "جزییات را ببینید"
+
+#: profiles/default.php:48
+#, fuzzy
+msgid "See Excerpt"
+msgstr "به گزیده مراجعه کنید"
+
+#: index.php:297
+#, fuzzy
+msgid "select"
+msgstr "انتخاب کنید"
+
+#: index.php:298
+#, fuzzy
+msgid "Select all products"
+msgstr "همه محصولات را انتخاب کنید"
+
+#: index.php:287
+#, fuzzy
+msgid "Select table thumbnail"
+msgstr "تصویر کوچک جدول را انتخاب کنید"
+
+#: lib/helper.php:401
+#, fuzzy
+msgid "Sep"
+msgstr "سپتامبر"
+
+#: lib/helper.php:387
+#, fuzzy
+msgid "September"
+msgstr "سپتامبر"
+
+#: classes/filter-fields-options.php:183 classes/filter-fields-options.php:200
+#, fuzzy
+msgid ""
+"Set custom min value. By default value is -1 and auto definition through "
+"database will be applied."
+msgstr ""
+"مقدار حداقل سفارشی را تنظیم کنید. مقدار پیش فرض 1 است و تعریف خودکار از طریق "
+"پایگاه داده اعمال می شود."
+
+#: classes/tables-options.php:241
+#, fuzzy
+msgid "Set none to hide drop-down"
+msgstr "هیچ کدام را برای پنهان کردن کشویی تنظیم نکنید"
+
+#: classes/tables-options.php:227
+#, fuzzy
+msgid "Set none to hide pagination"
+msgstr "هیچ کدام را برای پنهان کردن صفحه بندی تنظیم نکنید"
+
+#: views/options.php:78
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: index.php:294
+#, fuzzy
+msgid "Shop cart"
+msgstr "سبد خرید"
+
+#: profiles/woocommerce/woocommerce-cart.php:152
+#, fuzzy
+msgid "Shop cart columns"
+msgstr "خرید ستون های سبد خرید"
+
+#: classes/tables.php:76
+#, fuzzy
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: index.php:288
+#, fuzzy
+msgid "Shortcodes Help"
+msgstr "راهنمای کد کوتاه"
+
+#: index.php:299
+#, fuzzy
+msgid "show"
+msgstr "نشان دادن"
+
+#: classes/settings.php:178
+#, fuzzy
+msgid "Show button in admin bar"
+msgstr "نمایش دکمه در نوار مدیر"
+
+#: classes/predefinition.php:229
+#, fuzzy
+msgid "Show featured products only"
+msgstr "فقط محصولات ویژه را نشان دهید"
+
+#: classes/predefinition.php:212
+#, fuzzy
+msgid "Show hidden"
+msgstr "نمایش پنهان"
+
+#: classes/columns-fields-options.php:197
+#, fuzzy
+msgid "Show labels"
+msgstr "نمایش برچسب ها"
+
+#: classes/tables-options.php:273
+#, fuzzy
+msgid "Show print button"
+msgstr "نمایش دکمه چاپ"
+
+#: classes/tables-options.php:276
+#, fuzzy
+msgid "Show print button to print table current page"
+msgstr "نمایش دکمه چاپ برای چاپ صفحه فعلی جدول"
+
+#: classes/predefinition.php:222
+#, fuzzy
+msgid "Show products which are in stock only"
+msgstr "محصولی را نشان دهید که فقط در انبار موجود باشد"
+
+#: classes/predefinition.php:208
+#, fuzzy
+msgid "Show products which are on sale only"
+msgstr "محصولاتی را نشان دهید که فقط در فروش هستند"
+
+#: classes/predefinition.php:215
+#, fuzzy
+msgid "Show products which visibility in the catalog is set as hidden"
+msgstr ""
+"محصولاتی را نمایش دهید که قابلیت مشاهده در کاتالوگ به صورت پنهان تنظیم شده "
+"است"
+
+#: classes/tables-options.php:283
+#, php-format
+msgid ""
+"Show search by product title textinput. To make it works with product "
+"content text and product excerpt text use shortcode attributes %s"
+msgstr ""
+"جستجو براساس متن عنوان محصول را نشان دهید. برای اینکه با متن محتوای محصول و "
+"متن متن محصول کار کند ، از ویژگی های کد کوتاه %s استفاده کنید"
+
+#: classes/tables-options.php:280
+#, fuzzy
+msgid "Show search by title"
+msgstr "نمایش جستجو بر اساس عنوان"
+
+#: profiles/woocommerce/woocommerce.php:376
+#, fuzzy
+msgid "Show shop cart"
+msgstr "نمایش سبد خرید"
+
+#: profiles/woocommerce/woocommerce.php:354
+#, fuzzy
+msgid "Show Sorting Dropdown"
+msgstr "مرتب کردن لیست کشویی را نمایش دهید"
+
+#: profiles/woocommerce/woocommerce-single.php:40
+#: profiles/woocommerce/woocommerce.php:755
+#, fuzzy
+msgid "Single"
+msgstr "تنها"
+
+#: profiles/woocommerce/woocommerce.php:758
+#, fuzzy
+msgid "Single product data"
+msgstr "داده های تک محصول"
+
+#: classes/tables.php:84
+#, fuzzy
+msgid "Skin"
+msgstr "پوست"
+
+#: profiles/woocommerce/woocommerce.php:1062
+#, fuzzy
+msgid "SKU"
+msgstr "SKU"
+
+#: profiles/woocommerce/woocommerce.php:320
+#, fuzzy
+msgid "SKU: Ascending"
+msgstr "SKU: صعودی"
+
+#: profiles/woocommerce/woocommerce.php:321
+#, fuzzy
+msgid "SKU: Descending"
+msgstr "SKU: نزولی"
+
+#: profiles/woocommerce/woocommerce.php:1330
+#, fuzzy
+msgid "Sold individually"
+msgstr "به صورت جداگانه فروخته می شود"
+
+#: profiles/woocommerce/woocommerce.php:333
+#, fuzzy
+msgid "Sort by availability"
+msgstr "مرتب سازی بر اساس در دسترس بودن"
+
+#: profiles/woocommerce/woocommerce.php:314
+#, fuzzy
+msgid "Sort by average rating"
+msgstr "مرتب سازی بر اساس رتبه بندی متوسط"
+
+#: profiles/woocommerce/woocommerce.php:315
+#, fuzzy
+msgid "Sort by latest"
+msgstr "مرتب سازی بر اساس آخرین"
+
+#: profiles/woocommerce/woocommerce.php:330
+#, fuzzy
+msgid "Sort by menu order"
+msgstr "مرتب سازی بر اساس ترتیب منو"
+
+#: profiles/woocommerce/woocommerce.php:318
+#, fuzzy
+msgid "Sort by name A-Z"
+msgstr "مرتب سازی بر اساس نام A-Z"
+
+#: profiles/woocommerce/woocommerce.php:319
+#, fuzzy
+msgid "Sort by name Z-A"
+msgstr "مرتب سازی بر اساس نام Z-A"
+
+#: profiles/woocommerce/woocommerce.php:313
+#, fuzzy
+msgid "Sort by popularity"
+msgstr "مرتب سازی بر اساس محبوبیت"
+
+#: profiles/woocommerce/woocommerce.php:317
+#, fuzzy
+msgid "Sort by price: high to low"
+msgstr "مرتب سازی بر اساس قیمت: زیاد به کم"
+
+#: profiles/woocommerce/woocommerce.php:316
+#, fuzzy
+msgid "Sort by price: low to high"
+msgstr "مرتب سازی بر اساس قیمت: کم به زیاد"
+
+#: profiles/woocommerce/woocommerce.php:335
+#, fuzzy
+msgid "Sort by product ID: Ascending"
+msgstr "مرتب سازی بر اساس شناسه محصول: صعودی"
+
+#: profiles/woocommerce/woocommerce.php:336
+#, fuzzy
+msgid "Sort by product ID: Descending"
+msgstr "مرتب سازی بر اساس شناسه محصول: نزولی"
+
+#: profiles/woocommerce/woocommerce.php:334
+#, fuzzy
+msgid "Sort by random"
+msgstr "مرتب سازی بر اساس تصادفی"
+
+#: views/table.php:96
+#, fuzzy
+msgid "Sorted by table"
+msgstr "مرتب شده بر اساس جدول"
+
+#: profiles/woocommerce/woocommerce.php:362
+#, fuzzy
+msgid "Sorting Dropdown Fields"
+msgstr "مرتب سازی زمینه های کرکره ای"
+
+#: profiles/default.php:62 profiles/woocommerce/woocommerce.php:780
+#, fuzzy
+msgid "Status"
+msgstr "وضعیت"
+
+#: profiles/woocommerce/woocommerce.php:401
+#, fuzzy
+msgid "Stay on the same page"
+msgstr "در همان صفحه بمانید"
+
+#: profiles/woocommerce/woocommerce.php:1302
+#, fuzzy
+msgid "Stock quantity"
+msgstr "مقدار سهام"
+
+#: profiles/woocommerce/woocommerce.php:322
+#, fuzzy
+msgid "Stock Quantity: Ascending"
+msgstr "مقدار سهام: صعودی"
+
+#: profiles/woocommerce/woocommerce.php:323
+#, fuzzy
+msgid "Stock Quantity: Descending"
+msgstr "مقدار سهام: نزولی"
+
+#: profiles/woocommerce/woocommerce.php:1264
+#, fuzzy
+msgid "Stock status"
+msgstr "وضعیت سهام"
+
+#: lib/helper.php:413
+#, fuzzy
+msgid "Su"
+msgstr "سو"
+
+#: profiles/woocommerce/woocommerce-cart.php:96
+#, fuzzy
+msgid "Subtotal"
+msgstr "جمع کل"
+
+#: views/options.php:251
+#, fuzzy
+msgid "Support"
+msgstr "حمایت کردن"
+
+#: lib/rate_alert.php:66
+#, fuzzy
+msgid "support"
+msgstr "حمایت کردن"
+
+#: classes/tables-options.php:314
+#, fuzzy
+msgid "Switch off filter form"
+msgstr "فرم فیلتر را خاموش کنید"
+
+#: index.php:388
+#, fuzzy, php-format
+msgid "Table #%s does not exists!"
+msgstr "جدول #٪ s وجود ندارد!"
+
+#: index.php:301
+#, fuzzy
+msgid "Table #{0}; filter field: {1}"
+msgstr "جدول # {0} ؛ فیلد فیلتر: {1}"
+
+#: views/table.php:116
+#, php-format
+msgid "Table %s is not active!"
+msgstr "جدول %s فعال نیست!"
+
+#: classes/tables-options.php:359
+#, fuzzy
+msgid "Table custom HTML ID"
+msgstr "شناسه HTML سفارشی جدول"
+
+#: classes/tables.php:333
+#, fuzzy
+msgid "table options"
+msgstr "گزینه های جدول"
+
+#: views/options.php:455
+#, fuzzy
+msgid "table skins"
+msgstr "پوست میز"
+
+#: classes/columns.php:285
+#, php-format
+msgid "Table: %s. Field: %s"
+msgstr "جدول: %s زمینه های"
+
+#: views/options.php:69
+#, fuzzy
+msgid "Tables"
+msgstr "جداول"
+
+#: profiles/woocommerce/woocommerce.php:1414
+#, fuzzy
+msgid "Tax status"
+msgstr "وضعیت مالیات"
+
+#: classes/tables-meta.php:382
+#, fuzzy
+msgid "text"
+msgstr "متن"
+
+#: classes/tables-options.php:300
+#, fuzzy
+msgid "Text of placeholder for the search by title input"
+msgstr "متن مکان یاب برای جستجو براساس ورودی عنوان"
+
+#: lib/helper.php:410
+#, fuzzy
+msgid "Th"
+msgstr "Th"
+
+#: lib/rate_alert.php:89
+#, fuzzy
+msgid "Thank you, I did it!"
+msgstr "ممنون ، من این کار را کردم!"
+
+#: classes/columns-fields-options.php:304
+#, fuzzy
+msgid "The column text font family. Include them in the tab Settings!"
+msgstr "خانواده قلم متن ستون. آنها را در برگه تنظیمات وارد کنید!"
+
+#: index.php:307
+#, fuzzy
+msgid ""
+"The product maybe is: sold out, individual one and is added to the cart, "
+"requested count is over exceed!"
+msgstr ""
+"این محصول شاید این باشد: فروخته شده ، شخصی و به سبد خرید اضافه می شود ، "
+"تعداد درخواستی بیش از حد است!"
+
+#: views/options.php:163
+#, php-format
+msgid ""
+"This vocabulary is not for interface words, which you can translate for "
+"example by %s, but for the arbitrary words which you applied in the tables "
+"columns. Taxonomies terms also possible to translate here, to display them "
+"in the WOOT tables."
+msgstr ""
+"این واژگان برای کلمات رابط نیست ، که می توانید برای مثال با %s ترجمه کنید ، "
+"بلکه برای کلمات دلخواهی است که در ستون جداول استفاده کرده اید. اصطلاحات طبقه "
+"بندی برای ترجمه در اینجا امکان پذیر است تا آنها را در جداول WOOT نمایش دهید."
+
+#: classes/tables.php:64
+#, fuzzy
+msgid "Thumb"
+msgstr "شست"
+
+#: classes/tables.php:133 profiles/default.php:34
+#: profiles/woocommerce/woocommerce.php:485
+#, fuzzy
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+#: classes/settings.php:202
+#, fuzzy
+msgid "Thumbnail size"
+msgstr "اندازه تصویر بند انگشتی"
+
+#: classes/columns-fields-options.php:223
+#, fuzzy
+msgid "Thumbnail width (px)"
+msgstr "عرض تصویر بند انگشتی (پیکسل)"
+
+#: classes/columns-fields-options.php:97 classes/columns.php:81
+#: classes/filter-fields-options.php:87 classes/filter-fields-options.php:124
+#: classes/predefinition.php:91 classes/settings.php:126
+#: classes/tables-meta.php:277 classes/tables-options.php:81
+#: classes/tables.php:68 classes/tables.php:134 profiles/default.php:38
+#: profiles/woocommerce/woocommerce-single.php:69
+#: profiles/woocommerce/woocommerce.php:582
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#: classes/filter.php:230
+#, php-format
+msgid "To: %s"
+msgstr "به: %s"
+
+#: classes/tables-options.php:222 classes/tables-options.php:236
+#, fuzzy
+msgid "Top"
+msgstr "بالا"
+
+#: classes/tables-options.php:221 classes/tables-options.php:235
+#, fuzzy
+msgid "Top and Bottom"
+msgstr "بالا و پایین"
+
+#: profiles/woocommerce/woocommerce.php:1358
+#, fuzzy
+msgid "Total sales"
+msgstr "کل فروش"
+
+#: profiles/woocommerce/woocommerce.php:324
+#, fuzzy
+msgid "Total Sales: Ascending"
+msgstr "کل فروش: صعودی"
+
+#: profiles/woocommerce/woocommerce.php:325
+#, fuzzy
+msgid "Total Sales: Descending"
+msgstr "فروش کل: نزولی"
+
+#: lib/helper.php:408
+#, fuzzy
+msgid "Tu"
+msgstr "تو"
+
+#: classes/tables-meta.php:287 profiles/woocommerce/woocommerce.php:1629
+#, fuzzy
+msgid "Type"
+msgstr "نوع"
+
+#: index.php:275
+#, fuzzy
+msgid "Updating"
+msgstr "در حال بروز رسانی"
+
+#: views/options.php:122
+#, fuzzy
+msgid "Upgrade to Premium"
+msgstr "ارتقا دادن به سطح حرفه ای"
+
+#: profiles/woocommerce/woocommerce.php:1521
+#, fuzzy
+msgid "Upsells"
+msgstr "فروشهای بزرگ"
+
+#: profiles/woocommerce/woocommerce-upsells.php:20
+#, fuzzy
+msgid "Upsells columns"
+msgstr "ستون های بزرگ فروش"
+
+#: profiles/woocommerce/woocommerce.php:1547
+#, php-format
+msgid "Upsells[%s]"
+msgstr "فروش زیاد [%s]"
+
+#: classes/tables-options.php:266
+#, fuzzy
+msgid "Use flying header"
+msgstr "از سربرگ پرواز استفاده کنید"
+
+#: classes/tables-options.php:318
+#, fuzzy
+msgid "Use load more button"
+msgstr "از دکمه بارگیری بیشتر استفاده کنید"
+
+#: classes/tables-options.php:322
+#, fuzzy
+msgid ""
+"Use load more button instead of pagination. If it is activated, pagination "
+"and per-page drop-down will be hidden"
+msgstr ""
+"به جای صفحه بندی از دکمه load more استفاده کنید. اگر فعال شود ، صفحه بندی و "
+"کشویی برای هر صفحه پنهان می شود"
+
+#: classes/tables-options.php:335
+#, fuzzy
+msgid ""
+"Use some post statuses on the same time or select one. Publish status is by "
+"default."
+msgstr ""
+"از برخی وضعیت های ارسال به طور همزمان استفاده کنید یا یکی را انتخاب کنید. "
+"وضعیت انتشار به طور پیش فرض است."
+
+#: profiles/woocommerce/woocommerce-reviews.php:29
+#, fuzzy
+msgid "User"
+msgstr "کاربر"
+
+#: classes/settings.php:223
+#, fuzzy
+msgid "Users roles can manage"
+msgstr "نقش های کاربران می توانند مدیریت کنند"
+
+#: classes/predefinition.php:187
+#, fuzzy
+msgid ""
+"Using comma, set products ids you want to hide in the table. Example: 24,101,"
+"888. Set -1 if you do not want to use it."
+msgstr ""
+"با استفاده از ویرگول ، شناسه های محصول را که می خواهید پنهان کنید در جدول "
+"تنظیم کنید. مثال: 24،101،888. اگر نمی خواهید از آن استفاده کنید ، -1 را "
+"تنظیم کنید."
+
+#: classes/predefinition.php:180
+#, fuzzy
+msgid ""
+"Using comma, set products ids you want to show in the table. Example: 23,99,"
+"777. Set -1 if you do not want to use it."
+msgstr ""
+"با استفاده از ویرگول ، شناسه محصولاتی را که می خواهید در جدول نشان داده شود "
+"تنظیم کنید. مثال: 23،99،777. اگر نمی خواهید از آن استفاده کنید ، -1 را تنظیم "
+"کنید."
+
+#: classes/predefinition.php:201
+#, fuzzy
+msgid ""
+"Using comma, set products SKU you want to hide in the table. Example: aa1,"
+"bb2,cc3. Set -1 if you do not want to use it."
+msgstr ""
+"با استفاده از ویرگول ، SKU محصولی را که می خواهید در جدول پنهان کنید تنظیم "
+"کنید. مثال: aa1 ، bb2 ، cc3. اگر نمی خواهید از آن استفاده کنید ، -1 را تنظیم "
+"کنید."
+
+#: classes/predefinition.php:194
+#, fuzzy
+msgid ""
+"Using comma, set products SKU you want to show in the table. Example: aa1,"
+"bb2,cc3. Set -1 if you do not want to use it."
+msgstr ""
+"با استفاده از ویرگول ، SKU محصولاتی را که می خواهید در جدول نشان داده شود "
+"تنظیم کنید. مثال: aa1 ، bb2 ، cc3. اگر نمی خواهید از آن استفاده کنید ، -1 را "
+"تنظیم کنید."
+
+#: classes/filter-fields-options.php:290
+#, fuzzy
+msgid ""
+"Using comma, write terms ids you want to exclude from the filter. Leave "
+"empty to disable."
+msgstr ""
+"با استفاده از ویرگول ، شناسه هایی را که می خواهید از فیلتر حذف شوند ، "
+"بنویسید. خالی بگذارید تا غیرفعال شود."
+
+#: classes/filter-fields-options.php:308
+#, fuzzy
+msgid ""
+"Using comma, write terms ids you want to see in the filter, another ones "
+"will not be displayed. Leave empty to disable."
+msgstr ""
+"با استفاده از ویرگول ، شناسه هایی را که می خواهید در فیلتر مشاهده کنید ، "
+"بنویسید ، موارد دیگر نمایش داده نمی شوند. خالی بگذارید تا غیرفعال شود."
+
+#: classes/columns-fields-options.php:100 classes/filter-fields-options.php:90
+#: classes/predefinition.php:94 classes/settings.php:129
+#: classes/tables-options.php:84 profiles/woocommerce/woocommerce-single.php:72
+#, fuzzy
+msgid "Value"
+msgstr "مقدار"
+
+#: classes/tables-options.php:213
+#, fuzzy
+msgid ""
+"Values displayed in the per-page drop-down. Example: 10,20,30,40,50,60,70,80,"
+"90,100"
+msgstr ""
+"مقادیر نمایش داده شده در کشویی برای هر صفحه. مثال: "
+"10،20،30،40،50،60،70،80،90،100"
+
+#: profiles/woocommerce/woocommerce.php:1618
+#, php-format
+msgid "Var.[%s]"
+msgstr "متغیر [%s]"
+
+#: profiles/woocommerce/woocommerce.php:1591
+#, fuzzy
+msgid "Variations"
+msgstr "تغییرات"
+
+#: profiles/woocommerce/woocommerce-variations.php:20
+#, fuzzy
+msgid "Variations columns"
+msgstr "ستون تغییرات"
+
+#: views/options.php:230
+#, fuzzy
+msgid "Video"
+msgstr "ویدئو"
+
+#: views/options.php:87
+#, fuzzy
+msgid "Vocabulary"
+msgstr "واژگان"
+
+#: index.php:280
+#, fuzzy
+msgid "Warning!"
+msgstr "هشدار"
+
+#: lib/helper.php:409
+#, fuzzy
+msgid "We"
+msgstr "ما"
+
+#: profiles/woocommerce/woocommerce.php:1146
+#, fuzzy
+msgid "Weight"
+msgstr "وزن"
+
+#: classes/settings.php:233
+#, fuzzy
+msgid ""
+"What users roles (together with administrator) can manage WOOT functionality"
+msgstr "نقش کاربران (همراه با سرپرست) می تواند عملکرد WOOT را مدیریت کند"
+
+#: classes/columns-fields-options.php:214 classes/columns.php:98
+#: classes/filter-fields-options.php:209
+#: profiles/woocommerce/woocommerce.php:1227
+#, fuzzy
+msgid "Width"
+msgstr "عرض"
+
+#: classes/columns-fields-options.php:266
+#, fuzzy
+msgid ""
+"Width of the preview when mouse hover on the thumbnail (px). Set -1 to "
+"disable."
+msgstr ""
+"عرض پیش نمایش وقتی موشواره روی تصویر بند انگشتی قرار می گیرد. -1 را غیرفعال "
+"کنید."
+
+#: classes/settings.php:212
+#, fuzzy
+msgid "Wipe all data"
+msgstr "همه داده ها را پاک کنید"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"WooCommerce plugin for displaying shop products in table format. Tables "
+"makes focus for your buyers on the things they want to get, nothing "
+"superfluous, just what the client wants, and full attention to what is "
+"offered!"
+msgstr ""
+"افزونه WooCommerce برای نمایش محصولات فروشگاهی در قالب جدول. جداول توجه "
+"خریداران شما را بر روی چیزهایی که می خواهند بدست آورند ، هیچ چیز اضافی ، فقط "
+"آنچه مشتری می خواهد و توجه کامل به آنچه ارائه می شود ، ایجاد می کند!"
+
+#: views/options.php:34
+#, php-format
+msgid "WOOT - WooCommerce Active Products Tables v.%s"
+msgstr "WOOT - جداول محصولات فعال WooCommerce v.%s"
+
+#: index.php:1609
+#, fuzzy
+msgid "WOOT Blank Page"
+msgstr "صفحه خالی WOOT"
+
+#: profiles/woocommerce/views/woot_drop_down.php:13
+#, fuzzy
+msgid "WOOT: Premium feature"
+msgstr "WOOT: ویژگی برتر"
+
+#: profiles/woocommerce/woocommerce-universal.php:66
+#, fuzzy
+msgid "WOOT: Set product id please in the shortcode attribute!"
+msgstr "WOOT: شناسه محصول را لطفاً در ویژگی کد کوتاه تنظیم کنید!"
+
+#: classes/columns.php:308 classes/predefinition.php:153
+#: classes/tables-meta.php:406 classes/tables-options.php:473
+#, fuzzy
+msgid "Wrong type"
+msgstr "نوع اشتباه"
+
+#: views/options.php:194
+#, fuzzy
+msgid "You can do next ..."
+msgstr "شما می توانید بعدی ..."
+
+#: views/options.php:452
+#, php-format
+msgid ""
+"You can use custom CSS for small changes, but for quite big the table "
+"restyling its recommended to use %s. Use hotkey combination CTRL+S for CSS "
+"code saving!"
+msgstr ""
+"برای تغییرات کوچک می توانید از CSS سفارشی استفاده کنید ، اما برای جدول "
+"بزرگتر استفاده از %s توصیه می شود. برای ذخیره کد CSS از کلید میانبر CTRL + S "
+"استفاده کنید!"

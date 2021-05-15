@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WOOCS - WooCommerce Currency Switcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-08 05:05+0000\n"
+"PO-Revision-Date: 2021-05-08 05:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: woocommerce-currency-switcher"
+
+#: views/shortcodes/woocs_rates.php:45
+#, php-format
+msgid "1 %s is"
+msgstr "1 %s است"
+
+#: views/fixed/product_coupon_data.php:53
+#: views/fixed/product_coupon_restriction_data.php:58
+#: views/fixed/product_price_data.php:127
+#, fuzzy
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: views/fixed/product_coupon_data.php:54
+#: views/fixed/product_coupon_restriction_data.php:59
+#: views/fixed/product_price_data.php:128
+#, fuzzy
+msgid "Add all"
+msgstr "اضافه کردن همه"
+
+#: views/fixed/product_price_data.php:154
+#: views/fixed/product_user_role_data.php:60
+#, fuzzy
+msgid "Add group"
+msgstr "افزودن گروه"
+
+#: classes/fixed/fixed_shipping.php:30 classes/fixed/fixed_shipping_free.php:30
+#: views/fixed/product_coupon_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:16
+#: views/fixed/product_price_data.php:13 views/fixed/product_price_data.php:19
+#: views/fixed/product_price_data.php:43 views/fixed/product_price_data.php:49
+#: views/fixed/product_user_role_data.php:22
+#: views/fixed/product_user_role_data.php:28
+#, fuzzy
+msgid "auto"
+msgstr "خودکار"
+
+#: views/woocs_order_metabox.php:25
+#, fuzzy
+msgid "Base currency"
+msgstr "ارز پایه"
+
+#: views/woocs_order_metabox.php:40
+#, fuzzy
+msgid "cancel"
+msgstr "لغو کردن"
+
+#: views/woocs_order_metabox.php:35
+#, fuzzy
+msgid "Change order currency"
+msgstr "ارز سفارش را تغییر دهید"
+
+#: views/woocs_order_metabox.php:35
+#, fuzzy
+msgid "Change the order currency to any other"
+msgstr "ارز سفارش را به ارز دیگر تغییر دهید"
+
+#: views/widgets/selector_form.php:53
+#, fuzzy
+msgid "code"
+msgstr "کد"
+
+#: views/shortcodes/woocs_converter.php:66
+#, fuzzy
+msgid "Convert"
+msgstr "تبدیل"
+
+#: views/widgets/converter_form.php:20 views/widgets/rates_form.php:20
+#, fuzzy
+msgid "Count of digits after point"
+msgstr "تعداد ارقام بعد از نقطه"
+
+#: classes/statistic.php:279
+#, fuzzy
+msgid "Countries popularity"
+msgstr "محبوبیت کشورها"
+
+#: views/fixed/product_coupon_data.php:11
+#, fuzzy
+msgid "Coupon amount"
+msgstr "مبلغ کوپن"
+
+#: views/widgets/converter_form.php:11 views/widgets/rates_form.php:11
+#, fuzzy
+msgid "Currencies excluding from view"
+msgstr "به استثنای ارزها از نظر"
+
+#: classes/statistic.php:276
+#, fuzzy
+msgid "Currencies popularity"
+msgstr "محبوبیت ارزها"
+
+#: views/shortcodes/woocs_rates.php:60 views/shortcodes/woocs_rates.php:68
+#, fuzzy
+msgid "Currency"
+msgstr "واحد پول"
+
+#: views/woocs_order_metabox.php:24
+#, fuzzy
+msgid "Currency in which the customer paid."
+msgstr "ارزی که مشتری در آن پرداخت کرده است."
+
+#: views/woocs_order_metabox.php:26
+#, fuzzy
+msgid "Currency rate when the customer paid "
+msgstr "نرخ ارز وقتی مشتری پرداخت می کند"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Currency Switcher for WooCommerce that allows to the visitors and customers "
+"on your woocommerce store site switch currencies and optionally apply "
+"selected currency on checkout"
+msgstr ""
+"مبدل ارز برای ووکامرس که به بازدیدکنندگان و مشتریان سایت فروشگاه woocommerce "
+"شما امکان تعویض ارزها را می دهد و به صورت اختیاری ارز انتخابی را هنگام "
+"پرداخت اعمال می کنند"
+
+#: views/widgets/selector_form.php:54
+#, fuzzy
+msgid "description"
+msgstr "شرح"
+
+#: views/widgets/selector_form.php:50
+#, fuzzy
+msgid "Drop-down options text type"
+msgstr "گزینه های کشویی نوع متن"
+
+#: views/shortcodes/woocs_converter.php:25
+#, fuzzy
+msgid "enter amount"
+msgstr "مقدار را وارد کنید"
+
+#: views/widgets/selector_form.php:13
+msgid "Examples: 300px,100%,auto"
+msgstr "مثالها: 300px ، 100% ، خودکار"
+
+#: views/widgets/converter_form.php:13 views/widgets/rates_form.php:13
+#, fuzzy
+msgid "Examples: EUR,GBP,UAH"
+msgstr "مثالها: EUR ، GBP ، UAH"
+
+#: classes/fixed/fixed_shipping.php:28
+#, php-format
+msgid "Fixed cost %s"
+msgstr "هزینه های ثابت %s"
+
+#: views/shortcodes/woocs_rates.php:59 views/shortcodes/woocs_rates.php:67
+#, fuzzy
+msgid "Flag"
+msgstr "پرچم"
+
+#: views/widgets/selector_form.php:32
+#, fuzzy
+msgid "Flag position"
+msgstr "موقعیت پرچم"
+
+#: views/widgets/selector_form.php:44
+#, fuzzy
+msgid "For ddslick script only!"
+msgstr "فقط برای اسکریپت ddslick!"
+
+#: views/fixed/product_price_data.php:69
+#, fuzzy
+msgid "GeoIP profiles"
+msgstr "پروفایل های GeoIP"
+
+#: views/fixed/product_user_role_data.php:58
+#, fuzzy
+msgid ""
+"Gives ability to set different prices for each user role. Native WooCommerce "
+"price filter is blind for this data!"
+msgstr ""
+"به شما امکان می دهد قیمت های مختلفی را برای هر نقش کاربر تعیین کنید. فیلتر "
+"قیمت بومی ووکامرس برای این داده ها کور است!"
+
+#: views/fixed/product_coupon_data.php:42
+#: views/fixed/product_coupon_restriction_data.php:47
+#, fuzzy
+msgid ""
+"Here you can set FIXED amount for the coupon for any currency you want. In "
+"the case of empty amount field recounting by rate will work!"
+msgstr ""
+"در اینجا می توانید برای هر ارز دلخواه خود مبلغ ثابت را برای کوپن تعیین کنید. "
+"در مورد مقدار خالی فیلد بازشماری بر اساس نرخ کار خواهد کرد!"
+
+#: views/fixed/product_price_data.php:116
+#, fuzzy
+msgid ""
+"Here you can set FIXED price for the product for any currency you want. In "
+"the case of empty price field recounting by rate will work!"
+msgstr ""
+"در اینجا می توانید برای هر ارز دلخواه خود قیمت ثابت برای محصول تعیین کنید. "
+"در صورت خالی بودن فیلد قیمت ، بازشماری مجدد براساس نرخ کار خواهد کرد!"
+
+#: views/fixed/product_price_data.php:152
+#, fuzzy
+msgid ""
+"Here you can set prices in the basic currency for different countries, and "
+"recount will be done relatively of this values. ATTENTION: fixed price for "
+"currencies has higher priority!"
+msgstr ""
+"در اینجا می توانید قیمت ها را با ارز پایه برای کشورهای مختلف تعیین کنید و "
+"بازشماری نسبتاً از این مقادیر انجام می شود. توجه: قیمت ثابت برای ارزها از "
+"اولویت بالاتری برخوردار است!"
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://currency-switcher.com/"
+msgstr "https://currency-switcher.com/"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
+
+#: views/widgets/selector_form.php:36
+#, fuzzy
+msgid "left"
+msgstr "ترک کرد"
+
+#: views/fixed/product_price_data.php:84
+#, fuzzy
+msgid "Load countries from profile"
+msgstr "کشورها را از نمایه بارگیری کنید"
+
+#: views/fixed/product_coupon_restriction_data.php:15
+#, fuzzy
+msgid "Maximum spend"
+msgstr "حداکثر هزینه"
+
+#: classes/fixed/fixed_shipping_free.php:28
+#, php-format
+msgid "Minimum order amount in %s"
+msgstr "حداقل مقدار سفارش در %s"
+
+#: views/fixed/product_coupon_restriction_data.php:11
+#, fuzzy
+msgid "Minimum spend"
+msgstr "حداقل هزینه"
+
+#: classes/rate_alert.php:62
+#, fuzzy
+msgid "Nope, maybe later!"
+msgstr "نه ، شاید بعدا!"
+
+#: views/woocs_order_metabox.php:37
+#, php-format
+msgid ""
+"Not possible to recalculate the order - because current base currency is %s, "
+"and order base currency is %s!"
+msgstr ""
+"محاسبه مجدد سفارش امکان پذیر نیست - زیرا ارز پایه فعلی %s است و ارز پایه "
+"سفارش %s است!"
+
+#: classes/rate_alert.php:66
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "خوب ، شما شایسته آن هستید"
+
+#: views/woocs_order_metabox.php:16
+#, fuzzy
+msgid "Order currency"
+msgstr "سفارش ارز"
+
+#: views/woocs_order_metabox.php:26
+#, fuzzy
+msgid "Order currency rate"
+msgstr "سفارش نرخ ارز"
+
+#: views/widgets/converter_form.php:18 views/widgets/rates_form.php:18
+#, fuzzy
+msgid "Precision"
+msgstr "دقت، درستی"
+
+#: views/shortcodes/woocs_rates.php:61 views/shortcodes/woocs_rates.php:69
+#, fuzzy
+msgid "Rate"
+msgstr "نرخ"
+
+#. Author of the plugin
+#, fuzzy
+msgid "realmag777"
+msgstr "777"
+
+#: views/woocs_order_metabox.php:41
+#, fuzzy
+msgid "Recalculate current order with the selected currency."
+msgstr "محاسبه سفارش فعلی با ارز انتخابی."
+
+#: views/woocs_order_metabox.php:41
+#, fuzzy
+msgid "Recalculate order"
+msgstr "سفارش را دوباره محاسبه کنید"
+
+#: views/fixed/product_price_data.php:12 views/fixed/product_price_data.php:42
+#: views/fixed/product_user_role_data.php:21
+#, fuzzy
+msgid "Regular price"
+msgstr "قیمت عادی"
+
+#: views/fixed/product_coupon_data.php:17
+#: views/fixed/product_coupon_restriction_data.php:21
+#: views/fixed/product_price_data.php:24 views/fixed/product_price_data.php:54
+#: views/fixed/product_user_role_data.php:33
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#: views/shortcodes/woocs_converter.php:64
+#, fuzzy
+msgid "results"
+msgstr "نتایج"
+
+#: views/widgets/selector_form.php:35
+#, fuzzy
+msgid "right"
+msgstr "درست"
+
+#: views/fixed/product_price_data.php:18 views/fixed/product_price_data.php:48
+#: views/fixed/product_user_role_data.php:27
+#, fuzzy
+msgid "Sale price"
+msgstr "قیمت فروش"
+
+#: views/shortcodes/styles/style-3/index.php:83
+#, fuzzy
+msgid "Select Currency"
+msgstr "واحد پول را انتخاب کنید"
+
+#: views/fixed/product_price_data.php:61
+#, fuzzy
+msgid "select some countries"
+msgstr "برخی از کشورها را انتخاب کنید"
+
+#: views/fixed/product_user_role_data.php:42
+#, fuzzy
+msgid "select user role"
+msgstr "نقش کاربر را انتخاب کنید"
+
+#: views/widgets/selector_form.php:26
+#, fuzzy
+msgid "Show flags"
+msgstr "پرچم ها را نشان دهید"
+
+#: classes/rate_alert.php:46
+#, fuzzy
+msgid "support"
+msgstr "حمایت کردن"
+
+#: classes/rate_alert.php:70
+#, fuzzy
+msgid "Thank you, I did it!"
+msgstr "ممنون ، من این کار را کردم!"
+
+#: views/fixed/product_coupon_data.php:31
+#, fuzzy
+msgid "The coupon fixed amount rules"
+msgstr "قوانین کوپن مبلغ ثابت"
+
+#: views/fixed/product_coupon_restriction_data.php:35
+#, fuzzy
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "کوپن قوانین حداقل و حداکثر هزینه را ثابت کرده است"
+
+#: views/fixed/product_user_role_data.php:5
+#, fuzzy
+msgid "The price based on user role"
+msgstr "قیمت براساس نقش کاربر"
+
+#: views/fixed/product_price_data.php:102
+#, fuzzy
+msgid "The product custom GeoIP rules"
+msgstr "قوانین GeoIP سفارشی محصول"
+
+#: views/fixed/product_price_data.php:98
+#, fuzzy
+msgid "The product fixed prices rules"
+msgstr "قوانین قیمت های ثابت محصول"
+
+#: views/woocs_order_metabox.php:24
+#, fuzzy, php-format
+msgid "THIS order currency is changed manually %s!"
+msgstr "این ارز سفارش دستی٪ s تغییر می کند!"
+
+#: views/widgets/converter_form.php:5 views/widgets/rates_form.php:5
+#: views/widgets/selector_form.php:5
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#: views/shortcodes/woocs_converter.php:45
+#, fuzzy
+msgid "to"
+msgstr "به"
+
+#: views/woocs_order_metabox.php:27
+#, fuzzy
+msgid "Total amount"
+msgstr "مقدار کل"
+
+#: views/shortcodes/woocs.php:6 views/shortcodes/woocs_converter.php:6
+#: views/shortcodes/woocs_rates.php:4
+#, fuzzy
+msgid "Warning: Woocommerce is not activated"
+msgstr "هشدار: Woocommerce فعال نیست"
+
+#: views/widgets/selector_form.php:62
+#, fuzzy
+msgid ""
+"Which text display in the drop-down options - currency code OR description "
+"text. Looks good for all dropdowns except ddslick."
+msgstr ""
+"کدام متن در گزینه های کشویی نمایش داده می شود - کد ارز یا متن توصیف. برای "
+"همه لیست های کشویی به جز ddslick خوب به نظر می رسد."
+
+#: views/widgets/selector_form.php:11
+#, fuzzy
+msgid "Width"
+msgstr "عرض"
+
+#: classes/widgets/widget-currency-converter.php:9
+#: classes/widgets/widget-currency-converter.php:38
+#, fuzzy
+msgid "WooCommerce Currency Converter"
+msgstr "مبدل ارز ووکامرس"
+
+#: classes/widgets/widget-currency-converter.php:11
+#, fuzzy
+msgid "WooCommerce Currency Converter by realmag777"
+msgstr "تبدیل ارز ووکامرس توسط realmag777"
+
+#: classes/widgets/widget-currency-rates.php:9
+#: classes/widgets/widget-currency-rates.php:38
+#, fuzzy
+msgid "WooCommerce Currency Rates"
+msgstr "نرخ ارز ووکامرس"
+
+#: classes/widgets/widget-currency-rates.php:11
+#, fuzzy
+msgid "WooCommerce Currency Rates by realmag777"
+msgstr "نرخ ارز ووکامرس توسط realmag777"
+
+#: classes/widgets/widget-woocs-selector.php:7
+#: classes/widgets/widget-woocs-selector.php:36
+#, fuzzy
+msgid "WooCommerce Currency Switcher"
+msgstr "تعویض ارز ووکامرس"
+
+#: classes/widgets/widget-woocs-selector.php:9
+#, fuzzy
+msgid "WooCommerce Currency Switcher by realmag777"
+msgstr "تعویض ارز ووکامرس توسط realmag777"
+
+#: views/fixed/product_coupon_restriction_data.php:47
+#, fuzzy
+msgid "WOOCS - the <b>fixed</b> Minimum and Maximum spend "
+msgstr "WOOCS - حداقل و حداکثر هزینه <b> ثابت"
+
+#: views/fixed/product_coupon_data.php:42
+#, fuzzy
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - مبلغ ثابت کوپن"
+
+#: views/fixed/product_user_role_data.php:58
+#, fuzzy
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - قیمت براساس نقش کاربر"
+
+#: views/fixed/product_price_data.php:152
+#, fuzzy
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - قوانین GeoIP سفارشی محصول"
+
+#: views/fixed/product_price_data.php:116
+#, fuzzy
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - قیمت ثابت محصول"
+
+#. Name of the plugin
+#, fuzzy
+msgid "WOOCS - WooCommerce Currency Switcher"
+msgstr "WOOCS - تعویض ارز WooCommerce"

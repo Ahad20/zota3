@@ -1,0 +1,2063 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-02 15:26+0000\n"
+"PO-Revision-Date: 2021-05-08 05:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: classes/woocs_before_33.php:509 classes/woocs_after_33.php:645
+#, fuzzy, php-format
+msgid ""
+"The following options affect how prices are displayed on the frontend. "
+"WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr ""
+"گزینه های زیر بر نحوه نمایش قیمت ها در جلو تأثیر می گذارند. سوئیچ ارز "
+"WooCommerce فعال است. لطفاً ارز پیش فرض٪ s را تنظیم کنید."
+
+#: classes/woocs_before_33.php:509 classes/woocs_after_33.php:645
+#, fuzzy
+msgid "here"
+msgstr "اینجا"
+
+#: classes/woocs_before_33.php:650 classes/woocs_after_33.php:779
+#, php-format
+msgid "<strong>Base currency of the site is: %s</strong>"
+msgstr "<strong> واحد پولی سایت: %s</strong>"
+
+#: classes/woocs_before_33.php:731 classes/woocs_after_33.php:865
+#, fuzzy
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: classes/woocs_before_33.php:732 classes/woocs_after_33.php:866
+#, fuzzy
+msgid "Documentation"
+msgstr "مستندات"
+
+#: classes/woocs_before_33.php:777 classes/woocs_after_33.php:921
+#: classes/woocs_after_33.php:923
+#, fuzzy
+msgid "WOOCS Order Info"
+msgstr "اطلاعات سفارش WOOCS"
+
+#: classes/woocs_before_33.php:944 classes/woocs_after_33.php:1129
+#, fuzzy
+msgid "loading"
+msgstr "بارگذاری"
+
+#: classes/woocs_before_33.php:979 classes/woocs_after_33.php:1164
+#: views/plugin_options.php:324 views/plugin_options.php:339
+#: views/shortcodes/woocs_rates.php:60 views/shortcodes/woocs_rates.php:68
+#, fuzzy
+msgid "Currency"
+msgstr "واحد پول"
+
+#: classes/woocs_before_33.php:1702 classes/woocs_after_33.php:2020
+#, fuzzy
+msgid "Current currency is:"
+msgstr "واحد پول فعلی:"
+
+#: classes/woocs_before_33.php:1739
+#, php-format
+msgid ""
+"Your country is: <b>%s</b>. <br /><i style=\"color:black; font-size:11px; "
+"font-weight:normal;\">(defined by woocommerce GeoIP functionality)</i>"
+msgstr ""
+"کشور شما: <b>%s است</b> .<br /> <i style=\"color:black; font-size:11px; font-"
+"weight:normal;\">(تعریف شده توسط عملکرد GeoIP woocommerce)</i>"
+
+#: classes/woocs_before_33.php:1741 classes/woocs_after_33.php:2063
+#, fuzzy
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "کشور شما تعریف نشده است! مشکلی در سرویس GeoIp وجود دارد."
+
+#: classes/woocs_before_33.php:1812 classes/woocs_before_33.php:1849
+#: classes/woocs_before_33.php:1862 classes/woocs_before_33.php:1868
+#: classes/woocs_before_33.php:1888 classes/woocs_before_33.php:1909
+#: classes/woocs_before_33.php:1926 classes/woocs_before_33.php:1932
+#: classes/woocs_before_33.php:1969 classes/woocs_before_33.php:1986
+#: classes/woocs_before_33.php:1992 classes/woocs_before_33.php:2025
+#: classes/woocs_before_33.php:2038 classes/woocs_before_33.php:2044
+#: classes/woocs_before_33.php:2066 classes/woocs_before_33.php:2072
+#: classes/woocs_after_33.php:2308 classes/woocs_after_33.php:2346
+#: classes/woocs_after_33.php:2359 classes/woocs_after_33.php:2365
+#: classes/woocs_after_33.php:2385 classes/woocs_after_33.php:2406
+#: classes/woocs_after_33.php:2421 classes/woocs_after_33.php:2427
+#: classes/woocs_after_33.php:2446 classes/woocs_after_33.php:2463
+#: classes/woocs_after_33.php:2498 classes/woocs_after_33.php:2515
+#: classes/woocs_after_33.php:2521 classes/woocs_after_33.php:2555
+#: classes/woocs_after_33.php:2568 classes/woocs_after_33.php:2574
+#: classes/woocs_after_33.php:2601 classes/woocs_after_33.php:2607
+#: classes/woocs_after_33.php:2632 classes/woocs_after_33.php:2658
+#: classes/woocs_after_33.php:2684 classes/woocs_after_33.php:2702
+#: classes/woocs_after_33.php:2706 classes/woocs_after_33.php:2725
+#: classes/woocs_after_33.php:2740 classes/woocs_after_33.php:2755
+#: classes/woocs_after_33.php:2772 classes/woocs_after_33.php:2777
+#: classes/woocs_after_33.php:2803 classes/woocs_after_33.php:2814
+#: classes/woocs_after_33.php:2835
+#, fuzzy, php-format
+msgid "no data for %s"
+msgstr "هیچ داده ای برای٪ s وجود ندارد"
+
+#: classes/woocs_before_33.php:2155 classes/woocs_after_33.php:2922
+#, fuzzy
+msgid "Total in basic currency: "
+msgstr "کل به ارز پایه:"
+
+#: classes/woocs_before_33.php:2457 classes/woocs_after_33.php:3302
+#, php-format
+msgid "The maximum spend for this coupon is %s."
+msgstr "حداکثر هزینه برای این کوپن %s است."
+
+#: classes/woocs_before_33.php:2462 classes/woocs_after_33.php:3307
+#, php-format
+msgid "The minimum spend for this coupon is %s."
+msgstr "حداقل هزینه برای این کوپن %s است."
+
+#: classes/woocs_before_33.php:3534 classes/woocs_after_33.php:4523
+#, php-format
+msgid "(Approx. %s)"
+msgstr "(تقریباً  %s)"
+
+#: classes/statistic.php:276
+#, fuzzy
+msgid "Currencies popularity"
+msgstr "محبوبیت ارزها"
+
+#: classes/statistic.php:279
+#, fuzzy
+msgid "Countries popularity"
+msgstr "محبوبیت کشورها"
+
+#: classes/rate_alert.php:46
+#, fuzzy
+msgid "support"
+msgstr "حمایت کردن"
+
+#: classes/rate_alert.php:62
+#, fuzzy
+msgid "Nope, maybe later!"
+msgstr "نه ، شاید بعدا!"
+
+#: classes/rate_alert.php:66
+#, fuzzy
+msgid "Ok, you deserve it"
+msgstr "خوب ، شما شایسته آن هستید"
+
+#: classes/rate_alert.php:70
+#, fuzzy
+msgid "Thank you, I did it!"
+msgstr "ممنون ، من این کار را کردم!"
+
+#: classes/woocs_after_33.php:171
+#, fuzzy
+msgid "EU countries"
+msgstr "کشورهای اتحادیه اروپا"
+
+#: classes/woocs_after_33.php:623
+#, fuzzy
+msgid "WOOCS Currency Options"
+msgstr "گزینه های ارز WOOCS"
+
+#: classes/woocs_after_33.php:2061
+#, php-format
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "کشور شما: %s است. (تعریف شده توسط عملکرد GeoIP woocommerce)"
+
+#: classes/woocs_after_33.php:2585 classes/woocs_after_33.php:2616
+#: classes/woocs_after_33.php:2641 classes/woocs_after_33.php:2667
+#, fuzzy
+msgid "Please use the API key"
+msgstr "لطفاً از کلید API استفاده کنید"
+
+#: classes/woocs_after_33.php:4878
+#, fuzzy
+msgid "change the rate and this description to the right values"
+msgstr "نرخ و این توصیف را به مقادیر مناسب تغییر دهید"
+
+#: classes/woocs_after_33.php:5113
+#, fuzzy
+msgid "Recalculate all orders"
+msgstr "همه سفارشات را دوباره محاسبه کنید"
+
+#: classes/woocs_after_33.php:5113
+#, fuzzy
+msgid ""
+"Recalculate all orders with basic currency. Recommended test this option on "
+"the clone of your site! Read the documentation of the plugin about it!"
+msgstr ""
+"همه سفارشات را با ارز پایه مجدداً محاسبه کنید. توصیه شده این گزینه را بر روی "
+"کلون سایت خود آزمایش کنید! مستندات افزونه را در مورد آن بخوانید!"
+
+#: classes/woocs_after_33.php:5190
+#, fuzzy
+msgid "No such profile"
+msgstr "چنین نمایه ای وجود ندارد"
+
+#: classes/woocs_after_33.php:5193
+#, fuzzy
+msgid "Profile is deleted"
+msgstr "نمایه حذف شد"
+
+#: classes/woocs_after_33.php:5208
+#, fuzzy
+msgid "New profile"
+msgstr "نمایه جدید"
+
+#: classes/woocs_after_33.php:5220
+#, fuzzy
+msgid "is updated!"
+msgstr "به روز می شود!"
+
+#: classes/woocs_after_33.php:5224
+#, fuzzy
+msgid "is added!"
+msgstr "اضافه شد!"
+
+#: views/plugin_options.php:64
+#, fuzzy
+msgid "Welcome currency"
+msgstr "ارز خوش آمد"
+
+#: views/plugin_options.php:65
+#, fuzzy
+msgid ""
+"In wich currency show prices for first visit of your customer on your site. "
+"Do not do it private to avoid logic mess!"
+msgstr ""
+"در کدام ارز برای اولین بازدید مشتری از سایت خود قیمت نشان دهید. برای جلوگیری "
+"از خرابکاری منطقی این کار را به صورت خصوصی انجام ندهید!"
+
+#: views/plugin_options.php:74
+#, fuzzy
+msgid "Currency aggregator"
+msgstr "تجمع ارز"
+
+#: views/plugin_options.php:75
+#, fuzzy
+msgid ""
+"Currency aggregators. Note: If you know aggregator which not is represented "
+"in WOOCS write request on support please with suggestion to add it!"
+msgstr ""
+"تجمع ارز توجه: اگر می دانید تجمعی که در WOOCS نشان داده نشده است درخواست "
+"پشتیبانی را بنویسید لطفا با پیشنهاد برای اضافه کردن آن!"
+
+#: views/plugin_options.php:84
+#, fuzzy
+msgid "Aggregator API key"
+msgstr "کلید API جمع کننده"
+
+#: views/plugin_options.php:85
+#, fuzzy
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr ""
+"برخی از تجمع کنندگان به یک کلید API نیاز دارند. به راهنمایی زیر نحوه دستیابی "
+"به آن مراجعه کنید!"
+
+#: views/plugin_options.php:94
+#, fuzzy
+msgid "Currency storage"
+msgstr "ذخیره ارز"
+
+#: views/plugin_options.php:95
+#, fuzzy
+msgid ""
+"In some servers there is troubles with sessions, and after currency "
+"selecting its reset to welcome currency or geo ip currency. In such case use "
+"transient!"
+msgstr ""
+"در برخی از سرورها ، جلسات با مشکل روبرو هستند و پس از ارز انتخاب مجدد آن "
+"برای استقبال از ارز یا ارز جغرافیایی IP. در چنین حالتی از گذرا استفاده کنید!"
+
+#: views/plugin_options.php:101
+#, fuzzy
+msgid "session"
+msgstr "جلسه"
+
+#: views/plugin_options.php:102
+#, fuzzy
+msgid "transient"
+msgstr "گذرا"
+
+#: views/plugin_options.php:107
+#, fuzzy
+msgid "Rate auto update"
+msgstr "به روز رسانی خودکار امتیاز دهید"
+
+#: views/plugin_options.php:108
+#, fuzzy
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "نرخ ها به روزرسانی خودکار نرخ ها را با وردپرس cron انجام می دهند."
+
+#: views/plugin_options.php:114
+#, fuzzy
+msgid "no auto update"
+msgstr "بدون بروزرسانی خودکار"
+
+#: views/plugin_options.php:115
+#, fuzzy
+msgid "hourly"
+msgstr "ساعتی"
+
+#: views/plugin_options.php:116
+#, fuzzy
+msgid "twicedaily"
+msgstr "دو بار در روز"
+
+#: views/plugin_options.php:117
+#, fuzzy
+msgid "daily"
+msgstr "روزانه"
+
+#: views/plugin_options.php:118
+#, fuzzy
+msgid "weekly"
+msgstr "هفتگی"
+
+#: views/plugin_options.php:119
+#, fuzzy
+msgid "monthly"
+msgstr "ماهانه"
+
+#: views/plugin_options.php:120
+#, fuzzy
+msgid "special: each minute"
+msgstr "ویژه: هر دقیقه"
+
+#: views/plugin_options.php:121
+#, fuzzy
+msgid "special: each 5 minutes"
+msgstr "ویژه: هر 5 دقیقه"
+
+#: views/plugin_options.php:122
+#, fuzzy
+msgid "special: each 15 minutes"
+msgstr "ویژه: هر 15 دقیقه"
+
+#: views/plugin_options.php:123
+#, fuzzy
+msgid "special: each 30 minutes"
+msgstr "ویژه: هر 30 دقیقه"
+
+#: views/plugin_options.php:124
+#, fuzzy
+msgid "special: each 45 minutes"
+msgstr "ویژه: هر 45 دقیقه"
+
+#: views/plugin_options.php:129
+#, fuzzy
+msgid "Custom money signs"
+msgstr "علائم سفارشی پول"
+
+#: views/plugin_options.php:130
+#, fuzzy
+msgid ""
+"Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated "
+"by commas"
+msgstr ""
+"نمادهای پول خود را در مغازه خود اضافه کنید. مثال: $ USD ، AAA ، AUD $ ، DDD -"
+" با ویرگول از هم جدا می شوند"
+
+#: views/plugin_options.php:139
+#, fuzzy
+msgid "Custom price format"
+msgstr "قالب قیمت سفارشی"
+
+#: views/plugin_options.php:140
+#, fuzzy
+msgid ""
+"Set your format how to display price on front. Use keys: __CODE__,__PRICE__. "
+"Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr ""
+"قالب خود را تنظیم کنید که چگونه قیمت در جلو نمایش داده شود. از کلیدها "
+"استفاده کنید: __CODE __ ، __ PRICE__. برای استفاده از قالب پیش فرض آن را "
+"خالی بگذارید. مثال: __PRICE__ (__CODE__)"
+
+#: views/plugin_options.php:149
+#, fuzzy
+msgid "Prices without cents"
+msgstr "قیمت های بدون سنت"
+
+#: views/plugin_options.php:150
+#, fuzzy
+msgid ""
+"Recount prices without cents everywhere like in JPY and TWD which by its "
+"nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout "
+"after setup!"
+msgstr ""
+"دوباره قیمت ها را بدون سنت بازپرداخت کنید مثل JPY و TWD که طبیعتاً آنها هیچ "
+"سنتی ندارند. از ویرگول استفاده کنید. مثال: UAH ، RUB. بعد از راه اندازی ، آن "
+"را برای پرداخت چک کنید!"
+
+#: views/plugin_options.php:166
+#, php-format
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "تغییر دهنده ارز WooCommerce v. %s"
+
+#: views/plugin_options.php:167
+#, php-format
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "واقعی برای WooCommerce v.%s.x"
+
+#: views/plugin_options.php:175
+#, php-format
+msgid ""
+"Your version of WooCommerce plugin is too obsolete. Update minimum to %s "
+"version to avoid malfunctionality!"
+msgstr ""
+"نسخه پلاگین WooCommerce شما بیش از حد منسوخ شده است. برای جلوگیری از سو mal "
+"عملکرد ، حداقل نسخه را به %s به روز کنید!"
+
+#: views/plugin_options.php:190
+#, fuzzy
+msgid "Currencies"
+msgstr "ارزها"
+
+#: views/plugin_options.php:196
+#, fuzzy
+msgid "Options"
+msgstr "گزینه ها"
+
+#: views/plugin_options.php:201
+#, fuzzy
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: views/plugin_options.php:208
+#, fuzzy
+msgid "Side switcher"
+msgstr "سوئیچ کناری"
+
+#: views/plugin_options.php:217
+#, fuzzy
+msgid "Payments"
+msgstr "مبلغ پرداختی"
+
+#: views/plugin_options.php:228
+#, fuzzy
+msgid "GeoIP"
+msgstr "GeoIP"
+
+#: views/plugin_options.php:238 views/plugin_options.php:665
+#: views/plugin_options.php:676
+#, fuzzy
+msgid "Statistic"
+msgstr "آمار"
+
+#: views/plugin_options.php:247
+#, fuzzy
+msgid "Help"
+msgstr "کمک"
+
+#: views/plugin_options.php:260
+#, fuzzy
+msgid "Add Currency"
+msgstr "ارز اضافه کنید"
+
+#: views/plugin_options.php:261
+#, fuzzy
+msgid "Update all rates"
+msgstr "همه نرخ ها را به روز کنید"
+
+#: views/plugin_options.php:262
+#, fuzzy
+msgid "Add custom money sign"
+msgstr "علامت پول سفارشی اضافه کنید"
+
+#: views/plugin_options.php:269
+#, fuzzy
+msgid "Not styled drop-down"
+msgstr "کشویی سبک نشده است"
+
+#: views/plugin_options.php:270
+#, fuzzy
+msgid "Style #1"
+msgstr "سبک شماره 1"
+
+#: views/plugin_options.php:271
+#, fuzzy
+msgid "Style #2"
+msgstr "سبک شماره 2"
+
+#: views/plugin_options.php:272
+#, fuzzy
+msgid "Style #3"
+msgstr "سبک شماره 3"
+
+#: views/plugin_options.php:273
+#, fuzzy
+msgid "Flags (as images)"
+msgstr "پرچم ها (به عنوان تصویر)"
+
+#: views/plugin_options.php:275
+#, fuzzy
+msgid "ddslick drop-down"
+msgstr "کشویی ddslick"
+
+#: views/plugin_options.php:276
+#, fuzzy
+msgid "Chosen drop-down"
+msgstr "کشویی انتخاب شده"
+
+#: views/plugin_options.php:277
+#, fuzzy
+msgid "Chosen dark drop-down"
+msgstr "کشویی تیره انتخاب شده"
+
+#: views/plugin_options.php:278
+#, fuzzy
+msgid "wSelect drop-down"
+msgstr "w کشویی را انتخاب کنید"
+
+#: views/plugin_options.php:284
+#, fuzzy
+msgid ""
+"How to display currency switcher (by default) on the site front. (NEW) Make "
+"your attention on skins with numbers - you can use them on the same page "
+"with different designs in shortcode [woocs] described in its attribute style "
+"and style number (see Codex page in Info Help tab)!"
+msgstr ""
+"نحوه نمایش سوئیچ ارز (به طور پیش فرض) در جلوی سایت. (جدید) توجه خود را به "
+"پوسته های دارای شماره جلب کنید - می توانید از آنها در همان صفحه با طرح های "
+"مختلف در کد کوتاه [woocs] که در سبک ویژگی و شماره سبک آن توضیح داده شده است "
+"استفاده کنید (به صفحه Codex در برگه راهنمای اطلاعات مراجعه کنید)!"
+
+#: views/plugin_options.php:323 views/plugin_options.php:338
+#, fuzzy
+msgid "Basic"
+msgstr "پایه ای"
+
+#: views/plugin_options.php:325 views/plugin_options.php:340
+#, fuzzy
+msgid "Symbol"
+msgstr "سمبل"
+
+#: views/plugin_options.php:326 views/plugin_options.php:341
+#, fuzzy
+msgid "Position"
+msgstr "موقعیت"
+
+#: views/plugin_options.php:327 views/plugin_options.php:342
+#, fuzzy
+msgid "Decimal"
+msgstr "اعشاری"
+
+#: views/plugin_options.php:328 views/plugin_options.php:343
+#, fuzzy
+msgid "Rate and Interest"
+msgstr "نرخ و بهره"
+
+#: views/plugin_options.php:329 views/plugin_options.php:344
+#, fuzzy
+msgid "Cents"
+msgstr "سنت"
+
+#: views/plugin_options.php:330 views/plugin_options.php:345
+#, fuzzy
+msgid "Visibility"
+msgstr "دید"
+
+#: views/plugin_options.php:331 views/plugin_options.php:346
+#, fuzzy
+msgid "Description"
+msgstr "شرح"
+
+#: views/plugin_options.php:332 views/plugin_options.php:347
+#: views/plugin_options.php:1448 views/shortcodes/woocs_rates.php:59
+#: views/shortcodes/woocs_rates.php:67
+#, fuzzy
+msgid "Flag"
+msgstr "پرچم"
+
+#: views/plugin_options.php:383
+#, fuzzy
+msgid ""
+"Read wiki about Currency Active codes  <-  Get right currencies codes here "
+"if you are not sure about it!"
+msgstr ""
+"در مورد رمزهای فعال ارز ، ویکی بخوانید <- اگر در مورد آن مطمئن نیستید ، "
+"کدهای ارزی مناسب را دریافت کنید!"
+
+#: views/plugin_options.php:399
+#, fuzzy
+msgid "Show flags by default"
+msgstr "پرچم ها را به طور پیش فرض نشان دهید"
+
+#: views/plugin_options.php:400
+#, fuzzy
+msgid "Show/hide flags on the front drop-down"
+msgstr "پرچم ها را در کشویی جلو نشان دهید / پنهان کنید"
+
+#: views/plugin_options.php:409
+#, fuzzy
+msgid "No GET data in link"
+msgstr "داده GET در پیوند نیست"
+
+#: views/plugin_options.php:410
+#, fuzzy
+msgid ""
+"Switches currency without GET properties (?currency=USD) in the link. Works "
+"in woocommerce > 3.3.0."
+msgstr ""
+"ارز را بدون خواص GET (؟ currency = USD) در پیوند سوئیچ می کند. در تجارت "
+"تجارت و تجارت> 3.3.0 کار می کند."
+
+#: views/plugin_options.php:419
+#, fuzzy
+msgid "Show money signs"
+msgstr "علائم پول نشان دهید"
+
+#: views/plugin_options.php:420
+#, fuzzy
+msgid "Show/hide money signs on the front drop-down"
+msgstr "علائم پول را در کشویی جلو نشان دهید / پنهان کنید"
+
+#: views/plugin_options.php:430
+#, fuzzy
+msgid "Show price info icon"
+msgstr "نماد اطلاعات قیمت را نشان دهید"
+
+#: views/plugin_options.php:431
+#, fuzzy
+msgid ""
+"Show info icon near the price of the product which while its under hover "
+"shows prices of products in all currencies"
+msgstr ""
+"نماد اطلاعات را در نزدیکی قیمت محصول نشان دهید که در حالی که تحت فشار است ، "
+"قیمت محصولات را با همه ارزها نشان می دهد"
+
+#: views/plugin_options.php:441
+#, fuzzy
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "اعلان ایمیل درباره نتایج \"رتبه بندی خودکار امتیاز\""
+
+#: views/plugin_options.php:442
+#, fuzzy
+msgid ""
+"After cron done - new currency rates will be sent on the site admin email. "
+"ATTENTION: if you not got emails - it is mean that PHP function mail() "
+"doesnt work on your server or sending emails by this function is locked."
+msgstr ""
+"پس از پایان cron - نرخ های جدید ارز در ایمیل مدیر سایت ارسال می شود. توجه: "
+"اگر ایمیل دریافت نکردید - به این معنی است که نامه عملکرد PHP () بر روی سرور "
+"شما کار نمی کند یا ارسال ایمیل توسط این عملکرد قفل شده است."
+
+#: views/plugin_options.php:452
+#, fuzzy
+msgid "Hide switcher on checkout page"
+msgstr "مخفی کردن سوئیچر در صفحه پرداخت"
+
+#: views/plugin_options.php:453
+#, fuzzy
+msgid ""
+"Hide switcher on checkout page for any of your reason. Better restrike for "
+"users change currency on checkout page in multiple mode."
+msgstr ""
+"به هر دلیل خود سوئیچر را در صفحه صندوق پنهان کنید. اعتراض بهتر برای کاربران "
+"، تغییر حالت صفحه در پرداخت در حالت چندگانه."
+
+#: views/plugin_options.php:463 views/plugin_options.php:901
+#, fuzzy
+msgid "Payments rules"
+msgstr "قوانین پرداخت"
+
+#: views/plugin_options.php:464
+#, fuzzy
+msgid ""
+"Hide/Show payments systems on checkout page depending on the current currency"
+msgstr ""
+"بسته به ارز فعلی ، سیستم های پرداخت را در صفحه پرداخت مخفی و نمایش دهید"
+
+#: views/plugin_options.php:474
+#, fuzzy
+msgid "Show approx. amount"
+msgstr "تقریباً نمایش دهید میزان"
+
+#: views/plugin_options.php:475
+#, fuzzy
+msgid ""
+"Show approximate amount on the checkout and the cart page with currency of "
+"user defined by IP in the GeoIp rules tab. Works only with currencies rates "
+"data and NOT with fixed prices rules and geo rules."
+msgstr ""
+"در برگه قوانین GeoIp مقدار تقریبی را در صندوق و صفحه سبد با ارز کاربر تعریف "
+"شده توسط IP نشان دهید. فقط با داده های نرخ ارز کار می کند و نه با قوانین "
+"قیمت ثابت و قوانین جغرافیایی."
+
+#: views/plugin_options.php:485
+#, fuzzy
+msgid "Show approx. price"
+msgstr "تقریباً نمایش دهید قیمت"
+
+#: views/plugin_options.php:486
+#, fuzzy
+msgid ""
+"Show approximate price on the shop and the single product page with currency "
+"of user defined by IP in the GeoIp rules tab. Works only with currencies "
+"rates data and NOT with fixed prices rules and geo rules."
+msgstr ""
+"قیمت تقریبی فروشگاه و صفحه محصول واحد با ارز کاربری که توسط IP تعریف شده است "
+"را در برگه قوانین GeoIp نشان دهید. فقط با داده های نرخ ارز کار می کند و نه "
+"با قوانین قیمت ثابت و قوانین جغرافیایی."
+
+#: views/plugin_options.php:498
+#, fuzzy
+msgid "I am using cache plugin on my site"
+msgstr "من از افزونه cache در سایت خود استفاده می کنم"
+
+#: views/plugin_options.php:499
+#, fuzzy
+msgid ""
+"Set Yes here ONLY if you are REALLY use cache plugin for your site, for "
+"example like Super cache or Hiper cache (doesn matter). + Set \"Custom price "
+"format\", for example: __PRICE__ (__CODE__). After enabling this feature - "
+"clean your cache to make it works. It will allow show prices in selected "
+"currency on all pages of site. Fee for this feature - additional AJAX "
+"queries for products prices redrawing."
+msgstr ""
+"اگر واقعاً از افزونه cache برای سایت خود استفاده می کنید ، بله را تنظیم کنید "
+"، مثلاً مانند Super cache یا Hiper cache (مهم نیست). + \"فرمت قیمت سفارشی\" "
+"را تنظیم کنید ، به عنوان مثال: __PRICE__ (__CODE__). پس از فعال کردن این "
+"ویژگی - حافظه پنهان خود را تمیز کنید تا کار کند. این امکان را برای شما فراهم "
+"می کند تا قیمت ها را با ارز انتخاب شده در تمام صفحات سایت نشان دهید. هزینه "
+"این ویژگی - پرس و جوهای اضافی AJAX برای طراحی مجدد قیمت محصولات."
+
+#: views/plugin_options.php:508
+#, fuzzy
+msgid "Prices preloader"
+msgstr "پیش بارگذار قیمت ها"
+
+#: views/plugin_options.php:509
+#, fuzzy
+msgid "For ajax  redraw."
+msgstr "برای بازآرایی آژاکس."
+
+#: views/plugin_options.php:519
+#, fuzzy
+msgid "Show options button on top admin bar."
+msgstr "نمایش دکمه گزینه ها در بالای نوار مدیر."
+
+#: views/plugin_options.php:520
+#, fuzzy
+msgid ""
+"Show WOOCS options button on top admin bar for quick access. Very handy for "
+"active work. Visible for site administrators only!"
+msgstr ""
+"برای دسترسی سریع دکمه گزینه های WOOCS را در نوار مدیر بالا نشان دهید. بسیار "
+"مفید برای کار فعال. فقط برای مدیران سایت قابل مشاهده است!"
+
+#: views/plugin_options.php:529
+#, fuzzy
+msgid "Disable on pages"
+msgstr "غیر فعال کردن در صفحات"
+
+#: views/plugin_options.php:530
+#, fuzzy
+msgid ""
+"Disabling or Enabling WOOCS on the described pages only. Use comma and pages "
+"slugs. Example: blog,account"
+msgstr ""
+"غیرفعال کردن یا فعال کردن WOOCS فقط در صفحات توصیف شده. از ویرگول های ویرگول "
+"و ویرگول استفاده کنید. مثال: وبلاگ ، حساب"
+
+#: views/plugin_options.php:535
+#, fuzzy
+msgid "Direct use"
+msgstr "استفاده مستقیم"
+
+#: views/plugin_options.php:536
+#, fuzzy
+msgid "Reverse use"
+msgstr "استفاده معکوس"
+
+#: views/plugin_options.php:543
+#, fuzzy
+msgid "Reverse this option"
+msgstr "این گزینه را معکوس کنید"
+
+#: views/plugin_options.php:565 views/plugin_options.php:576
+#, fuzzy
+msgid "Is multiple allowed"
+msgstr "آیا تعدد مجاز است"
+
+#: views/plugin_options.php:566
+#, fuzzy
+msgid ""
+"Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "مشتری با ارز انتخابی (بله) یا با ارز پیش فرض (خیر) پرداخت خواهد کرد."
+
+#: views/plugin_options.php:571 views/plugin_options.php:671
+#, fuzzy
+msgid "No"
+msgstr "نه"
+
+#: views/plugin_options.php:572 views/plugin_options.php:672
+#, fuzzy
+msgid "Yes"
+msgstr "آره"
+
+#: views/plugin_options.php:588
+#, fuzzy
+msgid "Individual fixed prices rules for each product"
+msgstr "قوانین ثابت قیمت های فردی برای هر محصول"
+
+#: views/plugin_options.php:589
+#, fuzzy
+msgid ""
+"You will be able to set FIXED prices for simple and variable products. "
+"ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr ""
+"شما قادر خواهید بود برای محصولات ساده و متغیر قیمت های ثابت را تعیین کنید. "
+"توجه: \"آیا تعدد مجاز است\" باید فعال شود!"
+
+#: views/plugin_options.php:598 views/plugin_options.php:659
+#, fuzzy
+msgid "Watch video instructions"
+msgstr "دستورالعمل های ویدئویی را تماشا کنید"
+
+#: views/plugin_options.php:605
+#, fuzzy
+msgid "Checkout by GeoIP rules"
+msgstr "پرداخت با قوانین GeoIP"
+
+#: views/plugin_options.php:606
+#, fuzzy
+msgid ""
+"Force the customers to pay on checkout page by rules defined in 'GeoIP "
+"rules' tab. <b>ATTENTION</b>: this feature has logical sense if you enabled "
+"'Enable fixed pricing' and also installed fixed prices rules in the products "
+"for different currencies!"
+msgstr ""
+"طبق قوانین تعریف شده در برگه \"قوانین GeoIP\" ، مشتریان را مجبور به پرداخت "
+"در صفحه پرداخت کنید. <b> توجه </ b>: این ویژگی منطقی است اگر شما \"فعال کردن "
+"قیمت گذاری ثابت\" را فعال کنید و همچنین قوانین قیمت های ثابت را برای محصولات "
+"مختلف ارز در محصولات نصب کنید!"
+
+#: views/plugin_options.php:609
+#, php-format
+msgid "Your country is: %s"
+msgstr "کشور شما: %s است"
+
+#: views/plugin_options.php:611
+#, fuzzy
+msgid ""
+"Your country is not defined! Troubles with internet connection or GeoIp "
+"service."
+msgstr ""
+"کشور شما تعریف نشده است! مشکلی در ارتباط با اینترنت یا خدمات GeoIp وجود دارد."
+
+#: views/plugin_options.php:623
+#, fuzzy
+msgid "Individual fixed amount for coupon"
+msgstr "مبلغ ثابت فردی برای کوپن"
+
+#: views/plugin_options.php:624
+#, fuzzy
+msgid ""
+"You will be able to set FIXED amount for coupon for each currency. ATTENTION:"
+" 'Is multiple allowed' should be enabled!"
+msgstr ""
+"شما می توانید مبلغ ثابت برای کوپن را برای هر ارز تعیین کنید. توجه: \"آیا "
+"تعدد مجاز است\" باید فعال شود!"
+
+#: views/plugin_options.php:633
+#, fuzzy
+msgid "Individual fixed amount for shipping"
+msgstr "مبلغ ثابت شخصی برای حمل و نقل"
+
+#: views/plugin_options.php:634
+#, fuzzy
+msgid ""
+"You will be able to set FIXED amount for each currency for free and all "
+"another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr ""
+"شما می توانید مبلغ ثابت را برای هر ارز به صورت رایگان و سایر راه های حمل و "
+"نقل تعیین کنید. توجه: \"آیا تعدد مجاز است\" باید فعال شود!"
+
+#: views/plugin_options.php:642
+#, fuzzy
+msgid "Individual prices based on user role"
+msgstr "قیمت های فردی براساس نقش کاربر"
+
+#: views/plugin_options.php:643
+#, fuzzy
+msgid "Gives ability to set different prices for each user role"
+msgstr "به شما امکان می دهد قیمت های مختلفی را برای هر نقش کاربر تعیین کنید"
+
+#: views/plugin_options.php:652
+#, fuzzy
+msgid "Individual GeoIP rules for each product"
+msgstr "قوانین GeoIP فردی برای هر محصول"
+
+#: views/plugin_options.php:653
+#, fuzzy
+msgid ""
+"You will be able to set different prices for each product (in BASIC currency)"
+" for different countries"
+msgstr ""
+"شما قادر خواهید بود برای کشورهای مختلف قیمت های مختلفی (با ارز BASIC) تعیین "
+"کنید"
+
+#: views/plugin_options.php:660
+#, fuzzy
+msgid "a hint"
+msgstr "یک راهنما"
+
+#: views/plugin_options.php:666
+#, fuzzy
+msgid ""
+"Collect currencies switching statistic for business purposes. No any private "
+"data of customers collects, only currency, country and time of switching. "
+"Also statistic for order currencies is there."
+msgstr ""
+"جمع آوری آمار مبادله ارز برای اهداف تجاری. هیچ اطلاعات خصوصی مشتری جمع آوری "
+"نمی شود ، فقط ارز ، کشور و زمان تعویض است. همچنین آماری برای ارزهای سفارش "
+"وجود دارد."
+
+#: views/plugin_options.php:689
+#, fuzzy
+msgid "Notes*"
+msgstr "یادداشت*"
+
+#: views/plugin_options.php:694
+#, fuzzy
+msgid ""
+"Native WooCommerce price filter is blind for all data generated by marked "
+"features"
+msgstr ""
+"فیلتر قیمت بومی WooCommerce برای تمام داده های تولید شده توسط ویژگی های مشخص "
+"شده کور است"
+
+#: views/plugin_options.php:714
+#, fuzzy
+msgid "Enable/Disable"
+msgstr "فعال غیرفعال"
+
+#: views/plugin_options.php:715
+#, fuzzy
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "سوئیچر ارز جانبی را در صفحه خود فعال یا غیرفعال کنید"
+
+#: views/plugin_options.php:729
+#, fuzzy
+msgid "Skin"
+msgstr "پوست"
+
+#: views/plugin_options.php:730
+#, fuzzy
+msgid "Style of the switcher on the site front"
+msgstr "سبک سوئیچ در جلوی سایت"
+
+#: views/plugin_options.php:735
+#, fuzzy
+msgid "Classic blocks"
+msgstr "بلوک های کلاسیک"
+
+#: views/plugin_options.php:736
+#, fuzzy
+msgid "Roll blocks"
+msgstr "بلوک های رول"
+
+#: views/plugin_options.php:738
+#, fuzzy
+msgid "Round select"
+msgstr "دور را انتخاب کنید"
+
+#: views/plugin_options.php:742
+#, fuzzy
+msgid "Choise skin"
+msgstr "پوست را انتخاب کنید"
+
+#: views/plugin_options.php:749
+#, fuzzy
+msgid "enter roll width"
+msgstr "عرض رول را وارد کنید"
+
+#: views/plugin_options.php:756
+#, fuzzy
+msgid "Side"
+msgstr "سمت"
+
+#: views/plugin_options.php:757
+#, fuzzy
+msgid "The side where the switcher is be placed"
+msgstr "طرفی که سوئیچر قرار داده شده است"
+
+#: views/plugin_options.php:762
+#, fuzzy
+msgid "Left"
+msgstr "ترک کرد"
+
+#: views/plugin_options.php:763
+msgid "Right"
+msgstr "راست"
+
+#: views/plugin_options.php:767
+#, fuzzy
+msgid "Choise side"
+msgstr "طرف را انتخاب کنید"
+
+#: views/plugin_options.php:776
+#, fuzzy
+msgid "Top margin"
+msgstr "حاشیه بالا"
+
+#: views/plugin_options.php:777
+#, fuzzy
+msgid ""
+"Distance from the top of the screen to the switcher html block. You can set "
+"in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr ""
+"فاصله از بالای صفحه تا بلوک html تغییر دهنده. می توانید در px یا٪ تنظیم کنید."
+" مثال 1: 100 پیکسل مثال 2: 10٪"
+
+#: views/plugin_options.php:794
+#, fuzzy
+msgid "Main color"
+msgstr "رنگ اصلی"
+
+#: views/plugin_options.php:795
+#, fuzzy
+msgid "Main color which coloring the switcher elements"
+msgstr "رنگ اصلی که عناصر سوئیچر را رنگ می کند"
+
+#: views/plugin_options.php:804
+#, fuzzy
+msgid "Hover color"
+msgstr "رنگ شناوری"
+
+#: views/plugin_options.php:805
+#, fuzzy
+msgid "The switcher color when mouse hovering"
+msgstr "رنگ سوئیچ هنگام شنیدن ماوس"
+
+#: views/plugin_options.php:827
+#, fuzzy
+msgid "Basic field(s)"
+msgstr "زمینه (های) پایه"
+
+#: views/plugin_options.php:828
+#, fuzzy
+msgid ""
+"What content to show in the switcher after the site page loading. Variants:  "
+"__CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr ""
+"بعد از بارگذاری صفحه سایت ، چه محتوایی در سوئیچر نشان داده شود. انواع: "
+"__CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+#: views/plugin_options.php:839
+#, fuzzy
+msgid "Hover field(s)"
+msgstr "قسمت (ها) شناور"
+
+#: views/plugin_options.php:840
+#, fuzzy
+msgid ""
+"What content to show in the switcher after mouse hover on any currency there."
+" Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr ""
+"بعد از شنیدن ماوس با هر ارز موجود ، چه محتوایی باید در سوئیچر نشان داده شود. "
+"انواع: __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+#: views/plugin_options.php:851
+#, fuzzy
+msgid "Show on the pages"
+msgstr "نمایش در صفحات"
+
+#: views/plugin_options.php:852
+#, fuzzy
+msgid ""
+"Where on the site the switcher should be visible. If any value is presented "
+"here switcher will be hidden on all another pages which not presented in "
+"this field. You can use pages IDs using comma, example: 28,34,232. Also you "
+"can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr ""
+"در کجای سایت باید سوئیچر قابل مشاهده باشد. اگر مقداری در اینجا ارائه شود ، "
+"سوئیچر در تمام صفحات دیگری که در این زمینه ارائه نشده اند پنهان خواهد شد. می "
+"توانید از شناسه های صفحات با استفاده از ویرگول استفاده کنید ، به عنوان مثال: "
+"28،34،232. همچنین می توانید از کلمات ویژه ای مانند: کالا ، فروشگاه ، پرداخت "
+"، صفحه اول ، ووکامرس استفاده کنید"
+
+#: views/plugin_options.php:863
+#, fuzzy
+msgid "Hide on the pages"
+msgstr "پنهان شدن در صفحات"
+
+#: views/plugin_options.php:864
+#, fuzzy
+msgid ""
+"Where on the site the switcher should be hidden. If any value is presented "
+"here switcher will be hidden on that pages and visible on all another ones. "
+"You can use pages IDs using comma, example: 28,34,232. Also you can use "
+"special words as: product, shop, checkout, front_page, woocommerce"
+msgstr ""
+"مکانی که در سایت است باید سوئیچر مخفی شود. اگر مقداری در اینجا ارائه شود ، "
+"سوئیچر در آن صفحات پنهان می شود و در همه صفحات دیگر قابل مشاهده است. می "
+"توانید از شناسه های صفحات با استفاده از ویرگول استفاده کنید ، به عنوان مثال: "
+"28،34،232. همچنین می توانید از کلمات ویژه ای مانند: کالا ، فروشگاه ، پرداخت "
+"، صفحه اول ، ووکامرس استفاده کنید"
+
+#: views/plugin_options.php:875
+#, fuzzy
+msgid "Behavior for devices"
+msgstr "رفتار برای دستگاه ها"
+
+#: views/plugin_options.php:876
+#, fuzzy
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "نمایش / پنهان کردن در دستگاه همراه (بالاترین اولویت)"
+
+#: views/plugin_options.php:881
+#, fuzzy
+msgid "Show on all devices"
+msgstr "نمایش در همه دستگاه ها"
+
+#: views/plugin_options.php:882
+#, fuzzy
+msgid "Show on mobile devices only"
+msgstr "فقط در دستگاه های تلفن همراه نمایش داده شود"
+
+#: views/plugin_options.php:883
+#, fuzzy
+msgid "Hide on mobile devices"
+msgstr "مخفی کردن در دستگاه های تلفن همراه"
+
+#: views/plugin_options.php:887
+#, fuzzy
+msgid "Choise behavior"
+msgstr "رفتار را انتخاب کنید"
+
+#: views/plugin_options.php:907
+#, fuzzy
+msgid "Payments behavior"
+msgstr "رفتار پرداخت ها"
+
+#: views/plugin_options.php:908
+#, fuzzy
+msgid ""
+"Should be payments system be hidden for selected currencies or vice versa "
+"shown!"
+msgstr ""
+"باید سیستم پرداخت برای ارزهای انتخابی پنهان باشد یا برعکس نشان داده شود!"
+
+#: views/plugin_options.php:913
+#, fuzzy
+msgid "Is hidden"
+msgstr "پنهان است"
+
+#: views/plugin_options.php:914
+#, fuzzy
+msgid "Is shown"
+msgstr "نشان داده شده است"
+
+#: views/plugin_options.php:918
+#, fuzzy
+msgid "Behavior"
+msgstr "رفتار - اخلاق"
+
+#: views/plugin_options.php:940
+#, fuzzy
+msgid "Choise currencies"
+msgstr "ارزها را انتخاب کنید"
+
+#: views/plugin_options.php:957 views/plugin_options.php:1010
+#, fuzzy
+msgid "select all"
+msgstr "انتخاب همه"
+
+#: views/plugin_options.php:957 views/plugin_options.php:1010
+#, fuzzy
+msgid "clear all"
+msgstr "همه را پاک کن"
+
+#: views/plugin_options.php:974
+#, fuzzy
+msgid "GeoIP rules"
+msgstr "قوانین GeoIP"
+
+#: views/plugin_options.php:979
+#, fuzzy
+msgid ""
+"GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions "
+"of WooCommerce!!"
+msgstr ""
+"GeoIP از نسخه v.2.3 افزونه WooCommerce کار می کند و هیچ نسخه کوچکی از "
+"WooCommerce ندارد !!"
+
+#: views/plugin_options.php:985
+#, fuzzy
+msgid ""
+"WooCommerce GeoIP functionality doesn't work on your site. Maybe <a "
+"href='https://wordpress.org/support/topic/geolocation-not-working-1/?"
+"replies=10' target='_blank'>this</a> will help you."
+msgstr ""
+"قابلیت های WoCommerce GeoIP در سایت شما کار نمی کند. شاید<a href='https:"
+"//wordpress.org/support/topic/geolocation-not-working-1/?replies=10' "
+"target='_blank'>این</a> به شما کمک کند."
+
+#: views/plugin_options.php:1022 views/fixed/product_price_data.php:69
+#, fuzzy
+msgid "GeoIP profiles"
+msgstr "پروفایل های GeoIP"
+
+#: views/plugin_options.php:1024
+#, php-format
+msgid ""
+"Here you can create set of countries profiles to apply it then in the "
+"products by your business logic. %s!"
+msgstr ""
+"در اینجا می توانید مجموعه ای از نمایه کشورها را ایجاد کنید تا با منطق تجارت "
+"خود ، آن را در محصولات اعمال کنید. %s!"
+
+#: views/plugin_options.php:1024
+#, fuzzy
+msgid "This make work on rules settings for each product more fast"
+msgstr "این کار باعث می شود تنظیمات قوانین برای هر محصول سریعتر انجام شود"
+
+#: views/plugin_options.php:1027
+#, fuzzy
+msgid "Set title"
+msgstr "عنوان را تنظیم کنید"
+
+#: views/plugin_options.php:1035
+#, fuzzy
+msgid "Add new profile"
+msgstr "افزودن نمایه جدید"
+
+#: views/plugin_options.php:1036
+#, fuzzy
+msgid "Update profile"
+msgstr "بروزرسانی پروفایل"
+
+#: views/plugin_options.php:1039
+#, fuzzy
+msgid "Cancel"
+msgstr "لغو"
+
+#: views/plugin_options.php:1046
+#, fuzzy
+msgid "Profiles"
+msgstr "پروفایل ها"
+
+#: views/plugin_options.php:1064
+#, fuzzy
+msgid "Edit profile"
+msgstr "ویرایش نمایه"
+
+#: views/plugin_options.php:1065
+#, fuzzy
+msgid "Delete profile"
+msgstr "حذف نمایه"
+
+#: views/plugin_options.php:1072
+#, fuzzy
+msgid "Add to:"
+msgstr "اضافه کردن به:"
+
+#: views/plugin_options.php:1076
+#, fuzzy
+msgid "Select currency..."
+msgstr "واحد پول را انتخاب کنید..."
+
+#: views/plugin_options.php:1110
+#, fuzzy
+msgid "Chart type: pie"
+msgstr "نوع نمودار: پای"
+
+#: views/plugin_options.php:1111
+#, fuzzy
+msgid "Chart type: bar"
+msgstr "نوع نمودار: میله"
+
+#: views/plugin_options.php:1118
+#, php-format
+msgid ""
+"If you have ideas about scenarios of the statistic please share and discuss "
+"them on %s"
+msgstr ""
+"اگر درباره سناریوهای آماری ایده دارید ، لطفاً آنها را در %s به اشتراک "
+"بگذارید و درباره آنها بحث کنید"
+
+#: views/plugin_options.php:1118
+#, fuzzy
+msgid "the plugin forum"
+msgstr "انجمن افزونه"
+
+#: views/plugin_options.php:1120 views/plugin_options.php:1262
+#: views/plugin_options.php:1267 views/plugin_options.php:1273
+#, fuzzy
+msgid "Note"
+msgstr "توجه داشته باشید"
+
+#: views/plugin_options.php:1120
+#, fuzzy
+msgid ""
+"If in tab Options activated option I am using cache plugin on my site - to "
+"avoid double data for statistical data registration in tab Options activate "
+"option No GET data in link!"
+msgstr ""
+"اگر در برگه گزینه های فعال شده گزینه من از پلاگین cache در سایت خود استفاده "
+"می کنم - برای جلوگیری از داده های دو برابر برای ثبت اطلاعات آماری در برگه "
+"گزینه ها گزینه فعال کردن داده GET در پیوند را فعال نکنید!"
+
+#: views/plugin_options.php:1130
+#, fuzzy
+msgid "currency"
+msgstr "واحد پول"
+
+#: views/plugin_options.php:1131
+#, fuzzy
+msgid "orders (completed)"
+msgstr "سفارشات (تکمیل شده)"
+
+#: views/plugin_options.php:1147
+#, fuzzy
+msgid "from"
+msgstr "از جانب"
+
+#: views/plugin_options.php:1152 views/shortcodes/woocs_converter.php:45
+#, fuzzy
+msgid "to"
+msgstr "به"
+
+#: views/plugin_options.php:1154
+#, fuzzy
+msgid ""
+"For currencies - aggregated data about selected currencies on the site front."
+" For orders - count of orders made in the selected currencies."
+msgstr ""
+"برای ارزها - داده های جمع شده در مورد ارزهای منتخب در سایت. برای سفارشات - "
+"تعداد سفارشات انجام شده در ارزهای انتخاب شده."
+
+#: views/plugin_options.php:1155
+#, fuzzy
+msgid ""
+"For currencies - aggregated data about count of countries which users "
+"selected currencies on the site front. For orders - count of orders made "
+"from countries, detected by selected country in the billing address."
+msgstr ""
+"برای ارزها - داده های جمع آوری شده در مورد تعداد کشورهایی که کاربران ارزهای "
+"خود را در جبهه سایت انتخاب کرده اند. برای سفارشات - تعداد سفارشات انجام شده "
+"از کشورها ، شناسایی شده توسط کشور انتخاب شده در آدرس صورتحساب."
+
+#: views/plugin_options.php:1170
+#, fuzzy
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "پشتیبانی از سوئیچ ارز ووکامرس"
+
+#: views/plugin_options.php:1175
+#, fuzzy
+msgid ""
+"If you have an idea about css+js template - send request on support please "
+"where describe your vision."
+msgstr ""
+"اگر ایده ای در مورد الگوی css + js دارید - درخواست پشتیبانی خود را ارسال "
+"کنید ، در اینجا چشم انداز خود را توصیف کنید."
+
+#: views/plugin_options.php:1177
+#, fuzzy
+msgid "Free flags images"
+msgstr "تصاویر پرچم رایگان"
+
+#: views/plugin_options.php:1179
+#, fuzzy
+msgid "FAQ"
+msgstr "سالات متداول"
+
+#: views/plugin_options.php:1181
+#, fuzzy
+msgid "Codex"
+msgstr "Codex"
+
+#: views/plugin_options.php:1183
+#, fuzzy
+msgid "Video tutorials"
+msgstr "آموزش های ویدئویی"
+
+#: views/plugin_options.php:1185
+#, fuzzy
+msgid "Read wiki about Currency Active codes"
+msgstr "درباره کدهای Currency Active ویکی بخوانید"
+
+#: views/plugin_options.php:1187 views/plugin_options.php:1273
+#, fuzzy
+msgid ""
+"If WOOCS settings panel looks incorrect or you have JavaScript errors (after "
+"update) - firstly"
+msgstr ""
+"اگر پانل تنظیمات WOOCS نادرست به نظر می رسد یا خطاهای JavaScript دارید (پس "
+"از به روزرسانی) - اولاً"
+
+#: views/plugin_options.php:1187 views/plugin_options.php:1273
+#, fuzzy
+msgid "reset the browser cache"
+msgstr "حافظه پنهان مرورگر را تنظیم کنید"
+
+#: views/plugin_options.php:1203
+#, fuzzy
+msgid "I cant add flags! What to do?"
+msgstr "نمی توانم پرچم اضافه کنم! چه باید کرد؟"
+
+#: views/plugin_options.php:1204
+#, fuzzy
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr ""
+"استفاده از موقعیت جغرافیایی مشکلی ایجاد می کند ، به نظر نمی رسد برای من مفید "
+"باشد"
+
+#: views/plugin_options.php:1209
+#, fuzzy
+msgid "Quick introduction"
+msgstr "معرفی سریع"
+
+#: views/plugin_options.php:1215
+#, fuzzy
+msgid "More power for your shop"
+msgstr "قدرت بیشتر برای مغازه شما"
+
+#: views/plugin_options.php:1261
+#, fuzzy
+msgid "Hint"
+msgstr "اشاره"
+
+#: views/plugin_options.php:1261
+#, fuzzy
+msgid ""
+"If you want let your customers pay in their selected currency in tab "
+"Advanced set the option Is multiple allowed to Yes."
+msgstr ""
+"اگر می خواهید به مشتریان خود اجازه دهید در ارز انتخاب شده خود در برگه پرداخت "
+"کنند ، تنظیم پیشرفته گزینه Is multiple مجاز به بله است."
+
+#: views/plugin_options.php:1262
+#, fuzzy
+msgid "Get free API key for:"
+msgstr "دریافت کلید API رایگان برای:"
+
+#: views/plugin_options.php:1263
+#, fuzzy
+msgid "The Free Currency Converter"
+msgstr "مبدل ارز رایگان"
+
+#: views/plugin_options.php:1264 views/plugin_options.php:1269
+#, fuzzy
+msgid "OR"
+msgstr "یا"
+
+#: views/plugin_options.php:1265
+#, fuzzy
+msgid "Fixer"
+msgstr "رفع کننده"
+
+#: views/plugin_options.php:1267
+#, fuzzy
+msgid "Get API key for:"
+msgstr "دریافت کلید API برای:"
+
+#: views/plugin_options.php:1268
+#, fuzzy
+msgid "Open exchange rates"
+msgstr "نرخ ارز باز"
+
+#: views/plugin_options.php:1270
+#, fuzzy
+msgid "Currencylayer"
+msgstr "ارزیاب"
+
+#: views/plugin_options.php:1283
+#, fuzzy
+msgid "UPGRADE to Full version"
+msgstr "به نسخه کامل بارگذاری کنید"
+
+#: views/plugin_options.php:1284
+#, fuzzy
+msgid "full version of the plugin"
+msgstr "نسخه کامل افزونه"
+
+#: views/plugin_options.php:1288 views/plugin_options.php:1289
+#, fuzzy
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - فیلتر محصولات ووکامرس"
+
+#: views/plugin_options.php:1293 views/plugin_options.php:1294
+#, fuzzy
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - WooCommerce Bulk Editor Professional"
+
+#: views/plugin_options.php:1298 views/plugin_options.php:1299
+#, fuzzy
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - جداول محصولات فعال WooCommerce"
+
+#: views/plugin_options.php:1315
+#, fuzzy
+msgid ""
+"Native WooCommerce price filter does not see data generated by this feature."
+msgstr ""
+"فیلتر قیمت بومی WooCommerce داده های تولید شده توسط این ویژگی را نمی بیند."
+
+#: views/plugin_options.php:1316
+#, fuzzy
+msgid "Loading"
+msgstr "بارگذاری"
+
+#: views/plugin_options.php:1317
+#, fuzzy
+msgid "Save changes please!"
+msgstr "لطفاً تغییرات را ذخیره کنید!"
+
+#: views/plugin_options.php:1327
+#, fuzzy
+msgid ""
+"Set etalon main currency. This should be the currency in which the price of "
+"goods exhibited!"
+msgstr ""
+"ارز اصلی اتالون را تعیین کنید. این باید ارزی باشد که قیمت کالاها در آن به "
+"نمایش گذاشته شود!"
+
+#: views/plugin_options.php:1332
+#, fuzzy
+msgid "Exmpl.: USD,EUR"
+msgstr "مثال: USD ، EUR"
+
+#: views/plugin_options.php:1336
+#, fuzzy
+msgid "Money signs"
+msgstr "علائم پول"
+
+#: views/plugin_options.php:1345
+#, fuzzy
+msgid "Select symbol position"
+msgstr "موقعیت نماد را انتخاب کنید"
+
+#: views/plugin_options.php:1351
+msgid "P$ - right"
+msgstr "P $ - راست"
+
+#: views/plugin_options.php:1355
+msgid "P $ - right space"
+msgstr "P $ - راست با فضای خالی"
+
+#: views/plugin_options.php:1359
+#, fuzzy
+msgid "$ P - left space"
+msgstr "$ P - فضای خالی"
+
+#: views/plugin_options.php:1363
+msgid "$P - left"
+msgstr "$P - چپ"
+
+#: views/plugin_options.php:1373
+#, fuzzy
+msgid "Decimals"
+msgstr "اعداد اعشاری"
+
+#: views/plugin_options.php:1387
+#, fuzzy
+msgid "exchange rate"
+msgstr "قیمت ارز"
+
+#: views/plugin_options.php:1387
+#, fuzzy
+msgid "interest"
+msgstr "علاقه"
+
+#: views/plugin_options.php:1387
+#, fuzzy
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ به علاقه شما به نرخ ، به عنوان مثال: 0.15"
+
+#: views/plugin_options.php:1388
+#, fuzzy
+msgid ""
+"Press this button if you want get currency rate from the selected aggregator "
+"above!"
+msgstr ""
+"اگر می خواهید نرخ ارز را از جمع کننده انتخاب شده در بالا دریافت کنید ، این "
+"دکمه را فشار دهید!"
+
+#: views/plugin_options.php:1396
+#, fuzzy
+msgid "Show cents"
+msgstr "نشان دادن سنت"
+
+#: views/plugin_options.php:1397
+#, fuzzy
+msgid "Hide cents"
+msgstr "پنهان کردن سنت ها"
+
+#: views/plugin_options.php:1418
+#, fuzzy
+msgid "Public"
+msgstr "عمومی"
+
+#: views/plugin_options.php:1419
+#, fuzzy
+msgid "Private"
+msgstr "خصوصی"
+
+#: views/plugin_options.php:1427
+#, fuzzy
+msgid ""
+"Show currency for all on the site front or Hide for private moments in wp "
+"admin panel using only."
+msgstr ""
+"نمایش ارز برای همه در جلوی سایت یا پنهان کردن برای لحظات خصوصی در پنل مدیریت "
+"wp فقط با استفاده از."
+
+#: views/plugin_options.php:1436 views/widgets/selector_form.php:54
+#, fuzzy
+msgid "description"
+msgstr "شرح"
+
+#: views/plugin_options.php:1448
+#, fuzzy
+msgid "Click to select the flag"
+msgstr "برای انتخاب پرچم کلیک کنید"
+
+#: views/plugin_options.php:1451
+#, fuzzy
+msgid "remove"
+msgstr "برداشتن"
+
+#: views/plugin_options.php:1453
+#, fuzzy
+msgid "drag and drop"
+msgstr "کشیدن و انداختن"
+
+#: views/plugin_options.php:1453
+#, fuzzy
+msgid "move"
+msgstr "حرکت"
+
+#: views/woocs_order_metabox.php:17
+#, fuzzy
+msgid "Order currency"
+msgstr "سفارش ارز"
+
+#: views/woocs_order_metabox.php:25
+#, fuzzy
+msgid "Currency in which the customer paid."
+msgstr "ارزی که مشتری در آن پرداخت کرده است."
+
+#: views/woocs_order_metabox.php:25
+#, fuzzy, php-format
+msgid "THIS order currency is changed manually %s!"
+msgstr "این ارز سفارش دستی٪ s تغییر می کند!"
+
+#: views/woocs_order_metabox.php:26
+#, fuzzy
+msgid "Base currency"
+msgstr "ارز پایه"
+
+#: views/woocs_order_metabox.php:27
+#, fuzzy
+msgid "Order currency rate"
+msgstr "سفارش نرخ ارز"
+
+#: views/woocs_order_metabox.php:27
+#, fuzzy
+msgid "Currency rate when the customer paid "
+msgstr "نرخ ارز وقتی مشتری پرداخت می کند"
+
+#: views/woocs_order_metabox.php:28
+#, fuzzy
+msgid "Total amount"
+msgstr "مقدار کل"
+
+#: views/woocs_order_metabox.php:34
+#, fuzzy
+msgid "Change order currency"
+msgstr "ارز سفارش را تغییر دهید"
+
+#: views/woocs_order_metabox.php:34
+#, fuzzy
+msgid "For new manual order ONLY!!"
+msgstr "فقط برای سفارش دستی جدید !!"
+
+#: views/woocs_order_metabox.php:35
+#, fuzzy
+msgid "cancel"
+msgstr "لغو کردن"
+
+#: views/woocs_order_metabox.php:40
+#, fuzzy
+msgid "Recalculate order"
+msgstr "سفارش را دوباره محاسبه کنید"
+
+#: views/woocs_order_metabox.php:40
+#, fuzzy
+msgid ""
+"Recalculate current order with basic currency. Recommended test this option "
+"on the clone of your site! Read the documentation of the plugin about it!"
+msgstr ""
+"محاسبه سفارش فعلی با ارز پایه توصیه شده این گزینه را بر روی کلون سایت خود "
+"آزمایش کنید! مستندات افزونه را در مورد آن بخوانید!"
+
+#: classes/widgets/widget-woocs-selector.php:7
+#: classes/widgets/widget-woocs-selector.php:36
+#, fuzzy
+msgid "WooCommerce Currency Switcher"
+msgstr "تعویض ارز ووکامرس"
+
+#: classes/widgets/widget-woocs-selector.php:9
+#, fuzzy
+msgid "WooCommerce Currency Switcher by realmag777"
+msgstr "تعویض ارز ووکامرس توسط realmag777"
+
+#: classes/widgets/widget-currency-rates.php:9
+#: classes/widgets/widget-currency-rates.php:38
+#, fuzzy
+msgid "WooCommerce Currency Rates"
+msgstr "نرخ ارز ووکامرس"
+
+#: classes/widgets/widget-currency-rates.php:11
+#, fuzzy
+msgid "WooCommerce Currency Rates by realmag777"
+msgstr "نرخ ارز ووکامرس توسط realmag777"
+
+#: classes/widgets/widget-currency-converter.php:9
+#: classes/widgets/widget-currency-converter.php:38
+#, fuzzy
+msgid "WooCommerce Currency Converter"
+msgstr "مبدل ارز ووکامرس"
+
+#: classes/widgets/widget-currency-converter.php:11
+#, fuzzy
+msgid "WooCommerce Currency Converter by realmag777"
+msgstr "تبدیل ارز ووکامرس توسط realmag777"
+
+#: classes/fixed/fixed_shipping_free.php:28
+#, php-format
+msgid "Minimum order amount in %s"
+msgstr "حداقل مقدار سفارش در %s"
+
+#: classes/fixed/fixed_shipping_free.php:30 classes/fixed/fixed_shipping.php:30
+#: views/fixed/product_user_role_data.php:22
+#: views/fixed/product_user_role_data.php:28
+#: views/fixed/product_price_data.php:13 views/fixed/product_price_data.php:19
+#: views/fixed/product_price_data.php:43 views/fixed/product_price_data.php:49
+#: views/fixed/product_coupon_restriction_data.php:12
+#: views/fixed/product_coupon_restriction_data.php:16
+#: views/fixed/product_coupon_data.php:12
+#, fuzzy
+msgid "auto"
+msgstr "خودکار"
+
+#: classes/fixed/fixed_shipping.php:28
+#, fuzzy, php-format
+msgid "Fixed cost %s"
+msgstr "هزینه های ثابت"
+
+#: views/widgets/rates_form.php:5 views/widgets/converter_form.php:5
+#: views/widgets/selector_form.php:5
+#, fuzzy
+msgid "Title"
+msgstr "عنوان"
+
+#: views/widgets/rates_form.php:11 views/widgets/converter_form.php:11
+#, fuzzy
+msgid "Currencies excluding from view"
+msgstr "به استثنای ارزها از نظر"
+
+#: views/widgets/rates_form.php:13 views/widgets/converter_form.php:13
+#, fuzzy
+msgid "Examples: EUR,GBP,UAH"
+msgstr "مثالها: EUR ، GBP ، UAH"
+
+#: views/widgets/rates_form.php:18 views/widgets/converter_form.php:18
+#, fuzzy
+msgid "Precision"
+msgstr "دقت، درستی"
+
+#: views/widgets/rates_form.php:20 views/widgets/converter_form.php:20
+#, fuzzy
+msgid "Count of digits after point"
+msgstr "تعداد ارقام بعد از نقطه"
+
+#: views/widgets/selector_form.php:11
+#, fuzzy
+msgid "Width"
+msgstr "عرض"
+
+#: views/widgets/selector_form.php:13
+msgid "Examples: 300px,100%,auto"
+msgstr "مثالها: 300px ، 100% ، خودکار"
+
+#: views/widgets/selector_form.php:26
+#, fuzzy
+msgid "Show flags"
+msgstr "پرچم ها را نشان دهید"
+
+#: views/widgets/selector_form.php:32
+#, fuzzy
+msgid "Flag position"
+msgstr "موقعیت پرچم"
+
+#: views/widgets/selector_form.php:35
+msgid "right"
+msgstr "راست"
+
+#: views/widgets/selector_form.php:36
+#, fuzzy
+msgid "left"
+msgstr "ترک کرد"
+
+#: views/widgets/selector_form.php:44
+#, fuzzy
+msgid "For ddslick script only!"
+msgstr "فقط برای اسکریپت ddslick!"
+
+#: views/widgets/selector_form.php:50
+#, fuzzy
+msgid "Drop-down options text type"
+msgstr "گزینه های کشویی نوع متن"
+
+#: views/widgets/selector_form.php:53
+#, fuzzy
+msgid "code"
+msgstr "کد"
+
+#: views/widgets/selector_form.php:62
+#, fuzzy
+msgid ""
+"Which text display in the drop-down options - currency code OR description "
+"text. Looks good for all dropdowns except ddslick."
+msgstr ""
+"کدام متن در گزینه های کشویی نمایش داده می شود - کد ارز یا متن توصیف. برای "
+"همه لیست های کشویی به جز ddslick خوب به نظر می رسد."
+
+#: views/shortcodes/woocs.php:6 views/shortcodes/woocs_rates.php:4
+#: views/shortcodes/woocs_converter.php:6
+#, fuzzy
+msgid "Warning: Woocommerce is not activated"
+msgstr "هشدار: Woocommerce فعال نیست"
+
+#: views/shortcodes/woocs_rates.php:45
+#, php-format
+msgid "1 %s is"
+msgstr "1 %s است"
+
+#: views/shortcodes/woocs_rates.php:61 views/shortcodes/woocs_rates.php:69
+#, fuzzy
+msgid "Rate"
+msgstr "نرخ"
+
+#: views/shortcodes/woocs_converter.php:25
+#, fuzzy
+msgid "enter amount"
+msgstr "مقدار را وارد کنید"
+
+#: views/shortcodes/woocs_converter.php:64
+#, fuzzy
+msgid "results"
+msgstr "نتایج"
+
+#: views/shortcodes/woocs_converter.php:66
+#, fuzzy
+msgid "Convert"
+msgstr "تبدیل"
+
+#: views/fixed/product_user_role_data.php:5
+#, fuzzy
+msgid "The price based on user role"
+msgstr "قیمت براساس نقش کاربر"
+
+#: views/fixed/product_user_role_data.php:21
+#: views/fixed/product_price_data.php:12 views/fixed/product_price_data.php:42
+#, fuzzy
+msgid "Regular price"
+msgstr "قیمت عادی"
+
+#: views/fixed/product_user_role_data.php:27
+#: views/fixed/product_price_data.php:18 views/fixed/product_price_data.php:48
+#, fuzzy
+msgid "Sale price"
+msgstr "قیمت فروش"
+
+#: views/fixed/product_user_role_data.php:33
+#: views/fixed/product_price_data.php:24 views/fixed/product_price_data.php:54
+#: views/fixed/product_coupon_restriction_data.php:21
+#: views/fixed/product_coupon_data.php:17
+#, fuzzy
+msgid "Remove"
+msgstr "برداشتن"
+
+#: views/fixed/product_user_role_data.php:42
+#, fuzzy
+msgid "select user role"
+msgstr "نقش کاربر را انتخاب کنید"
+
+#: views/fixed/product_user_role_data.php:58
+#, fuzzy
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - قیمت براساس نقش کاربر"
+
+#: views/fixed/product_user_role_data.php:58
+#, fuzzy
+msgid ""
+"Gives ability to set different prices for each user role. Native WooCommerce "
+"price filter is blind for this data!"
+msgstr ""
+"به شما امکان می دهد قیمت های مختلفی را برای هر نقش کاربر تعیین کنید. فیلتر "
+"قیمت بومی ووکامرس برای این داده ها کور است!"
+
+#: views/fixed/product_user_role_data.php:60
+#: views/fixed/product_price_data.php:154
+#, fuzzy
+msgid "Add group"
+msgstr "افزودن گروه"
+
+#: views/fixed/product_price_data.php:61
+#, fuzzy
+msgid "select some countries"
+msgstr "برخی از کشورها را انتخاب کنید"
+
+#: views/fixed/product_price_data.php:84
+#, fuzzy
+msgid "Load countries from profile"
+msgstr "کشورها را از نمایه بارگیری کنید"
+
+#: views/fixed/product_price_data.php:98
+#, fuzzy
+msgid "The product fixed prices rules"
+msgstr "قوانین قیمت های ثابت محصول"
+
+#: views/fixed/product_price_data.php:102
+#, fuzzy
+msgid "The product custom GeoIP rules"
+msgstr "قوانین GeoIP سفارشی محصول"
+
+#: views/fixed/product_price_data.php:116
+#, fuzzy
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - قیمت ثابت محصول"
+
+#: views/fixed/product_price_data.php:116
+#, fuzzy
+msgid ""
+"Here you can set FIXED price for the product for any currency you want. In "
+"the case of empty price field recounting by rate will work!"
+msgstr ""
+"در اینجا می توانید برای هر ارز دلخواه خود قیمت ثابت برای محصول تعیین کنید. "
+"در صورت خالی بودن فیلد قیمت ، بازشماری مجدد براساس نرخ کار خواهد کرد!"
+
+#: views/fixed/product_price_data.php:127
+#: views/fixed/product_coupon_restriction_data.php:58
+#: views/fixed/product_coupon_data.php:53
+#, fuzzy
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: views/fixed/product_price_data.php:128
+#: views/fixed/product_coupon_restriction_data.php:59
+#: views/fixed/product_coupon_data.php:54
+#, fuzzy
+msgid "Add all"
+msgstr "اضافه کردن همه"
+
+#: views/fixed/product_price_data.php:152
+#, fuzzy
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - قوانین GeoIP سفارشی محصول"
+
+#: views/fixed/product_price_data.php:152
+#, fuzzy
+msgid ""
+"Here you can set prices in the basic currency for different countries, and "
+"recount will be done relatively of this values. ATTENTION: fixed price for "
+"currencies has higher priority!"
+msgstr ""
+"در اینجا می توانید قیمت ها را با ارز پایه برای کشورهای مختلف تعیین کنید و "
+"بازشماری نسبتاً از این مقادیر انجام می شود. توجه: قیمت ثابت برای ارزها از "
+"اولویت بالاتری برخوردار است!"
+
+#: views/fixed/product_coupon_restriction_data.php:11
+#, fuzzy
+msgid "Minimum spend"
+msgstr "حداقل هزینه"
+
+#: views/fixed/product_coupon_restriction_data.php:15
+#, fuzzy
+msgid "Maximum spend"
+msgstr "حداکثر هزینه"
+
+#: views/fixed/product_coupon_restriction_data.php:35
+#, fuzzy
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "کوپن قوانین حداقل و حداکثر هزینه را ثابت کرده است"
+
+#: views/fixed/product_coupon_restriction_data.php:47
+#, fuzzy
+msgid "WOOCS - the <b>fixed</b> Minimum and Maximum spend "
+msgstr "WOOCS - حداقل و حداکثر هزینه <b> ثابت"
+
+#: views/fixed/product_coupon_restriction_data.php:47
+#: views/fixed/product_coupon_data.php:42
+#, fuzzy
+msgid ""
+"Here you can set FIXED amount for the coupon for any currency you want. In "
+"the case of empty amount field recounting by rate will work!"
+msgstr ""
+"در اینجا می توانید برای هر ارز دلخواه خود مبلغ ثابت را برای کوپن تعیین کنید. "
+"در مورد مقدار خالی فیلد بازشماری بر اساس نرخ کار خواهد کرد!"
+
+#: views/fixed/product_coupon_data.php:11
+#, fuzzy
+msgid "Coupon amount"
+msgstr "مبلغ کوپن"
+
+#: views/fixed/product_coupon_data.php:31
+#, fuzzy
+msgid "The coupon fixed amount rules"
+msgstr "قوانین کوپن مبلغ ثابت"
+
+#: views/fixed/product_coupon_data.php:42
+#, fuzzy
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - مبلغ ثابت کوپن"
+
+#: views/shortcodes/styles/style-3/index.php:83
+#, fuzzy
+msgid "Select Currency"
+msgstr "واحد پول را انتخاب کنید"
+
+#. Name of the plugin
+#, fuzzy
+msgid "WOOCS - WooCommerce Currency Switcher"
+msgstr "WOOCS - تعویض ارز WooCommerce"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"Currency Switcher for WooCommerce that allows to the visitors and customers "
+"on your woocommerce store site switch currencies and optionally apply "
+"selected currency on checkout"
+msgstr ""
+"مبدل ارز برای ووکامرس که به بازدیدکنندگان و مشتریان سایت فروشگاه woocommerce "
+"شما امکان تعویض ارزها را می دهد و به صورت اختیاری ارز انتخابی را هنگام "
+"پرداخت اعمال می کنند"
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://currency-switcher.com/"
+msgstr "https://currency-switcher.com/"
+
+#. Author of the plugin
+#, fuzzy
+msgid "realmag777"
+msgstr "777"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://pluginus.net/"
+msgstr "https://pluginus.net/"
